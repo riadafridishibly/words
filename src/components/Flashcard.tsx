@@ -56,9 +56,7 @@ export default function Flashcard(props: FlashcardProps) {
   const smallestDefs = props.definitions.map((v) => {
     return {
       ...v,
-      definitions: v.definitions.reduce((a, b) =>
-        a.length < b.length ? a : b
-      ),
+      definitions: v.definitions.at(0), // better to take the first one
     };
   });
 
