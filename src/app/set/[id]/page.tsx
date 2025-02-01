@@ -1,4 +1,4 @@
-import { getWordsForSet } from "@data/index";
+import { getUniuqeSetNumbers, getWordsForSet } from "@data/index";
 import Flashcard from "../../../components/Flashcard";
 
 type tParams = Promise<{ id: string }>;
@@ -27,4 +27,11 @@ export default async function WordSetPage(props: { params: tParams }) {
       </div>
     </div>
   );
+}
+
+export async function generateStaticParams() {
+  const ids = await getUniuqeSetNumbers();
+  return ids.map((v) => ({
+    id: `${v}`,
+  }));
 }
