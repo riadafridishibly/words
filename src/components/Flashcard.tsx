@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Card, CardContent, CardFooter } from "~/components/ui/card";
 import { Button } from "~/components/ui/button";
 import { VolumeIcon as VolumeUp, Check, X, Volume2 } from "lucide-react";
+import DetailModal from "./Details";
 
 interface FlashcardProps {
   word: string;
@@ -27,15 +28,22 @@ export default function Flashcard({ word, definition }: FlashcardProps) {
   const handleStatus =
     (newStatus: "unknown" | "known") => (e: React.MouseEvent) => {
       e.stopPropagation();
+      if (newStatus === status) {
+        setStatus(null);
+        return;
+      }
       setStatus(newStatus);
     };
 
   return (
     <div className="perspective-1000 w-full h-64">
       <Card
-        className={`w-full h-full transition-transform duration-500 cursor-pointer ${
+        className={`w-full h-full  transition-transform duration-500 cursor-pointer ${
           isFlipped ? "[transform:rotateY(180deg)]" : ""
-        }`}
+        }
+        ${status === "unknown" ? "bg-red-300" : ""}
+        ${status === "known" ? "bg-green-300" : ""}
+        `}
         style={{ transformStyle: "preserve-3d" }}
         onClick={handleFlip}
       >
@@ -52,6 +60,11 @@ export default function Flashcard({ word, definition }: FlashcardProps) {
         <CardFooter className={"absolute w-full bottom-0"}>
           <div className="w-full flex flex-col items-center">
             <div className="flex justify-between gap-2">
+              <DetailModal
+                word={word}
+                definitions={[definition]}
+                synonyms={[]}
+              />
               <Button variant="outline" size="sm" onClick={handleSpeak}>
                 <Volume2 className="h-4 w-4" />
               </Button>
