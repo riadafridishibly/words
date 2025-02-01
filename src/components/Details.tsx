@@ -42,6 +42,7 @@ export default function DetailModal({
             <h3 className="font-semibold mb-2">Definitions:</h3>
             <ul className="list-disc pl-5 space-y-2">
               {definitions.map((def, index) => (
+                // biome-ignore lint/suspicious/noArrayIndexKey: data never changes
                 <li key={index}>
                   <span className="font-thin italic mr-2">
                     {def.partOfSpeech}
@@ -56,7 +57,7 @@ export default function DetailModal({
               <h3 className="font-semibold mb-2">Examples:</h3>
               <ul className="list-disc pl-5 space-y-2">
                 {examples.map((exam, index) => (
-                  // biome-ignore lint/suspicious/noArrayIndexKey: not gonna change
+                  // biome-ignore lint/suspicious/noArrayIndexKey: data never changes
                   <li key={index}>{exam}</li>
                 ))}
               </ul>

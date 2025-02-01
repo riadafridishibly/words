@@ -1,11 +1,12 @@
 "use client";
 
-import { type MouseEventHandler, useState } from "react";
 import { Card, CardContent, CardFooter } from "~/components/ui/card";
 import { Button } from "~/components/ui/button";
 import { Check, X, Volume2 } from "lucide-react";
 import DetailModal from "./Details";
 import FlipCard from "./FlipCard";
+import { getFlashcardStates, setFlashcardState } from "~/lib/localStorage";
+import React from "react";
 
 interface FlashcardProps {
   word: string;
@@ -18,7 +19,18 @@ interface FlashcardProps {
 }
 
 export default function Flashcard(props: FlashcardProps) {
-  const [status, setStatus] = useState<"unknown" | "known" | null>(null);
+  const [status, setStatus] = React.useState<"unknown" | "known" | null>(() => {
+    const states = getFlashcardStates();
+    if (states[props.word] === "k") return "known";
+    if (states[props.word] === "u") return "unknown";
+    return null;
+  });
+
+  React.useEffect(() => {
+    const states = getFlashcardStates();
+    if (states[props.word] === "k") setStatus("known");
+    else if (states[props.word] === "u") setStatus("unknown");
+  }, [props.word]);
 
   const handleSpeak = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -31,9 +43,14 @@ export default function Flashcard(props: FlashcardProps) {
       e.stopPropagation();
       if (newStatus === status) {
         setStatus(null);
+        setFlashcardState(props.word, null);
         return;
       }
       setStatus(newStatus);
+      setFlashcardState(
+        props.word,
+        newStatus === "known" ? "k" : newStatus === "unknown" ? "u" : null
+      );
     };
 
   const smallestDefs = props.definitions.map((v) => {
