@@ -1,10 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { type MouseEventHandler, useState } from "react";
 import { Card, CardContent, CardFooter } from "~/components/ui/card";
 import { Button } from "~/components/ui/button";
-import { VolumeIcon as VolumeUp, Check, X, Volume2 } from "lucide-react";
+import { Check, X, Volume2 } from "lucide-react";
 import DetailModal from "./Details";
+import FlipCard from "./FlipCard";
 
 interface FlashcardProps {
   word: string;
@@ -16,27 +17,17 @@ interface FlashcardProps {
   synonyms: string[];
 }
 
-export default function Flashcard({
-  word,
-  definitions,
-  examples,
-  synonyms,
-}: FlashcardProps) {
-  const [isFlipped, setIsFlipped] = useState(false);
+export default function Flashcard(props: FlashcardProps) {
   const [status, setStatus] = useState<"unknown" | "known" | null>(null);
-
-  const handleFlip = () => {
-    setIsFlipped(!isFlipped);
-  };
 
   const handleSpeak = (e: React.MouseEvent) => {
     e.stopPropagation();
-    const utterance = new SpeechSynthesisUtterance(word);
+    const utterance = new SpeechSynthesisUtterance(props.word);
     window.speechSynthesis.speak(utterance);
   };
 
   const handleStatus =
-    (newStatus: "unknown" | "known") => (e: React.MouseEvent) => {
+    (newStatus: "unknown" | "known" | null) => (e: React.MouseEvent) => {
       e.stopPropagation();
       if (newStatus === status) {
         setStatus(null);
@@ -45,60 +36,104 @@ export default function Flashcard({
       setStatus(newStatus);
     };
 
+  const smallestDefs = props.definitions.map((v) => {
+    return {
+      ...v,
+      definitions: v.definitions.reduce((a, b) =>
+        a.length < b.length ? a : b
+      ),
+    };
+  });
+
   return (
-    <div className="perspective-1000 w-full h-64">
-      <Card
-        className={`w-full h-full  transition-transform duration-500 cursor-pointer ${
-          isFlipped ? "[transform:rotateY(180deg)]" : ""
+    <div className="w-full h-64">
+      <FlipCard
+        front={
+          <CardWrapper
+            status={status}
+            handleStatus={handleStatus}
+            handleSpeak={handleSpeak}
+            card={props}
+          >
+            <h2 className="text-2xl font-bold text-center">{props.word}</h2>
+          </CardWrapper>
         }
-        ${status === "unknown" ? "bg-red-300" : ""}
-        ${status === "known" ? "bg-green-300" : ""}
-        `}
-        style={{ transformStyle: "preserve-3d" }}
-        onClick={handleFlip}
-      >
-        <CardContent className="w-full backface-hidden">
-          <div className="p-6 flex flex-col justify-between h-full">
-            <h2 className="text-2xl font-bold text-center">{word}</h2>
-            <div className="w-full h-full backface-hidden [transform:rotateY(180deg)]">
-              <div className="p-4 flex items-center justify-center h-full">
-                <p className="text-lg text-center">
-                  {definitions?.at(0)?.definitions[0]}
-                </p>
-              </div>
-            </div>
-          </div>
-        </CardContent>
-        <CardFooter className={"absolute w-full bottom-0"}>
-          <div className="w-full flex flex-col items-center">
-            <div className="flex justify-between gap-2">
-              <DetailModal
-                word={word}
-                definitions={definitions}
-                synonyms={synonyms}
-                examples={examples}
-              />
-              <Button variant="outline" size="sm" onClick={handleSpeak}>
-                <Volume2 className="h-4 w-4" />
-              </Button>
-              <Button
-                variant={status === "unknown" ? "destructive" : "outline"}
-                size="sm"
-                onClick={handleStatus("unknown")}
-              >
-                <X className="h-4 w-4" />
-              </Button>
-              <Button
-                variant={status === "known" ? "default" : "outline"}
-                size="sm"
-                onClick={handleStatus("known")}
-              >
-                <Check className="h-4 w-4" />
-              </Button>
-            </div>
-          </div>
-        </CardFooter>
-      </Card>
+        back={
+          <CardWrapper
+            status={status}
+            handleStatus={handleStatus}
+            handleSpeak={handleSpeak}
+            card={props}
+          >
+            <p className="text-lg text-center">
+              {smallestDefs?.at(0)?.definitions}
+            </p>
+          </CardWrapper>
+        }
+      />
     </div>
+  );
+}
+
+function CardWrapper({
+  status,
+  handleStatus,
+  children,
+  card,
+  handleSpeak,
+}: {
+  status: "unknown" | "known" | null;
+  handleStatus: (
+    status: "unknown" | "known" | null
+  ) => (e: React.MouseEvent) => void;
+  handleSpeak: (e: React.MouseEvent) => void;
+  children: React.ReactNode;
+  card: FlashcardProps;
+}) {
+  return (
+    <Card
+      className={`absolute w-full h-full  transition-transform duration-500 cursor-pointer 
+        ${status === "unknown" ? "bg-red-300" : ""}
+        ${status === "known" ? "bg-green-300" : ""}`}
+    >
+      <CardContent className={"w-full h-full"}>
+        <div className="p-6 flex flex-col justify-between h-full">
+          <div className="w-full h-full backface-hidden">
+            <div className="p-4 flex items-center justify-center h-full ">
+              {children}
+            </div>
+          </div>
+        </div>
+      </CardContent>
+      <CardFooter className={"absolute w-full bottom-0"}>
+        <div className="w-full flex flex-col items-center">
+          <div className="flex justify-between gap-2">
+            <DetailModal
+              word={card.word}
+              definitions={card.definitions}
+              synonyms={card.synonyms}
+              examples={card.examples}
+            />
+            <Button variant="outline" size="sm" onClick={handleSpeak}>
+              <Volume2 className="h-4 w-4" />
+            </Button>
+            <Button
+              variant={status === "unknown" ? "destructive" : "outline"}
+              size="sm"
+              onClick={handleStatus("unknown")}
+            >
+              <X className="h-4 w-4" />
+            </Button>
+            <Button
+              variant={status === "known" ? "default" : "outline"}
+              size="sm"
+              onClick={handleStatus("known")}
+            >
+              <Check className="h-4 w-4" />
+            </Button>
+          </div>
+        </div>
+      </CardFooter>
+    </Card>
   );
 }
