@@ -1,11 +1,10 @@
+import { getWordsForSet } from "@data/index";
 import Flashcard from "../../../components/Flashcard";
-import words from "@data/index";
 
-type tParams = Promise<{ id: string[] }>;
+type tParams = Promise<{ id: string }>;
 
 export default async function WordSetPage(props: { params: tParams }) {
-  const { id: ids } = await props.params;
-  const id = ids[0];
+  const { id } = await props.params;
   const wordSet = await getWordsForSet(Number.parseInt(id));
 
   if (!wordSet) {
@@ -28,17 +27,4 @@ export default async function WordSetPage(props: { params: tParams }) {
       </div>
     </div>
   );
-}
-
-async function getWordsForSet(setId: number) {
-  const wordsSet = words.filter((v) => v.set === setId);
-  return {
-    title: `Set ${setId}`,
-    words: wordsSet.map((v) => ({
-      word: v.word,
-      definitions: v.definitions,
-      synonyms: v.synonyms,
-      examples: v.example,
-    })),
-  };
 }
