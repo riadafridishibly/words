@@ -8,10 +8,20 @@ import DetailModal from "./Details";
 
 interface FlashcardProps {
   word: string;
-  definition: string;
+  definitions: {
+    partOfSpeech: string;
+    definitions: string[];
+  }[];
+  examples: string[];
+  synonyms: string[];
 }
 
-export default function Flashcard({ word, definition }: FlashcardProps) {
+export default function Flashcard({
+  word,
+  definitions,
+  examples,
+  synonyms,
+}: FlashcardProps) {
   const [isFlipped, setIsFlipped] = useState(false);
   const [status, setStatus] = useState<"unknown" | "known" | null>(null);
 
@@ -52,7 +62,9 @@ export default function Flashcard({ word, definition }: FlashcardProps) {
             <h2 className="text-2xl font-bold text-center">{word}</h2>
             <div className="w-full h-full backface-hidden [transform:rotateY(180deg)]">
               <div className="p-4 flex items-center justify-center h-full">
-                <p className="text-lg text-center">{definition}</p>
+                <p className="text-lg text-center">
+                  {definitions?.at(0)?.definitions[0]}
+                </p>
               </div>
             </div>
           </div>
@@ -62,8 +74,9 @@ export default function Flashcard({ word, definition }: FlashcardProps) {
             <div className="flex justify-between gap-2">
               <DetailModal
                 word={word}
-                definitions={[definition]}
-                synonyms={[]}
+                definitions={definitions}
+                synonyms={synonyms}
+                examples={examples}
               />
               <Button variant="outline" size="sm" onClick={handleSpeak}>
                 <Volume2 className="h-4 w-4" />

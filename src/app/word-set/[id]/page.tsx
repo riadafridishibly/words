@@ -1,12 +1,12 @@
-import { wordSets } from "../../../lib/data";
 import Flashcard from "../../../components/Flashcard";
+import words from "@data/index";
 
 type tParams = Promise<{ id: string[] }>;
 
 export default async function WordSetPage(props: { params: tParams }) {
-  const res = await props.params;
-  console.log('slug', res)
-  const wordSet = wordSets.find((set) => set.id === Number.parseInt(res.id[0]));
+  const { id: ids } = await props.params;
+  const id = ids[0];
+  const wordSet = await getWordsForSet(Number.parseInt(id));
 
   if (!wordSet) {
     return <div>Word set not found</div>;
@@ -18,12 +18,27 @@ export default async function WordSetPage(props: { params: tParams }) {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {wordSet.words.map((word) => (
           <Flashcard
-            key={word.id}
+            key={word.word}
             word={word.word}
-            definition={word.definition}
+            definitions={word.definitions}
+            synonyms={word.synonyms}
+            examples={word.examples}
           />
         ))}
       </div>
     </div>
   );
+}
+
+async function getWordsForSet(setId: number) {
+  const wordsSet = words.filter((v) => v.set === setId);
+  return {
+    title: `Set ${setId}`,
+    words: wordsSet.map((v) => ({
+      word: v.word,
+      definitions: v.definitions,
+      synonyms: v.synonyms,
+      examples: v.example,
+    })),
+  };
 }
