@@ -79,6 +79,7 @@ export default function Flashcard(props: FlashcardProps) {
             handleStatus={handleStatus}
             handleSpeak={handleSpeak}
             card={props}
+            hideFooter={true}
           >
             <p className="text-lg text-center">
               {smallestDefs?.at(0)?.definitions}
@@ -96,6 +97,7 @@ function CardWrapper({
   children,
   card,
   handleSpeak,
+  hideFooter,
 }: {
   status: "unknown" | "known" | null;
   handleStatus: (
@@ -104,51 +106,54 @@ function CardWrapper({
   handleSpeak: (e: React.MouseEvent) => void;
   children: React.ReactNode;
   card: FlashcardProps;
+  hideFooter?: boolean;
 }) {
   return (
     <Card
-      className={`absolute w-full h-full  transition-transform duration-500 cursor-pointer 
+      className={`absolute  w-full h-full  transition-transform duration-500 cursor-pointer 
         ${status === "unknown" ? "bg-red-300" : ""}
         ${status === "known" ? "bg-green-300" : ""}`}
     >
       <CardContent className={"w-full h-full"}>
-        <div className="p-6 flex flex-col justify-between h-full">
+        <div className="p-6 flex flex-col justify-between w-full h-full">
           <div className="w-full h-full backface-hidden">
-            <div className="p-4 flex items-center justify-center h-full ">
+            <div className="p-4 flex items-center justify-center h-full">
               {children}
             </div>
           </div>
         </div>
       </CardContent>
-      <CardFooter className={"absolute w-full bottom-0"}>
-        <div className="w-full flex flex-col items-center">
-          <div className="flex justify-between gap-2">
-            <DetailModal
-              word={card.word}
-              definitions={card.definitions}
-              synonyms={card.synonyms}
-              examples={card.examples}
-            />
-            <Button variant="outline" size="sm" onClick={handleSpeak}>
-              <Volume2 className="h-4 w-4" />
-            </Button>
-            <Button
-              variant={status === "unknown" ? "destructive" : "outline"}
-              size="sm"
-              onClick={handleStatus("unknown")}
-            >
-              <X className="h-4 w-4" />
-            </Button>
-            <Button
-              variant={status === "known" ? "default" : "outline"}
-              size="sm"
-              onClick={handleStatus("known")}
-            >
-              <Check className="h-4 w-4" />
-            </Button>
+      {!hideFooter && (
+        <CardFooter className={"absolute w-full bottom-0"}>
+          <div className="w-full flex flex-col items-center">
+            <div className="flex justify-between gap-2">
+              <DetailModal
+                word={card.word}
+                definitions={card.definitions}
+                synonyms={card.synonyms}
+                examples={card.examples}
+              />
+              <Button variant="outline" size="sm" onClick={handleSpeak}>
+                <Volume2 className="h-4 w-4" />
+              </Button>
+              <Button
+                variant={status === "unknown" ? "destructive" : "outline"}
+                size="sm"
+                onClick={handleStatus("unknown")}
+              >
+                <X className="h-4 w-4" />
+              </Button>
+              <Button
+                variant={status === "known" ? "default" : "outline"}
+                size="sm"
+                onClick={handleStatus("known")}
+              >
+                <Check className="h-4 w-4" />
+              </Button>
+            </div>
           </div>
-        </div>
-      </CardFooter>
+        </CardFooter>
+      )}
     </Card>
   );
 }
