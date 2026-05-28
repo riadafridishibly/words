@@ -1,0 +1,398 @@
+[
+  {
+    "id": "slander",
+    "pos": "n",
+    "definition": "The act of making false spoken statements that damage another person's reputation.",
+    "example": "The politician threatened to sue the tabloid for slander after it broadcast fabricated allegations about his finances.",
+    "synonyms": ["defamation", "calumny", "libel", "aspersion"],
+    "mnemonic": "SLANDER sounds like 'slam' + 'her' — slamming someone's name with lies.",
+    "confusableNote": "Libel is written defamation; slander is spoken defamation."
+  },
+  {
+    "id": "tarnish",
+    "pos": "v",
+    "definition": "To damage or diminish someone's reputation or good name.",
+    "example": "The embezzlement scandal tarnished the charity's reputation for decades.",
+    "synonyms": ["besmirch", "sully", "denigrate", "blemish"],
+    "mnemonic": "Like silver TARNISH turning black, a reputation darkens and loses its shine.",
+    "confusableNote": ""
+  },
+  {
+    "id": "umbrage",
+    "pos": "n",
+    "definition": "A feeling of offense or resentful displeasure taken at someone's words or actions.",
+    "example": "She took umbrage at his condescending tone and left the meeting without a word.",
+    "synonyms": ["offense", "pique", "resentment", "indignation"],
+    "mnemonic": "UMBRAGE shares roots with 'umbrella' (shadow) — being cast into the shadow of offense.",
+    "confusableNote": ""
+  },
+  {
+    "id": "upbraid",
+    "pos": "v",
+    "definition": "To scold or rebuke someone sharply for a fault or wrongdoing.",
+    "example": "The coach upbraided the team for their careless errors in the final quarter.",
+    "synonyms": ["reproach", "chastise", "berate", "reprimand"],
+    "mnemonic": "UP + BRAID — picture braiding someone's head upward, pulling tight in anger.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vilify",
+    "pos": "v",
+    "definition": "To speak or write about someone in an abusively disparaging manner.",
+    "example": "The opposition party sought to vilify the candidate by linking him to discredited figures.",
+    "synonyms": ["defame", "malign", "denigrate", "calumniate"],
+    "mnemonic": "VILIFY = VILE + fy — to make someone seem vile through verbal attack.",
+    "confusableNote": ""
+  },
+  {
+    "id": "affectation",
+    "pos": "n",
+    "definition": "An artificially adopted behavior or manner designed to impress others; pretentious insincerity.",
+    "example": "His theatrical accent was a pure affectation — he had grown up in rural Ohio.",
+    "synonyms": ["pretension", "artificiality", "posturing", "mannerism"],
+    "mnemonic": "AFFECTATION = to AFFECT (fake) + -ation; it's an action performed to affect others falsely.",
+    "confusableNote": "Affectation (fake manner) vs. affection (genuine warmth) — one letter makes a big difference."
+  },
+  {
+    "id": "artful",
+    "pos": "adj",
+    "definition": "Cleverly cunning and deceitful in achieving one's aims; guilefully crafty.",
+    "example": "The artful negotiator steered every concession in his favor while appearing cooperative.",
+    "synonyms": ["cunning", "crafty", "wily", "scheming"],
+    "mnemonic": "ARTFUL dodger — Dickens' pickpocket uses art (skill) to trick and deceive.",
+    "confusableNote": "Artful (cunning/deceptive) vs. artsy (interested in art) — context determines meaning."
+  },
+  {
+    "id": "beguile",
+    "pos": "v",
+    "definition": "To charm or enchant someone, especially in a deceptive or manipulative way.",
+    "example": "The con artist beguiled investors with tales of enormous guaranteed returns.",
+    "synonyms": ["deceive", "seduce", "inveigle", "bewitch"],
+    "mnemonic": "BE + GUILE — to use GUILE (trickery) to lure someone in.",
+    "confusableNote": ""
+  },
+  {
+    "id": "betray",
+    "pos": "v",
+    "definition": "To be disloyal to someone by revealing secrets or acting deceptively against their interests.",
+    "example": "He betrayed his colleagues by leaking confidential strategy documents to a rival firm.",
+    "synonyms": ["deceive", "double-cross", "perfidiously abandon", "mislead"],
+    "mnemonic": "BE + TRAY — imagine holding a tray of trust and then flipping it over.",
+    "confusableNote": ""
+  },
+  {
+    "id": "chicanery",
+    "pos": "n",
+    "definition": "The use of clever but deceptive talk or trickery to manipulate others or achieve one's ends.",
+    "example": "The attorney accused the opposing counsel of chicanery in how the documents had been misrepresented.",
+    "synonyms": ["trickery", "duplicity", "subterfuge", "skullduggery"],
+    "mnemonic": "CHICANERY — sounds like 'chic + canary'; a flashy bird singing lies to lure you in.",
+    "confusableNote": ""
+  },
+  {
+    "id": "clandestine",
+    "pos": "adj",
+    "definition": "Kept secret or done stealthily, especially because it is illicit or unauthorized.",
+    "example": "The resistance movement held clandestine meetings in basement apartments to avoid detection.",
+    "synonyms": ["covert", "surreptitious", "furtive", "undercover"],
+    "mnemonic": "CLANDESTINE contains CLAN + DESTINE — a secret clan destined to stay hidden.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cloak",
+    "pos": "v",
+    "definition": "To conceal or disguise something so its true nature is hidden.",
+    "example": "The memo was cloaked in bureaucratic language that obscured its true intent.",
+    "synonyms": ["mask", "shroud", "camouflage", "dissemble"],
+    "mnemonic": "A CLOAK covers and hides — to cloak is to throw a garment of secrecy over the truth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "covert",
+    "pos": "adj",
+    "definition": "Not openly acknowledged or displayed; secret and concealed.",
+    "example": "The agency ran covert operations that were never disclosed to the public.",
+    "synonyms": ["clandestine", "surreptitious", "undercover", "furtive"],
+    "mnemonic": "COVERT = COVER + t — something covered up and kept from view.",
+    "confusableNote": "Covert (secret) vs. overt (open and obvious) — direct opposites."
+  },
+  {
+    "id": "crafty",
+    "pos": "adj",
+    "definition": "Skilled at achieving goals through clever, often devious, means; artfully cunning.",
+    "example": "The crafty merchant always managed to sell his inferior goods at premium prices.",
+    "synonyms": ["cunning", "wily", "artful", "scheming"],
+    "mnemonic": "CRAFTY = CRAFT (skill) + y — using one's craft slyly to get what one wants.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cunning",
+    "pos": "adj",
+    "definition": "Having or showing skill in achieving goals through deceit or shrewd manipulation.",
+    "example": "A cunning strategist, she anticipated her rivals' moves and countered them before they acted.",
+    "synonyms": ["crafty", "wily", "artful", "guileful"],
+    "mnemonic": "CUNNING — sounds like 'running' with a C for Clever; always running clever schemes.",
+    "confusableNote": ""
+  },
+  {
+    "id": "depravity",
+    "pos": "n",
+    "definition": "Moral corruption; a state of extreme wickedness or immoral behavior.",
+    "example": "The tribunal documented the depravity of the regime's treatment of prisoners.",
+    "synonyms": ["corruption", "wickedness", "turpitude", "degeneracy"],
+    "mnemonic": "DEPRAVITY = DEPRAVED + ity — the state of being utterly depraved and corrupt.",
+    "confusableNote": ""
+  },
+  {
+    "id": "discreet",
+    "pos": "adj",
+    "definition": "Careful and circumspect in speech or action, especially to avoid causing offense or attracting attention.",
+    "example": "The diplomat was discreet about the negotiations, revealing nothing to the press.",
+    "synonyms": ["circumspect", "prudent", "tactful", "judicious"],
+    "mnemonic": "DISCREET — keep it SECRET; 'discreet' has two e's side by side, quietly together.",
+    "confusableNote": "Discreet (careful/secretive) vs. discrete (separate/distinct) — both pronounced the same."
+  },
+  {
+    "id": "disingenuous",
+    "pos": "adj",
+    "definition": "Not candid or sincere; giving a false impression of honesty or simplicity.",
+    "example": "It was disingenuous of him to feign surprise at the layoffs he had secretly planned.",
+    "synonyms": ["insincere", "deceitful", "duplicitous", "mendacious"],
+    "mnemonic": "DIS + INGENUOUS — the opposite of ingenuous (naive/honest); pretending to be innocent.",
+    "confusableNote": "Disingenuous (deliberately insincere) vs. ingenuous (honestly naive) — prefix 'dis-' flips the meaning."
+  },
+  {
+    "id": "dissemble",
+    "pos": "v",
+    "definition": "To conceal one's true motives, feelings, or beliefs under a false appearance.",
+    "example": "Unwilling to reveal her disappointment, she dissembled with a gracious smile.",
+    "synonyms": ["dissimulate", "feign", "cloak", "dissemble"],
+    "mnemonic": "DISSEMBLE ≈ DISASSEMBLE the truth — taking it apart and hiding the pieces.",
+    "confusableNote": "Dissemble (disguise motives) vs. disassemble (take apart physically) — different meanings despite similar sound."
+  },
+  {
+    "id": "distort",
+    "pos": "v",
+    "definition": "To misrepresent or give a misleading account of something; to twist the truth.",
+    "example": "The propagandist distorted historical events to glorify the regime's founding myths.",
+    "synonyms": ["misrepresent", "falsify", "skew", "garble"],
+    "mnemonic": "DISTORT = DIS + TORT (twist in Latin) — to twist away from the truth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dupe",
+    "pos": "v",
+    "definition": "To deceive or trick someone into believing something false or acting against their interests.",
+    "example": "Thousands of retirees were duped into investing their savings in a fraudulent scheme.",
+    "synonyms": ["deceive", "delude", "hoodwink", "gull"],
+    "mnemonic": "DUPE sounds like a dunce cap — someone duped is made into a fool.",
+    "confusableNote": ""
+  },
+  {
+    "id": "duplicitous",
+    "pos": "adj",
+    "definition": "Given to or characterized by duplicity; deliberately deceitful in speech and behavior.",
+    "example": "Her duplicitous manner allowed her to smile warmly at colleagues she was actively undermining.",
+    "synonyms": ["deceitful", "two-faced", "disingenuous", "treacherous"],
+    "mnemonic": "DUPLICITOUS = DUPLICATE (two copies) — saying one thing while doing another; a double face.",
+    "confusableNote": ""
+  },
+  {
+    "id": "evade",
+    "pos": "v",
+    "definition": "To escape or avoid something by cunning or deceitful means; to dodge the truth.",
+    "example": "The suspect evaded every direct question with vague, carefully worded non-answers.",
+    "synonyms": ["elude", "dodge", "circumvent", "equivocate"],
+    "mnemonic": "EVADE = E + WADE — wade sideways out of the path of truth.",
+    "confusableNote": "Evade (deliberately avoid/deceive) vs. avoid (merely stay away from) — evade implies cunning."
+  },
+  {
+    "id": "evasive",
+    "pos": "adj",
+    "definition": "Tending to avoid commitment, directness, or honesty; deliberately vague or misleading.",
+    "example": "His evasive responses during the hearing convinced the committee he was hiding something.",
+    "synonyms": ["equivocal", "elusive", "prevaricating", "ambiguous"],
+    "mnemonic": "EVASIVE — like someone always 'evading' your grasp; slippery and hard to pin down.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fabricate",
+    "pos": "v",
+    "definition": "To invent or concoct something false, especially a story or evidence.",
+    "example": "The witness admitted she had fabricated her alibi under pressure from the defendant.",
+    "synonyms": ["invent", "falsify", "concoct", "forge"],
+    "mnemonic": "FABRICATE = FABRIC + ate — weaving a cloth of lies from thread and air.",
+    "confusableNote": "Fabricate (make up/lie) vs. manufacture (make legitimately) — fabricate implies falsification in GRE contexts."
+  },
+  {
+    "id": "feign",
+    "pos": "v",
+    "definition": "To pretend to feel or be affected by something; to simulate falsely.",
+    "example": "He feigned ignorance of the policy violations, though the emails proved he had been fully informed.",
+    "synonyms": ["simulate", "affect", "dissemble", "counterfeit"],
+    "mnemonic": "FEIGN rhymes with FAKE — to fake a feeling or condition convincingly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "feint",
+    "pos": "n",
+    "definition": "A deceptive movement or action intended to distract an opponent from one's real intention.",
+    "example": "The general's assault on the eastern flank was a feint designed to draw forces away from the real attack.",
+    "synonyms": ["ruse", "stratagem", "ploy", "maneuver"],
+    "mnemonic": "FEINT = FAINT — you pretend (feign) to faint to distract while you act elsewhere.",
+    "confusableNote": "Feint (deceptive maneuver) vs. faint (lose consciousness or barely perceptible) — same pronunciation, different meaning."
+  },
+  {
+    "id": "furtive",
+    "pos": "adj",
+    "definition": "Attempting to avoid notice or attention; secretive and sly in manner.",
+    "example": "She cast furtive glances at the door, clearly anxious about being overheard.",
+    "synonyms": ["surreptitious", "stealthy", "covert", "clandestine"],
+    "mnemonic": "FURTIVE = FUR (a thief wears soft fur to move silently) + tive — sneaking in silence.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inveigle",
+    "pos": "v",
+    "definition": "To persuade someone to do something by means of deception or flattery.",
+    "example": "The lobbyist inveigled the legislator into supporting the bill by lavishing him with gifts.",
+    "synonyms": ["wheedle", "cajole", "beguile", "manipulate"],
+    "mnemonic": "INVEIGLE sounds like 'in veil' — veiling your true motive while coaxing someone along.",
+    "confusableNote": ""
+  },
+  {
+    "id": "malfeasance",
+    "pos": "n",
+    "definition": "Wrongdoing or misconduct, especially by a public official in the exercise of official duties.",
+    "example": "The inspector general's report detailed widespread malfeasance in the awarding of government contracts.",
+    "synonyms": ["misconduct", "wrongdoing", "corruption", "misfeasance"],
+    "mnemonic": "MAL (bad) + FEASANCE (doing) — bad doing by those in power.",
+    "confusableNote": "Malfeasance (wrongful act) vs. misfeasance (lawful act done improperly) vs. nonfeasance (failure to act) — legal distinctions."
+  },
+  {
+    "id": "perfidy",
+    "pos": "n",
+    "definition": "The quality of being deceitful and untrustworthy; deliberate betrayal of faith or trust.",
+    "example": "The ambassador's perfidy was exposed when decoded cables revealed he had been feeding secrets to a rival nation.",
+    "synonyms": ["treachery", "betrayal", "duplicity", "faithlessness"],
+    "mnemonic": "PERFIDY = PER (thoroughly) + FIDE (faith in Latin) — thoroughly destroying faith.",
+    "confusableNote": ""
+  },
+  {
+    "id": "perpetrate",
+    "pos": "v",
+    "definition": "To carry out or commit a harmful, illegal, or immoral act.",
+    "example": "The investigation revealed that three executives had perpetrated the largest accounting fraud in the company's history.",
+    "synonyms": ["commit", "execute", "carry out", "enact"],
+    "mnemonic": "PERPETRATE = PERP (perpetrator) + rate — the rate at which a perp commits crimes.",
+    "confusableNote": "Perpetrate (commit a wrongdoing) vs. perpetuate (cause to continue indefinitely) — similar spelling, very different meanings."
+  },
+  {
+    "id": "ploy",
+    "pos": "n",
+    "definition": "A cunning plan or action designed to gain an advantage over an opponent.",
+    "example": "Offering a free trial was merely a ploy to lock customers into a long-term subscription.",
+    "synonyms": ["stratagem", "ruse", "gambit", "maneuver"],
+    "mnemonic": "PLOY — think 'PLan of OYster' — crafty creatures that hide a pearl inside a trap.",
+    "confusableNote": ""
+  },
+  {
+    "id": "reprobate",
+    "pos": "n",
+    "definition": "A person of highly immoral character; someone given over to wickedness without remorse.",
+    "example": "Neighbors regarded him as an unrepentant reprobate who had spent his life swindling the vulnerable.",
+    "synonyms": ["scoundrel", "miscreant", "degenerate", "villain"],
+    "mnemonic": "REPROBATE = RE + PROBATE — someone rejected (re-) from moral probation; cast out as corrupt.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sham",
+    "pos": "n",
+    "definition": "Something that is not genuinely what it appears to be; a fraud or imposture.",
+    "example": "Critics called the peace agreement a sham because neither side had any intention of honoring its terms.",
+    "synonyms": ["pretense", "fraud", "facade", "imposture"],
+    "mnemonic": "SHAM = SHAME without the 'e' — a shameful fake designed to fool.",
+    "confusableNote": ""
+  },
+  {
+    "id": "skullduggery",
+    "pos": "n",
+    "definition": "Underhanded or unscrupulous behavior; trickery and scheming, especially in business or politics.",
+    "example": "Investigators uncovered years of skullduggery in the bidding process for city construction contracts.",
+    "synonyms": ["chicanery", "trickery", "duplicity", "machination"],
+    "mnemonic": "SKULLDUGGERY — skulls suggest danger and darkness; 'digging' up dirty schemes underground.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sordid",
+    "pos": "adj",
+    "definition": "Involving ignoble actions; morally degraded and repulsive.",
+    "example": "The tabloid gleefully published every sordid detail of the embezzler's double life.",
+    "synonyms": ["vile", "depraved", "ignoble", "base"],
+    "mnemonic": "SORDID sounds like 'soiled' — morally soiled and dirty beyond redemption.",
+    "confusableNote": ""
+  },
+  {
+    "id": "surreptitious",
+    "pos": "adj",
+    "definition": "Done or kept in a secret, stealthy manner, often to avoid detection.",
+    "example": "He made surreptitious notes during the tour, careful not to let the guards see him writing.",
+    "synonyms": ["clandestine", "furtive", "covert", "stealthy"],
+    "mnemonic": "SURREPTITIOUS — 'sur-REPTILE-ious': a reptile slinks unseen through underbrush.",
+    "confusableNote": ""
+  },
+  {
+    "id": "turpitude",
+    "pos": "n",
+    "definition": "Wickedness and moral depravity, especially of a base or shameful kind.",
+    "example": "The board cited moral turpitude as grounds for the executive's immediate dismissal.",
+    "synonyms": ["depravity", "wickedness", "vileness", "degeneracy"],
+    "mnemonic": "TURPITUDE = TURP (from turpis, Latin for shameful/base) + itude — the state of being shameful.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ulterior",
+    "pos": "adj",
+    "definition": "Existing beyond what is openly stated; hidden, especially when concealing a real intention.",
+    "example": "His sudden generosity aroused suspicion — colleagues were certain he had an ulterior motive.",
+    "synonyms": ["hidden", "concealed", "covert", "undisclosed"],
+    "mnemonic": "ULTERIOR = ULTRA + interior — beyond (ultra) what appears; a hidden interior purpose.",
+    "confusableNote": ""
+  },
+  {
+    "id": "unscrupulous",
+    "pos": "adj",
+    "definition": "Having or showing no moral principles; not hesitating to act dishonestly to get what one wants.",
+    "example": "The unscrupulous landlord ignored safety codes and forged inspection reports.",
+    "synonyms": ["unprincipled", "dishonest", "corrupt", "unconscionable"],
+    "mnemonic": "UN + SCRUPLES — without scruples (moral qualms); completely free of conscience.",
+    "confusableNote": ""
+  },
+  {
+    "id": "venal",
+    "pos": "adj",
+    "definition": "Susceptible to bribery; willing to act dishonestly in exchange for money or personal gain.",
+    "example": "A venal judiciary, easily bought by the highest bidder, made fair trials impossible.",
+    "synonyms": ["corrupt", "mercenary", "bribable", "dishonest"],
+    "mnemonic": "VENAL = VEIN + al — money flows through veins; a venal person lets money flow into their decisions.",
+    "confusableNote": "Venal (corruptible for money) vs. venial (pardonable/minor, as in a venial sin) — nearly identical spelling."
+  },
+  {
+    "id": "wheedle",
+    "pos": "v",
+    "definition": "To coax or persuade someone through flattery or gentle pleading, often with questionable sincerity.",
+    "example": "She wheedled a week's extension out of the editor by praising his patience effusively.",
+    "synonyms": ["cajole", "inveigle", "coax", "blandish"],
+    "mnemonic": "WHEEDLE — like a whining wheel squeaking until it gets greased; persistent, flattering coaxing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "wily",
+    "pos": "adj",
+    "definition": "Skilled at using clever tricks and stratagems to achieve one's ends; full of wiles.",
+    "example": "The wily defense attorney found a procedural loophole that nullified the prosecution's key evidence.",
+    "synonyms": ["cunning", "crafty", "artful", "shrewd"],
+    "mnemonic": "WILY = WILE (trick) + y — a person full of wiles; picture the cartoon coyote: always scheming.",
+    "confusableNote": ""
+  }
+]

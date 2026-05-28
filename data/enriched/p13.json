@@ -1,0 +1,398 @@
+[
+  {
+    "id": "abstain",
+    "pos": "v",
+    "definition": "To deliberately choose not to do or partake in something, especially voting or consuming.",
+    "example": "Several senators chose to abstain rather than cast a vote on the controversial bill.",
+    "synonyms": ["refrain", "forbear", "desist", "forgo"],
+    "mnemonic": "ab- (away) + tain (hold) — hold yourself away from temptation.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ambivalent",
+    "pos": "adj",
+    "definition": "Having simultaneous, conflicting feelings or attitudes toward something, producing indecision.",
+    "example": "She felt ambivalent about the promotion—excited by the salary but dreading the extra hours.",
+    "synonyms": ["conflicted", "equivocal", "irresolute", "undecided"],
+    "mnemonic": "ambi- (both) + valent (strength) — pulled in two directions with equal force.",
+    "confusableNote": "ambiguous: ambiguous means unclear in meaning; ambivalent means emotionally torn."
+  },
+  {
+    "id": "avid",
+    "pos": "adj",
+    "definition": "Showing keen, enthusiastic interest or desire for something.",
+    "example": "An avid reader since childhood, she finished a novel every week without fail.",
+    "synonyms": ["eager", "ardent", "zealous", "fervent"],
+    "mnemonic": "avid sounds like 'a video' addict — someone who craves more and more.",
+    "confusableNote": ""
+  },
+  {
+    "id": "demur",
+    "pos": "v",
+    "definition": "To raise objections or show reluctance; to hesitate or express doubt before agreeing.",
+    "example": "The attorney demurred when asked to proceed without reviewing the full contract.",
+    "synonyms": ["object", "hesitate", "balk", "scruple"],
+    "mnemonic": "de- (down) + mur (murmur) — murmur doubts under your breath before committing.",
+    "confusableNote": "demure: demure means reserved and modest in manner; demur means to object or hesitate."
+  },
+  {
+    "id": "diffident",
+    "pos": "adj",
+    "definition": "Lacking self-confidence; excessively shy or restrained due to self-doubt.",
+    "example": "Despite her expertise, she remained diffident in meetings, rarely voicing her opinions.",
+    "synonyms": ["timid", "bashful", "reticent", "unassertive"],
+    "mnemonic": "dif- (not) + fident (confident) — the opposite of confident.",
+    "confusableNote": ""
+  },
+  {
+    "id": "equivocate",
+    "pos": "v",
+    "definition": "To use deliberately vague language to avoid commitment or to mislead.",
+    "example": "The politician equivocated for ten minutes without ever stating a clear position on the tax plan.",
+    "synonyms": ["hedge", "prevaricate", "waffle", "temporize"],
+    "mnemonic": "equi- (equal) + voc (voice) — speaking equally in two directions, committing to neither.",
+    "confusableNote": ""
+  },
+  {
+    "id": "eschew",
+    "pos": "v",
+    "definition": "To deliberately abstain from or avoid something, especially on moral or practical grounds.",
+    "example": "After years of stress, he eschewed corporate life in favor of farming.",
+    "synonyms": ["shun", "forgo", "abstain from", "avoid"],
+    "mnemonic": "Eschew sounds like 'ah-choo' — sneeze away anything you want to avoid.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inclined",
+    "pos": "adj",
+    "definition": "Having a natural tendency, preference, or disposition toward something.",
+    "example": "She was inclined to trust her instincts rather than rely solely on data.",
+    "synonyms": ["disposed", "prone", "apt", "predisposed"],
+    "mnemonic": "inclined like a hill — you naturally lean or slope toward one side.",
+    "confusableNote": ""
+  },
+  {
+    "id": "irresolute",
+    "pos": "adj",
+    "definition": "Unable to make decisions; showing uncertainty and lack of firm purpose.",
+    "example": "His irresolute leadership during the crisis left the team confused about next steps.",
+    "synonyms": ["indecisive", "vacillating", "wavering", "hesitant"],
+    "mnemonic": "ir- (not) + resolute — not resolved, still spinning without landing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "nonplussed",
+    "pos": "adj",
+    "definition": "So surprised and confused that one is unsure how to respond; bewildered.",
+    "example": "The professor was nonplussed when the student challenged every point of the lecture.",
+    "synonyms": ["bewildered", "perplexed", "flummoxed", "disconcerted"],
+    "mnemonic": "non + plus — nothing more you can add; you're stuck at zero, speechless.",
+    "confusableNote": "In informal American English nonplussed is sometimes misused to mean unfazed — the GRE meaning is bewildered, not calm."
+  },
+  {
+    "id": "penchant",
+    "pos": "n",
+    "definition": "A strong habitual inclination or liking for something.",
+    "example": "He had a penchant for elaborate metaphors that sometimes obscured rather than illuminated his arguments.",
+    "synonyms": ["predilection", "proclivity", "fondness", "propensity"],
+    "mnemonic": "penchant sounds like 'pendant' — a thing you wear close to your heart because you love it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "predilection",
+    "pos": "n",
+    "definition": "A pre-existing preference or special liking for something.",
+    "example": "Her predilection for minimalist design shaped every product her studio released.",
+    "synonyms": ["penchant", "partiality", "proclivity", "propensity"],
+    "mnemonic": "pre- (before) + dilection (love) — a love chosen before you even tried the alternatives.",
+    "confusableNote": ""
+  },
+  {
+    "id": "proclivity",
+    "pos": "n",
+    "definition": "A natural inclination or tendency toward a particular behavior, often a negative one.",
+    "example": "His proclivity for risk-taking made him both a visionary entrepreneur and a financial liability.",
+    "synonyms": ["propensity", "penchant", "predisposition", "bent"],
+    "mnemonic": "pro- (forward) + clivity (slope) — you naturally slope forward toward that behavior.",
+    "confusableNote": ""
+  },
+  {
+    "id": "propensity",
+    "pos": "n",
+    "definition": "A natural tendency or inclination to behave in a particular way.",
+    "example": "Researchers noted a propensity among the subjects to overestimate their own abilities.",
+    "synonyms": ["proclivity", "predilection", "inclination", "penchant"],
+    "mnemonic": "pro- (forward) + pens (hang) — like a pendulum that always hangs forward toward one side.",
+    "confusableNote": ""
+  },
+  {
+    "id": "refrain",
+    "pos": "v",
+    "definition": "To stop oneself from doing something; to hold back from an action voluntarily.",
+    "example": "The judge instructed jurors to refrain from discussing the case outside the courtroom.",
+    "synonyms": ["abstain", "forbear", "desist", "withhold"],
+    "mnemonic": "re- (back) + frain (bridle) — pull the reins back on your impulse.",
+    "confusableNote": "refrain (n): also a repeated chorus of a song — a completely different meaning from the verb."
+  },
+  {
+    "id": "shirk",
+    "pos": "v",
+    "definition": "To avoid or neglect a duty or responsibility, especially out of laziness or cowardice.",
+    "example": "A manager who shirks difficult conversations allows problems to fester unchecked.",
+    "synonyms": ["evade", "dodge", "neglect", "shun"],
+    "mnemonic": "shirk rhymes with 'work' — you shirk the work you're supposed to do.",
+    "confusableNote": ""
+  },
+  {
+    "id": "skirt",
+    "pos": "v",
+    "definition": "To go around or avoid dealing with something directly, especially a difficult issue.",
+    "example": "The report skirted the question of who authorized the illegal payments.",
+    "synonyms": ["circumvent", "evade", "sidestep", "dodge"],
+    "mnemonic": "skirt = walk around the edge of something, like the hem of a skirt circles the body.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tentative",
+    "pos": "adj",
+    "definition": "Not fully certain or confident; provisional and subject to change due to uncertainty.",
+    "example": "They reached a tentative agreement, pending final approval from the board.",
+    "synonyms": ["provisional", "hesitant", "uncertain", "cautious"],
+    "mnemonic": "tentative contains 'tent' — a temporary shelter, not a permanent structure.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vacillate",
+    "pos": "v",
+    "definition": "To waver back and forth between different opinions or courses of action; to be indecisive.",
+    "example": "She vacillated for weeks between accepting the fellowship and staying close to her family.",
+    "synonyms": ["waver", "oscillate", "fluctuate", "dither"],
+    "mnemonic": "vacillate — like an oscillating fan, swinging left and right, never stopping.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aghast",
+    "pos": "adj",
+    "definition": "Struck with sudden shock, horror, or dismay at something appalling.",
+    "example": "Bystanders were aghast when the building's facade collapsed without warning.",
+    "synonyms": ["horrified", "appalled", "stupefied", "awestruck"],
+    "mnemonic": "aghast contains 'ghost' — you look as pale and frozen as if you'd seen a ghost.",
+    "confusableNote": ""
+  },
+  {
+    "id": "alacrity",
+    "pos": "n",
+    "definition": "Eager and cheerful promptness or willingness to act.",
+    "example": "She accepted the challenging assignment with alacrity, thrilled by the opportunity.",
+    "synonyms": ["eagerness", "zeal", "enthusiasm", "readiness"],
+    "mnemonic": "alacrity sounds like 'a-lively-city' — full of quick, energetic movement.",
+    "confusableNote": ""
+  },
+  {
+    "id": "apathy",
+    "pos": "n",
+    "definition": "Lack of interest, enthusiasm, or concern; emotional indifference.",
+    "example": "Voter apathy reached an all-time high as turnout dropped below thirty percent.",
+    "synonyms": ["indifference", "listlessness", "torpor", "lethargy"],
+    "mnemonic": "a- (without) + pathos (feeling) — simply without any feeling at all.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aplomb",
+    "pos": "n",
+    "definition": "Self-confident composure and assurance, especially in difficult situations.",
+    "example": "The surgeon handled the unexpected complication with aplomb, reassuring the entire team.",
+    "synonyms": ["composure", "poise", "equanimity", "self-assurance"],
+    "mnemonic": "aplomb = a plumb line — always perfectly vertical, steady and balanced no matter what.",
+    "confusableNote": ""
+  },
+  {
+    "id": "apprehension",
+    "pos": "n",
+    "definition": "Anxious anticipation of future danger or misfortune; fearful unease.",
+    "example": "She boarded the plane with a sense of apprehension she could not quite explain.",
+    "synonyms": ["anxiety", "trepidation", "foreboding", "dread"],
+    "mnemonic": "apprehension = apprehend — as if danger is reaching out to grab you before it arrives.",
+    "confusableNote": "apprehension also means the arrest of a criminal — context clarifies which sense is intended."
+  },
+  {
+    "id": "ardent",
+    "pos": "adj",
+    "definition": "Intensely enthusiastic, passionate, or devoted.",
+    "example": "An ardent advocate for prison reform, she spent decades fighting for legislative change.",
+    "synonyms": ["fervent", "passionate", "zealous", "avid"],
+    "mnemonic": "ardent shares the root ard- (to burn) with 'ardor' — burning with passion.",
+    "confusableNote": ""
+  },
+  {
+    "id": "chagrin",
+    "pos": "n",
+    "definition": "Distress or embarrassment caused by failure, disappointment, or humiliation.",
+    "example": "Much to his chagrin, the paper he had worked on for months was rejected outright.",
+    "synonyms": ["mortification", "vexation", "discomfiture", "dismay"],
+    "mnemonic": "chagrin sounds like 'chagrined grin' — the pained smile you force when deeply embarrassed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "chary",
+    "pos": "adj",
+    "definition": "Cautiously reluctant due to wariness or suspicion; sparing in giving.",
+    "example": "After the failed investment, she was chary of any scheme promising quick returns.",
+    "synonyms": ["wary", "cautious", "circumspect", "guarded"],
+    "mnemonic": "chary rhymes with 'wary' — and that's exactly what it means.",
+    "confusableNote": "chary vs. chaste: entirely unrelated; chary means wary/cautious, chaste means sexually pure."
+  },
+  {
+    "id": "crestfallen",
+    "pos": "adj",
+    "definition": "Saddened and deflated by disappointment or failure; dejected.",
+    "example": "The team returned crestfallen after losing the championship in the final seconds.",
+    "synonyms": ["dejected", "dispirited", "disheartened", "downcast"],
+    "mnemonic": "crestfallen — a bird whose proud crest droops and falls after defeat.",
+    "confusableNote": ""
+  },
+  {
+    "id": "daunting",
+    "pos": "adj",
+    "definition": "Seeming intimidating and difficult enough to discourage or dishearten.",
+    "example": "Learning a new language in six months seemed daunting, but she committed to daily practice.",
+    "synonyms": ["intimidating", "formidable", "discouraging", "forbidding"],
+    "mnemonic": "daunting sounds like 'don't-ing' — something so scary you want to say 'don't do it.'",
+    "confusableNote": ""
+  },
+  {
+    "id": "distressed",
+    "pos": "adj",
+    "definition": "Experiencing extreme anxiety, sorrow, or suffering.",
+    "example": "She was clearly distressed by the news of the accident, shaking as she spoke.",
+    "synonyms": ["anguished", "distraught", "troubled", "afflicted"],
+    "mnemonic": "distressed = dis- (apart) + stress — stress tearing you apart from within.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ebullient",
+    "pos": "adj",
+    "definition": "Overflowing with enthusiastic energy, excitement, and high spirits.",
+    "example": "The ebullient coach leaped off the bench every time his team scored a point.",
+    "synonyms": ["exuberant", "effervescent", "vivacious", "buoyant"],
+    "mnemonic": "ebullient shares the root of 'boil' — enthusiasm bubbling over like a boiling pot.",
+    "confusableNote": ""
+  },
+  {
+    "id": "elated",
+    "pos": "adj",
+    "definition": "Ecstatically happy and proud, often in response to great success.",
+    "example": "She was elated when the grant committee approved her full funding request.",
+    "synonyms": ["exhilarated", "euphoric", "jubilant", "overjoyed"],
+    "mnemonic": "elated — lifted up high (e-lated = elevated in spirit).",
+    "confusableNote": ""
+  },
+  {
+    "id": "enchant",
+    "pos": "v",
+    "definition": "To fill someone with intense delight; to charm or captivate completely.",
+    "example": "The storyteller's voice enchanted the audience, holding them rapt for hours.",
+    "synonyms": ["captivate", "enthrall", "beguile", "bewitch"],
+    "mnemonic": "enchant = en- (into) + chant — to sing someone into a delighted trance.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ennui",
+    "pos": "n",
+    "definition": "A feeling of listless weariness and dissatisfaction arising from lack of engagement or excitement.",
+    "example": "After months of repetitive tasks, a creeping ennui made even simple work feel unbearable.",
+    "synonyms": ["tedium", "listlessness", "apathy", "languor"],
+    "mnemonic": "ennui (French for boredom) — imagine a bored Parisian sighing 'en-WEE' at everything.",
+    "confusableNote": ""
+  },
+  {
+    "id": "enthrall",
+    "pos": "v",
+    "definition": "To capture and hold someone's fascinated attention completely.",
+    "example": "The documentary enthralled viewers with never-before-seen footage of deep-sea creatures.",
+    "synonyms": ["captivate", "enchant", "mesmerize", "engross"],
+    "mnemonic": "enthrall = en- (put into) + thrall (slavery) — enslaved by fascination.",
+    "confusableNote": ""
+  },
+  {
+    "id": "equanimity",
+    "pos": "n",
+    "definition": "Mental calmness and composure, especially under stress or adversity.",
+    "example": "She faced the harsh critique with equanimity, calmly noting which points had merit.",
+    "synonyms": ["composure", "serenity", "aplomb", "imperturbability"],
+    "mnemonic": "equi- (equal) + anima (spirit) — keeping your spirit equally balanced at all times.",
+    "confusableNote": ""
+  },
+  {
+    "id": "euphoric",
+    "pos": "adj",
+    "definition": "Feeling an intense state of happiness or excitement, often disproportionate to circumstances.",
+    "example": "Finishing the marathon left him euphoric, grinning and weeping simultaneously.",
+    "synonyms": ["elated", "ecstatic", "exhilarated", "rapturous"],
+    "mnemonic": "eu- (good/well) + phoric (bearing) — carrying an overwhelming sense of well-being.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exasperated",
+    "pos": "adj",
+    "definition": "Intensely irritated and frustrated, especially by repeated annoyances.",
+    "example": "The editor grew exasperated as the writer submitted the same errors for a third time.",
+    "synonyms": ["frustrated", "aggravated", "vexed", "infuriated"],
+    "mnemonic": "exasperated — ex- (out) + asper (rough) — so irritated your rough edges show.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exhilarating",
+    "pos": "adj",
+    "definition": "Making one feel thrilled, invigorated, and full of excited energy.",
+    "example": "The first solo skydive was an exhilarating experience she would never forget.",
+    "synonyms": ["thrilling", "invigorating", "electrifying", "stimulating"],
+    "mnemonic": "exhilarating = ex- (out) + hilar (cheerful) — cheerfulness bursting outward.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fervent",
+    "pos": "adj",
+    "definition": "Having or showing deeply felt, earnest enthusiasm or belief.",
+    "example": "Her fervent plea for justice moved many in the courtroom to tears.",
+    "synonyms": ["ardent", "passionate", "zealous", "fervid"],
+    "mnemonic": "fervent shares the root ferv- (to boil) — boiling with passion.",
+    "confusableNote": "fervent vs. fervid: fervid implies more excessive, almost uncontrolled intensity; fervent is earnest and sincere."
+  },
+  {
+    "id": "fervid",
+    "pos": "adj",
+    "definition": "Intensely passionate to the point of excess; excessively ardent.",
+    "example": "His fervid devotion to the cause made even his allies uncomfortable.",
+    "synonyms": ["fervent", "impassioned", "zealous", "vehement"],
+    "mnemonic": "fervid = ferv- (boil) + -id — something so boiling hot it's almost out of control.",
+    "confusableNote": "fervid vs. fervent: fervid suggests more excessive, unrestrained heat than fervent."
+  },
+  {
+    "id": "fervor",
+    "pos": "n",
+    "definition": "Intense, deeply felt enthusiasm or passion for a belief or cause.",
+    "example": "The crowd cheered with patriotic fervor as the team won the championship.",
+    "synonyms": ["ardor", "zeal", "passion", "vehemence"],
+    "mnemonic": "fervor = ferv- (boil) — the heat of boiling passion for something.",
+    "confusableNote": ""
+  },
+  {
+    "id": "flustered",
+    "pos": "adj",
+    "definition": "Agitated, confused, and nervously upset, often causing disorganized behavior.",
+    "example": "She became flustered when the interviewer changed the topic without warning.",
+    "synonyms": ["flustered", "rattled", "disconcerted", "ruffled"],
+    "mnemonic": "flustered — like fluttering wings in a panic, unable to settle down.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fret",
+    "pos": "v",
+    "definition": "To feel persistent, often excessive anxiety or worry about something.",
+    "example": "He would fret for hours over minor details that others dismissed without thought.",
+    "synonyms": ["worry", "agonize", "brood", "stew"],
+    "mnemonic": "fret sounds like the frets on a guitar — constantly pressing and fretting over every note.",
+    "confusableNote": ""
+  }
+]

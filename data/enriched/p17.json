@@ -1,0 +1,398 @@
+[
+  {
+    "id": "mutiny",
+    "pos": "n",
+    "definition": "Open rebellion by a group, especially soldiers or sailors, against their commanding authority.",
+    "example": "The starving crew staged a mutiny, locking the captain below deck and seizing control of the ship.",
+    "synonyms": ["insurrection", "uprising", "revolt", "insubordination"],
+    "mnemonic": "MUTiny — people who won't stay MUTE defy their leaders loudly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "patronize",
+    "pos": "v",
+    "definition": "To treat someone as inferior or childlike while appearing helpful; also, to be a regular customer of.",
+    "example": "The senior partner tended to patronize junior associates, explaining obvious points as though they were novices.",
+    "synonyms": ["condescend", "talk down to", "demean", "belittle"],
+    "mnemonic": "A PATRON who acts like the big boss — treating others as beneath him.",
+    "confusableNote": ""
+  },
+  {
+    "id": "polarize",
+    "pos": "v",
+    "definition": "To divide sharply into opposing factions or viewpoints with little middle ground.",
+    "example": "The controversial legislation polarized the electorate, driving voters firmly to one extreme or the other.",
+    "synonyms": ["divide", "split", "bifurcate", "cleave"],
+    "mnemonic": "Like the North and South POLES — total opposites, nothing in between.",
+    "confusableNote": ""
+  },
+  {
+    "id": "proxy",
+    "pos": "n",
+    "definition": "A person or agent authorized to act on behalf of another; also, the authority itself.",
+    "example": "Unable to attend the shareholders meeting, she voted by proxy, granting her attorney the right to decide.",
+    "synonyms": ["surrogate", "delegate", "representative", "stand-in"],
+    "mnemonic": "PROXY sounds like 'pro-x' — X marks the one acting FOR you.",
+    "confusableNote": "proxy vs. surrogate: both mean a substitute, but proxy typically refers to delegated authority in formal/legal contexts."
+  },
+  {
+    "id": "quarantine",
+    "pos": "n",
+    "definition": "Enforced isolation imposed by authorities to prevent spread of disease or contamination.",
+    "example": "Health officials placed the entire village under quarantine after confirming an outbreak of the virus.",
+    "synonyms": ["isolation", "sequestration", "confinement", "cordon sanitaire"],
+    "mnemonic": "QUARANTine = QUARANTA (Italian for 40) — ships once held 40 days before docking.",
+    "confusableNote": ""
+  },
+  {
+    "id": "radical",
+    "pos": "adj",
+    "definition": "Advocating or resulting in fundamental, sweeping change to existing systems or institutions.",
+    "example": "The senator proposed radical electoral reforms that would completely overhaul campaign finance laws.",
+    "synonyms": ["revolutionary", "extremist", "drastic", "sweeping"],
+    "mnemonic": "RADICAL comes from RADIX (root) — going all the way to the root to tear things up.",
+    "confusableNote": ""
+  },
+  {
+    "id": "recourse",
+    "pos": "n",
+    "definition": "A means of obtaining help or remedy when in difficulty; a resource turned to for assistance.",
+    "example": "With all appeals exhausted, the defendant had no recourse but to accept the court's final ruling.",
+    "synonyms": ["resort", "remedy", "option", "redress"],
+    "mnemonic": "RE-COURSE — you return (re) to a course of action when stuck.",
+    "confusableNote": "recourse vs. resource: recourse is specifically the act of turning to something for help; resource is a supply or asset."
+  },
+  {
+    "id": "sanction",
+    "pos": "n",
+    "definition": "Official approval or authorization; also, a penalty imposed to enforce compliance.",
+    "example": "The treaty received the sanction of all member states, but nations that violated it faced severe economic sanctions.",
+    "synonyms": ["authorization", "ratification", "penalty", "embargo"],
+    "mnemonic": "SANCTION is its own opposite — it can bless or punish, a true GRE trap.",
+    "confusableNote": "sanction: a classic contronym — 'gave her sanction' means approved; 'imposed sanctions' means punished."
+  },
+  {
+    "id": "schism",
+    "pos": "n",
+    "definition": "A formal split or division within an organization, especially a religious body or political movement.",
+    "example": "The doctrinal disagreement caused a schism in the church, resulting in two rival congregations.",
+    "synonyms": ["rift", "rupture", "division", "fracture"],
+    "mnemonic": "SCHISM — SCISSOR-like: it cuts a group cleanly in two.",
+    "confusableNote": "schism vs. chasm: a chasm is a physical gap; a schism is a split within a group or institution."
+  },
+  {
+    "id": "surrogate",
+    "pos": "n",
+    "definition": "A substitute who acts in place of another, especially in a legal or official capacity.",
+    "example": "The court appointed a surrogate to make medical decisions on behalf of the incapacitated patient.",
+    "synonyms": ["proxy", "substitute", "stand-in", "deputy"],
+    "mnemonic": "SURROgate — think BORROW: someone borrowed to fill another's role.",
+    "confusableNote": ""
+  },
+  {
+    "id": "xenophobic",
+    "pos": "adj",
+    "definition": "Exhibiting intense fear or hatred of foreigners or people perceived as outsiders.",
+    "example": "The xenophobic rhetoric of the movement blamed immigrants for all of the nation's economic problems.",
+    "synonyms": ["nativist", "insular", "parochial", "chauvinistic"],
+    "mnemonic": "XENO (foreign) + PHOBIA (fear) — afraid of anything alien to one's group.",
+    "confusableNote": ""
+  },
+  {
+    "id": "arbitrary",
+    "pos": "adj",
+    "definition": "Based on personal whim or random choice rather than reason, system, or principle.",
+    "example": "The manager's arbitrary assignment of shifts frustrated employees who could find no logic behind the schedule.",
+    "synonyms": ["capricious", "whimsical", "random", "erratic"],
+    "mnemonic": "ARBITRary — an ARBITER who decides by gut feeling, not rules.",
+    "confusableNote": ""
+  },
+  {
+    "id": "capricious",
+    "pos": "adj",
+    "definition": "Given to sudden, unpredictable changes of mood or behavior without apparent cause.",
+    "example": "Her capricious changes of direction left the team unable to plan, since priorities shifted daily.",
+    "synonyms": ["mercurial", "fickle", "erratic", "volatile"],
+    "mnemonic": "CAPRI (goat) — a goat jumps unpredictably; capricious people leap from whim to whim.",
+    "confusableNote": ""
+  },
+  {
+    "id": "circumspect",
+    "pos": "adj",
+    "definition": "Wary and cautious, considering all circumstances and possible consequences before acting.",
+    "example": "A circumspect investor studies every risk before committing capital, rather than acting on impulse.",
+    "synonyms": ["prudent", "cautious", "guarded", "judicious"],
+    "mnemonic": "CIRCUM (around) + SPECT (look) — look all around before you act.",
+    "confusableNote": "circumspect vs. introspect: circumspect means looking outward at consequences; introspect means looking inward."
+  },
+  {
+    "id": "coy",
+    "pos": "adj",
+    "definition": "Deliberately evasive or reluctant to reveal information, often in a falsely modest or teasing way.",
+    "example": "When asked about her salary, she was coy, deflecting every question with a smile and a non-answer.",
+    "synonyms": ["evasive", "reticent", "cagey", "demure"],
+    "mnemonic": "COY — the fish that's hard to catch, always slipping away.",
+    "confusableNote": ""
+  },
+  {
+    "id": "deliberate",
+    "pos": "adj",
+    "definition": "Done with full awareness and careful consideration; intentional and unhurried.",
+    "example": "His deliberate approach to writing meant every word was chosen with precision and purpose.",
+    "synonyms": ["intentional", "methodical", "measured", "calculated"],
+    "mnemonic": "LIBRA (scales) in deLIBERate — weighing every option before deciding.",
+    "confusableNote": "deliberate (adj) = careful and intentional; deliberate (v) = to consider carefully — same spelling, different parts of speech."
+  },
+  {
+    "id": "desultory",
+    "pos": "adj",
+    "definition": "Lacking a clear plan, purpose, or continuity; jumping randomly from one thing to another.",
+    "example": "The committee's desultory discussion never stayed on topic long enough to produce any useful conclusion.",
+    "synonyms": ["haphazard", "fitful", "erratic", "rambling"],
+    "mnemonic": "DESULTORY — like a de-salted, listless person jumping without energy from task to task.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dilatory",
+    "pos": "adj",
+    "definition": "Tending to cause delay; slow in acting or making decisions, often deliberately.",
+    "example": "The opposing counsel's dilatory tactics forced the judge to set strict deadlines for every filing.",
+    "synonyms": ["tardy", "procrastinating", "laggard", "dawdling"],
+    "mnemonic": "DILATORY sounds like 'delay-tory' — someone who delays everything.",
+    "confusableNote": "dilatory vs. desultory: dilatory means slow/delaying; desultory means scattered/lacking focus."
+  },
+  {
+    "id": "disinterested",
+    "pos": "adj",
+    "definition": "Free from personal bias or self-interest; impartial and objective.",
+    "example": "The arbitrator was chosen specifically because she was disinterested in the outcome of the dispute.",
+    "synonyms": ["impartial", "unbiased", "neutral", "detached"],
+    "mnemonic": "DIS-INTERESTED — strip away personal interest, leaving pure fairness.",
+    "confusableNote": "disinterested vs. uninterested: disinterested means impartial; uninterested means bored or indifferent."
+  },
+  {
+    "id": "economy",
+    "pos": "n",
+    "definition": "Careful, efficient use of resources so that nothing is wasted; sparingness in style or effort.",
+    "example": "The novelist was admired for her economy of language, conveying complex emotions in very few words.",
+    "synonyms": ["frugality", "parsimony", "restraint", "efficiency"],
+    "mnemonic": "E-CON-OMY — think ECONOMIZE: using only what's needed, cutting waste.",
+    "confusableNote": "economy (GRE sense) = efficient use of means/words, NOT the financial/trade system."
+  },
+  {
+    "id": "expedite",
+    "pos": "v",
+    "definition": "To make a process happen more quickly; to speed up or accelerate the progress of something.",
+    "example": "The agency promised to expedite the visa application so the student could arrive before the semester began.",
+    "synonyms": ["accelerate", "hasten", "facilitate", "advance"],
+    "mnemonic": "EX-PEDITE — free the feet (ped = foot); remove obstacles so it can move fast.",
+    "confusableNote": ""
+  },
+  {
+    "id": "haphazard",
+    "pos": "adj",
+    "definition": "Lacking any order, plan, or direction; occurring purely by chance or accident.",
+    "example": "Books were piled in haphazard stacks with no regard for subject, author, or size.",
+    "synonyms": ["random", "chaotic", "unsystematic", "disorganized"],
+    "mnemonic": "HAP (luck) + HAZARD (chance) — double dose of randomness.",
+    "confusableNote": ""
+  },
+  {
+    "id": "indirect",
+    "pos": "adj",
+    "definition": "Not following a straight or obvious course; avoiding explicit statement by going around an issue.",
+    "example": "Rather than criticizing the plan outright, he raised indirect objections through carefully worded questions.",
+    "synonyms": ["oblique", "circuitous", "roundabout", "evasive"],
+    "mnemonic": "IN-DIRECT — the opposite of direct: taking the long way around.",
+    "confusableNote": ""
+  },
+  {
+    "id": "indiscriminate",
+    "pos": "adj",
+    "definition": "Done without careful judgment or distinction; applying to all cases without selection.",
+    "example": "Indiscriminate logging destroyed habitat for dozens of species that could have been spared.",
+    "synonyms": ["random", "wholesale", "undiscerning", "haphazard"],
+    "mnemonic": "IN-DISCRIMINATE — failing to discriminate (distinguish) between things; treating everything the same.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mercurial",
+    "pos": "adj",
+    "definition": "Subject to sudden, unpredictable changes of mood or temperament; volatile and quicksilver.",
+    "example": "His mercurial personality made him an exciting collaborator but an unreliable partner on long projects.",
+    "synonyms": ["volatile", "capricious", "erratic", "fickle"],
+    "mnemonic": "MERCURY (planet/god of speed) — quick to change, impossible to pin down.",
+    "confusableNote": ""
+  },
+  {
+    "id": "methodical",
+    "pos": "adj",
+    "definition": "Performed or behaving in a careful, systematic, orderly manner according to a plan.",
+    "example": "The forensic investigator was methodical, examining every inch of the scene before drawing conclusions.",
+    "synonyms": ["systematic", "orderly", "deliberate", "meticulous"],
+    "mnemonic": "METHOD + -ical — following a METHOD step by step with discipline.",
+    "confusableNote": ""
+  },
+  {
+    "id": "overt",
+    "pos": "adj",
+    "definition": "Done openly and plainly, without concealment; not hidden or secret.",
+    "example": "The administration's overt hostility toward the press was evident in its public statements.",
+    "synonyms": ["explicit", "manifest", "patent", "undisguised"],
+    "mnemonic": "OVERT — OVER in the open, no cover; the opposite of covert.",
+    "confusableNote": "overt vs. covert: overt = open and visible; covert = hidden and secret."
+  },
+  {
+    "id": "subtle",
+    "pos": "adj",
+    "definition": "So delicate or slight as to be difficult to detect; not obvious or easily perceived.",
+    "example": "The artist made subtle changes to the composition that only a trained eye would notice.",
+    "synonyms": ["understated", "nuanced", "imperceptible", "oblique"],
+    "mnemonic": "SUBTLE — the 'b' is silent, just like its meaning: hidden, barely there.",
+    "confusableNote": ""
+  },
+  {
+    "id": "volatile",
+    "pos": "adj",
+    "definition": "Liable to change rapidly and unpredictably, especially in becoming dangerous or out of control.",
+    "example": "The volatile political climate made foreign investors hesitant to commit capital to the region.",
+    "synonyms": ["mercurial", "erratic", "unstable", "capricious"],
+    "mnemonic": "VOLATILE — think VOLCANO: unpredictable, can erupt at any moment.",
+    "confusableNote": ""
+  },
+  {
+    "id": "whimsical",
+    "pos": "adj",
+    "definition": "Playfully quaint or fanciful, especially in an appealing and lighthearted way; subject to whims.",
+    "example": "The children's book was full of whimsical illustrations — talking teapots and dancing mushrooms.",
+    "synonyms": ["fanciful", "capricious", "quirky", "playful"],
+    "mnemonic": "WHIM + -sical — ruled by sudden whims, like a child chasing bubbles.",
+    "confusableNote": ""
+  },
+  {
+    "id": "base",
+    "pos": "adj",
+    "definition": "Morally low, mean, or despicable; also serving as a foundation or starting point.",
+    "example": "The villain's base treachery shocked even those who had long suspected his corrupt character.",
+    "synonyms": ["ignoble", "vile", "sordid", "despicable"],
+    "mnemonic": "BASE — the lowest level; morally at rock bottom.",
+    "confusableNote": "base (GRE trap): in GRE contexts often means 'morally low,' NOT just a physical foundation — watch the context."
+  },
+  {
+    "id": "brook",
+    "pos": "v",
+    "definition": "To tolerate or endure something, typically used in negative constructions meaning to refuse to allow.",
+    "example": "The general would brook no insubordination and dismissed any officer who questioned orders.",
+    "synonyms": ["tolerate", "countenance", "abide", "stand"],
+    "mnemonic": "BROOK (stream) — you let it flow past you; to brook = to let something pass.",
+    "confusableNote": "brook (GRE trap): commonly a stream (n), but on GRE it means 'tolerate' (v) — context is key."
+  },
+  {
+    "id": "coin",
+    "pos": "v",
+    "definition": "To invent or originate a new word, phrase, or expression.",
+    "example": "Shakespeare coined hundreds of words still in use today, including 'bedroom' and 'lackluster.'",
+    "synonyms": ["invent", "originate", "create", "devise"],
+    "mnemonic": "COIN — just as a mint stamps a new coin, you stamp a new word into existence.",
+    "confusableNote": "coin (GRE trap): usually thought of as metal currency, but GRE tests 'to coin a phrase' = invent it."
+  },
+  {
+    "id": "content",
+    "pos": "adj",
+    "definition": "In a state of peaceful satisfaction; also, the material or substance contained within something.",
+    "example": "She was content with a modest life, asking for nothing beyond good health and close friendships.",
+    "synonyms": ["satisfied", "contented", "gratified", "complacent"],
+    "mnemonic": "CON-TENT — your tent is set up; you're settled and at peace inside it.",
+    "confusableNote": "content (GRE trap): as an adjective means 'satisfied'; as a noun means 'substance/material' — the GRE tests both."
+  },
+  {
+    "id": "discount",
+    "pos": "v",
+    "definition": "To regard something as unworthy of serious consideration; to dismiss or minimize its importance.",
+    "example": "Critics were quick to discount the study, citing its small sample size and methodological flaws.",
+    "synonyms": ["dismiss", "disregard", "minimize", "belittle"],
+    "mnemonic": "DIS-COUNT — don't count it; remove it from consideration entirely.",
+    "confusableNote": "discount (GRE trap): commonly means a price reduction, but GRE uses it to mean 'disregard or dismiss' — don't be fooled."
+  },
+  {
+    "id": "dispense",
+    "pos": "v",
+    "definition": "To distribute or supply something; also, to do away with or manage without something.",
+    "example": "The pharmacist dispensed the medication carefully, while the new policy dispensed with the need for paper forms.",
+    "synonyms": ["distribute", "administer", "forgo", "relinquish"],
+    "mnemonic": "DISPENSE with — spend it out (dis-pense) to others, or spend it away so you no longer need it.",
+    "confusableNote": "dispense (GRE trap): 'dispense with' means 'do without/eliminate' — the opposite of the distributing sense."
+  },
+  {
+    "id": "divorced",
+    "pos": "adj",
+    "definition": "Completely separated or detached from something, having no connection to it.",
+    "example": "His proposal was divorced from reality, ignoring every practical constraint the team faced.",
+    "synonyms": ["detached", "disconnected", "dissociated", "removed"],
+    "mnemonic": "DIVORCED — just like a legal divorce severs a marriage, this severs any connection.",
+    "confusableNote": "divorced (GRE trap): on GRE means 'separated/detached from' a concept or context, not just marital dissolution."
+  },
+  {
+    "id": "entitled",
+    "pos": "adj",
+    "definition": "Believing oneself inherently deserving of privileges or special treatment without earning them.",
+    "example": "The entitled executive expected staff to cater to his every whim regardless of how unreasonable the request.",
+    "synonyms": ["presumptuous", "self-important", "privileged", "arrogant"],
+    "mnemonic": "ENTITLED — acting as if a title of royalty grants you everything automatically.",
+    "confusableNote": "entitled (GRE trap): commonly used to mean 'having a legal right,' but GRE tests the pejorative sense of unwarranted self-importance."
+  },
+  {
+    "id": "flush",
+    "pos": "adj",
+    "definition": "Having plentiful resources, especially money; also, reddened in the face from embarrassment or heat.",
+    "example": "After the successful IPO, the startup was flush with cash and began hiring aggressively.",
+    "synonyms": ["abundant", "affluent", "replete", "well-supplied"],
+    "mnemonic": "FLUSH — like a full flush of cards, holding plenty; or a face flush (red) with emotion.",
+    "confusableNote": "flush (GRE trap): GRE tests 'flush with cash' (abundant/well-supplied) and 'flush with embarrassment' (reddened), not the plumbing sense."
+  },
+  {
+    "id": "qualified",
+    "pos": "adj",
+    "definition": "Limited or restricted in some way; not absolute; also, having the necessary skills or credentials.",
+    "example": "The committee gave the proposal qualified approval, endorsing the idea but insisting on several revisions.",
+    "synonyms": ["conditional", "limited", "restricted", "provisional"],
+    "mnemonic": "QUALIFIED support = support with 'conditions' attached — not a full yes.",
+    "confusableNote": "qualified (GRE trap): the GRE-tested sense is 'limited/conditional' (a qualified endorsement), not 'competent' — opposite of what students expect."
+  },
+  {
+    "id": "render",
+    "pos": "v",
+    "definition": "To cause something to be in a particular state; also, to provide or give something.",
+    "example": "The hurricane rendered thousands of homes uninhabitable and rendered emergency aid impossible for days.",
+    "synonyms": ["make", "cause", "provide", "furnish"],
+    "mnemonic": "RENDER = to hand over or make happen — you render a verdict, render someone helpless.",
+    "confusableNote": "render (GRE trap): students think only of artistic rendering, but GRE tests 'render + adj' (make) and 'render + n' (provide)."
+  },
+  {
+    "id": "slight",
+    "pos": "n",
+    "definition": "An insult given by treating someone as unimportant; also, small or slender in degree.",
+    "example": "She never forgot the slight of being overlooked for the award despite her superior performance.",
+    "synonyms": ["insult", "snub", "affront", "rebuff"],
+    "mnemonic": "SLIGHT — a light touch of disrespect; small in gesture but large in offense.",
+    "confusableNote": "slight (GRE trap): as a noun/verb means to insult or snub; as an adjective means small — GRE tests both senses."
+  },
+  {
+    "id": "stem-from",
+    "pos": "phrase",
+    "definition": "To originate or arise from a particular source or cause.",
+    "example": "Many of the city's infrastructure problems stem from decades of deferred maintenance and budget cuts.",
+    "synonyms": ["arise from", "originate in", "derive from", "emanate from"],
+    "mnemonic": "STEM FROM — the stem of a plant grows from its roots; trace back to the source.",
+    "confusableNote": "stem from (GRE trap): students may think only of 'stem' as a physical stalk or 'to stem' as to stop — here it means 'to originate.'"
+  },
+  {
+    "id": "temper",
+    "pos": "v",
+    "definition": "To moderate or soften something by adding a counterbalancing element; also, one's characteristic disposition.",
+    "example": "The judge tempered her stern ruling with words of compassion for the defendant's difficult circumstances.",
+    "synonyms": ["moderate", "mitigate", "soften", "restrain"],
+    "mnemonic": "TEMPER steel — you heat and cool it to make it stronger but less brittle; temper emotions the same way.",
+    "confusableNote": "temper (GRE trap): on the GRE, 'temper' as a verb means to moderate/restrain, not just to have a bad temper."
+  }
+]

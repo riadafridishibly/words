@@ -1,0 +1,398 @@
+[
+  {
+    "id": "intuitive",
+    "pos": "adj",
+    "definition": "Known or perceived through instinct rather than conscious reasoning or analysis.",
+    "example": "Her intuitive grasp of social dynamics made her an exceptionally effective negotiator.",
+    "synonyms": ["instinctive", "innate", "visceral", "spontaneous"],
+    "mnemonic": "Intuitive = 'in-tuition': knowledge paid for inside, not by study.",
+    "confusableNote": ""
+  },
+  {
+    "id": "keen",
+    "pos": "adj",
+    "definition": "Having a sharp, penetrating, and eager intellect or perception.",
+    "example": "A keen observer of human behavior, she noticed subtle inconsistencies others overlooked.",
+    "synonyms": ["astute", "perceptive", "incisive", "acute"],
+    "mnemonic": "A keen blade cuts deep — a keen mind cuts through confusion just as sharply.",
+    "confusableNote": ""
+  },
+  {
+    "id": "naive",
+    "pos": "adj",
+    "definition": "Showing a lack of experience, judgment, or critical understanding; unsophisticated.",
+    "example": "His naive assumption that all politicians act in the public interest was quickly shattered.",
+    "synonyms": ["ingenuous", "credulous", "unworldly", "guileless"],
+    "mnemonic": "Naive sounds like 'nave' (church interior) — sheltered inside, unaware of the outside world.",
+    "confusableNote": ""
+  },
+  {
+    "id": "penetrating",
+    "pos": "adj",
+    "definition": "Showing deep insight and the ability to understand complex issues quickly and accurately.",
+    "example": "The professor's penetrating analysis exposed flaws that other scholars had entirely missed.",
+    "synonyms": ["incisive", "perceptive", "acute", "discerning"],
+    "mnemonic": "Penetrating = piercing through the surface to reach the hidden core of a problem.",
+    "confusableNote": ""
+  },
+  {
+    "id": "philistine",
+    "pos": "n",
+    "definition": "A person who is hostile or indifferent to culture, art, and intellectual pursuits.",
+    "example": "The billionaire philistine converted a historic art gallery into a parking garage without a second thought.",
+    "synonyms": ["boor", "barbarian", "lowbrow", "vulgarian"],
+    "mnemonic": "The biblical Philistines were enemies of the Israelites — a philistine is an enemy of art and culture.",
+    "confusableNote": ""
+  },
+  {
+    "id": "polymath",
+    "pos": "n",
+    "definition": "A person of wide knowledge or learning spanning many different fields of study.",
+    "example": "Leonardo da Vinci, a true polymath, excelled in painting, anatomy, engineering, and mathematics.",
+    "synonyms": ["renaissance man", "autodidact", "generalist", "savant"],
+    "mnemonic": "Poly (many) + math (learning) = someone who has learned many things.",
+    "confusableNote": "Do not confuse with 'polyglot,' which refers specifically to someone who speaks many languages."
+  },
+  {
+    "id": "ponder",
+    "pos": "v",
+    "definition": "To think carefully and at length about a question, problem, or weighty matter.",
+    "example": "She sat by the window for hours, pondering whether to accept the prestigious but demanding position.",
+    "synonyms": ["deliberate", "contemplate", "ruminate", "muse"],
+    "mnemonic": "Ponder rhymes with 'wander' — your mind wanders through the problem slowly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "proficient",
+    "pos": "adj",
+    "definition": "Competent and skilled in a particular area through practice and training.",
+    "example": "After years of study, she became proficient in Mandarin and could conduct business negotiations fluently.",
+    "synonyms": ["adept", "accomplished", "skilled", "expert"],
+    "mnemonic": "Pro-ficient: a professional is proficient — they've made their skill into a profession.",
+    "confusableNote": ""
+  },
+  {
+    "id": "puerile",
+    "pos": "adj",
+    "definition": "Childishly silly and trivial; showing a lack of maturity or seriousness.",
+    "example": "The senator dismissed his opponent's puerile insults and redirected the debate to policy.",
+    "synonyms": ["juvenile", "infantile", "immature", "fatuous"],
+    "mnemonic": "Puerile contains 'puer' (Latin for boy) — behavior fit only for a small boy.",
+    "confusableNote": ""
+  },
+  {
+    "id": "reflect",
+    "pos": "v",
+    "definition": "To think deeply and carefully about something; to engage in serious contemplation.",
+    "example": "After the failed experiment, the team took time to reflect on what had gone wrong and why.",
+    "synonyms": ["contemplate", "ponder", "meditate", "muse"],
+    "mnemonic": "A mirror reflects an image back; reflecting on thoughts turns them back inward for examination.",
+    "confusableNote": ""
+  },
+  {
+    "id": "resourceful",
+    "pos": "adj",
+    "definition": "Able to find quick and clever solutions to difficulties using whatever is available.",
+    "example": "The resourceful engineer repaired the broken satellite dish using components from a discarded radio.",
+    "synonyms": ["ingenious", "inventive", "enterprising", "adaptable"],
+    "mnemonic": "Resourceful = full of resources — someone who always has a resource to draw on.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ruminate",
+    "pos": "v",
+    "definition": "To think deeply and at length over something; to meditate or muse persistently.",
+    "example": "He ruminated for weeks over the ethical implications of publishing his controversial findings.",
+    "synonyms": ["ponder", "deliberate", "brood", "contemplate"],
+    "mnemonic": "Cows ruminate (chew cud) — they chew the same grass over and over, just as you chew the same thought.",
+    "confusableNote": ""
+  },
+  {
+    "id": "speculate",
+    "pos": "v",
+    "definition": "To form theories or conjectures without firm evidence; to engage in hypothetical reasoning.",
+    "example": "Historians can only speculate about the true cause of the ancient civilization's sudden collapse.",
+    "synonyms": ["conjecture", "theorize", "hypothesize", "surmise"],
+    "mnemonic": "Speculate = look through a 'speculum' (mirror) — you see only a reflection, not the real thing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "versatile",
+    "pos": "adj",
+    "definition": "Capable of doing many different things competently; adaptable across varied tasks or roles.",
+    "example": "A versatile athlete, she competed successfully in swimming, gymnastics, and track within the same year.",
+    "synonyms": ["adaptable", "multifaceted", "flexible", "all-around"],
+    "mnemonic": "Versatile = 'verse-atile' — like a poet who can write in many verse forms.",
+    "confusableNote": ""
+  },
+  {
+    "id": "abstract",
+    "pos": "adj",
+    "definition": "Relating to ideas and concepts that exist in thought rather than concrete, tangible reality.",
+    "example": "Justice is an abstract concept; its meaning varies significantly across different cultures and legal systems.",
+    "synonyms": ["theoretical", "conceptual", "notional", "intangible"],
+    "mnemonic": "Abstract = pulled away (ab-) from concrete reality — existing only in the mind.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ascribe",
+    "pos": "v",
+    "definition": "To attribute or assign a cause, quality, or work to a particular source or origin.",
+    "example": "Scholars ascribe the anonymous manuscript to a 16th-century Flemish monk based on its linguistic style.",
+    "synonyms": ["attribute", "impute", "assign", "credit"],
+    "mnemonic": "Ascribe = 'a-scribe': a scribe writes a name onto something — you write a cause onto an effect.",
+    "confusableNote": "Ascribe and attribute are near-synonyms; ascribe often implies inference, while attribute can be more direct."
+  },
+  {
+    "id": "attribute",
+    "pos": "v",
+    "definition": "To regard a quality or result as caused by or belonging to a specific person or thing.",
+    "example": "The team attributed its remarkable success to rigorous training and a culture of mutual accountability.",
+    "synonyms": ["ascribe", "credit", "impute", "assign"],
+    "mnemonic": "Attribute = 'a tribute' — you pay tribute (credit) to the source of something.",
+    "confusableNote": "As a noun, 'attribute' means a characteristic quality — distinct from the verb sense of assigning cause."
+  },
+  {
+    "id": "axiomatic",
+    "pos": "adj",
+    "definition": "Self-evidently true; taken for granted as a basic, unquestioned principle.",
+    "example": "It is axiomatic in economics that rational actors seek to maximize their own utility.",
+    "synonyms": ["self-evident", "indisputable", "aphoristic", "postulatory"],
+    "mnemonic": "An axiom is a foundational truth; axiomatic = having the status of an undeniable axiom.",
+    "confusableNote": ""
+  },
+  {
+    "id": "circumstantial",
+    "pos": "adj",
+    "definition": "Based on inference from indirect evidence rather than direct proof; not conclusive.",
+    "example": "The prosecution's case rested entirely on circumstantial evidence, with no witnesses to the crime itself.",
+    "synonyms": ["inferential", "indirect", "conjectural", "presumptive"],
+    "mnemonic": "Circumstantial = 'surrounding circumstances' — you build a case from what's around the fact, not the fact itself.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conjectural",
+    "pos": "adj",
+    "definition": "Based on conjecture rather than proven facts; speculative and uncertain.",
+    "example": "The archaeologist admitted that her proposed trade routes were largely conjectural, awaiting further excavation.",
+    "synonyms": ["speculative", "hypothetical", "presumptive", "theoretical"],
+    "mnemonic": "Con-jectural: 'ject' = throw — you throw ideas together without solid evidence to land on.",
+    "confusableNote": ""
+  },
+  {
+    "id": "construe",
+    "pos": "v",
+    "definition": "To interpret or understand the meaning of words, actions, or situations in a particular way.",
+    "example": "His silence was construed as consent, though he had intended it as reluctant neutrality.",
+    "synonyms": ["interpret", "read", "understand", "render"],
+    "mnemonic": "Construe = 'con-struct' meaning — you build an interpretation from pieces of evidence.",
+    "confusableNote": ""
+  },
+  {
+    "id": "delineate",
+    "pos": "v",
+    "definition": "To describe, portray, or set out something with precision and clarity.",
+    "example": "The treaty carefully delineated the boundaries between the two nations' territorial waters.",
+    "synonyms": ["demarcate", "outline", "define", "depict"],
+    "mnemonic": "De-line-ate: draw clear lines around something to define its edges.",
+    "confusableNote": ""
+  },
+  {
+    "id": "distill",
+    "pos": "v",
+    "definition": "To extract and present the essential meaning or most important aspects of something complex.",
+    "example": "The editor distilled the 600-page report into a clear two-page executive summary.",
+    "synonyms": ["extract", "condense", "refine", "boil down"],
+    "mnemonic": "Distill (as in distilling spirits) = purifying a liquid to its purest form — purify ideas to their essence.",
+    "confusableNote": ""
+  },
+  {
+    "id": "elaborate",
+    "pos": "v",
+    "definition": "To explain or develop something in greater detail; to expand on a point with more information.",
+    "example": "When asked to elaborate on her thesis, the candidate provided three compelling supporting arguments.",
+    "synonyms": ["expound", "amplify", "expand", "elucidate"],
+    "mnemonic": "Elaborate = 'labor' inside — you put more work (labor) into explaining something fully.",
+    "confusableNote": "As an adjective, 'elaborate' means intricate or detailed — a distinct but related sense."
+  },
+  {
+    "id": "empirical",
+    "pos": "adj",
+    "definition": "Based on observation and experiment rather than theory or pure logic alone.",
+    "example": "The hypothesis gained credibility only after empirical studies confirmed the predicted outcomes.",
+    "synonyms": ["observational", "experimental", "evidence-based", "inductive"],
+    "mnemonic": "Empirical = from 'empiric' (a practitioner who relies on experience) — grounded in real-world experience.",
+    "confusableNote": "Empirical contrasts with 'theoretical' — empirical knowledge comes from data, not pure reasoning."
+  },
+  {
+    "id": "euphemism",
+    "pos": "n",
+    "definition": "A mild or indirect expression used in place of one that might seem blunt or offensive.",
+    "example": "'Passed away' is a common euphemism for 'died,' softening the harsh reality of death.",
+    "synonyms": ["circumlocution", "understatement", "substitute", "softening"],
+    "mnemonic": "Eu (good) + pheme (speech) = 'good speech' — substituting a 'nicer' word for an uncomfortable one.",
+    "confusableNote": ""
+  },
+  {
+    "id": "extrapolate",
+    "pos": "v",
+    "definition": "To extend known data or conclusions into an unknown area by assuming established trends continue.",
+    "example": "From the current growth rate, analysts extrapolated that the company would double revenue within five years.",
+    "synonyms": ["project", "infer", "extend", "generalize"],
+    "mnemonic": "Extra-polate: go extra (beyond) the data poles — extend the graph beyond the known points.",
+    "confusableNote": "Extrapolate (projecting beyond known data) differs from 'interpolate' (estimating within known data points)."
+  },
+  {
+    "id": "inform",
+    "pos": "v",
+    "definition": "To give shape, character, or essential quality to something; to animate or influence fundamentally.",
+    "example": "A deep commitment to social justice informed every policy decision the minister made throughout her career.",
+    "synonyms": ["shape", "animate", "underlie", "characterize"],
+    "mnemonic": "Inform = put form INTO something — it gives shape to ideas and decisions from within.",
+    "confusableNote": "The GRE sense ('to shape or give character to') is not the everyday sense of 'to tell someone something.'"
+  },
+  {
+    "id": "intimate",
+    "pos": "v",
+    "definition": "To hint or suggest something indirectly without stating it explicitly.",
+    "example": "The chairman's careful phrasing intimated that layoffs were coming, though no announcement was made.",
+    "synonyms": ["hint", "imply", "insinuate", "suggest"],
+    "mnemonic": "Intimate (verb) = whisper into someone's ear — hinting privately rather than declaring openly.",
+    "confusableNote": "The GRE tests 'intimate' as a verb meaning to hint — not the familiar adjective meaning 'close' or 'personal.'"
+  },
+  {
+    "id": "manifest",
+    "pos": "v",
+    "definition": "To display or make evident; to show a quality or feeling clearly by one's actions or appearance.",
+    "example": "The new government manifested its commitment to reform by immediately releasing political prisoners.",
+    "synonyms": ["display", "evince", "demonstrate", "exhibit"],
+    "mnemonic": "Manifest = 'mani' (hand) + fest (festival) — show it openly, with your own hands, for all to see.",
+    "confusableNote": "Manifest as an adjective means 'obvious'; as a noun it means a list of cargo — context determines sense."
+  },
+  {
+    "id": "misnomer",
+    "pos": "n",
+    "definition": "A wrong or inaccurate name or designation applied to a person, place, or thing.",
+    "example": "Calling the peanut a 'nut' is a misnomer, as it is botanically classified as a legume.",
+    "synonyms": ["misapplication", "mislabeling", "error", "miscalling"],
+    "mnemonic": "Mis (wrong) + nomer (name, as in 'nomenclature') = a wrong name given to something.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pejorative",
+    "pos": "adj",
+    "definition": "Expressing contempt or disapproval; having a belittling or disparaging connotation.",
+    "example": "The term was originally neutral but became pejorative after centuries of derogatory use.",
+    "synonyms": ["derogatory", "disparaging", "denigrating", "deprecatory"],
+    "mnemonic": "Pejorative contains 'pejor' (Latin for worse) — a word that makes something sound worse than it is.",
+    "confusableNote": ""
+  },
+  {
+    "id": "subjective",
+    "pos": "adj",
+    "definition": "Based on personal feelings, opinions, or interpretations rather than external facts.",
+    "example": "Beauty is inherently subjective; what one culture finds attractive another may find unremarkable.",
+    "synonyms": ["personal", "partial", "individual", "impressionistic"],
+    "mnemonic": "Subjective = the subject (you) decides — it lives inside the observer, not in the object.",
+    "confusableNote": "Subjective contrasts with 'objective' — objective claims are independent of the observer."
+  },
+  {
+    "id": "underscore",
+    "pos": "v",
+    "definition": "To emphasize or draw attention to the importance or significance of something.",
+    "example": "The recent floods underscore the urgent need for improved infrastructure and climate adaptation policies.",
+    "synonyms": ["emphasize", "highlight", "stress", "accentuate"],
+    "mnemonic": "Underscore = draw a line under key words (as you underline) — highlighting what matters most.",
+    "confusableNote": ""
+  },
+  {
+    "id": "abeyance",
+    "pos": "n",
+    "definition": "A state of temporary suspension or inactivity, especially of a legal right or proceeding.",
+    "example": "The lawsuit was held in abeyance while the two parties attempted mediation.",
+    "synonyms": ["suspension", "dormancy", "deferral", "hiatus"],
+    "mnemonic": "Abeyance = 'a-bay-ance' — something put on hold in the bay, waiting to dock.",
+    "confusableNote": ""
+  },
+  {
+    "id": "acolyte",
+    "pos": "n",
+    "definition": "A devoted follower or assistant, especially one who assists a leader or performs ceremonial duties.",
+    "example": "The senator's acolytes eagerly amplified his message on every media platform available.",
+    "synonyms": ["disciple", "adherent", "attendant", "devotee"],
+    "mnemonic": "Acolyte sounds like 'a-col-ite' — someone who accompanies (Latin: acoluthos) their master everywhere.",
+    "confusableNote": ""
+  },
+  {
+    "id": "disciple",
+    "pos": "n",
+    "definition": "A devoted follower who accepts and spreads the teachings or methods of a leader or movement.",
+    "example": "As a disciple of the Stoic philosophers, she applied their principles of self-control to every challenge.",
+    "synonyms": ["adherent", "follower", "acolyte", "devotee"],
+    "mnemonic": "Disciple shares its root with 'discipline' — a disciple submits to discipline under a teacher.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dissent",
+    "pos": "n",
+    "definition": "The holding or expression of opinions that differ from those officially held or accepted.",
+    "example": "Three justices filed a vigorous dissent, arguing the majority had misinterpreted the constitutional text.",
+    "synonyms": ["disagreement", "objection", "opposition", "nonconformity"],
+    "mnemonic": "Dis- (apart) + sent (feel) = feeling differently from the group — going your own way.",
+    "confusableNote": "Dissent (disagreement) vs. 'descent' (going down) — different spellings and meanings."
+  },
+  {
+    "id": "dissident",
+    "pos": "n",
+    "definition": "A person who actively opposes or challenges an established government, policy, or ideology.",
+    "example": "The dissident was imprisoned for publishing essays critical of the authoritarian regime.",
+    "synonyms": ["dissenter", "rebel", "nonconformist", "malcontent"],
+    "mnemonic": "Dissident = one who sits (Latin: sidere) apart from the group — refusing to sit with the mainstream.",
+    "confusableNote": ""
+  },
+  {
+    "id": "egalitarian",
+    "pos": "adj",
+    "definition": "Believing in or based on the principle that all people are equal and deserve equal rights.",
+    "example": "The egalitarian reforms eliminated hereditary titles and granted equal voting rights to all citizens.",
+    "synonyms": ["equitable", "democratic", "classless", "impartial"],
+    "mnemonic": "Egalitarian = 'egal' (French for equal) — rooted in the idea that everyone is equal.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ideologue",
+    "pos": "n",
+    "definition": "A person who rigidly adheres to an ideology, often prioritizing doctrine over practical considerations.",
+    "example": "The ideologue refused to compromise on any point, even when pragmatic adjustments would have saved the bill.",
+    "synonyms": ["dogmatist", "doctrinaire", "zealot", "partisan"],
+    "mnemonic": "Ideo (idea) + logue (speaker) — someone who only speaks in the language of their fixed ideas.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inalienable",
+    "pos": "adj",
+    "definition": "Impossible to be taken away or transferred; denoting rights that cannot be surrendered or removed.",
+    "example": "The declaration proclaimed life, liberty, and the pursuit of happiness to be inalienable rights.",
+    "synonyms": ["inviolable", "absolute", "inherent", "nontransferable"],
+    "mnemonic": "In- (not) + alienable (transferable) = cannot be alienated or taken away from someone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "indictment",
+    "pos": "n",
+    "definition": "A formal legal charge or accusation of a serious crime; also, a strong condemnation of something.",
+    "example": "The grand jury handed down an indictment on charges of fraud and obstruction of justice.",
+    "synonyms": ["charge", "accusation", "arraignment", "censure"],
+    "mnemonic": "Indict = 'in-dict' — words spoken (dict) against (in) someone, formally charging them.",
+    "confusableNote": "Note the silent 'c' in indictment — pronounced 'in-DITE-ment,' not 'in-DICT-ment.'"
+  },
+  {
+    "id": "intermediary",
+    "pos": "n",
+    "definition": "A person who acts as a mediator or go-between connecting two parties in a negotiation or transaction.",
+    "example": "The diplomat served as an intermediary between the warring factions, shuttling proposals back and forth.",
+    "synonyms": ["mediator", "broker", "go-between", "liaison"],
+    "mnemonic": "Intermediary = 'inter' (between) + 'mediary' — someone who stands in the middle between two sides.",
+    "confusableNote": ""
+  }
+]

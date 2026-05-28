@@ -1,0 +1,398 @@
+[
+  {
+    "id": "glum",
+    "pos": "adj",
+    "definition": "Quietly dejected and sullen, often showing unhappiness through silence or a downcast manner.",
+    "example": "After learning he had failed the exam, Marcus sat glum and silent in the corner.",
+    "synonyms": ["morose", "sullen", "dejected", "despondent"],
+    "mnemonic": "Glum sounds like 'gloomy' — picture someone with a drooping, glum face.",
+    "confusableNote": ""
+  },
+  {
+    "id": "grievance",
+    "pos": "n",
+    "definition": "A real or perceived cause of distress or resentment, especially one that warrants a formal complaint.",
+    "example": "The workers filed a formal grievance with management over the unsafe working conditions.",
+    "synonyms": ["complaint", "injustice", "wrong", "resentment"],
+    "mnemonic": "'Grieve' + '-ance': something that causes you to grieve or feel wronged.",
+    "confusableNote": ""
+  },
+  {
+    "id": "humdrum",
+    "pos": "adj",
+    "definition": "Lacking variety or excitement; tediously ordinary and monotonous.",
+    "example": "She yearned for adventure to break the humdrum routine of her suburban life.",
+    "synonyms": ["monotonous", "mundane", "pedestrian", "banal"],
+    "mnemonic": "'Hum' + 'drum' — the dull, repetitive hum of a drum beaten the same way endlessly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "imperturbable",
+    "pos": "adj",
+    "definition": "Unable to be upset or excited; remaining calm and composed under any circumstances.",
+    "example": "The surgeon remained imperturbable even as unexpected complications arose mid-operation.",
+    "synonyms": ["unflappable", "equanimous", "stoic", "phlegmatic"],
+    "mnemonic": "'Im-' (not) + 'perturb' (disturb): nothing disturbs this person.",
+    "confusableNote": ""
+  },
+  {
+    "id": "indignant",
+    "pos": "adj",
+    "definition": "Feeling or showing anger aroused by something perceived as unjust or unworthy.",
+    "example": "She was indignant when her original idea was presented by a colleague as his own.",
+    "synonyms": ["incensed", "aggrieved", "irate", "affronted"],
+    "mnemonic": "'Indignant' shares root with 'dignity' — angry because one's dignity was insulted.",
+    "confusableNote": ""
+  },
+  {
+    "id": "irascible",
+    "pos": "adj",
+    "definition": "Having a hot temper; prone to outbursts of anger with little provocation.",
+    "example": "The irascible professor snapped at students for the slightest interruption.",
+    "synonyms": ["choleric", "cantankerous", "hot-tempered", "petulant"],
+    "mnemonic": "'Ira' is Latin for anger — an irascible person is always full of 'ira.'",
+    "confusableNote": ""
+  },
+  {
+    "id": "irksome",
+    "pos": "adj",
+    "definition": "Causing irritation or annoyance; tediously troublesome.",
+    "example": "The constant background noise from the construction site was irksome to every resident.",
+    "synonyms": ["irritating", "vexing", "annoying", "nettlesome"],
+    "mnemonic": "'Irk' means to annoy — irksome is the adjective form, amplified.",
+    "confusableNote": ""
+  },
+  {
+    "id": "jocund",
+    "pos": "adj",
+    "definition": "Cheerful and light-hearted; marked by high spirits and a merry disposition.",
+    "example": "The jocund crowd danced and sang throughout the harvest festival.",
+    "synonyms": ["jovial", "merry", "blithe", "buoyant"],
+    "mnemonic": "'Jocund' echoes 'jocular' and 'joyful' — all words for cheerful good humor.",
+    "confusableNote": "jocund vs. jocular: jocund = cheerfully happy; jocular = given to joking."
+  },
+  {
+    "id": "lament",
+    "pos": "v",
+    "definition": "To express sorrow, mourning, or regret for something lost or unfortunate.",
+    "example": "The poet lamented the passing of an era when craftsmanship was prized above speed.",
+    "synonyms": ["mourn", "bewail", "bemoan", "grieve"],
+    "mnemonic": "'Lament' — the 'la' sounds like a mournful cry; imagine a wailing voice.",
+    "confusableNote": ""
+  },
+  {
+    "id": "languid",
+    "pos": "adj",
+    "definition": "Lacking energy or enthusiasm; slow-moving and weak in a way that suggests fatigue or indifference.",
+    "example": "In the oppressive summer heat, even the most energetic children grew languid by noon.",
+    "synonyms": ["lethargic", "listless", "torpid", "enervated"],
+    "mnemonic": "'Languid' contains 'languish' — picture someone languishing on a couch.",
+    "confusableNote": "languid vs. limpid: languid = lacking energy; limpid = clear and transparent."
+  },
+  {
+    "id": "lassitude",
+    "pos": "n",
+    "definition": "Physical or mental weariness; a state of listless fatigue and lack of energy.",
+    "example": "After a month of overwork, a deep lassitude settled over her and she could barely rise each morning.",
+    "synonyms": ["lethargy", "torpor", "enervation", "languor"],
+    "mnemonic": "'Lassitude' — think of being 'lax' (limp, slack): lax + itude = extreme slackness.",
+    "confusableNote": ""
+  },
+  {
+    "id": "lethargic",
+    "pos": "adj",
+    "definition": "Affected by lethargy; sluggish, drowsy, and lacking energy or motivation.",
+    "example": "Recovering from illness, he spent the day lethargic in bed, unable to concentrate on anything.",
+    "synonyms": ["sluggish", "torpid", "languid", "listless"],
+    "mnemonic": "From 'Lethe,' the river of forgetfulness in Greek myth — drinking from it made you forget and doze.",
+    "confusableNote": ""
+  },
+  {
+    "id": "lugubrious",
+    "pos": "adj",
+    "definition": "Excessively mournful or dismal, especially in a way that seems exaggerated or affected.",
+    "example": "The actor delivered his lines in such a lugubrious tone that the comedy became unintentionally funny.",
+    "synonyms": ["mournful", "doleful", "woeful", "funereal"],
+    "mnemonic": "'Lugubrious' — 'lugu' sounds like 'lugu-ber' (lugubris = mourning in Latin); picture a funeral.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mawkish",
+    "pos": "adj",
+    "definition": "Excessively and weakly sentimental; sappy or sickeningly emotional.",
+    "example": "Critics dismissed the film as mawkish, noting its manipulative use of tragic backstories.",
+    "synonyms": ["sentimental", "saccharine", "maudlin", "treacly"],
+    "mnemonic": "'Mawkish' sounds like 'mawk' (maggot) — something disgustingly sweet, making you queasy.",
+    "confusableNote": "mawkish vs. maudlin: both mean overly sentimental, but maudlin often implies tearful drunkenness."
+  },
+  {
+    "id": "morose",
+    "pos": "adj",
+    "definition": "Sullen, gloomy, and ill-tempered, with a tendency to brood silently.",
+    "example": "After the argument, he became morose and refused to speak for the rest of the evening.",
+    "synonyms": ["sullen", "glum", "dour", "melancholy"],
+    "mnemonic": "'Morose' — think 'more gloom': someone who always wants more reasons to be gloomy.",
+    "confusableNote": ""
+  },
+  {
+    "id": "nettlesome",
+    "pos": "adj",
+    "definition": "Causing irritation or annoyance; provoking agitation or discomfort.",
+    "example": "The nettlesome bureaucratic delays frustrated everyone trying to file permits.",
+    "synonyms": ["vexing", "irksome", "galling", "aggravating"],
+    "mnemonic": "A 'nettle' plant stings your skin — nettlesome things sting your patience.",
+    "confusableNote": ""
+  },
+  {
+    "id": "nonchalant",
+    "pos": "adj",
+    "definition": "Casually calm and relaxed; showing an easy unconcern or indifference about something.",
+    "example": "Despite the high stakes, she answered the interviewer's questions in a nonchalant, unhurried manner.",
+    "synonyms": ["blasé", "insouciant", "unperturbed", "composed"],
+    "mnemonic": "French: 'non' + 'chaloir' (to care) — literally 'not caring,' cool and casual.",
+    "confusableNote": ""
+  },
+  {
+    "id": "petulant",
+    "pos": "adj",
+    "definition": "Childishly sulky or bad-tempered; prone to peevish, unreasonable irritability.",
+    "example": "The toddler's petulant refusal to eat anything green exasperated his parents.",
+    "synonyms": ["peevish", "querulous", "fractious", "sulky"],
+    "mnemonic": "'Petulant' sounds like 'petu-lant' — a tiny pet (child) throwing a tantrum.",
+    "confusableNote": ""
+  },
+  {
+    "id": "phlegmatic",
+    "pos": "adj",
+    "definition": "Having a calm, unemotional temperament; not easily excited or upset; stolid.",
+    "example": "His phlegmatic nature made him ideal for crisis management, as he never panicked.",
+    "synonyms": ["imperturbable", "stolid", "equable", "composed"],
+    "mnemonic": "From 'phlegm,' one of the four humors linked to coolness — phlegmatic = coolheaded.",
+    "confusableNote": ""
+  },
+  {
+    "id": "placid",
+    "pos": "adj",
+    "definition": "Not easily upset or excited; calm, peaceful, and undisturbed in manner or appearance.",
+    "example": "The placid lake reflected the mountains perfectly in the still morning air.",
+    "synonyms": ["tranquil", "serene", "equable", "unruffled"],
+    "mnemonic": "'Placid' — think 'place of peace'; a placid scene is a peaceful place.",
+    "confusableNote": "placid vs. placate: placid = calm by nature; placate = to soothe someone who is upset."
+  },
+  {
+    "id": "poignant",
+    "pos": "adj",
+    "definition": "Evoking a keen sense of sadness, tenderness, or regret, often with a bittersweet quality.",
+    "example": "The soldier's letter home was poignant — full of love for his family and fear for his future.",
+    "synonyms": ["moving", "touching", "plaintive", "affecting"],
+    "mnemonic": "'Poignant' from Latin 'pungere' (to prick) — sharp emotions that prick the heart.",
+    "confusableNote": ""
+  },
+  {
+    "id": "poise",
+    "pos": "n",
+    "definition": "Graceful self-assurance and composure, especially under pressure; calm dignity.",
+    "example": "Her poise under the relentless questioning impressed even her critics.",
+    "synonyms": ["composure", "equanimity", "aplomb", "serenity"],
+    "mnemonic": "'Poise' — balanced like a scale (from Old French 'pois,' weight); perfectly balanced composure.",
+    "confusableNote": ""
+  },
+  {
+    "id": "qualm",
+    "pos": "n",
+    "definition": "An uneasy feeling of doubt, worry, or scruple, especially about one's own conduct.",
+    "example": "She had no qualms about reporting the misconduct to the ethics board.",
+    "synonyms": ["misgiving", "scruple", "compunction", "reservation"],
+    "mnemonic": "'Qualm' — sounds like 'calm' with a Q for Question: a calm disturbed by an uneasy question.",
+    "confusableNote": ""
+  },
+  {
+    "id": "querulous",
+    "pos": "adj",
+    "definition": "Complaining in a petulant or whining manner; habitually finding fault.",
+    "example": "The querulous patient constantly complained to the nurses about noise, temperature, and food.",
+    "synonyms": ["peevish", "petulant", "whining", "fretful"],
+    "mnemonic": "'Querulous' shares root with 'quarrel' — always looking to quarrel or complain.",
+    "confusableNote": ""
+  },
+  {
+    "id": "relish",
+    "pos": "v",
+    "definition": "To take keen pleasure or delight in something; to enjoy with great enthusiasm.",
+    "example": "The champion relished the challenge of facing a younger, faster opponent.",
+    "synonyms": ["savor", "delight in", "revel in", "enjoy"],
+    "mnemonic": "'Relish' — like the condiment that makes food more enjoyable; relishing = adding zest to life.",
+    "confusableNote": ""
+  },
+  {
+    "id": "resent",
+    "pos": "v",
+    "definition": "To feel bitter indignation or ill will toward someone or something due to a perceived wrong.",
+    "example": "He resented being passed over for promotion year after year despite his strong performance.",
+    "synonyms": ["begrudge", "harbor bitterness", "chafe at", "take umbrage"],
+    "mnemonic": "'Re-' + 'sent' (feel again): to keep feeling the pain of an insult over and over.",
+    "confusableNote": "resent vs. grievance: resent is the verb (the feeling); grievance is the noun (the cause)."
+  },
+  {
+    "id": "serene",
+    "pos": "adj",
+    "definition": "Calm, peaceful, and untroubled; undisturbed by stress or agitation.",
+    "example": "The monk's face was serene even as he described years of hardship and privation.",
+    "synonyms": ["tranquil", "placid", "composed", "unruffled"],
+    "mnemonic": "'Serene' — like a serene lake with no ripples, glass-smooth and still.",
+    "confusableNote": ""
+  },
+  {
+    "id": "skittish",
+    "pos": "adj",
+    "definition": "Easily frightened or alarmed; nervously excitable and prone to sudden fearful reactions.",
+    "example": "The skittish mare reared at the sudden crack of thunder.",
+    "synonyms": ["nervous", "jumpy", "apprehensive", "timorous"],
+    "mnemonic": "'Skittish' — like someone who skitters away at the slightest sound; quick, startled movement.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sluggish",
+    "pos": "adj",
+    "definition": "Slow-moving and lacking energy, vitality, or alertness; inactive.",
+    "example": "The sluggish river barely seemed to move in the dry summer heat.",
+    "synonyms": ["torpid", "lethargic", "languid", "inert"],
+    "mnemonic": "A slug moves very slowly — 'sluggish' describes anything that moves like a slug.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sober",
+    "pos": "adj",
+    "definition": "Serious, earnest, and self-controlled in manner or thought; not swayed by emotion or excitement.",
+    "example": "The committee took a sober look at the risks before approving the ambitious project.",
+    "synonyms": ["sedate", "staid", "composed", "grave"],
+    "mnemonic": "'Sober' — opposite of intoxicated by emotion; cool, level-headed, and clear-eyed.",
+    "confusableNote": "sober (GRE sense) = calm and serious, NOT simply abstaining from alcohol."
+  },
+  {
+    "id": "somnolent",
+    "pos": "adj",
+    "definition": "Drowsy and inclined to sleep; inducing or characterized by sleepiness.",
+    "example": "The somnolent audience could barely keep their eyes open through the droning lecture.",
+    "synonyms": ["drowsy", "sleepy", "torpid", "lethargic"],
+    "mnemonic": "'Somn-' is Latin for sleep (as in 'insomnia') — somnolent = full of sleep.",
+    "confusableNote": "somnolent vs. soporific: somnolent = feeling sleepy; soporific = causing sleepiness in others."
+  },
+  {
+    "id": "soporific",
+    "pos": "adj",
+    "definition": "Tending to induce sleep or drowsiness; so boring or monotonous as to cause sleepiness.",
+    "example": "The professor's soporific monotone made even the most interested students nod off.",
+    "synonyms": ["sleep-inducing", "narcotic", "sedative", "somnolent"],
+    "mnemonic": "'Sopor' is Latin for deep sleep — soporific things send you into a deep sleep.",
+    "confusableNote": "soporific vs. somnolent: soporific = causes sleepiness (the agent); somnolent = feeling sleepy (the state)."
+  },
+  {
+    "id": "stolid",
+    "pos": "adj",
+    "definition": "Calm and dependable but tending to show little emotion; impassive and not easily moved.",
+    "example": "The stolid guard stood motionless through hours of ceremony without any visible reaction.",
+    "synonyms": ["impassive", "phlegmatic", "unemotional", "dull"],
+    "mnemonic": "'Stolid' sounds like 'solid' — emotionally as immovable and solid as a boulder.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tedious",
+    "pos": "adj",
+    "definition": "Too long, slow, or dull; causing weariness through monotony or lack of interest.",
+    "example": "The tedious task of cataloging ten thousand specimens took weeks of painstaking work.",
+    "synonyms": ["monotonous", "wearisome", "humdrum", "tiresome"],
+    "mnemonic": "'Tedious' — think 'tedium': a period so long and dull it becomes its own punishment.",
+    "confusableNote": ""
+  },
+  {
+    "id": "timorous",
+    "pos": "adj",
+    "definition": "Easily frightened; lacking courage and showing excessive fearfulness or timidity.",
+    "example": "The timorous new recruit hesitated at every loud noise during the training exercise.",
+    "synonyms": ["fearful", "diffident", "cowardly", "skittish"],
+    "mnemonic": "'Timorous' from Latin 'timor' (fear) — timorous people are ruled by fear.",
+    "confusableNote": "timorous vs. timid: both mean fearful, but timorous is the more formal, GRE-level word."
+  },
+  {
+    "id": "torpor",
+    "pos": "n",
+    "definition": "A state of mental or physical inactivity; sluggish unresponsiveness; lethargy.",
+    "example": "After the holiday feast, a pleasant torpor overtook the family and they dozed in their chairs.",
+    "synonyms": ["lethargy", "sluggishness", "inertia", "lassitude"],
+    "mnemonic": "'Torpor' from Latin 'torpere' (to be numb or stiff) — like a torpid fish barely moving.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tranquil",
+    "pos": "adj",
+    "definition": "Free from disturbance, agitation, or turmoil; calm and quiet.",
+    "example": "The tranquil countryside offered a welcome escape from the city's relentless noise.",
+    "synonyms": ["serene", "placid", "peaceful", "composed"],
+    "mnemonic": "'Tranquil' — 'tran' sounds like 'trans' (across) + 'quil' (quiet): quietly at peace across all things.",
+    "confusableNote": ""
+  },
+  {
+    "id": "trepidation",
+    "pos": "n",
+    "definition": "A feeling of anxiety, apprehension, or alarm about something uncertain or potentially dangerous.",
+    "example": "She approached the job interview with trepidation, fearing she was underqualified.",
+    "synonyms": ["apprehension", "anxiety", "consternation", "dread"],
+    "mnemonic": "'Trepidation' — 'trepidat' (Latin: to tremble) — literally trembling with fear.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vapid",
+    "pos": "adj",
+    "definition": "Offering nothing stimulating or challenging; lacking liveliness, interest, or intelligence.",
+    "example": "The celebrity's vapid interview answers betrayed a complete lack of original thought.",
+    "synonyms": ["insipid", "inane", "banal", "jejune"],
+    "mnemonic": "'Vapid' — like vapor, it has no substance; it evaporates without leaving any impression.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vexation",
+    "pos": "n",
+    "definition": "The state of being irritated, frustrated, or distressed by something troublesome.",
+    "example": "His vexation at the repeated system errors was evident from his terse replies.",
+    "synonyms": ["irritation", "annoyance", "chagrin", "exasperation"],
+    "mnemonic": "'Vex' = to annoy; 'vexation' is the noun form — the full feeling of being vexed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vivacious",
+    "pos": "adj",
+    "definition": "Attractively lively and animated; full of spirit and energy in a charming way.",
+    "example": "Her vivacious personality lit up every room she entered and drew people to her instantly.",
+    "synonyms": ["lively", "ebullient", "exuberant", "sprightly"],
+    "mnemonic": "'Vivacious' from Latin 'vivax' (lively, long-lived) — bursting with the vitality of life.",
+    "confusableNote": ""
+  },
+  {
+    "id": "wary",
+    "pos": "adj",
+    "definition": "Feeling or showing caution about possible dangers or problems; watchfully alert.",
+    "example": "After the previous betrayal, she was wary of trusting any new business partners.",
+    "synonyms": ["cautious", "circumspect", "guarded", "vigilant"],
+    "mnemonic": "'Wary' — beware + wary: to be wary is to perpetually 'beware.'",
+    "confusableNote": "wary vs. weary: wary = cautiously alert; weary = exhausted and tired."
+  },
+  {
+    "id": "weary",
+    "pos": "adj",
+    "definition": "Feeling or showing extreme tiredness, especially from prolonged exertion or tedium.",
+    "example": "After twelve hours of hiking, the weary travelers collapsed at the base camp.",
+    "synonyms": ["fatigued", "exhausted", "jaded", "enervated"],
+    "mnemonic": "'Weary' — sounds like 'wear-y': worn down by the weight of effort and time.",
+    "confusableNote": "weary vs. wary: weary = tired; wary = watchfully cautious."
+  },
+  {
+    "id": "wistful",
+    "pos": "adj",
+    "definition": "Having or showing a feeling of vague or regretful longing for something pleasant now gone.",
+    "example": "She cast a wistful look at the old photographs, remembering happier days.",
+    "synonyms": ["yearning", "pensive", "melancholy", "nostalgic"],
+    "mnemonic": "'Wistful' — imagine wishing + full: a heart full of wishes for what used to be.",
+    "confusableNote": ""
+  }
+]

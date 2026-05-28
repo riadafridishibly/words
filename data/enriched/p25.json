@@ -1,0 +1,398 @@
+[
+  {
+    "id": "reconcile",
+    "pos": "v",
+    "definition": "To restore friendly relations between parties or make conflicting ideas compatible.",
+    "example": "After months of dispute, the two partners finally reconciled their differences and resumed business.",
+    "synonyms": ["conciliate", "placate", "harmonize", "propitiate"],
+    "mnemonic": "RE + CONCILe — bring COUNCILs back together in peace.",
+    "confusableNote": ""
+  },
+  {
+    "id": "relent",
+    "pos": "v",
+    "definition": "To become less harsh or strict; to yield after firm resistance.",
+    "example": "The stern judge eventually relented and reduced the sentence after hearing the defendant's circumstances.",
+    "synonyms": ["yield", "capitulate", "acquiesce", "soften"],
+    "mnemonic": "RE-LENT: after being rigid, you LEND ground again.",
+    "confusableNote": ""
+  },
+  {
+    "id": "remote",
+    "pos": "adj",
+    "definition": "Distant in manner or relationship; aloof and disengaged from others.",
+    "example": "Despite living in the city, she remained remote from her neighbors, rarely acknowledging them.",
+    "synonyms": ["aloof", "detached", "distant", "withdrawn"],
+    "mnemonic": "REMOTE: like a far-off island, hard to reach emotionally.",
+    "confusableNote": "Do not confuse with the everyday sense of 'geographically isolated'; here it emphasizes emotional or social distance."
+  },
+  {
+    "id": "subordinate",
+    "pos": "adj",
+    "definition": "Placed in a lower rank or position; secondary and subject to authority.",
+    "example": "His personal ambitions were always subordinate to the goals of the organization he served.",
+    "synonyms": ["inferior", "subservient", "secondary", "ancillary"],
+    "mnemonic": "SUB = under + ORDINATE = ordered: ranked below in the order.",
+    "confusableNote": ""
+  },
+  {
+    "id": "subservient",
+    "pos": "adj",
+    "definition": "Excessively submissive and obedient, often to a demeaning degree.",
+    "example": "The courtiers were so subservient that they agreed with every pronouncement the king made, no matter how absurd.",
+    "synonyms": ["obsequious", "servile", "deferential", "subordinate"],
+    "mnemonic": "SUB-SERV(ant): the ultimate servant who bends to every wish.",
+    "confusableNote": "Stronger than subordinate; subservient implies obsequious compliance, not merely lower rank."
+  },
+  {
+    "id": "succor",
+    "pos": "n",
+    "definition": "Assistance and relief given to someone in difficulty or distress.",
+    "example": "The relief workers provided succor to the flood victims stranded without food or shelter.",
+    "synonyms": ["aid", "relief", "solace", "sustenance"],
+    "mnemonic": "SUCCOR sounds like 'sucker': someone who RUNS to help — runs to the rescue.",
+    "confusableNote": "Do not confuse with 'sucker' (a gullible person); succor means help or relief."
+  },
+  {
+    "id": "supplicate",
+    "pos": "v",
+    "definition": "To make a humble, earnest plea or petition, often on one's knees.",
+    "example": "The prisoner supplicated the king for mercy, kneeling before the throne with clasped hands.",
+    "synonyms": ["beseech", "implore", "entreat", "petition"],
+    "mnemonic": "SUPPL(y) + ICATE: beg to be supplied with mercy from above.",
+    "confusableNote": ""
+  },
+  {
+    "id": "allegorical",
+    "pos": "adj",
+    "definition": "Using symbolic figures or events to convey a hidden moral or political meaning.",
+    "example": "Orwell's allegorical novel uses farm animals to critique Soviet totalitarianism.",
+    "synonyms": ["symbolic", "figurative", "metaphorical", "parabolic"],
+    "mnemonic": "ALLEGORY = ALL + EGORY: ALL the characters carry hidden meaning.",
+    "confusableNote": ""
+  },
+  {
+    "id": "allude",
+    "pos": "v",
+    "definition": "To make an indirect reference to something without explicitly mentioning it.",
+    "example": "The senator alluded to her opponent's scandal without ever naming it directly.",
+    "synonyms": ["hint", "suggest", "intimate", "imply"],
+    "mnemonic": "ALLUDE: AL-lude = almost mention — indirect nudge toward something.",
+    "confusableNote": "Do not confuse with 'elude' (to escape) or 'illude' (to deceive); allude means to refer to indirectly."
+  },
+  {
+    "id": "allusive",
+    "pos": "adj",
+    "definition": "Containing many indirect references; suggesting ideas without stating them outright.",
+    "example": "Her allusive prose was rich with echoes of classical mythology that rewarded well-read audiences.",
+    "synonyms": ["suggestive", "referential", "indirect", "oblique"],
+    "mnemonic": "ALLUSIVE: full of ALLUSIONS — hints hidden in the text.",
+    "confusableNote": "Do not confuse with 'elusive' (hard to find) or 'illusive' (deceptive); allusive means making indirect references."
+  },
+  {
+    "id": "aphorism",
+    "pos": "n",
+    "definition": "A concise, memorable statement that expresses a general truth or principle.",
+    "example": "'Actions speak louder than words' is an aphorism that has guided moral thinking for centuries.",
+    "synonyms": ["maxim", "adage", "axiom", "epigram"],
+    "mnemonic": "APHORism: AFOR(e)-said wisdom — something said before that rings true.",
+    "confusableNote": ""
+  },
+  {
+    "id": "articulate",
+    "pos": "adj",
+    "definition": "Expressing ideas clearly, fluently, and effectively in speech or writing.",
+    "example": "The articulate young lawyer argued her case so clearly that the jury was persuaded immediately.",
+    "synonyms": ["eloquent", "fluent", "lucid", "expressive"],
+    "mnemonic": "ARTICULATE: each ARTICLE of speech is clear — every syllable distinct.",
+    "confusableNote": ""
+  },
+  {
+    "id": "brevity",
+    "pos": "n",
+    "definition": "Concise and exact use of words, saying much in few syllables.",
+    "example": "Shakespeare's line 'Brevity is the soul of wit' itself exemplifies the quality it praises.",
+    "synonyms": ["conciseness", "succinctness", "terseness", "economy"],
+    "mnemonic": "BREV- (Latin: short): a BRIEF ity — brief quality.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cacophonous",
+    "pos": "adj",
+    "definition": "Producing a harsh, discordant mixture of unpleasant sounds.",
+    "example": "The construction site outside created a cacophonous din that made concentration impossible.",
+    "synonyms": ["discordant", "raucous", "jarring", "dissonant"],
+    "mnemonic": "CACO (Greek: bad) + PHONE (sound): bad sounds = cacophonous.",
+    "confusableNote": ""
+  },
+  {
+    "id": "clamorous",
+    "pos": "adj",
+    "definition": "Making or accompanied by a loud, insistent, and often chaotic noise or demands.",
+    "example": "The clamorous crowd outside the stadium could be heard blocks away.",
+    "synonyms": ["vociferous", "boisterous", "tumultuous", "uproarious"],
+    "mnemonic": "CLAMOR = loud noise; CLAMOROUS = full of clamor — a mob shouting.",
+    "confusableNote": ""
+  },
+  {
+    "id": "clangor",
+    "pos": "n",
+    "definition": "A loud, resonant, metallic ringing or clashing noise.",
+    "example": "The clangor of the factory bells summoned workers to their stations each morning.",
+    "synonyms": ["clang", "din", "reverberation", "racket"],
+    "mnemonic": "CLANGOR: like CLANG — the CLANG-or of metal on metal.",
+    "confusableNote": ""
+  },
+  {
+    "id": "croon",
+    "pos": "v",
+    "definition": "To sing or hum softly and sentimentally in a low, gentle tone.",
+    "example": "She crooned a lullaby to the restless infant until it finally drifted off to sleep.",
+    "synonyms": ["serenade", "warble", "murmur", "hum"],
+    "mnemonic": "CROON: sounds like a quiet, rounded OON — a smooth, round melodious sound.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dictum",
+    "pos": "n",
+    "definition": "A formal authoritative pronouncement or a commonly held principle.",
+    "example": "The judge's dictum that 'justice delayed is justice denied' shaped the court's procedural reforms.",
+    "synonyms": ["decree", "maxim", "pronouncement", "edict"],
+    "mnemonic": "DICT- (Latin: say): a DICTUM is what has been formally SAID.",
+    "confusableNote": ""
+  },
+  {
+    "id": "didactic",
+    "pos": "adj",
+    "definition": "Intended to teach a moral lesson, sometimes in a heavy-handed or preachy way.",
+    "example": "The novel's didactic tone grew tiresome as every chapter ended with an explicit moral lecture.",
+    "synonyms": ["instructive", "moralistic", "pedantic", "preachy"],
+    "mnemonic": "DIDACTIC: TEACH-tic — TEACH + -tic = designed to teach.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dirge",
+    "pos": "n",
+    "definition": "A mournful song or piece of music composed or performed as a lament for the dead.",
+    "example": "The brass band played a slow dirge as the funeral procession wound through the streets.",
+    "synonyms": ["elegy", "lament", "requiem", "threnody"],
+    "mnemonic": "DIRGE: sounds like 'DIRE' — a DIRE song for dark occasions.",
+    "confusableNote": ""
+  },
+  {
+    "id": "documentary",
+    "pos": "adj",
+    "definition": "Based on or consisting of official documents or factual records presented without fictional elements.",
+    "example": "The documentary evidence presented at trial included receipts, emails, and signed contracts.",
+    "synonyms": ["factual", "archival", "evidentiary", "recorded"],
+    "mnemonic": "DOCUMENT + ARY: of or from actual DOCUMENTS — the facts as recorded.",
+    "confusableNote": ""
+  },
+  {
+    "id": "eloquent",
+    "pos": "adj",
+    "definition": "Fluent, persuasive, and moving in expression, especially in speech.",
+    "example": "Her eloquent plea for justice moved even the most skeptical members of the committee.",
+    "synonyms": ["articulate", "persuasive", "silver-tongued", "expressive"],
+    "mnemonic": "ELOQ(uent): from Latin ELOQUI = to speak out — speaking powerfully OUT.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exegesis",
+    "pos": "n",
+    "definition": "Critical explanation or scholarly interpretation of a text, especially a religious scripture.",
+    "example": "The theologian's exegesis of the passage revealed layers of meaning invisible to casual readers.",
+    "synonyms": ["interpretation", "exposition", "commentary", "hermeneutics"],
+    "mnemonic": "EXE-GESIS: EX (out) + HEGESIS (lead) — lead OUT the meaning from the text.",
+    "confusableNote": "Do not confuse with 'eisegesis' — exegesis draws meaning out of the text; eisegesis reads meaning into it."
+  },
+  {
+    "id": "expatiate",
+    "pos": "v",
+    "definition": "To speak or write at great length or in elaborate detail on a subject.",
+    "example": "The professor was known to expatiate on minor points until students lost the thread of the lecture.",
+    "synonyms": ["elaborate", "expound", "digress", "dilate"],
+    "mnemonic": "EX-SPATIATE: to SPATIALLY expand — spread your words out widely.",
+    "confusableNote": "Do not confuse with 'expatriate' (to live abroad); expatiate means to speak at length."
+  },
+  {
+    "id": "figurative",
+    "pos": "adj",
+    "definition": "Using figures of speech; not literal but expressing ideas through imagery or metaphor.",
+    "example": "When she said her heart was broken, she meant it in the figurative sense, not a medical one.",
+    "synonyms": ["metaphorical", "allegorical", "symbolic", "non-literal"],
+    "mnemonic": "FIGURE-ative: uses FIGURES of speech — shaped by imagery rather than plain fact.",
+    "confusableNote": "Contrasts with 'literal'; figurative language uses comparison, imagery, or symbolism."
+  },
+  {
+    "id": "garrulous",
+    "pos": "adj",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "example": "The garrulous salesman talked for an hour before the customer could get a word in.",
+    "synonyms": ["loquacious", "voluble", "verbose", "chatty"],
+    "mnemonic": "GARR-ulous: a GARR-ling mouth that never stops — gargle of words.",
+    "confusableNote": ""
+  },
+  {
+    "id": "laconic",
+    "pos": "adj",
+    "definition": "Using very few words; brief and to the point in speech or expression.",
+    "example": "His laconic reply — simply 'No' — ended the negotiation more effectively than a long argument would have.",
+    "synonyms": ["terse", "succinct", "pithy", "curt"],
+    "mnemonic": "LACONIC: from Laconia (Sparta) — Spartans were famous for brief, blunt speech.",
+    "confusableNote": ""
+  },
+  {
+    "id": "loquacious",
+    "pos": "adj",
+    "definition": "Tending to talk a great deal; excessively fond of talking.",
+    "example": "The loquacious host dominated every dinner conversation, leaving guests little chance to speak.",
+    "synonyms": ["garrulous", "voluble", "verbose", "talkative"],
+    "mnemonic": "LOQU- (Latin: speak): LOQUACIOUS = speak + -acious (full of) — full of speaking.",
+    "confusableNote": ""
+  },
+  {
+    "id": "metaphorical",
+    "pos": "adj",
+    "definition": "Describing something using a comparison or metaphor rather than literal meaning.",
+    "example": "Calling life a journey is metaphorical — we are not literally traveling a road.",
+    "synonyms": ["figurative", "symbolic", "allegorical", "analogical"],
+    "mnemonic": "META (beyond) + PHOR (carry): metaphorical carries meaning BEYOND the literal.",
+    "confusableNote": ""
+  },
+  {
+    "id": "obstreperous",
+    "pos": "adj",
+    "definition": "Noisily and stubbornly defiant; unruly and difficult to control.",
+    "example": "The obstreperous protesters drowned out the speaker with chanting and drumming.",
+    "synonyms": ["vociferous", "boisterous", "unruly", "clamorous"],
+    "mnemonic": "OB-STREP-erous: OB (against) + STREP (noise) — making noise AGAINST control.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pithy",
+    "pos": "adj",
+    "definition": "Concisely and forcefully expressive; brief yet full of substance and meaning.",
+    "example": "Her pithy remarks always cut to the heart of the issue in a single sentence.",
+    "synonyms": ["succinct", "laconic", "terse", "epigrammatic"],
+    "mnemonic": "PITH is the core of a fruit — PITHy gets right to the core, no filler.",
+    "confusableNote": ""
+  },
+  {
+    "id": "plaintive",
+    "pos": "adj",
+    "definition": "Expressing sorrow or mournful longing in a faint, wistful way.",
+    "example": "The plaintive cry of the violin filled the concert hall with a sense of deep melancholy.",
+    "synonyms": ["mournful", "doleful", "wistful", "elegiac"],
+    "mnemonic": "PLAINT-ive: a PLAINT is a lament — full of lamentation and sorrow.",
+    "confusableNote": "Do not confuse with 'plaintiff' (the party in a lawsuit); plaintive means sorrowful in sound or tone."
+  },
+  {
+    "id": "prolix",
+    "pos": "adj",
+    "definition": "Using too many words; tediously long and wordy in speech or writing.",
+    "example": "The prolix report could have conveyed its findings in ten pages instead of eighty.",
+    "synonyms": ["verbose", "long-winded", "diffuse", "wordy"],
+    "mnemonic": "PRO-LIX: PRO (many) + LIX (words): prolific with excess words.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ramble",
+    "pos": "v",
+    "definition": "To speak or write at length without focus, wandering from topic to topic.",
+    "example": "He tended to ramble during lectures, often forgetting his original point entirely.",
+    "synonyms": ["digress", "meander", "wander", "expatiate"],
+    "mnemonic": "RAMBLE: like a random RAMBLE through the woods — no clear path or direction.",
+    "confusableNote": ""
+  },
+  {
+    "id": "recapitulate",
+    "pos": "v",
+    "definition": "To summarize and restate the main points of something previously said or written.",
+    "example": "At the end of the lecture, the professor recapitulated the three key arguments of the day.",
+    "synonyms": ["summarize", "recap", "restate", "synopsize"],
+    "mnemonic": "RE-CAPIT-ulate: revisit the CAPITAL (main) points — go over the heads again.",
+    "confusableNote": ""
+  },
+  {
+    "id": "reticent",
+    "pos": "adj",
+    "definition": "Inclined to be silent or withhold information; not revealing one's thoughts readily.",
+    "example": "The reticent witness answered questions in monosyllables and volunteered nothing beyond what was asked.",
+    "synonyms": ["reserved", "taciturn", "uncommunicative", "guarded"],
+    "mnemonic": "RETI-CENT: RETI = quiet (like retire); keeps feelings CENT-ered inside.",
+    "confusableNote": "Often misused to mean 'reluctant'; reticent specifically means reluctant to speak or reveal information."
+  },
+  {
+    "id": "retiring",
+    "pos": "adj",
+    "definition": "Shy, reserved, and tending to avoid attention or social interaction.",
+    "example": "Despite her brilliance, she was so retiring that few colleagues knew the depth of her expertise.",
+    "synonyms": ["reserved", "diffident", "unassuming", "withdrawn"],
+    "mnemonic": "RETIRING: like someone who RETIRES to the back — quietly stepping away from the spotlight.",
+    "confusableNote": "In this sense, retiring means shy — not the act of leaving a job."
+  },
+  {
+    "id": "rhapsody",
+    "pos": "n",
+    "definition": "An ecstatic expression of enthusiasm or delight; also, a freely structured emotional composition.",
+    "example": "The food critic wrote a rhapsody about the meal, calling it a transcendent culinary experience.",
+    "synonyms": ["paean", "encomium", "effusion", "lyric"],
+    "mnemonic": "RHAPSODY: WRAP-sody — wrap yourself in ecstatic feeling, like Bohemian Rhapsody's wild emotion.",
+    "confusableNote": ""
+  },
+  {
+    "id": "rhetoric",
+    "pos": "n",
+    "definition": "The art of effective and persuasive speaking or writing; sometimes, language that is impressive but empty.",
+    "example": "The candidate's rhetoric stirred the crowd, even if the policies lacked substantive detail.",
+    "synonyms": ["oratory", "eloquence", "elocution", "bombast"],
+    "mnemonic": "RHETO-RIC: a RHETORician uses rich language — the craft of speech.",
+    "confusableNote": ""
+  },
+  {
+    "id": "shrill",
+    "pos": "adj",
+    "definition": "High-pitched and piercing in sound; strident and unpleasantly sharp.",
+    "example": "Her shrill whistle cut through the noise of the playground and immediately stopped the game.",
+    "synonyms": ["piercing", "strident", "screeching", "sharp"],
+    "mnemonic": "SHRILL: SHRI-LL — SHRIEK with double L; a sound that SHRIEKS.",
+    "confusableNote": ""
+  },
+  {
+    "id": "soliloquy",
+    "pos": "n",
+    "definition": "A dramatic device in which a character speaks thoughts aloud when alone, revealing inner feelings.",
+    "example": "Hamlet's 'To be or not to be' is literature's most famous soliloquy, exposing his deepest despair.",
+    "synonyms": ["monologue", "aside", "self-address", "apostrophe"],
+    "mnemonic": "SOL(o) + LOQU(y): SOLO + SPEAK — speaking alone to yourself.",
+    "confusableNote": "Different from a monologue, which can be addressed to others; a soliloquy is always to oneself."
+  },
+  {
+    "id": "synoptic",
+    "pos": "adj",
+    "definition": "Providing a broad, condensed overview of a subject; presenting a general summary.",
+    "example": "The synoptic chart gave meteorologists a snapshot of weather patterns across the entire continent.",
+    "synonyms": ["comprehensive", "summarizing", "panoramic", "overview"],
+    "mnemonic": "SYN-OPTIC: SYN (together) + OPTIC (see): seeing everything together at once.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tacit",
+    "pos": "adj",
+    "definition": "Understood or implied without being openly stated; unspoken but acknowledged.",
+    "example": "There was a tacit agreement among the staff never to discuss the director's personal life.",
+    "synonyms": ["implicit", "unspoken", "understood", "implied"],
+    "mnemonic": "TACIT: from Latin TACERE (to be silent) — silent yet understood.",
+    "confusableNote": "Tacit refers to an unspoken understanding; do not confuse with 'taciturn,' which describes a habitually silent person."
+  },
+  {
+    "id": "taciturn",
+    "pos": "adj",
+    "definition": "Reserved and habitually silent; saying very little in social situations.",
+    "example": "The taciturn ranch hand spoke no more than ten words a day, preferring the company of horses.",
+    "synonyms": ["reticent", "laconic", "reserved", "uncommunicative"],
+    "mnemonic": "TACIT + URN: silent as an URN — quiet, still, and sealed.",
+    "confusableNote": "Taciturn describes a person's habitual silence; tacit describes something implied without words."
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "truculent",
+    "pos": "adj",
+    "definition": "Eager or quick to argue, fight, or be aggressively defiant.",
+    "example": "The truculent defendant interrupted the judge three times before being removed from the courtroom.",
+    "synonyms": ["pugnacious", "bellicose", "combative", "belligerent"],
+    "mnemonic": "TRUCULENT: a truck that's violent — barreling into everyone aggressively.",
+    "confusableNote": ""
+  },
+  {
+    "id": "undercut",
+    "pos": "v",
+    "definition": "To weaken, erode, or sabotage the effectiveness or foundation of something.",
+    "example": "The whistleblower's testimony undercut the company's carefully constructed defense.",
+    "synonyms": ["undermine", "subvert", "erode", "sabotage"],
+    "mnemonic": "Cut from UNDER — slicing the support beam so the structure collapses.",
+    "confusableNote": ""
+  },
+  {
+    "id": "undermine",
+    "pos": "v",
+    "definition": "To gradually weaken or damage something, especially by working secretly against it.",
+    "example": "Years of budget cuts undermined the agency's ability to enforce environmental regulations.",
+    "synonyms": ["subvert", "erode", "sabotage", "enfeeble"],
+    "mnemonic": "Mine UNDER a fortress — tunneling secretly to make the walls collapse.",
+    "confusableNote": "undermine vs. undercut: undermine implies gradual, often covert erosion; undercut often refers to a single decisive blow or price undercutting."
+  },
+  {
+    "id": "vanquish",
+    "pos": "v",
+    "definition": "To defeat thoroughly and completely, leaving no doubt of the victor's superiority.",
+    "example": "The champion vanquished every opponent in the tournament without losing a single set.",
+    "synonyms": ["conquer", "subjugate", "overwhelm", "trounce"],
+    "mnemonic": "Van + QUISH — the van squishes the enemy flat; total defeat.",
+    "confusableNote": ""
+  },
+  {
+    "id": "virulent",
+    "pos": "adj",
+    "definition": "Bitterly hostile and aggressively malicious in language or attitude.",
+    "example": "The editorial unleashed a virulent attack on the senator's character and record.",
+    "synonyms": ["venomous", "vitriolic", "acrimonious", "vicious"],
+    "mnemonic": "VIRUS + lent — spreads poison like a virus; venom in every word.",
+    "confusableNote": "virulent vs. violent: virulent emphasizes poisonous hostility or intensity; violent refers to physical force or extreme physical aggression."
+  },
+  {
+    "id": "vitiate",
+    "pos": "v",
+    "definition": "To impair or destroy the quality, effectiveness, or validity of something.",
+    "example": "The procedural errors vitiated the contract, rendering it legally unenforceable.",
+    "synonyms": ["invalidate", "impair", "nullify", "corrupt"],
+    "mnemonic": "VICE + ate — vice eats away and corrupts, leaving it ruined.",
+    "confusableNote": ""
+  },
+  {
+    "id": "abhor",
+    "pos": "v",
+    "definition": "To regard with extreme repugnance or loathing; to detest utterly.",
+    "example": "She abhorred dishonesty so deeply that she ended friendships over minor deceptions.",
+    "synonyms": ["detest", "loathe", "execrate", "despise"],
+    "mnemonic": "AB + HORROR — the 'ab' prefix intensifies horror into complete revulsion.",
+    "confusableNote": ""
+  },
+  {
+    "id": "admonish",
+    "pos": "v",
+    "definition": "To warn or reprimand someone firmly but not harshly, urging corrected behavior.",
+    "example": "The coach admonished the players for arriving late to practice rather than punishing them.",
+    "synonyms": ["reprove", "caution", "rebuke", "chide"],
+    "mnemonic": "Ad-MONISH: add a warning (mono = one stern word) — a gentle but firm reminder.",
+    "confusableNote": "admonish vs. castigate: admonish is milder, advisory; castigate is a severe, harsh denunciation."
+  },
+  {
+    "id": "affront",
+    "pos": "n",
+    "definition": "A deliberate act or remark that insults or offends someone's dignity.",
+    "example": "Being seated at the back of the ceremony felt like an affront to her years of distinguished service.",
+    "synonyms": ["insult", "slight", "indignity", "offense"],
+    "mnemonic": "A FRONT attack — insulting someone right to their face.",
+    "confusableNote": ""
+  },
+  {
+    "id": "antipathy",
+    "pos": "n",
+    "definition": "A deep-seated feeling of aversion or hostility toward someone or something.",
+    "example": "His antipathy toward bureaucracy made him reluctant to join any large organization.",
+    "synonyms": ["aversion", "hostility", "animosity", "enmity"],
+    "mnemonic": "ANTI + PATHY — against feeling; the opposite of sympathy.",
+    "confusableNote": "antipathy vs. apathy: antipathy is active dislike; apathy is indifference or lack of feeling."
+  },
+  {
+    "id": "aspersion",
+    "pos": "n",
+    "definition": "A false or damaging remark that attacks someone's reputation; a slanderous charge.",
+    "example": "The rival campaign cast aspersions on the candidate's military record without evidence.",
+    "synonyms": ["slander", "calumny", "defamation", "vilification"],
+    "mnemonic": "ASPERSE = to sprinkle — spattering someone's name with dirty accusations.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aversion",
+    "pos": "n",
+    "definition": "A strong, settled dislike or disinclination toward something.",
+    "example": "Her aversion to confrontation made it difficult for her to negotiate assertively.",
+    "synonyms": ["antipathy", "repugnance", "abhorrence", "disinclination"],
+    "mnemonic": "AVERT your eyes — you turn away from what you hate.",
+    "confusableNote": "aversion vs. antipathy: aversion often implies avoidance behavior; antipathy stresses the emotional hostility itself."
+  },
+  {
+    "id": "berate",
+    "pos": "v",
+    "definition": "To scold or criticize someone at length and with great anger.",
+    "example": "The director berated the entire crew for the costly mistake made on set.",
+    "synonyms": ["upbraid", "castigate", "lambaste", "harangue"],
+    "mnemonic": "BE + RATE — to rate someone harshly, lashing them with angry words.",
+    "confusableNote": ""
+  },
+  {
+    "id": "calumny",
+    "pos": "n",
+    "definition": "A malicious and false statement made to damage someone's reputation; slander.",
+    "example": "The historian documented the calumnies spread against the general to discredit his victories.",
+    "synonyms": ["slander", "defamation", "aspersion", "vilification"],
+    "mnemonic": "CAL-UMNY sounds like 'call 'em a lie' — calling someone a liar falsely.",
+    "confusableNote": "calumny vs. obloquy: calumny is false spoken defamation; obloquy is disgrace from public condemnation, not necessarily false."
+  },
+  {
+    "id": "caricature",
+    "pos": "n",
+    "definition": "A portrayal that exaggerates someone's features or characteristics for comic or satirical effect.",
+    "example": "The political cartoon reduced the prime minister to a caricature of pomposity and self-importance.",
+    "synonyms": ["parody", "lampoon", "burlesque", "travesty"],
+    "mnemonic": "CARI-CATURE: 'carry' an exaggerated picture — a cartoon so exaggerated it's carried to extremes.",
+    "confusableNote": ""
+  },
+  {
+    "id": "castigate",
+    "pos": "v",
+    "definition": "To reprimand or criticize someone severely and at length.",
+    "example": "The judge castigated the attorney for repeatedly ignoring procedural rules.",
+    "synonyms": ["excoriate", "lambaste", "berate", "censure"],
+    "mnemonic": "CASTLE + GATE — the castle gate slams shut as you're beaten with criticism.",
+    "confusableNote": "castigate vs. admonish: castigate is harsh and severe; admonish is gentler and more advisory."
+  },
+  {
+    "id": "censure",
+    "pos": "v",
+    "definition": "To express severe disapproval or formally condemn someone's actions.",
+    "example": "The Senate voted to censure the member for misuse of campaign funds.",
+    "synonyms": ["condemn", "reprove", "denounce", "rebuke"],
+    "mnemonic": "CENSOR + e — like a censor who not only cuts content but formally condemns it.",
+    "confusableNote": "censure vs. censor: censure is formal criticism or condemnation; censor is to suppress or remove objectionable material."
+  },
+  {
+    "id": "chastise",
+    "pos": "v",
+    "definition": "To rebuke or scold someone sharply for wrongdoing or poor behavior.",
+    "example": "The professor chastised students who submitted their papers without proper citations.",
+    "synonyms": ["reprimand", "upbraid", "berate", "rebuke"],
+    "mnemonic": "CHASTE + ise — punish to make someone behave more properly, more 'chaste.'",
+    "confusableNote": "chastise vs. chaste: chaste means pure/modest; chastise means to punish or scold."
+  },
+  {
+    "id": "contempt",
+    "pos": "n",
+    "definition": "The feeling that a person or thing is worthless or beneath consideration; utter disdain.",
+    "example": "He regarded his opponents' arguments with contempt, dismissing them without a rebuttal.",
+    "synonyms": ["disdain", "scorn", "derision", "disregard"],
+    "mnemonic": "CONTEMPT: con-TEMPT — not even tempted to respect them.",
+    "confusableNote": ""
+  },
+  {
+    "id": "decry",
+    "pos": "v",
+    "definition": "To publicly denounce or condemn something as wrong, harmful, or failing.",
+    "example": "Activists decried the new policy as an attack on civil liberties.",
+    "synonyms": ["denounce", "condemn", "censure", "deprecate"],
+    "mnemonic": "DE + CRY — cry out against something publicly, raising your voice in protest.",
+    "confusableNote": "decry vs. descry: decry means to criticize publicly; descry means to catch sight of something distant."
+  },
+  {
+    "id": "defame",
+    "pos": "v",
+    "definition": "To damage someone's good reputation through false or malicious statements.",
+    "example": "The tabloid defamed the actress with fabricated stories about her personal life.",
+    "synonyms": ["slander", "malign", "calumniate", "vilify"],
+    "mnemonic": "DE + FAME — strip away someone's fame by attacking their name.",
+    "confusableNote": ""
+  },
+  {
+    "id": "denigrate",
+    "pos": "v",
+    "definition": "To unfairly criticize or belittle someone's reputation or worth.",
+    "example": "Critics accused the biographer of denigrating the scientist to make his own discoveries seem more original.",
+    "synonyms": ["disparage", "belittle", "malign", "vilify"],
+    "mnemonic": "DENI-GRATE — grating away at someone's name, reducing them to nothing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "denounce",
+    "pos": "v",
+    "definition": "To publicly declare something or someone to be wrong, evil, or worthy of condemnation.",
+    "example": "The organization denounced the treaty as a violation of international law.",
+    "synonyms": ["condemn", "decry", "censure", "inveigh against"],
+    "mnemonic": "DE + NOUNCE = announce against — making a public announcement to condemn.",
+    "confusableNote": ""
+  },
+  {
+    "id": "deprecate",
+    "pos": "v",
+    "definition": "To express disapproval of something; to belittle or disparage.",
+    "example": "She deprecated the committee's proposals as half-hearted and insufficiently bold.",
+    "synonyms": ["disparage", "belittle", "decry", "censure"],
+    "mnemonic": "DEPRE + cate: depreciate value through words — to talk something down.",
+    "confusableNote": "deprecate vs. depreciate: deprecate means to express disapproval; depreciate means to decrease in monetary value."
+  },
+  {
+    "id": "deride",
+    "pos": "v",
+    "definition": "To subject someone or something to contemptuous ridicule or mockery.",
+    "example": "Critics derided the architect's proposal as impractical and aesthetically offensive.",
+    "synonyms": ["mock", "ridicule", "scoff", "lampoon"],
+    "mnemonic": "DE-RIDE: ride over someone, trampling them underfoot with scorn.",
+    "confusableNote": ""
+  },
+  {
+    "id": "disdain",
+    "pos": "n",
+    "definition": "A feeling that someone or something is unworthy of respect or consideration; contempt.",
+    "example": "She spoke of the rival school's methods with obvious disdain, barely concealing her contempt.",
+    "synonyms": ["contempt", "scorn", "derision", "hauteur"],
+    "mnemonic": "DIS + DEIGN — the opposite of deigning (condescending to notice); you refuse to even acknowledge them.",
+    "confusableNote": ""
+  },
+  {
+    "id": "droll",
+    "pos": "adj",
+    "definition": "Amusingly odd or whimsically humorous in a dry, understated way.",
+    "example": "His droll commentary on office politics kept colleagues entertained without offending anyone.",
+    "synonyms": ["whimsical", "wry", "waggish", "facetious"],
+    "mnemonic": "DROLL: like a troll who tells quirky, oddly funny jokes.",
+    "confusableNote": ""
+  },
+  {
+    "id": "enmity",
+    "pos": "n",
+    "definition": "Active and deeply felt hostility or hatred between people or groups.",
+    "example": "The two families harbored enmity for generations after a disputed land claim.",
+    "synonyms": ["animosity", "antipathy", "antagonism", "rancor"],
+    "mnemonic": "ENEMY + ity — the state of being someone's enemy.",
+    "confusableNote": ""
+  },
+  {
+    "id": "excoriate",
+    "pos": "v",
+    "definition": "To criticize someone severely and scathingly, as if stripping away their skin.",
+    "example": "The review excoriated the novelist's latest book as derivative and intellectually dishonest.",
+    "synonyms": ["flay", "castigate", "lambaste", "berate"],
+    "mnemonic": "EX-CORIATE: from 'corium' (skin) — to strip the skin off; brutal verbal flaying.",
+    "confusableNote": ""
+  },
+  {
+    "id": "facetious",
+    "pos": "adj",
+    "definition": "Treating serious issues with inappropriate humor; flippantly joking.",
+    "example": "His facetious remark about the disaster relief effort drew sharp criticism from the audience.",
+    "synonyms": ["flippant", "glib", "droll", "waggish"],
+    "mnemonic": "FACE + tious — putting on a joking face at the wrong moment.",
+    "confusableNote": "facetious vs. sarcastic: facetious implies playful, irreverent humor; sarcastic implies cutting, bitter mockery."
+  },
+  {
+    "id": "harangue",
+    "pos": "v",
+    "definition": "To lecture or scold someone at length in an aggressive, domineering manner.",
+    "example": "The supervisor harangued the team for an hour about missed deadlines.",
+    "synonyms": ["berate", "lecture", "lambaste", "tirade"],
+    "mnemonic": "HA + RANG: rang like a loud bell — a prolonged, clanging verbal assault.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ire",
+    "pos": "n",
+    "definition": "Intense anger or wrath, especially as provoked by an injustice.",
+    "example": "The senator's remarks drew the ire of constituents across the political spectrum.",
+    "synonyms": ["wrath", "fury", "indignation", "choler"],
+    "mnemonic": "IRE: short and sharp like the hot flash of anger — one syllable, all rage.",
+    "confusableNote": ""
+  },
+  {
+    "id": "lambaste",
+    "pos": "v",
+    "definition": "To criticize someone harshly and at length; to beat or attack verbally.",
+    "example": "The opposition lambasted the budget proposal as reckless and fiscally irresponsible.",
+    "synonyms": ["castigate", "berate", "excoriate", "flay"],
+    "mnemonic": "LAMB + BASTE: even a gentle lamb gets basted (beaten) — a forceful, thorough thrashing in words.",
+    "confusableNote": ""
+  },
+  {
+    "id": "lampoon",
+    "pos": "v",
+    "definition": "To publicly mock or satirize someone or something in a sharp, often humorous way.",
+    "example": "The sketch comedy show lampooned the politician's mannerisms to great audience laughter.",
+    "synonyms": ["satirize", "parody", "caricature", "mock"],
+    "mnemonic": "LAMP + OON: shine a bright lamp on someone's flaws for all to ridicule.",
+    "confusableNote": ""
+  },
+  {
+    "id": "loathe",
+    "pos": "v",
+    "definition": "To feel intense disgust or hatred toward someone or something.",
+    "example": "He loathed the hypocrisy of politicians who campaigned on values they privately abandoned.",
+    "synonyms": ["detest", "abhor", "despise", "execrate"],
+    "mnemonic": "LOATHE: sounds like 'load' of hatred — you're loaded with disgust.",
+    "confusableNote": "loathe vs. loath: loathe (verb) = to hate intensely; loath (adjective) = reluctant or unwilling."
+  },
+  {
+    "id": "malign",
+    "pos": "v",
+    "definition": "To speak about someone in a spitefully critical and unfair manner; to slander.",
+    "example": "Former allies maligned the general's reputation after the failed campaign.",
+    "synonyms": ["defame", "slander", "vilify", "denigrate"],
+    "mnemonic": "MAL + IGN: mal = bad — to speak badly about someone, casting them in an evil light.",
+    "confusableNote": "malign (v.) vs. malign (adj.): the adjective means harmful or evil in nature; the verb means to slander."
+  },
+  {
+    "id": "objurgation",
+    "pos": "n",
+    "definition": "A harsh, sustained verbal reprimand or rebuke.",
+    "example": "The board's objurgation of the CEO was unprecedented in the company's history.",
+    "synonyms": ["reprimand", "castigation", "upbraiding", "rebuke"],
+    "mnemonic": "OB-JUR-GATE: 'jur' (as in jury) + gate — hauled before a judgment gate and scolded harshly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "odious",
+    "pos": "adj",
+    "definition": "Extremely unpleasant or repulsive; inspiring strong dislike or hatred.",
+    "example": "The committee found the terms of the agreement odious and refused to sign.",
+    "synonyms": ["repugnant", "abhorrent", "loathsome", "detestable"],
+    "mnemonic": "ODE + ious — an ode so bad it's disgusting; the opposite of praiseworthy.",
+    "confusableNote": ""
+  },
+  {
+    "id": "opprobrium",
+    "pos": "n",
+    "definition": "Harsh public condemnation and disgrace brought on by shameful conduct.",
+    "example": "The company faced international opprobrium after the scandal was exposed.",
+    "synonyms": ["ignominy", "infamy", "obloquy", "odium"],
+    "mnemonic": "OPPRESS + BRIUM: public oppression of your name — disgraced under the weight of public scorn.",
+    "confusableNote": ""
+  },
+  {
+    "id": "raillery",
+    "pos": "n",
+    "definition": "Good-natured teasing or playful mockery; banter.",
+    "example": "The colleagues' raillery during lunch kept the mood light despite the project's pressures.",
+    "synonyms": ["banter", "badinage", "persiflage", "ribbing"],
+    "mnemonic": "RAIL: railroads rattle and tease your ears — playful rattling of someone with jokes.",
+    "confusableNote": "raillery vs. ridicule: raillery is affectionate, good-humored teasing; ridicule aims to belittle or hurt."
+  },
+  {
+    "id": "reproach",
+    "pos": "v",
+    "definition": "To address someone with disapproval or criticism for a fault or offense.",
+    "example": "She reproached her assistant for sharing confidential information without authorization.",
+    "synonyms": ["rebuke", "reprove", "upbraid", "admonish"],
+    "mnemonic": "RE + APPROACH — approach again to confront and criticize.",
+    "confusableNote": ""
+  },
+  {
+    "id": "repugnant",
+    "pos": "adj",
+    "definition": "Causing extreme disgust or aversion; morally offensive.",
+    "example": "The jury found the defendant's actions repugnant and recommended the harshest sentence.",
+    "synonyms": ["abhorrent", "loathsome", "odious", "revolting"],
+    "mnemonic": "REPUGN: from 'pugn' (fight) — fighting against your stomach; it makes you recoil in disgust.",
+    "confusableNote": ""
+  },
+  {
+    "id": "satirical",
+    "pos": "adj",
+    "definition": "Using irony, exaggeration, or ridicule to expose and critique human folly or vice.",
+    "example": "The satirical novel skewered corporate greed by depicting executives as cartoon villains.",
+    "synonyms": ["ironic", "sardonic", "parodic", "lampoonish"],
+    "mnemonic": "SATIRE + ical: satire = cutting wit to expose flaws — satirical is the adjective form.",
+    "confusableNote": "satirical vs. sarcastic: satirical is a literary/artistic mode aimed at social critique; sarcastic is personal, often bitter mockery in speech."
+  },
+  {
+    "id": "scorn",
+    "pos": "n",
+    "definition": "Open contempt or disdain felt toward someone or something deemed unworthy.",
+    "example": "The veteran journalist met the newcomer's overconfident claims with undisguised scorn.",
+    "synonyms": ["contempt", "disdain", "derision", "opprobrium"],
+    "mnemonic": "SCORN: thorny and sharp — pierce someone with the thorns of contempt.",
+    "confusableNote": ""
+  }
+]

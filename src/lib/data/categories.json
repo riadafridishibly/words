@@ -1,0 +1,2660 @@
+{
+  "categories": [
+    {
+      "id": "approval-praise-honor-respect",
+      "title": "Approval, Praise, Honor, Respect",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "approval-praise-honor-respect--praise-approval-admiration",
+          "label": "Praise / approval / admiration",
+          "words": [
+            "acclaim",
+            "approbation",
+            "cherish",
+            "commend",
+            "deify",
+            "esteem",
+            "estimable",
+            "exalt",
+            "extol",
+            "gratify",
+            "laudable",
+            "lionize",
+            "meritorious",
+            "remarkable",
+            "venerate"
+          ]
+        },
+        {
+          "id": "approval-praise-honor-respect--noble-admirable-character",
+          "label": "Noble / admirable character",
+          "words": [
+            "altruistic",
+            "beneficent",
+            "benevolent",
+            "benign",
+            "chivalrous",
+            "empathetic",
+            "equitable",
+            "magnanimous",
+            "munificent",
+            "noble",
+            "providential",
+            "salutary"
+          ]
+        },
+        {
+          "id": "approval-praise-honor-respect--greatness-excellence-high-point",
+          "label": "Greatness / excellence / high point",
+          "words": [
+            "apogee",
+            "august",
+            "paragon",
+            "prime",
+            "prodigious",
+            "profound",
+            "profundity",
+            "prowess",
+            "redoubtable",
+            "robust",
+            "zenith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "criticism-blame-condemnation",
+      "title": "Criticism, Blame, Condemnation",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "criticism-blame-condemnation--criticize-scold-rebuke",
+          "label": "Criticize / scold / rebuke",
+          "words": [
+            "admonish",
+            "berate",
+            "castigate",
+            "censure",
+            "chastise",
+            "decry",
+            "denounce",
+            "deprecate",
+            "deride",
+            "excoriate",
+            "harangue",
+            "lambaste",
+            "objurgation",
+            "reproach",
+            "upbraid"
+          ]
+        },
+        {
+          "id": "criticism-blame-condemnation--attack-reputation-insult",
+          "label": "Attack reputation / insult",
+          "words": [
+            "affront",
+            "aspersion",
+            "calumny",
+            "defame",
+            "denigrate",
+            "malign",
+            "slander",
+            "tarnish",
+            "vilify"
+          ]
+        },
+        {
+          "id": "criticism-blame-condemnation--mockery-satire-joking-attack",
+          "label": "Mockery / satire / joking attack",
+          "words": [
+            "caricature",
+            "droll",
+            "facetious",
+            "lampoon",
+            "raillery",
+            "satirical"
+          ]
+        },
+        {
+          "id": "criticism-blame-condemnation--disapproval-contempt-hatred",
+          "label": "Disapproval / contempt / hatred",
+          "words": [
+            "abhor",
+            "antipathy",
+            "aversion",
+            "contempt",
+            "disdain",
+            "enmity",
+            "ire",
+            "loathe",
+            "odious",
+            "opprobrium",
+            "repugnant",
+            "scorn",
+            "umbrage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "argument-evidence-truth",
+      "title": "Argument, Evidence, Truth",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "argument-evidence-truth--prove-support-confirm",
+          "label": "Prove / support / confirm",
+          "words": [
+            "ascertain",
+            "assertive",
+            "corroborate",
+            "credible",
+            "incontrovertible",
+            "ironclad",
+            "patent",
+            "substantiate",
+            "tenable",
+            "veracity",
+            "verisimilitude",
+            "veritable",
+            "warranted"
+          ]
+        },
+        {
+          "id": "argument-evidence-truth--disprove-deny-challenge",
+          "label": "Disprove / deny / challenge",
+          "words": [
+            "debunk",
+            "gainsay",
+            "impugn",
+            "refute"
+          ]
+        },
+        {
+          "id": "argument-evidence-truth--reasonable-logical-wise",
+          "label": "Reasonable / logical / wise",
+          "words": [
+            "astute",
+            "canny",
+            "cerebral",
+            "cogent",
+            "coherent",
+            "conclusive",
+            "judicious",
+            "perspicacious",
+            "prudent",
+            "rational",
+            "sagacious",
+            "shrewd",
+            "sound"
+          ]
+        },
+        {
+          "id": "argument-evidence-truth--false-deceptive-not-reliable",
+          "label": "False / deceptive / not reliable",
+          "words": [
+            "bogus",
+            "counterfeit",
+            "dubious",
+            "fallacious",
+            "fallible",
+            "illusory",
+            "mendacity",
+            "phony",
+            "plausible",
+            "prevaricate",
+            "specious",
+            "spurious",
+            "suspect"
+          ]
+        },
+        {
+          "id": "argument-evidence-truth--confusing-unclear-hard-to-understand",
+          "label": "Confusing / unclear / hard to understand",
+          "words": [
+            "abstruse",
+            "arcane",
+            "befuddled",
+            "byzantine",
+            "confound",
+            "convoluted",
+            "enigmatic",
+            "flummoxed",
+            "impenetrable",
+            "inscrutable",
+            "obfuscate",
+            "opaque",
+            "recondite",
+            "tortuous",
+            "turbid"
+          ]
+        },
+        {
+          "id": "argument-evidence-truth--clear-easy-to-understand",
+          "label": "Clear / easy to understand",
+          "words": [
+            "accessible",
+            "decipher",
+            "discernible",
+            "elucidate",
+            "explicable",
+            "fathom",
+            "intelligible",
+            "limpid",
+            "lucid",
+            "palpable",
+            "pellucid",
+            "tangible"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "speech-writing-expression",
+      "title": "Speech, Writing, Expression",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "speech-writing-expression--talkative-wordy",
+          "label": "Talkative / wordy",
+          "words": [
+            "expatiate",
+            "garrulous",
+            "loquacious",
+            "prolix",
+            "ramble",
+            "verbose",
+            "vociferous",
+            "voluble"
+          ]
+        },
+        {
+          "id": "speech-writing-expression--brief-quiet-reserved",
+          "label": "Brief / quiet / reserved",
+          "words": [
+            "brevity",
+            "laconic",
+            "reticent",
+            "retiring",
+            "tacit",
+            "taciturn",
+            "terse"
+          ]
+        },
+        {
+          "id": "speech-writing-expression--eloquent-forceful-expression",
+          "label": "Eloquent / forceful expression",
+          "words": [
+            "articulate",
+            "eloquent",
+            "rhetoric",
+            "trenchant"
+          ]
+        },
+        {
+          "id": "speech-writing-expression--harsh-noisy-sound",
+          "label": "Harsh / noisy sound",
+          "words": [
+            "cacophonous",
+            "clamorous",
+            "clangor",
+            "obstreperous",
+            "shrill"
+          ]
+        },
+        {
+          "id": "speech-writing-expression--formal-writing-interpretation",
+          "label": "Formal writing / interpretation",
+          "words": [
+            "allegorical",
+            "allude",
+            "allusive",
+            "aphorism",
+            "dictum",
+            "didactic",
+            "documentary",
+            "exegesis",
+            "figurative",
+            "metaphorical",
+            "pithy",
+            "recapitulate",
+            "soliloquy",
+            "synoptic",
+            "treatise"
+          ]
+        },
+        {
+          "id": "speech-writing-expression--song-emotional-expression",
+          "label": "Song / emotional expression",
+          "words": [
+            "croon",
+            "dirge",
+            "plaintive",
+            "rhapsody"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deception-secrecy-trickery",
+      "title": "Deception, Secrecy, Trickery",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "deception-secrecy-trickery--lie-fake-disguise",
+          "label": "Lie / fake / disguise",
+          "words": [
+            "affectation",
+            "betray",
+            "cloak",
+            "disingenuous",
+            "dissemble",
+            "distort",
+            "dupe",
+            "duplicitous",
+            "evade",
+            "evasive",
+            "fabricate",
+            "feign",
+            "feint",
+            "furtive",
+            "sham"
+          ]
+        },
+        {
+          "id": "deception-secrecy-trickery--secret-hidden-indirect",
+          "label": "Secret / hidden / indirect",
+          "words": [
+            "clandestine",
+            "covert",
+            "discreet",
+            "surreptitious",
+            "ulterior"
+          ]
+        },
+        {
+          "id": "deception-secrecy-trickery--trick-manipulate-scheme",
+          "label": "Trick / manipulate / scheme",
+          "words": [
+            "artful",
+            "beguile",
+            "chicanery",
+            "crafty",
+            "cunning",
+            "inveigle",
+            "ploy",
+            "skullduggery",
+            "wheedle",
+            "wily"
+          ]
+        },
+        {
+          "id": "deception-secrecy-trickery--corruption-wrongdoing",
+          "label": "Corruption / wrongdoing",
+          "words": [
+            "depravity",
+            "malfeasance",
+            "perfidy",
+            "perpetrate",
+            "reprobate",
+            "sordid",
+            "turpitude",
+            "unscrupulous",
+            "venal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conflict-hostility-harm",
+      "title": "Conflict, Hostility, Harm",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "conflict-hostility-harm--fight-hostility-aggression",
+          "label": "Fight / hostility / aggression",
+          "words": [
+            "acrimonious",
+            "agitate",
+            "antagonize",
+            "assail",
+            "barrage",
+            "belligerent",
+            "contentious",
+            "factious",
+            "fractious",
+            "inimical",
+            "polemical",
+            "pugnacious",
+            "strife",
+            "tempestuous",
+            "truculent",
+            "virulent"
+          ]
+        },
+        {
+          "id": "conflict-hostility-harm--cruel-harmful-poisonous",
+          "label": "Cruel / harmful / poisonous",
+          "words": [
+            "abrasive",
+            "callous",
+            "caustic",
+            "deleterious",
+            "detrimental",
+            "malevolent",
+            "mordant",
+            "noxious",
+            "pernicious",
+            "sadistic"
+          ]
+        },
+        {
+          "id": "conflict-hostility-harm--destruction-damage-weaken",
+          "label": "Destruction / damage / weaken",
+          "words": [
+            "adulterate",
+            "debase",
+            "debilitating",
+            "detract",
+            "impair",
+            "jeopardize",
+            "ravage",
+            "undercut",
+            "undermine",
+            "vitiate"
+          ]
+        },
+        {
+          "id": "conflict-hostility-harm--disaster-crisis",
+          "label": "Disaster / crisis",
+          "words": [
+            "calamitous",
+            "cataclysmic",
+            "catastrophic",
+            "conflagration",
+            "contretemps",
+            "duress",
+            "harrowing",
+            "imbroglio",
+            "predicament",
+            "quandary"
+          ]
+        },
+        {
+          "id": "conflict-hostility-harm--revenge-suppress-defeat",
+          "label": "Revenge / suppress / defeat",
+          "words": [
+            "neutralize",
+            "quash",
+            "retaliate",
+            "suppress",
+            "vanquish"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "morality-integrity-rules",
+      "title": "Morality, Integrity, Rules",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "morality-integrity-rules--honesty-moral-correctness",
+          "label": "Honesty / moral correctness",
+          "words": [
+            "candid",
+            "decorum",
+            "frank",
+            "immaculate",
+            "inviolate",
+            "probity",
+            "propriety",
+            "scrupulous",
+            "veracity"
+          ]
+        },
+        {
+          "id": "morality-integrity-rules--strict-moralism-false-piety",
+          "label": "Strict moralism / false piety",
+          "words": [
+            "ascetic",
+            "austere",
+            "pious",
+            "puritanical",
+            "sanctimonious",
+            "spartan",
+            "stoic"
+          ]
+        },
+        {
+          "id": "morality-integrity-rules--rule-bound-severe-exacting",
+          "label": "Rule-bound / severe / exacting",
+          "words": [
+            "draconian",
+            "exacting",
+            "fastidious",
+            "meticulous",
+            "painstaking",
+            "punctilious",
+            "rigor",
+            "stern",
+            "stringent",
+            "thorough"
+          ]
+        },
+        {
+          "id": "morality-integrity-rules--improper-offensive-behavior",
+          "label": "Improper / offensive behavior",
+          "words": [
+            "bawdy",
+            "boorish",
+            "churlish",
+            "gauche",
+            "impertinent",
+            "impolitic",
+            "impudent",
+            "indecorous",
+            "insolent",
+            "irreverent",
+            "unseemly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pride-vanity-arrogance",
+      "title": "Pride, Vanity, Arrogance",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "pride-vanity-arrogance--arrogant-self-important",
+          "label": "Arrogant / self-important",
+          "words": [
+            "bombastic",
+            "bravado",
+            "cavalier",
+            "chauvinistic",
+            "elitist",
+            "haughty",
+            "imperious",
+            "narcissism",
+            "officious",
+            "pomposity",
+            "posturing",
+            "presumptuous",
+            "pretentious",
+            "supercilious"
+          ]
+        },
+        {
+          "id": "pride-vanity-arrogance--showy-overdone-style",
+          "label": "Showy / overdone style",
+          "words": [
+            "baroque",
+            "embellish",
+            "exorbitant",
+            "extravagant",
+            "flamboyant",
+            "florid",
+            "histrionic",
+            "lavish",
+            "ornate",
+            "ostentatious",
+            "panache",
+            "sensational",
+            "turgid"
+          ]
+        },
+        {
+          "id": "pride-vanity-arrogance--plain-restrained-style",
+          "label": "Plain / restrained style",
+          "words": [
+            "austere",
+            "modest",
+            "spartan",
+            "staid",
+            "subdued",
+            "understated",
+            "unadorned"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greed-money-spending",
+      "title": "Greed, Money, Spending",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "greed-money-spending--greedy-grasping",
+          "label": "Greedy / grasping",
+          "words": [
+            "acquisitive",
+            "avaricious",
+            "covet",
+            "mercenary",
+            "opportunistic",
+            "rapacious"
+          ]
+        },
+        {
+          "id": "greed-money-spending--miserly-withholding",
+          "label": "Miserly / withholding",
+          "words": [
+            "miserly",
+            "parsimonious",
+            "penurious",
+            "stinting"
+          ]
+        },
+        {
+          "id": "greed-money-spending--wasteful-excessive-spending",
+          "label": "Wasteful / excessive spending",
+          "words": [
+            "prodigal",
+            "profligate",
+            "self-indulgent",
+            "spendthrift",
+            "squander"
+          ]
+        },
+        {
+          "id": "greed-money-spending--wealth-payment-resources",
+          "label": "Wealth / payment / resources",
+          "words": [
+            "affluent",
+            "boon",
+            "largesse",
+            "lucrative",
+            "remuneration",
+            "sinecure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emotion-and-mood",
+      "title": "Emotion and Mood",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "emotion-and-mood--joy-energy-enthusiasm",
+          "label": "Joy / energy / enthusiasm",
+          "words": [
+            "alacrity",
+            "ardent",
+            "ebullient",
+            "elated",
+            "enchant",
+            "enthrall",
+            "euphoric",
+            "exhilarating",
+            "fervent",
+            "fervid",
+            "fervor",
+            "jocund",
+            "relish",
+            "vivacious",
+            "zealous"
+          ]
+        },
+        {
+          "id": "emotion-and-mood--sadness-gloom-grief",
+          "label": "Sadness / gloom / grief",
+          "words": [
+            "chagrin",
+            "crestfallen",
+            "distressed",
+            "glum",
+            "grievance",
+            "lament",
+            "lugubrious",
+            "mawkish",
+            "morose",
+            "poignant",
+            "resent",
+            "wistful",
+            "woeful"
+          ]
+        },
+        {
+          "id": "emotion-and-mood--fear-anxiety-worry",
+          "label": "Fear / anxiety / worry",
+          "words": [
+            "aghast",
+            "apprehension",
+            "chary",
+            "daunting",
+            "fret",
+            "qualm",
+            "skittish",
+            "timorous",
+            "trepidation",
+            "wary"
+          ]
+        },
+        {
+          "id": "emotion-and-mood--anger-irritation",
+          "label": "Anger / irritation",
+          "words": [
+            "exasperated",
+            "flustered",
+            "fractious",
+            "indignant",
+            "irascible",
+            "irksome",
+            "nettlesome",
+            "petulant",
+            "querulous",
+            "vexation"
+          ]
+        },
+        {
+          "id": "emotion-and-mood--calm-emotionally-steady",
+          "label": "Calm / emotionally steady",
+          "words": [
+            "aplomb",
+            "equanimity",
+            "imperturbable",
+            "nonchalant",
+            "phlegmatic",
+            "placid",
+            "poise",
+            "serene",
+            "sober",
+            "stolid",
+            "tranquil"
+          ]
+        },
+        {
+          "id": "emotion-and-mood--apathy-boredom-tiredness",
+          "label": "Apathy / boredom / tiredness",
+          "words": [
+            "apathy",
+            "ennui",
+            "humdrum",
+            "languid",
+            "lassitude",
+            "lethargic",
+            "sluggish",
+            "somnolent",
+            "soporific",
+            "tedious",
+            "torpor",
+            "vapid",
+            "weary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intelligence-learning-skill",
+      "title": "Intelligence, Learning, Skill",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "intelligence-learning-skill--skillful-capable",
+          "label": "Skillful / capable",
+          "words": [
+            "adept",
+            "adroit",
+            "competent",
+            "deft",
+            "dexterous",
+            "efficacious",
+            "facility",
+            "ingenious",
+            "proficient",
+            "resourceful",
+            "versatile"
+          ]
+        },
+        {
+          "id": "intelligence-learning-skill--knowledgeable-scholarly",
+          "label": "Knowledgeable / scholarly",
+          "words": [
+            "acumen",
+            "connoisseur",
+            "encyclopedic",
+            "erudite",
+            "polymath"
+          ]
+        },
+        {
+          "id": "intelligence-learning-skill--thinking-reflection",
+          "label": "Thinking / reflection",
+          "words": [
+            "cogitate",
+            "contemplate",
+            "intuitive",
+            "ponder",
+            "reflect",
+            "ruminate",
+            "speculate"
+          ]
+        },
+        {
+          "id": "intelligence-learning-skill--curious-searching",
+          "label": "Curious / searching",
+          "words": [
+            "inquisitive",
+            "keen",
+            "penetrating"
+          ]
+        },
+        {
+          "id": "intelligence-learning-skill--ignorant-clumsy-foolish",
+          "label": "Ignorant / clumsy / foolish",
+          "words": [
+            "callow",
+            "dilettante",
+            "feckless",
+            "foolhardy",
+            "gullible",
+            "inept",
+            "naive",
+            "philistine",
+            "puerile"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-relations-and-cooperation",
+      "title": "Social Relations and Cooperation",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "social-relations-and-cooperation--friendly-sociable",
+          "label": "Friendly / sociable",
+          "words": [
+            "affinity",
+            "amicable",
+            "comity",
+            "congenial",
+            "convivial",
+            "cordial",
+            "gregarious"
+          ]
+        },
+        {
+          "id": "social-relations-and-cooperation--peace-reconciliation-yielding",
+          "label": "Peace / reconciliation / yielding",
+          "words": [
+            "accord",
+            "acquiesce",
+            "appease",
+            "assuage",
+            "compromise",
+            "conciliatory",
+            "countenance",
+            "detente",
+            "mollify",
+            "pacify",
+            "placate",
+            "propitiate",
+            "reconcile",
+            "relent"
+          ]
+        },
+        {
+          "id": "social-relations-and-cooperation--help-support-strengthen",
+          "label": "Help / support / strengthen",
+          "words": [
+            "abet",
+            "advocate",
+            "bolster",
+            "buttress",
+            "champion",
+            "collaborate",
+            "conducive",
+            "endow",
+            "fortify",
+            "mediate",
+            "succor"
+          ]
+        },
+        {
+          "id": "social-relations-and-cooperation--obedience-submission",
+          "label": "Obedience / submission",
+          "words": [
+            "abide",
+            "comply",
+            "deference",
+            "fawn",
+            "grovel",
+            "obeisance",
+            "obsequious",
+            "subordinate",
+            "subservient",
+            "supplicate"
+          ]
+        },
+        {
+          "id": "social-relations-and-cooperation--isolation-distance",
+          "label": "Isolation / distance",
+          "words": [
+            "alienate",
+            "aloof",
+            "estranged",
+            "insular",
+            "parochial",
+            "recluse",
+            "remote"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "power-authority-control",
+      "title": "Power, Authority, Control",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "power-authority-control--rule-command-authority",
+          "label": "Rule / command / authority",
+          "words": [
+            "anoint",
+            "canonize",
+            "coercion",
+            "despotic",
+            "dictate",
+            "magisterial",
+            "martinet"
+          ]
+        },
+        {
+          "id": "power-authority-control--limit-restrain-block",
+          "label": "Limit / restrain / block",
+          "words": [
+            "bridle",
+            "check",
+            "circumscribe",
+            "curb",
+            "curtail",
+            "deter",
+            "forestall",
+            "hamper",
+            "hinder",
+            "impede",
+            "impediment",
+            "inhibit",
+            "manacle",
+            "occlude",
+            "preclude",
+            "stanch"
+          ]
+        },
+        {
+          "id": "power-authority-control--remove-reject-expel",
+          "label": "Remove / reject / expel",
+          "words": [
+            "abjure",
+            "banish",
+            "depose",
+            "forgo",
+            "forsake",
+            "jettison",
+            "omit",
+            "oust",
+            "relinquish",
+            "renounce",
+            "repudiate",
+            "spurn"
+          ]
+        },
+        {
+          "id": "power-authority-control--cancel-undo-reduce",
+          "label": "Cancel / undo / reduce",
+          "words": [
+            "abate",
+            "abrogate",
+            "annul",
+            "cease",
+            "mitigate",
+            "nullify",
+            "obviate",
+            "quell",
+            "quiescent",
+            "subside"
+          ]
+        },
+        {
+          "id": "power-authority-control--replace-overtake-surpass",
+          "label": "Replace / overtake / surpass",
+          "words": [
+            "outstrip",
+            "prevail",
+            "supersede",
+            "supplant",
+            "surmount",
+            "transcend"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "persistence-effort-courage",
+      "title": "Persistence, Effort, Courage",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "persistence-effort-courage--persistent-hardworking",
+          "label": "Persistent / hardworking",
+          "words": [
+            "dogged",
+            "indefatigable",
+            "industrious",
+            "inveterate",
+            "perseverance",
+            "pertinacious",
+            "resilient",
+            "resolute",
+            "resolve",
+            "sedulous",
+            "steadfast",
+            "tenacious",
+            "vigilant"
+          ]
+        },
+        {
+          "id": "persistence-effort-courage--brave-bold",
+          "label": "Brave / bold",
+          "words": [
+            "audacious",
+            "brazen",
+            "intrepid",
+            "mettlesome",
+            "plucky",
+            "temerity",
+            "valor"
+          ]
+        },
+        {
+          "id": "persistence-effort-courage--firm-unyielding",
+          "label": "Firm / unyielding",
+          "words": [
+            "adamant",
+            "headstrong",
+            "implacable",
+            "intransigent",
+            "obdurate",
+            "obstinate",
+            "stalwart",
+            "stolid",
+            "willful"
+          ]
+        },
+        {
+          "id": "persistence-effort-courage--weak-timid-failing",
+          "label": "Weak / timid / failing",
+          "words": [
+            "abject",
+            "craven",
+            "falter",
+            "feeble",
+            "frailty",
+            "hapless",
+            "languish",
+            "liability",
+            "passive",
+            "subdued",
+            "yield"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "change-growth-decline",
+      "title": "Change, Growth, Decline",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "change-growth-decline--start-create-cause",
+          "label": "Start / create / cause",
+          "words": [
+            "commence",
+            "engender",
+            "ensue",
+            "evoke",
+            "foment",
+            "incite",
+            "induce",
+            "instigate",
+            "precipitate"
+          ]
+        },
+        {
+          "id": "change-growth-decline--grow-increase-spread",
+          "label": "Grow / increase / spread",
+          "words": [
+            "abound",
+            "aggrandize",
+            "amplify",
+            "augment",
+            "burgeon",
+            "crescendo",
+            "distend",
+            "escalate",
+            "inundate",
+            "proliferate",
+            "profuse",
+            "propagate",
+            "rampant",
+            "surfeit"
+          ]
+        },
+        {
+          "id": "change-growth-decline--improve-heal-restore",
+          "label": "Improve / heal / restore",
+          "words": [
+            "alleviate",
+            "ameliorate",
+            "amend",
+            "burnish",
+            "cathartic",
+            "convalescent",
+            "invigorate",
+            "replenish",
+            "salubrious"
+          ]
+        },
+        {
+          "id": "change-growth-decline--decline-disappear-dry-up",
+          "label": "Decline / disappear / dry up",
+          "words": [
+            "desiccate",
+            "dormant",
+            "dwindling",
+            "eclipse",
+            "evanescent",
+            "fallow",
+            "lull",
+            "retrench",
+            "wane"
+          ]
+        },
+        {
+          "id": "change-growth-decline--destroy-eliminate",
+          "label": "Destroy / eliminate",
+          "words": [
+            "dismantle",
+            "eradicate",
+            "exorcise",
+            "sever"
+          ]
+        },
+        {
+          "id": "change-growth-decline--old-new-beginning",
+          "label": "Old / new / beginning",
+          "words": [
+            "archaic",
+            "anachronistic",
+            "antedate",
+            "erstwhile",
+            "extant",
+            "fledgling",
+            "inchoate",
+            "nascent",
+            "neophyte",
+            "obsolete",
+            "onetime",
+            "vestigial"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-frequency-duration",
+      "title": "Time, Frequency, Duration",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "time-frequency-duration--short-lived-temporary",
+          "label": "Short-lived / temporary",
+          "words": [
+            "ephemeral",
+            "fitful",
+            "intermittent",
+            "momentary",
+            "sporadic",
+            "temporal",
+            "transient",
+            "transitory"
+          ]
+        },
+        {
+          "id": "time-frequency-duration--long-lasting-constant",
+          "label": "Long-lasting / constant",
+          "words": [
+            "endemic",
+            "entrenched",
+            "incessant",
+            "ingrained",
+            "interminable",
+            "perennial",
+            "perpetuate",
+            "pervasive"
+          ]
+        },
+        {
+          "id": "time-frequency-duration--before-after-future-signs",
+          "label": "Before / after / future signs",
+          "words": [
+            "forebode",
+            "foreseeable",
+            "harbinger",
+            "imminent",
+            "ominous",
+            "portend",
+            "prefigure",
+            "premeditate",
+            "presage",
+            "prescient",
+            "prophetic",
+            "recrudescent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quantity-degree-scope",
+      "title": "Quantity, Degree, Scope",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "quantity-degree-scope--many-enough-abundant",
+          "label": "Many / enough / abundant",
+          "words": [
+            "copious",
+            "fecund",
+            "fruitful",
+            "omnipresent",
+            "ubiquitous"
+          ]
+        },
+        {
+          "id": "quantity-degree-scope--few-small-lacking",
+          "label": "Few / small / lacking",
+          "words": [
+            "dearth",
+            "diminutive",
+            "marginalize",
+            "meager",
+            "minute",
+            "paltry",
+            "scant",
+            "sparse",
+            "trifling",
+            "trivial"
+          ]
+        },
+        {
+          "id": "quantity-degree-scope--excess-total-extreme",
+          "label": "Excess / total / extreme",
+          "words": [
+            "all-encompassing",
+            "exhaustive",
+            "inordinate",
+            "utterly"
+          ]
+        },
+        {
+          "id": "quantity-degree-scope--universal-broad-many-sided",
+          "label": "Universal / broad / many-sided",
+          "words": [
+            "cosmopolitan",
+            "eclectic",
+            "heterogeneous",
+            "homogeneous",
+            "multifaceted",
+            "universal"
+          ]
+        },
+        {
+          "id": "quantity-degree-scope--partial-side-issue-not-central",
+          "label": "Partial / side issue / not central",
+          "words": [
+            "extraneous",
+            "fringe",
+            "incidental",
+            "partial",
+            "peripheral",
+            "tangential"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "similarity-difference-classification",
+      "title": "Similarity, Difference, Classification",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "similarity-difference-classification--same-comparable-fitting",
+          "label": "Same / comparable / fitting",
+          "words": [
+            "analogous",
+            "apposite",
+            "apropos",
+            "commensurate",
+            "complementary",
+            "correlate",
+            "fungible",
+            "germane",
+            "interchangeable",
+            "pertinent",
+            "tantamount"
+          ]
+        },
+        {
+          "id": "similarity-difference-classification--different-contradictory-odd",
+          "label": "Different / contradictory / odd",
+          "words": [
+            "aberrant",
+            "anomalous",
+            "antithesis",
+            "dichotomy",
+            "discrepancy",
+            "disparate",
+            "divergent",
+            "incongruous",
+            "peculiar",
+            "quirky"
+          ]
+        },
+        {
+          "id": "similarity-difference-classification--category-model-example",
+          "label": "Category / model / example",
+          "words": [
+            "archetype",
+            "benchmark",
+            "cluster",
+            "echelon",
+            "paradigmatic",
+            "repertoire"
+          ]
+        },
+        {
+          "id": "similarity-difference-classification--mixture-joining-complexity",
+          "label": "Mixture / joining / complexity",
+          "words": [
+            "amalgamate",
+            "coalesce",
+            "collude",
+            "compound",
+            "conspire",
+            "intertwined"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appearance-beauty-taste-style",
+      "title": "Appearance, Beauty, Taste, Style",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "appearance-beauty-taste-style--beautiful-tasteful-visually-striking",
+          "label": "Beautiful / tasteful / visually striking",
+          "words": [
+            "aesthetic",
+            "arresting",
+            "felicitous",
+            "picturesque",
+            "piquant",
+            "scintillating"
+          ]
+        },
+        {
+          "id": "appearance-beauty-taste-style--dull-ordinary-stale",
+          "label": "Dull / ordinary / stale",
+          "words": [
+            "banal",
+            "bromide",
+            "hackneyed",
+            "insipid",
+            "mundane",
+            "monotonous",
+            "pedestrian",
+            "platitude",
+            "prosaic",
+            "trite"
+          ]
+        },
+        {
+          "id": "appearance-beauty-taste-style--ugly-awkward-unfashionable",
+          "label": "Ugly / awkward / unfashionable",
+          "words": [
+            "dowdy",
+            "gawky",
+            "slovenly"
+          ]
+        },
+        {
+          "id": "appearance-beauty-taste-style--modern-fashionable-sophisticated",
+          "label": "Modern / fashionable / sophisticated",
+          "words": [
+            "contemporary",
+            "modish",
+            "sophisticated",
+            "urbane"
+          ]
+        },
+        {
+          "id": "appearance-beauty-taste-style--simple-basic",
+          "label": "Simple / basic",
+          "words": [
+            "elementary",
+            "rudimentary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physical-concrete-nature",
+      "title": "Physical, Concrete, Nature",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "physical-concrete-nature--shape-material-body",
+          "label": "Shape / material / body",
+          "words": [
+            "amorphous",
+            "corporeal",
+            "malleable",
+            "plastic",
+            "pliant",
+            "supple",
+            "sinuous"
+          ]
+        },
+        {
+          "id": "physical-concrete-nature--land-rural-natural",
+          "label": "Land / rural / natural",
+          "words": [
+            "barren",
+            "blighted",
+            "bucolic",
+            "fallow",
+            "fecund"
+          ]
+        },
+        {
+          "id": "physical-concrete-nature--movement-travel-wandering",
+          "label": "Movement / travel / wandering",
+          "words": [
+            "dawdle",
+            "erratic",
+            "itinerant",
+            "nimble",
+            "plodding",
+            "wayward"
+          ]
+        },
+        {
+          "id": "physical-concrete-nature--health-body-state",
+          "label": "Health / body state",
+          "words": [
+            "debilitating",
+            "feeble",
+            "infirm",
+            "languid",
+            "salubrious",
+            "somnolent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "law-politics-society",
+      "title": "Law, Politics, Society",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "law-politics-society--public-affairs-ideology",
+          "label": "Public affairs / ideology",
+          "words": [
+            "egalitarian",
+            "ideologue",
+            "radical",
+            "xenophobic"
+          ]
+        },
+        {
+          "id": "law-politics-society--conflict-in-groups",
+          "label": "Conflict in groups",
+          "words": [
+            "dissent",
+            "dissident",
+            "mutiny",
+            "polarize",
+            "schism"
+          ]
+        },
+        {
+          "id": "law-politics-society--legal-official",
+          "label": "Legal / official",
+          "words": [
+            "abeyance",
+            "indictment",
+            "inalienable",
+            "quarantine",
+            "recourse",
+            "sanction",
+            "surrogate"
+          ]
+        },
+        {
+          "id": "law-politics-society--social-class-role",
+          "label": "Social class / role",
+          "words": [
+            "acolyte",
+            "disciple",
+            "intermediary",
+            "patronize",
+            "proxy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "religion-sacredness-mystery",
+      "title": "Religion, Sacredness, Mystery",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "religion-sacredness-mystery--sacred-religious",
+          "label": "Sacred / religious",
+          "words": [
+            "numinous",
+            "sacrosanct"
+          ]
+        },
+        {
+          "id": "religion-sacredness-mystery--mystical-hidden-knowledge",
+          "label": "Mystical / hidden knowledge",
+          "words": [
+            "esoteric",
+            "occult"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "decision-choice-preference",
+      "title": "Decision, Choice, Preference",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "decision-choice-preference--like-tendency-preference",
+          "label": "Like / tendency / preference",
+          "words": [
+            "avid",
+            "inclined",
+            "penchant",
+            "predilection",
+            "proclivity",
+            "propensity"
+          ]
+        },
+        {
+          "id": "decision-choice-preference--avoid-refuse-abstain",
+          "label": "Avoid / refuse / abstain",
+          "words": [
+            "abstain",
+            "eschew",
+            "refrain",
+            "shirk",
+            "skirt"
+          ]
+        },
+        {
+          "id": "decision-choice-preference--doubt-hesitation-uncertainty",
+          "label": "Doubt / hesitation / uncertainty",
+          "words": [
+            "ambivalent",
+            "demur",
+            "diffident",
+            "equivocate",
+            "irresolute",
+            "nonplussed",
+            "tentative",
+            "vacillate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "practicality-usefulness-success",
+      "title": "Practicality, Usefulness, Success",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "practicality-usefulness-success--practical-useful-workable",
+          "label": "Practical / useful / workable",
+          "words": [
+            "expedient",
+            "feasible",
+            "utilitarian",
+            "viable"
+          ]
+        },
+        {
+          "id": "practicality-usefulness-success--necessary-important",
+          "label": "Necessary / important",
+          "words": [
+            "imperative",
+            "indispensable",
+            "intrinsic",
+            "vitality"
+          ]
+        },
+        {
+          "id": "practicality-usefulness-success--unhelpful-pointless",
+          "label": "Unhelpful / pointless",
+          "words": [
+            "futile",
+            "gratuitous",
+            "superfluous",
+            "redundant"
+          ]
+        },
+        {
+          "id": "practicality-usefulness-success--good-chance-lucky",
+          "label": "Good chance / lucky",
+          "words": [
+            "auspicious",
+            "buoyant",
+            "fortuitous",
+            "propitious",
+            "serendipitous",
+            "sanguine"
+          ]
+        },
+        {
+          "id": "practicality-usefulness-success--bad-chance-risk",
+          "label": "Bad chance / risk",
+          "words": [
+            "adverse",
+            "fraught",
+            "perilous",
+            "precarious"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "method-process-order",
+      "title": "Method, Process, Order",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "method-process-order--careful-cautious-deliberate",
+          "label": "Careful / cautious / deliberate",
+          "words": [
+            "circumspect",
+            "deliberate",
+            "disinterested",
+            "economy",
+            "exhaustive",
+            "methodical"
+          ]
+        },
+        {
+          "id": "method-process-order--random-careless-scattered",
+          "label": "Random / careless / scattered",
+          "words": [
+            "arbitrary",
+            "capricious",
+            "desultory",
+            "haphazard",
+            "indiscriminate",
+            "mercurial",
+            "volatile",
+            "whimsical"
+          ]
+        },
+        {
+          "id": "method-process-order--slow-delay",
+          "label": "Slow / delay",
+          "words": [
+            "dilatory",
+            "dawdle",
+            "plodding"
+          ]
+        },
+        {
+          "id": "method-process-order--quick-speed-up",
+          "label": "Quick / speed up",
+          "words": [
+            "expedite"
+          ]
+        },
+        {
+          "id": "method-process-order--direct-frank-plain",
+          "label": "Direct / frank / plain",
+          "words": [
+            "candid",
+            "frank",
+            "overt"
+          ]
+        },
+        {
+          "id": "method-process-order--indirect-evasive-hidden",
+          "label": "Indirect / evasive / hidden",
+          "words": [
+            "coy",
+            "indirect",
+            "subtle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interpretation-meaning-explanation",
+      "title": "Interpretation, Meaning, Explanation",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "interpretation-meaning-explanation--explain-understand-read-meaning",
+          "label": "Explain / understand / read meaning",
+          "words": [
+            "ascribe",
+            "attribute",
+            "construe",
+            "delineate",
+            "distill",
+            "elaborate",
+            "extrapolate",
+            "inform",
+            "intimate",
+            "manifest",
+            "underscore"
+          ]
+        },
+        {
+          "id": "interpretation-meaning-explanation--wrong-name-wrong-meaning",
+          "label": "Wrong name / wrong meaning",
+          "words": [
+            "euphemism",
+            "misnomer",
+            "pejorative"
+          ]
+        },
+        {
+          "id": "interpretation-meaning-explanation--abstract-theoretical",
+          "label": "Abstract / theoretical",
+          "words": [
+            "abstract",
+            "axiomatic",
+            "circumstantial",
+            "conjectural",
+            "empirical",
+            "subjective"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mixed-or-multiple-meaning-gre-traps",
+      "title": "Mixed or Multiple-Meaning GRE Traps",
+      "special": "traps",
+      "subgroups": [
+        {
+          "id": "mixed-or-multiple-meaning-gre-traps--all",
+          "label": "GRE trap meanings",
+          "words": [
+            "base",
+            "brook",
+            "check",
+            "coin",
+            "content",
+            "discount",
+            "dispense",
+            "divorced",
+            "entitled",
+            "fawn",
+            "flush",
+            "hamper",
+            "inform",
+            "intimate",
+            "minute",
+            "patent",
+            "plastic",
+            "qualified",
+            "render",
+            "sanction",
+            "slight",
+            "sound",
+            "stem-from",
+            "temper",
+            "token",
+            "wanting",
+            "yield"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "additional-source-terms-by-semantic-tray",
+      "title": "Additional Source Terms by Semantic Tray",
+      "special": null,
+      "subgroups": [
+        {
+          "id": "additional-source-terms-by-semantic-tray--inform-state-reveal",
+          "label": "Inform / state / reveal",
+          "words": [
+            "abreast",
+            "apprise",
+            "aver",
+            "divulge",
+            "elicit",
+            "heed"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--emphasize-repeat-promote",
+          "label": "Emphasize / repeat / promote",
+          "words": [
+            "accentuate",
+            "reiterate",
+            "tout"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--argue-defend-persuade",
+          "label": "Argue / defend / persuade",
+          "words": [
+            "apologist",
+            "cajole",
+            "compelling",
+            "contend",
+            "conviction",
+            "entreat",
+            "exhort",
+            "glib",
+            "quibble",
+            "sophistry"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--agreement-obligation-cooperation",
+          "label": "Agreement / obligation / cooperation",
+          "words": [
+            "adhere",
+            "amenable",
+            "auxiliary",
+            "beholden",
+            "consensus",
+            "dutiful"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--contradiction-puzzle-false-belief",
+          "label": "Contradiction / puzzle / false belief",
+          "words": [
+            "belie",
+            "conundrum",
+            "delusion",
+            "paradoxical"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--hostility-provocation-anger",
+          "label": "Hostility / provocation / anger",
+          "words": [
+            "animosity",
+            "animus",
+            "boisterous",
+            "diatribe",
+            "goad",
+            "grumble",
+            "incendiary",
+            "provocative",
+            "tirade",
+            "turbulent"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--criticism-fault-shame",
+          "label": "Criticism / fault / shame",
+          "words": [
+            "belittle",
+            "captious",
+            "effrontery",
+            "scathing",
+            "stigmatize"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--guilt-remorse-blame-cleared",
+          "label": "Guilt, remorse, blame cleared",
+          "words": [
+            "contrite",
+            "exculpate",
+            "exonerate",
+            "extenuating",
+            "peccadillo",
+            "recant"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--rules-violations-restraint",
+          "label": "Rules, violations, restraint",
+          "words": [
+            "censor",
+            "contravene",
+            "flout",
+            "prescribe",
+            "transgression"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--harm-worsening-hidden-danger",
+          "label": "Harm, worsening, hidden danger",
+          "words": [
+            "astringent",
+            "attenuate",
+            "enervate",
+            "exacerbate",
+            "fester",
+            "flagrant",
+            "insidious",
+            "subvert"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--avoid-prevent-escape-surrender",
+          "label": "Avoid, prevent, escape, surrender",
+          "words": [
+            "abscond",
+            "avert",
+            "capitulate",
+            "deflect",
+            "foil",
+            "withstand"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--difficult-burdensome-awkward",
+          "label": "Difficult, burdensome, awkward",
+          "words": [
+            "arduous",
+            "cumbersome",
+            "onerous",
+            "ponderous"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--urgent-risky-powerful",
+          "label": "Urgent, risky, powerful",
+          "words": [
+            "egregious",
+            "exigent",
+            "potent",
+            "precipitous"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--careless-lazy-shallow",
+          "label": "Careless, lazy, shallow",
+          "words": [
+            "cursory",
+            "indolent",
+            "lax",
+            "negligent",
+            "perfunctory",
+            "superficial"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--fussy-fault-finding-exact",
+          "label": "Fussy, fault-finding, exact",
+          "words": [
+            "finicky",
+            "pedantic"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--practical-situational-suitable",
+          "label": "Practical, situational, suitable",
+          "words": [
+            "ad-hoc",
+            "appropriate",
+            "apt",
+            "conventional",
+            "passable",
+            "tractable"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--temporary-improvised-provisional",
+          "label": "Temporary, improvised, provisional",
+          "words": [
+            "extemporize",
+            "improvise",
+            "makeshift"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--changeable-unstable",
+          "label": "Changeable / unstable",
+          "words": [
+            "deviate",
+            "fickle",
+            "frenetic",
+            "impetuous",
+            "impulsive",
+            "restive"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--fixed-rigid-unchanging",
+          "label": "Fixed / rigid / unchanging",
+          "words": [
+            "immutable",
+            "ossify"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--spread-scatter-include",
+          "label": "Spread / scatter / include",
+          "words": [
+            "diffuse",
+            "disentangle",
+            "disperse",
+            "disseminate",
+            "subsume"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--consequences-aftereffects",
+          "label": "Consequences / aftereffects",
+          "words": [
+            "ramification",
+            "repercussion",
+            "residual"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--improve-fix-lower-rank-go-back",
+          "label": "Improve / fix / lower rank / go back",
+          "words": [
+            "refine",
+            "regress",
+            "relegate",
+            "remedial",
+            "renege"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--pure-untouched-complete",
+          "label": "Pure / untouched / complete",
+          "words": [
+            "pristine",
+            "unalloyed"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--adequate-empty-lacking-depth",
+          "label": "Adequate / empty / lacking depth",
+          "words": [
+            "nominal",
+            "vacuous"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--originality-imitation",
+          "label": "Originality / imitation",
+          "words": [
+            "derivative",
+            "emulate",
+            "fanciful",
+            "mimic",
+            "pastiche"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--odd-unconventional-strange",
+          "label": "Odd / unconventional / strange",
+          "words": [
+            "eccentric",
+            "elusive",
+            "exotic",
+            "heterodox",
+            "iconoclastic",
+            "idiosyncratic",
+            "indefinite",
+            "outlandish",
+            "tenuous"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--narrow-minded-limited-view",
+          "label": "Narrow-minded / limited view",
+          "words": [
+            "hidebound",
+            "myopic",
+            "provincial"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--mixture-collection",
+          "label": "Mixture / collection",
+          "words": [
+            "hodgepodge"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--communication-style-traps",
+          "label": "Communication style traps",
+          "words": [
+            "diffuse",
+            "digression",
+            "hyperbole",
+            "implicit",
+            "infelicity",
+            "tendentious",
+            "valedictory"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--instruction-education",
+          "label": "Instruction / education",
+          "words": [
+            "doctrinaire",
+            "dogmatic",
+            "edify"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--comedy-lightness-social-slip",
+          "label": "Comedy / lightness / social slip",
+          "words": [
+            "gaffe",
+            "levity"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--drama-intense-emotion",
+          "label": "Drama / intense emotion",
+          "words": [
+            "discomfit",
+            "disconcerting",
+            "heady",
+            "hysterical",
+            "macabre",
+            "sentimental",
+            "tantalizing"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--humility-sympathy-restraint",
+          "label": "Humility, sympathy, restraint",
+          "words": [
+            "artless",
+            "commiserate",
+            "forbear",
+            "tact"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--self-satisfaction-indulgence",
+          "label": "Self-satisfaction / indulgence",
+          "words": [
+            "blithe",
+            "cloying",
+            "coddle",
+            "complacent",
+            "condone"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--loss-deprivation-sadness",
+          "label": "Loss / deprivation / sadness",
+          "words": [
+            "bereft",
+            "nadir",
+            "pensive"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--corrupt-immoral-people",
+          "label": "Corrupt / immoral people",
+          "words": [
+            "decadent",
+            "exploitative",
+            "hypocrite",
+            "libertine",
+            "miscreant",
+            "prurient"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--dislike-humanity-malicious-unfairness",
+          "label": "Dislike humanity / malicious unfairness",
+          "words": [
+            "devious",
+            "misanthropic",
+            "invidious"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--naive-harmless-unaware",
+          "label": "Naive / harmless / unaware",
+          "words": [
+            "ingenuous",
+            "innocuous",
+            "oblivious"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--immune-impossible-to-avoid",
+          "label": "Immune / impossible to avoid",
+          "words": [
+            "impervious",
+            "ineluctable"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--natural-innate-early",
+          "label": "Natural / innate / early",
+          "words": [
+            "inborn",
+            "precocious"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--knowledge-perception-extremes",
+          "label": "Knowledge / perception extremes",
+          "words": [
+            "incredulous",
+            "omniscient",
+            "visionary"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--intrusion-confinement-limits",
+          "label": "Intrusion / confinement / limits",
+          "words": [
+            "encroach",
+            "immure",
+            "invasive",
+            "latitude"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--intrigue-fascination-schemes",
+          "label": "Intrigue / fascination / schemes",
+          "words": [
+            "intrigue"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--low-point-high-energy",
+          "label": "Low point / high energy",
+          "words": [
+            "verve"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--core-support-turning-point",
+          "label": "Core support / turning point",
+          "words": [
+            "fulcrum"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--visible-manners-personality",
+          "label": "Visible / manners / personality",
+          "words": [
+            "conspicuous",
+            "curmudgeon",
+            "deportment"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--courage-stimulation-triumph",
+          "label": "Courage / stimulation / triumph",
+          "words": [
+            "fortitude",
+            "galvanize",
+            "gloat"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--minor-weak-lukewarm",
+          "label": "Minor / weak / lukewarm",
+          "words": [
+            "frivolous",
+            "tepid"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--cure-all-tempting-solution",
+          "label": "Cure-all / tempting solution",
+          "words": [
+            "panacea"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--unrealistic-idealism",
+          "label": "Unrealistic idealism",
+          "words": [
+            "quixotic"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--new-never-before",
+          "label": "New / never before",
+          "words": [
+            "unprecedented"
+          ]
+        },
+        {
+          "id": "additional-source-terms-by-semantic-tray--solve-untangle-fall-apart",
+          "label": "Solve / untangle / fall apart",
+          "words": [
+            "unravel"
+          ]
+        }
+      ]
+    }
+  ],
+  "chains": [
+    {
+      "label": "Deception chain",
+      "words": [
+        "dissemble",
+        "feign",
+        "fabricate",
+        "dupe",
+        "inveigle",
+        "swindle"
+      ]
+    },
+    {
+      "label": "Criticism chain",
+      "words": [
+        "admonish",
+        "censure",
+        "castigate",
+        "excoriate",
+        "vilify"
+      ]
+    },
+    {
+      "label": "Stubborn chain",
+      "words": [
+        "obstinate",
+        "obdurate",
+        "intransigent",
+        "implacable",
+        "pertinacious"
+      ]
+    },
+    {
+      "label": "Quiet speech chain",
+      "words": [
+        "taciturn",
+        "reticent",
+        "laconic",
+        "terse"
+      ]
+    },
+    {
+      "label": "Showy style chain",
+      "words": [
+        "flamboyant",
+        "ostentatious",
+        "florid",
+        "baroque",
+        "histrionic"
+      ]
+    },
+    {
+      "label": "Unclear chain",
+      "words": [
+        "opaque",
+        "obscure",
+        "abstruse",
+        "recondite",
+        "inscrutable"
+      ]
+    },
+    {
+      "label": "Waste/greed chain",
+      "words": [
+        "avaricious",
+        "rapacious",
+        "mercenary",
+        "profligate",
+        "spendthrift"
+      ]
+    }
+  ],
+  "pairs": [
+    [
+      "venal",
+      "mercenary"
+    ],
+    [
+      "laconic",
+      "terse"
+    ],
+    [
+      "specious",
+      "spurious"
+    ]
+  ],
+  "traps": [
+    {
+      "word": "base",
+      "display": "base",
+      "cue": "morally low; also foundation"
+    },
+    {
+      "word": "brook",
+      "display": "brook",
+      "cue": "tolerate"
+    },
+    {
+      "word": "check",
+      "display": "check",
+      "cue": "stop/restrain"
+    },
+    {
+      "word": "coin",
+      "display": "coin",
+      "cue": "invent a word/phrase"
+    },
+    {
+      "word": "content",
+      "display": "content",
+      "cue": "satisfied; also substance"
+    },
+    {
+      "word": "discount",
+      "display": "discount",
+      "cue": "disregard"
+    },
+    {
+      "word": "dispense",
+      "display": "dispense",
+      "cue": "distribute; do without"
+    },
+    {
+      "word": "divorced",
+      "display": "divorced",
+      "cue": "separated from"
+    },
+    {
+      "word": "entitled",
+      "display": "entitled",
+      "cue": "believing one deserves special treatment"
+    },
+    {
+      "word": "fawn",
+      "display": "fawn",
+      "cue": "flatter submissively"
+    },
+    {
+      "word": "flush",
+      "display": "flush",
+      "cue": "abundant; embarrassed"
+    },
+    {
+      "word": "hamper",
+      "display": "hamper",
+      "cue": "hinder"
+    },
+    {
+      "word": "inform",
+      "display": "inform",
+      "cue": "shape/give character to"
+    },
+    {
+      "word": "intimate",
+      "display": "intimate",
+      "cue": "suggest indirectly"
+    },
+    {
+      "word": "minute",
+      "display": "minute",
+      "cue": "tiny"
+    },
+    {
+      "word": "patent",
+      "display": "patent",
+      "cue": "obvious"
+    },
+    {
+      "word": "plastic",
+      "display": "plastic",
+      "cue": "moldable"
+    },
+    {
+      "word": "qualified",
+      "display": "qualified",
+      "cue": "limited; competent"
+    },
+    {
+      "word": "render",
+      "display": "render",
+      "cue": "make; provide"
+    },
+    {
+      "word": "sanction",
+      "display": "sanction",
+      "cue": "approve; punish"
+    },
+    {
+      "word": "slight",
+      "display": "slight",
+      "cue": "insult; small"
+    },
+    {
+      "word": "sound",
+      "display": "sound",
+      "cue": "reliable; healthy"
+    },
+    {
+      "word": "stem-from",
+      "display": "stem from",
+      "cue": "arise from"
+    },
+    {
+      "word": "temper",
+      "display": "temper",
+      "cue": "moderate; disposition"
+    },
+    {
+      "word": "token",
+      "display": "token",
+      "cue": "symbolic; nominal"
+    },
+    {
+      "word": "wanting",
+      "display": "wanting",
+      "cue": "lacking"
+    },
+    {
+      "word": "yield",
+      "display": "yield",
+      "cue": "produce; give way"
+    }
+  ],
+  "plan": [
+    {
+      "day": 1,
+      "title": "Judgment and argument",
+      "categories": [
+        "approval-praise-honor-respect",
+        "criticism-blame-condemnation",
+        "argument-evidence-truth",
+        "interpretation-meaning-explanation"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Communication",
+      "categories": [
+        "speech-writing-expression",
+        "deception-secrecy-trickery",
+        "mixed-or-multiple-meaning-gre-traps"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "People and emotion",
+      "categories": [
+        "emotion-and-mood",
+        "intelligence-learning-skill",
+        "pride-vanity-arrogance",
+        "morality-integrity-rules"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Society and power",
+      "categories": [
+        "social-relations-and-cooperation",
+        "power-authority-control",
+        "law-politics-society",
+        "religion-sacredness-mystery"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "Conflict and difficulty",
+      "categories": [
+        "conflict-hostility-harm",
+        "persistence-effort-courage",
+        "practicality-usefulness-success"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Change and qualities",
+      "categories": [
+        "change-growth-decline",
+        "time-frequency-duration",
+        "quantity-degree-scope",
+        "similarity-difference-classification"
+      ]
+    },
+    {
+      "day": 7,
+      "title": "Style, physical meaning, and cleanup",
+      "categories": [
+        "appearance-beauty-taste-style",
+        "physical-concrete-nature",
+        "decision-choice-preference",
+        "method-process-order",
+        "additional-source-terms-by-semantic-tray"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "repertoire",
+    "pos": "n",
+    "definition": "The full stock of skills, works, or techniques that a person or group is prepared to perform or employ.",
+    "example": "The violinist's repertoire spanned three centuries, from Baroque sonatas to contemporary concertos.",
+    "synonyms": ["canon", "inventory", "stock", "compendium"],
+    "mnemonic": "Re-PERT-oire: your PERformance STORE of ready skills.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tantamount",
+    "pos": "adj",
+    "definition": "Equivalent in value, significance, or effect to something else.",
+    "example": "Refusing to testify was tantamount to an admission of guilt in the court of public opinion.",
+    "synonyms": ["equivalent", "comparable", "synonymous", "commensurate"],
+    "mnemonic": "TANT-amount: the SAME amount — equal in weight.",
+    "confusableNote": "Do not confuse with 'paramount' (supreme, foremost); tantamount means equal to, not superior."
+  },
+  {
+    "id": "abet",
+    "pos": "v",
+    "definition": "To assist or encourage someone, especially in wrongdoing.",
+    "example": "The accountant was charged with abetting fraud by falsifying the company's financial records.",
+    "synonyms": ["abet", "facilitate", "connive", "foment"],
+    "mnemonic": "A BET on the criminal — you back them up.",
+    "confusableNote": "Often paired with 'aid' in the legal phrase 'aid and abet'; abet alone implies active encouragement."
+  },
+  {
+    "id": "abide",
+    "pos": "v",
+    "definition": "To accept and act in accordance with a rule, decision, or recommendation.",
+    "example": "All contestants must abide by the competition's rules or face immediate disqualification.",
+    "synonyms": ["comply", "adhere", "conform", "observe"],
+    "mnemonic": "ABIDE = A + BIDE (stay) — stay within the rules.",
+    "confusableNote": "Abide can also mean 'tolerate' or 'endure'; the GRE sense here is obedience/compliance, not mere tolerance."
+  },
+  {
+    "id": "accord",
+    "pos": "n",
+    "definition": "A formal agreement or harmony between parties, often resolving a dispute.",
+    "example": "After months of negotiation, the two nations reached an accord on nuclear disarmament.",
+    "synonyms": ["pact", "concord", "treaty", "settlement"],
+    "mnemonic": "ACCORD = AC + CORD: two parties tied together by a cord of agreement.",
+    "confusableNote": ""
+  },
+  {
+    "id": "acquiesce",
+    "pos": "v",
+    "definition": "To accept or comply quietly without protest, often reluctantly.",
+    "example": "Though she disagreed with the board's decision, she acquiesced rather than risk her position.",
+    "synonyms": ["concede", "yield", "assent", "comply"],
+    "mnemonic": "ACQUIESCE ends in -ESCE (become quiet) — you become quiet and go along.",
+    "confusableNote": ""
+  },
+  {
+    "id": "advocate",
+    "pos": "v",
+    "definition": "To publicly recommend or support a cause, policy, or person.",
+    "example": "The senator has long advocated for stricter environmental regulations.",
+    "synonyms": ["champion", "espouse", "promote", "endorse"],
+    "mnemonic": "AD-VOC-ate: ADD your VOICE — speak up in support.",
+    "confusableNote": ""
+  },
+  {
+    "id": "affinity",
+    "pos": "n",
+    "definition": "A natural liking, sympathy, or attraction toward a person, thing, or idea.",
+    "example": "Her affinity for mathematics led her to pursue a career in theoretical physics.",
+    "synonyms": ["rapport", "kinship", "proclivity", "predilection"],
+    "mnemonic": "AFFIN-ity: AFFINE means related — a felt sense of closeness or kinship.",
+    "confusableNote": ""
+  },
+  {
+    "id": "alienate",
+    "pos": "v",
+    "definition": "To cause someone to feel isolated, estranged, or unsympathetic.",
+    "example": "The manager's dismissive tone alienated his team, causing morale to collapse.",
+    "synonyms": ["estrange", "distance", "isolate", "antagonize"],
+    "mnemonic": "ALIEN-ate: turn someone into an ALIEN — an outsider, cut off.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aloof",
+    "pos": "adj",
+    "definition": "Distant and uninvolved in manner; not friendly or forthcoming.",
+    "example": "The professor remained aloof during office hours, discouraging students from asking questions.",
+    "synonyms": ["detached", "standoffish", "remote", "indifferent"],
+    "mnemonic": "A LOOF (loofah) floats away from you — aloof floats apart from others.",
+    "confusableNote": ""
+  },
+  {
+    "id": "amicable",
+    "pos": "adj",
+    "definition": "Having a pleasant, friendly character; characterized by goodwill and absence of discord.",
+    "example": "The former business partners reached an amicable settlement without resorting to litigation.",
+    "synonyms": ["cordial", "affable", "congenial", "amiable"],
+    "mnemonic": "AMIC-able: Latin amicus = friend — able to be a friend.",
+    "confusableNote": "Amicable describes relationships/agreements; amiable describes a person's temperament."
+  },
+  {
+    "id": "appease",
+    "pos": "v",
+    "definition": "To pacify someone by conceding to their demands, often at the cost of one's own principles.",
+    "example": "The government tried to appease protesters by promising minor reforms, but the crowd demanded systemic change.",
+    "synonyms": ["placate", "mollify", "conciliate", "propitiate"],
+    "mnemonic": "APPEASE has PEACE inside — make peace by giving in.",
+    "confusableNote": ""
+  },
+  {
+    "id": "assuage",
+    "pos": "v",
+    "definition": "To make an unpleasant feeling less intense; to relieve or soothe.",
+    "example": "A heartfelt apology did little to assuage her grief over the loss.",
+    "synonyms": ["mollify", "allay", "mitigate", "palliate"],
+    "mnemonic": "AS-SUAGE: sounds like 'a SWEET sage' — a soothing herb that calms pain.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bolster",
+    "pos": "v",
+    "definition": "To support, strengthen, or reinforce something that is weak or faltering.",
+    "example": "New evidence bolstered the defense attorney's argument that her client had been misidentified.",
+    "synonyms": ["reinforce", "buttress", "fortify", "shore up"],
+    "mnemonic": "BOLSTER: a bolster pillow supports your back — bolster means to prop up.",
+    "confusableNote": ""
+  },
+  {
+    "id": "buttress",
+    "pos": "v",
+    "definition": "To provide structural or logical support; to prop up or reinforce.",
+    "example": "The researcher buttressed her thesis with data from over a hundred peer-reviewed studies.",
+    "synonyms": ["bolster", "reinforce", "brace", "undergird"],
+    "mnemonic": "BUTTRESS: the stone arches on cathedrals that hold up the walls — support from outside.",
+    "confusableNote": ""
+  },
+  {
+    "id": "champion",
+    "pos": "v",
+    "definition": "To vigorously support, defend, or fight for a cause or person.",
+    "example": "She championed the rights of migrant workers throughout her political career.",
+    "synonyms": ["advocate", "espouse", "promote", "uphold"],
+    "mnemonic": "A CHAMPION fights FOR someone — to champion is to fight on their behalf.",
+    "confusableNote": "As a verb, champion means to support a cause; as a noun, it means the winner of a competition."
+  },
+  {
+    "id": "collaborate",
+    "pos": "v",
+    "definition": "To work jointly with others toward a shared goal.",
+    "example": "Scientists from twelve countries collaborated to map the human genome.",
+    "synonyms": ["cooperate", "partner", "join forces", "coordinate"],
+    "mnemonic": "CO + LABOR + ate: CO-workers LABOR together — joint labor.",
+    "confusableNote": ""
+  },
+  {
+    "id": "comity",
+    "pos": "n",
+    "definition": "Courteous and considerate behavior toward others; a social atmosphere of goodwill and mutual respect.",
+    "example": "The Senate once prided itself on a spirit of comity that enabled bipartisan legislation.",
+    "synonyms": ["amity", "civility", "cordiality", "goodwill"],
+    "mnemonic": "COMITY = COME + ity — everyone comes together nicely; like a community of friends.",
+    "confusableNote": "Do not confuse with 'comedy'; comity means mutual courtesy, not humor."
+  },
+  {
+    "id": "comply",
+    "pos": "v",
+    "definition": "To act in accordance with a request, rule, or command.",
+    "example": "The manufacturer was ordered to comply with new safety standards within six months.",
+    "synonyms": ["conform", "obey", "adhere", "acquiesce"],
+    "mnemonic": "COM + PLY: add PLY (layers of agreement) — you layer on obedience.",
+    "confusableNote": ""
+  },
+  {
+    "id": "compromise",
+    "pos": "n",
+    "definition": "A settlement in which each party makes concessions to reach mutual agreement.",
+    "example": "The compromise allowed both parties to save face while resolving the territorial dispute.",
+    "synonyms": ["concession", "accord", "settlement", "middle ground"],
+    "mnemonic": "COM-PROMISE: both parties make a PROMISE together — they meet halfway.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conciliatory",
+    "pos": "adj",
+    "definition": "Intended to make peace or reduce hostility; intended to reconcile opposing parties.",
+    "example": "The ambassador's conciliatory tone helped de-escalate the border crisis.",
+    "synonyms": ["placatory", "mollifying", "appeasing", "propitiatory"],
+    "mnemonic": "CON-CILI-atory: 'reconcile' is inside — aimed at reconciling.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conducive",
+    "pos": "adj",
+    "definition": "Making a certain outcome or condition likely or possible; tending to promote.",
+    "example": "A quiet library environment is conducive to focused study.",
+    "synonyms": ["favorable", "propitious", "contributory", "helpful"],
+    "mnemonic": "CONDUC-ive: like a CONDUCtor channeling electricity — it channels conditions toward a result.",
+    "confusableNote": ""
+  },
+  {
+    "id": "congenial",
+    "pos": "adj",
+    "definition": "Pleasant because of a pleasing personality or shared interests; agreeably suited.",
+    "example": "The new colleague proved so congenial that the entire department welcomed her immediately.",
+    "synonyms": ["affable", "amiable", "genial", "compatible"],
+    "mnemonic": "CON + GENIAL: share the same GENIUS/spirit — kindred spirits get along well.",
+    "confusableNote": "Congenial (pleasant, agreeable) vs. congenital (present from birth); different roots entirely."
+  },
+  {
+    "id": "convivial",
+    "pos": "adj",
+    "definition": "Friendly and lively; relating to or fond of feasting, drinking, and good company.",
+    "example": "The convivial atmosphere at the holiday party put even the most reserved employees at ease.",
+    "synonyms": ["jovial", "gregarious", "sociable", "festive"],
+    "mnemonic": "CON-VIVI-al: Latin vivere = to live — living it up together with others.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cordial",
+    "pos": "adj",
+    "definition": "Warm and friendly in manner; showing sincere affection or regard.",
+    "example": "Despite their past rivalry, the two diplomats maintained a cordial working relationship.",
+    "synonyms": ["affable", "amicable", "genial", "warm"],
+    "mnemonic": "CORD-ial: from Latin cor (heart) — heartfelt and warm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "countenance",
+    "pos": "v",
+    "definition": "To give approval or tolerance to something; to sanction or permit.",
+    "example": "The administration refused to countenance any form of academic dishonesty.",
+    "synonyms": ["sanction", "condone", "endorse", "permit"],
+    "mnemonic": "COUNTER + ANCE: count something as acceptable — give your face (countenance) of approval.",
+    "confusableNote": "As a noun, countenance means facial expression; as a verb (GRE sense), it means to approve or tolerate."
+  },
+  {
+    "id": "deference",
+    "pos": "n",
+    "definition": "Humble submission and respect shown toward someone of authority or superior knowledge.",
+    "example": "In deference to the elder statesman, the younger delegates allowed him to speak first.",
+    "synonyms": ["submission", "obeisance", "homage", "reverence"],
+    "mnemonic": "DEFER + ence: to DEFER to someone — yield and step back in respect.",
+    "confusableNote": "Deference (respectful submission) vs. difference (distinction); and defer (delay) has a separate meaning."
+  },
+  {
+    "id": "detente",
+    "pos": "n",
+    "definition": "The easing of strained relations between nations or groups through diplomacy.",
+    "example": "The 1970s détente between the United States and the Soviet Union reduced the immediate threat of nuclear war.",
+    "synonyms": ["rapprochement", "reconciliation", "thaw", "accord"],
+    "mnemonic": "DETENTE: French for 'release of tension' — like releasing a taut string.",
+    "confusableNote": ""
+  },
+  {
+    "id": "endow",
+    "pos": "v",
+    "definition": "To provide with a quality, ability, or asset; to furnish with a lasting gift or fund.",
+    "example": "The scholarship endowed promising students with financial support throughout their education.",
+    "synonyms": ["bestow", "invest", "confer", "equip"],
+    "mnemonic": "EN + DOW: put a DOWry in — gift someone with lasting resources.",
+    "confusableNote": ""
+  },
+  {
+    "id": "estranged",
+    "pos": "adj",
+    "definition": "No longer close or affectionate; having become distant or hostile in a relationship.",
+    "example": "After the bitter legal battle over the inheritance, the siblings became estranged for decades.",
+    "synonyms": ["alienated", "estranged", "distanced", "severed"],
+    "mnemonic": "ESTRANGED: contains STRANGE — someone who was close now feels like a stranger.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fawn",
+    "pos": "v",
+    "definition": "To seek favor by flattering or behaving in an excessively submissive, obsequious way.",
+    "example": "The new intern fawned over the CEO, laughing at every joke and agreeing with every opinion.",
+    "synonyms": ["grovel", "kowtow", "toady", "flatter"],
+    "mnemonic": "FAWN like a puppy — tail wagging, desperately seeking approval.",
+    "confusableNote": "Fawn (v. to flatter submissively) vs. fawn (n. a young deer); the GRE tests the verb meaning."
+  },
+  {
+    "id": "fortify",
+    "pos": "v",
+    "definition": "To strengthen or reinforce against attack or weakness, physically or figuratively.",
+    "example": "A good mentor can fortify a student's confidence during the most difficult periods of study.",
+    "synonyms": ["reinforce", "bolster", "buttress", "brace"],
+    "mnemonic": "FORT + ify: build a FORT — make it stronger against assault.",
+    "confusableNote": ""
+  },
+  {
+    "id": "gregarious",
+    "pos": "adj",
+    "definition": "Fond of the company of others; sociable and outgoing by nature.",
+    "example": "His gregarious personality made him a natural host who put every guest at ease.",
+    "synonyms": ["sociable", "convivial", "extroverted", "affable"],
+    "mnemonic": "GREGAR-ious: Latin grex = flock — someone who loves being in the flock with others.",
+    "confusableNote": ""
+  },
+  {
+    "id": "grovel",
+    "pos": "v",
+    "definition": "To act in an obsequiously servile manner; to humble oneself excessively before another.",
+    "example": "Rather than grovel before his critics, the artist stood by his controversial work.",
+    "synonyms": ["fawn", "kowtow", "toady", "cringe"],
+    "mnemonic": "GROVEL: picture crawling on the GRAVEL at someone's feet, begging.",
+    "confusableNote": ""
+  },
+  {
+    "id": "insular",
+    "pos": "adj",
+    "definition": "Ignorant of or indifferent to cultures or ideas outside one's own narrow experience; isolated.",
+    "example": "The insular community resisted all outside influences, including modern technology.",
+    "synonyms": ["parochial", "provincial", "narrow-minded", "isolated"],
+    "mnemonic": "INSUL-ar: from Latin insula (island) — cut off from the mainland, like an island.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mediate",
+    "pos": "v",
+    "definition": "To intervene between disputing parties to bring about agreement or reconciliation.",
+    "example": "A neutral arbitrator was called in to mediate between the striking workers and management.",
+    "synonyms": ["arbitrate", "intercede", "negotiate", "broker"],
+    "mnemonic": "MEDI-ate: stand in the MIDDLE between two sides — be the mediator.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mollify",
+    "pos": "v",
+    "definition": "To appease someone's anger or anxiety; to make less severe or intense.",
+    "example": "The manager mollified the irate customer by offering a full refund and a formal apology.",
+    "synonyms": ["appease", "placate", "assuage", "conciliate"],
+    "mnemonic": "MOLLI-fy: MOLLIS in Latin = soft — soften someone's hard feelings.",
+    "confusableNote": ""
+  },
+  {
+    "id": "obeisance",
+    "pos": "n",
+    "definition": "A gesture of respect or submission, such as a bow or curtsy; deferential homage.",
+    "example": "The courtiers paid obeisance to the queen by kneeling as she entered the hall.",
+    "synonyms": ["deference", "reverence", "homage", "genuflection"],
+    "mnemonic": "OBEI-sance: OBEY + -sance — the act of showing you obey through gesture.",
+    "confusableNote": ""
+  },
+  {
+    "id": "obsequious",
+    "pos": "adj",
+    "definition": "Excessively eager to serve or please; fawning and servile.",
+    "example": "The obsequious aide agreed with everything the senator said, never offering an independent view.",
+    "synonyms": ["sycophantic", "fawning", "servile", "unctuous"],
+    "mnemonic": "OBSEQUIOUS: OB + SEQU = following after — always following the boss around, kissing up.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pacify",
+    "pos": "v",
+    "definition": "To quell the anger or agitation of someone; to bring peace to a conflict.",
+    "example": "The negotiator worked tirelessly to pacify the hostage-taker and secure the captives' release.",
+    "synonyms": ["appease", "placate", "mollify", "calm"],
+    "mnemonic": "PACIFY has PEACE inside (Latin pax) — make peace, calm the storm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "parochial",
+    "pos": "adj",
+    "definition": "Narrow in scope or outlook; overly focused on local concerns and indifferent to broader perspectives.",
+    "example": "The politician's parochial concerns about his district prevented him from addressing national issues.",
+    "synonyms": ["provincial", "insular", "narrow-minded", "myopic"],
+    "mnemonic": "PARISH + -ial: thinking only about your PARISH — your tiny local area.",
+    "confusableNote": "Parochial also means 'of a parish' (church-related) in a non-GRE context; on the GRE it signals narrow-mindedness."
+  },
+  {
+    "id": "placate",
+    "pos": "v",
+    "definition": "To make someone less angry or hostile by conciliatory gestures or concessions.",
+    "example": "The company issued a public apology to placate customers outraged by the data breach.",
+    "synonyms": ["appease", "mollify", "pacify", "conciliate"],
+    "mnemonic": "PLAC-ate: Latin placare = to calm — give someone a PLACE of calm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "propitiate",
+    "pos": "v",
+    "definition": "To win or regain the favor of a god, person, or force by appeasement or conciliation.",
+    "example": "Ancient priests offered sacrifices to propitiate the gods before a military campaign.",
+    "synonyms": ["appease", "placate", "conciliate", "mollify"],
+    "mnemonic": "PRO-PITIATE: pro (for) + pitiate (pity/favor) — act FOR gaining favor.",
+    "confusableNote": ""
+  },
+  {
+    "id": "recluse",
+    "pos": "n",
+    "definition": "A person who lives a solitary life and tends to avoid other people.",
+    "example": "After years in the public eye, the novelist became a recluse, rarely leaving her rural estate.",
+    "synonyms": ["hermit", "solitary", "anchorite", "loner"],
+    "mnemonic": "RE-CLUSE: RE + CLOSE — someone who closes themselves away from the world.",
+    "confusableNote": ""
+  }
+]

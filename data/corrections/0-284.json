@@ -1,0 +1,22 @@
+[
+  {
+    "id": "abet",
+    "issue": "Synonyms list includes the word itself (\"abet\"). Additionally, \"foment\" means to instigate or stir up unrest, not to assist or encourage—it is not a genuine synonym of abet.",
+    "synonyms": ["aid", "assist", "facilitate", "incite"]
+  },
+  {
+    "id": "anachronistic",
+    "issue": "Synonyms (archaic, antiquated, outmoded, obsolete) all describe things that are merely old or no longer current, not things displaced from their proper time period. Anachronistic means belonging to the wrong historical period—it can apply to something too new (e.g., a smartphone in a 1950s film) as well as something too old; the listed synonyms do not capture this sense.",
+    "synonyms": ["out-of-place", "misplaced", "incongruous", "obsolete"]
+  },
+  {
+    "id": "axiomatic",
+    "issue": "\"aphoristic\" means relating to aphorisms or pithy maxims—not self-evident truths. \"postulatory\" means relating to postulates, which are assumptions taken without proof rather than self-evident truths. Neither word is a synonym of axiomatic.",
+    "synonyms": ["self-evident", "indisputable", "unquestionable", "undeniable"]
+  },
+  {
+    "id": "commensurate",
+    "issue": "Synonyms list includes the word itself (\"commensurate\").",
+    "synonyms": ["proportionate", "equivalent", "corresponding", "adequate"]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "acrimonious",
+    "pos": "adj",
+    "definition": "Marked by bitter, sharp hostility in speech or manner.",
+    "example": "The acrimonious divorce proceedings left both parties exhausted and resentful.",
+    "synonyms": ["caustic", "vitriolic", "mordant", "rancorous"],
+    "mnemonic": "ACRI = sharp/bitter (like acrid smoke) — sharp words that burn.",
+    "confusableNote": ""
+  },
+  {
+    "id": "adulterate",
+    "pos": "v",
+    "definition": "To corrupt or weaken something by adding inferior or foreign substances.",
+    "example": "The manufacturer adulterated the olive oil with cheap vegetable oil to increase profits.",
+    "synonyms": ["contaminate", "debase", "corrupt", "dilute"],
+    "mnemonic": "ADULT + erate — adults who cheat sneak impure stuff in.",
+    "confusableNote": "Do not confuse with 'adultery'; adulterate means to corrupt a substance, not a relationship."
+  },
+  {
+    "id": "agitate",
+    "pos": "v",
+    "definition": "To stir up public unrest or actively campaign to provoke conflict or change.",
+    "example": "The radical pamphlets agitated the populace into demanding immediate reforms.",
+    "synonyms": ["incite", "inflame", "provoke", "foment"],
+    "mnemonic": "AGI-tate — aggressively stir, like shaking a hornet's nest.",
+    "confusableNote": ""
+  },
+  {
+    "id": "antagonize",
+    "pos": "v",
+    "definition": "To actively provoke hostility or make an enemy of someone.",
+    "example": "His dismissive remarks antagonized colleagues who might otherwise have been allies.",
+    "synonyms": ["provoke", "alienate", "incense", "embitter"],
+    "mnemonic": "ANTI + agonize — act against, causing others to suffer your hostility.",
+    "confusableNote": ""
+  },
+  {
+    "id": "assail",
+    "pos": "v",
+    "definition": "To attack forcefully, either physically or with words and arguments.",
+    "example": "Critics assailed the senator's proposal as economically reckless and poorly researched.",
+    "synonyms": ["besiege", "bombard", "berate", "lambaste"],
+    "mnemonic": "AS-SAIL — attack like a ship sailing full force into an enemy vessel.",
+    "confusableNote": "Do not confuse with 'assault'; assail is broader and often figurative."
+  },
+  {
+    "id": "barrage",
+    "pos": "n",
+    "definition": "An overwhelming and concentrated outpouring of attacks, questions, or criticisms.",
+    "example": "The press secretary faced a barrage of hostile questions at the news conference.",
+    "synonyms": ["onslaught", "deluge", "volley", "torrent"],
+    "mnemonic": "BAR + rage — a barrier of rage that hits all at once.",
+    "confusableNote": ""
+  },
+  {
+    "id": "belligerent",
+    "pos": "adj",
+    "definition": "Aggressively hostile and eager to fight or quarrel.",
+    "example": "The belligerent fan had to be removed from the stadium after threatening other spectators.",
+    "synonyms": ["pugnacious", "combative", "truculent", "contentious"],
+    "mnemonic": "BELLI (war) + gerent — one who wages war; bellicose cousin.",
+    "confusableNote": ""
+  },
+  {
+    "id": "calamitous",
+    "pos": "adj",
+    "definition": "Causing or resulting in great and sudden disaster or distress.",
+    "example": "The calamitous floods of 1931 destroyed entire villages along the river basin.",
+    "synonyms": ["catastrophic", "cataclysmic", "disastrous", "ruinous"],
+    "mnemonic": "CALAM-ity + ous — full of calamity, a word that sounds like it crashes.",
+    "confusableNote": ""
+  },
+  {
+    "id": "callous",
+    "pos": "adj",
+    "definition": "Showing an indifferent cruelty; emotionally hardened to others' suffering.",
+    "example": "The callous administrator denied the widow's appeal without any expression of sympathy.",
+    "synonyms": ["unfeeling", "heartless", "ruthless", "indifferent"],
+    "mnemonic": "CALLUS (hardened skin) — a callous person has skin so thick they feel nothing.",
+    "confusableNote": "Do not confuse with 'callus' (hardened skin); callous as an adjective means emotionally hardened."
+  },
+  {
+    "id": "cataclysmic",
+    "pos": "adj",
+    "definition": "Involving or causing a sudden, violent, large-scale upheaval or disaster.",
+    "example": "The cataclysmic eruption of Krakatoa in 1883 altered global temperatures for years.",
+    "synonyms": ["catastrophic", "calamitous", "devastating", "apocalyptic"],
+    "mnemonic": "CATA (down) + CLYSM (flood) — a flood that tears everything down.",
+    "confusableNote": ""
+  },
+  {
+    "id": "catastrophic",
+    "pos": "adj",
+    "definition": "Involving or causing sudden great damage, suffering, or complete failure.",
+    "example": "The catastrophic collapse of the bridge killed dozens of commuters in the morning rush.",
+    "synonyms": ["cataclysmic", "calamitous", "disastrous", "ruinous"],
+    "mnemonic": "CATA (down) + STROPHE (turn) — a sudden down-turn that wrecks everything.",
+    "confusableNote": ""
+  },
+  {
+    "id": "caustic",
+    "pos": "adj",
+    "definition": "Sharply and bitterly sarcastic; capable of corroding or burning by chemical action.",
+    "example": "Her caustic wit left the audience laughing nervously, unsure whether they had been insulted.",
+    "synonyms": ["mordant", "acerbic", "vitriolic", "scathing"],
+    "mnemonic": "CAUST (burn) — caustic words burn like acid.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conflagration",
+    "pos": "n",
+    "definition": "A large, destructive, and uncontrollable fire; by extension, a violent conflict or war.",
+    "example": "The conflagration that swept through Chicago in 1871 destroyed thousands of structures.",
+    "synonyms": ["inferno", "blaze", "holocaust", "firestorm"],
+    "mnemonic": "CON + FLAG + ration — flags of fire everywhere, burning out of control.",
+    "confusableNote": ""
+  },
+  {
+    "id": "contentious",
+    "pos": "adj",
+    "definition": "Causing or likely to cause controversy; given to heated argument.",
+    "example": "Immigration policy remains one of the most contentious issues in modern democracies.",
+    "synonyms": ["disputatious", "polemical", "controversial", "combative"],
+    "mnemonic": "CONTENT + ious — no one is content; everyone is fighting over content.",
+    "confusableNote": ""
+  },
+  {
+    "id": "contretemps",
+    "pos": "n",
+    "definition": "An awkward, embarrassing, or unlucky mishap or minor dispute.",
+    "example": "A diplomatic contretemps arose when the ambassador mispronounced the prime minister's name.",
+    "synonyms": ["mishap", "imbroglio", "predicament", "fiasco"],
+    "mnemonic": "CONTRE (against) + TEMPS (time) — bad timing that puts you against everyone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "debase",
+    "pos": "v",
+    "definition": "To reduce in quality, value, or moral character; to degrade or corrupt.",
+    "example": "Adding too many alloys debased the gold coins, reducing their worth.",
+    "synonyms": ["degrade", "corrupt", "adulterate", "vitiate"],
+    "mnemonic": "DE + BASE — to bring to a low base, pulling down to the bottom.",
+    "confusableNote": ""
+  },
+  {
+    "id": "debilitating",
+    "pos": "adj",
+    "definition": "Severely weakening the strength, vigor, or functioning of a person or thing.",
+    "example": "The debilitating illness kept her bedridden for months, unable to work or travel.",
+    "synonyms": ["enervating", "incapacitating", "crippling", "enfeebling"],
+    "mnemonic": "DE + BILITY (ability) — strips away your ability, leaving you helpless.",
+    "confusableNote": ""
+  },
+  {
+    "id": "deleterious",
+    "pos": "adj",
+    "definition": "Causing harm or damage, especially in a gradual or subtle way.",
+    "example": "Prolonged exposure to lead paint has deleterious effects on children's neurological development.",
+    "synonyms": ["detrimental", "pernicious", "injurious", "noxious"],
+    "mnemonic": "DELETE + rious — deletes your health quietly and completely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "detract",
+    "pos": "v",
+    "definition": "To diminish the worth, value, or importance of something.",
+    "example": "The grammatical errors in the report detracted from its otherwise compelling argument.",
+    "synonyms": ["diminish", "undermine", "belittle", "impair"],
+    "mnemonic": "DE + TRACT (pull) — pull away value, leaving less behind.",
+    "confusableNote": "Do not confuse with 'distract'; detract means to reduce value, distract means to divert attention."
+  },
+  {
+    "id": "detrimental",
+    "pos": "adj",
+    "definition": "Causing harm, damage, or injury to someone or something.",
+    "example": "Smoking is detrimental to cardiovascular health and increases the risk of multiple cancers.",
+    "synonyms": ["deleterious", "injurious", "pernicious", "adverse"],
+    "mnemonic": "DETRI (worn away) + mental — wears away like gravel grinding something down.",
+    "confusableNote": ""
+  },
+  {
+    "id": "duress",
+    "pos": "n",
+    "definition": "Threats, coercion, or harsh conditions that compel someone to act against their will.",
+    "example": "The confession was later ruled invalid because it had been signed under duress.",
+    "synonyms": ["coercion", "compulsion", "constraint", "intimidation"],
+    "mnemonic": "DUR (hard/endure) + ess — a hard, harsh pressure you must endure.",
+    "confusableNote": ""
+  },
+  {
+    "id": "factious",
+    "pos": "adj",
+    "definition": "Relating to or promoting internal dissension and conflict within a group.",
+    "example": "The factious political party could not unify around a single candidate.",
+    "synonyms": ["divisive", "contentious", "seditious", "schismatic"],
+    "mnemonic": "FACTION + ious — full of factions fighting each other from within.",
+    "confusableNote": "Do not confuse with 'fractious' (irritable/unruly) or 'fictitious' (imaginary)."
+  },
+  {
+    "id": "fractious",
+    "pos": "adj",
+    "definition": "Irritable, unruly, and prone to quarreling or causing trouble.",
+    "example": "The fractious toddler refused every meal and threw a tantrum at each suggestion.",
+    "synonyms": ["quarrelsome", "petulant", "recalcitrant", "peevish"],
+    "mnemonic": "FRACTURE + ious — like something fractured, always breaking apart in irritation.",
+    "confusableNote": "Do not confuse with 'factious' (promoting internal group conflict); fractious emphasizes irritability and unruliness."
+  },
+  {
+    "id": "harrowing",
+    "pos": "adj",
+    "definition": "Intensely distressing or traumatic, causing acute mental anguish.",
+    "example": "Survivors gave harrowing accounts of the earthquake's destruction and the desperate search for loved ones.",
+    "synonyms": ["agonizing", "traumatic", "tormenting", "distressing"],
+    "mnemonic": "HARROW (a farm tool that tears soil) — tears through your emotions like a harrow through earth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "imbroglio",
+    "pos": "n",
+    "definition": "A complicated, confusing, and embarrassing entanglement or political scandal.",
+    "example": "The senator resigned amid an imbroglio involving misuse of campaign funds.",
+    "synonyms": ["quandary", "predicament", "contretemps", "fiasco"],
+    "mnemonic": "IM-BROGLIO — sounds like 'I'm in broth,' deeply tangled and stewing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "impair",
+    "pos": "v",
+    "definition": "To weaken or damage the strength, quality, or functioning of something.",
+    "example": "Alcohol impairs judgment and significantly slows reaction time.",
+    "synonyms": ["diminish", "undermine", "debilitate", "compromise"],
+    "mnemonic": "IM + PAIR — un-pairs proper function, breaking the paired system.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inimical",
+    "pos": "adj",
+    "definition": "Actively hostile to or harmful toward a person, cause, or principle.",
+    "example": "Policies inimical to free expression were swiftly challenged in the courts.",
+    "synonyms": ["hostile", "antagonistic", "adverse", "unfriendly"],
+    "mnemonic": "IN + ENEMY + cal — like the word 'enemy' lives inside it; inherently enemy-like.",
+    "confusableNote": ""
+  },
+  {
+    "id": "jeopardize",
+    "pos": "v",
+    "definition": "To put something at risk of loss, harm, or failure.",
+    "example": "Leaking the classified documents could jeopardize the entire undercover operation.",
+    "synonyms": ["endanger", "imperil", "compromise", "threaten"],
+    "mnemonic": "JEOPARDY — like the game show where you risk everything on each answer.",
+    "confusableNote": ""
+  },
+  {
+    "id": "malevolent",
+    "pos": "adj",
+    "definition": "Having or showing a strong desire to harm others; deeply malicious.",
+    "example": "The villain's malevolent grin made clear he took pleasure in others' suffering.",
+    "synonyms": ["malicious", "sinister", "baleful", "vindictive"],
+    "mnemonic": "MALE (bad) + VOLENT (wishing) — wishing bad things upon others.",
+    "confusableNote": "Do not confuse with 'malevolent' and 'maleficent'; malevolent stresses the wish to harm, maleficent the actual doing of harm."
+  },
+  {
+    "id": "mordant",
+    "pos": "adj",
+    "definition": "Sharply sarcastic or biting in a darkly humorous or cutting way.",
+    "example": "The novelist was known for his mordant observations about the pretensions of the upper class.",
+    "synonyms": ["caustic", "acerbic", "sardonic", "trenchant"],
+    "mnemonic": "MORDANT = MORDERE (Latin: to bite) — words that bite deeply.",
+    "confusableNote": ""
+  },
+  {
+    "id": "neutralize",
+    "pos": "v",
+    "definition": "To counteract the force or effect of something, rendering it harmless or ineffective.",
+    "example": "The antidote neutralized the venom before it could cause permanent organ damage.",
+    "synonyms": ["counteract", "nullify", "negate", "offset"],
+    "mnemonic": "NEUTRAL + ize — make it neutral, stripping it of its power.",
+    "confusableNote": ""
+  },
+  {
+    "id": "noxious",
+    "pos": "adj",
+    "definition": "Harmful or poisonous to health or morals; physically or socially injurious.",
+    "example": "Workers wore respirators to avoid inhaling the noxious fumes from the chemical plant.",
+    "synonyms": ["toxic", "deleterious", "pernicious", "injurious"],
+    "mnemonic": "NOX (night/harm) — noxious, like nox-ious gases lurking in the dark.",
+    "confusableNote": "Do not confuse with 'obnoxious' (extremely unpleasant); noxious stresses actual harm or toxicity."
+  },
+  {
+    "id": "pernicious",
+    "pos": "adj",
+    "definition": "Having a harmful effect, especially in a subtle or gradual way that is hard to detect.",
+    "example": "The pernicious influence of misinformation eroded public trust in scientific institutions over years.",
+    "synonyms": ["deleterious", "insidious", "noxious", "malignant"],
+    "mnemonic": "PER (through) + NICIOUS (harmful) — harm that works all the way through, slowly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "polemical",
+    "pos": "adj",
+    "definition": "Strongly controversial or disputatious, typically in written argumentation.",
+    "example": "The author's polemical essay sparked fierce debate among political scientists.",
+    "synonyms": ["contentious", "disputatious", "controversial", "provocative"],
+    "mnemonic": "POLEMOS (Greek: war) — waging war with words and arguments.",
+    "confusableNote": ""
+  },
+  {
+    "id": "predicament",
+    "pos": "n",
+    "definition": "A difficult, unpleasant, or embarrassing situation that is hard to escape.",
+    "example": "Stranded without money or identification, she found herself in a serious predicament.",
+    "synonyms": ["quandary", "dilemma", "plight", "imbroglio"],
+    "mnemonic": "PREDICT + ament — a situation so bad you could have predicted the trouble.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pugnacious",
+    "pos": "adj",
+    "definition": "Eager or quick to argue, fight, or be aggressive.",
+    "example": "The pugnacious debater interrupted opponents repeatedly and refused to concede any point.",
+    "synonyms": ["belligerent", "combative", "truculent", "contentious"],
+    "mnemonic": "PUGN (fist/fight) — pugnacious, like a pugilist (boxer) always ready to swing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "quandary",
+    "pos": "n",
+    "definition": "A state of perplexity or uncertainty about what course of action to take.",
+    "example": "Offered two equally unappealing job offers, she was in a genuine quandary about which to accept.",
+    "synonyms": ["dilemma", "predicament", "impasse", "conundrum"],
+    "mnemonic": "QUAND (when?) — you can't decide when or how to act, stuck wondering.",
+    "confusableNote": ""
+  },
+  {
+    "id": "quash",
+    "pos": "v",
+    "definition": "To forcibly put down, suppress, or utterly defeat a rebellion, uprising, or idea.",
+    "example": "The government moved quickly to quash the coup before it could gain popular support.",
+    "synonyms": ["suppress", "crush", "squelch", "extinguish"],
+    "mnemonic": "QUASH — squash it flat, like squashing a bug under your foot.",
+    "confusableNote": "Do not confuse with 'quaff' (to drink deeply); quash means to crush or suppress."
+  },
+  {
+    "id": "ravage",
+    "pos": "v",
+    "definition": "To cause severe and widespread damage or destruction to something.",
+    "example": "The wildfire ravaged thousands of acres of old-growth forest in a single week.",
+    "synonyms": ["devastate", "pillage", "despoil", "lay waste"],
+    "mnemonic": "RAVAGE — savage + r, twice as savage, leaves only ruin behind.",
+    "confusableNote": ""
+  },
+  {
+    "id": "retaliate",
+    "pos": "v",
+    "definition": "To repay an injury or wrong by inflicting a similar or comparable harm in return.",
+    "example": "The nation threatened to retaliate with trade sanctions if the tariffs were not lifted.",
+    "synonyms": ["reciprocate", "avenge", "repay", "counter"],
+    "mnemonic": "RE + TALI (like talon/claw) — claw back in return for being clawed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sadistic",
+    "pos": "adj",
+    "definition": "Deriving pleasure, especially sexual gratification, from inflicting pain on others.",
+    "example": "The sadistic prison guard was finally prosecuted for the systematic abuse of inmates.",
+    "synonyms": ["cruel", "malevolent", "barbarous", "ruthless"],
+    "mnemonic": "SADE — from the Marquis de Sade, whose writings defined cruelty as pleasure.",
+    "confusableNote": "Do not confuse with 'masochistic' (deriving pleasure from one's own pain); sadistic involves pleasure from others' pain."
+  },
+  {
+    "id": "strife",
+    "pos": "n",
+    "definition": "Bitter and prolonged conflict or struggle between opposing parties.",
+    "example": "Years of civil strife had left the country's infrastructure in ruins.",
+    "synonyms": ["conflict", "discord", "contention", "friction"],
+    "mnemonic": "STRIFE — sounds like 'strike' + life, a life of strikes and blows.",
+    "confusableNote": ""
+  },
+  {
+    "id": "suppress",
+    "pos": "v",
+    "definition": "To forcibly put an end to something, or prevent it from being known or expressed.",
+    "example": "The regime suppressed all independent media, making dissent virtually impossible.",
+    "synonyms": ["quash", "stifle", "quell", "repress"],
+    "mnemonic": "SUB + PRESS — press down from below until it cannot surface.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tempestuous",
+    "pos": "adj",
+    "definition": "Characterized by strong, turbulent emotion or violent conflict; stormy.",
+    "example": "Their tempestuous relationship alternated between passionate reconciliation and bitter argument.",
+    "synonyms": ["turbulent", "tumultuous", "volatile", "stormy"],
+    "mnemonic": "TEMPEST (storm) + uous — full of tempest, a storm that never fully calms.",
+    "confusableNote": ""
+  }
+]

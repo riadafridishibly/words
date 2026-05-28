@@ -1,0 +1,398 @@
+[
+  {
+    "id": "latitude",
+    "pos": "n",
+    "definition": "Freedom from strict rules or limits; scope for independent action or judgment.",
+    "example": "The new manager gave her team considerable latitude in choosing their own workflows.",
+    "synonyms": ["leeway", "freedom", "discretion", "scope"],
+    "mnemonic": "LATI-tude: 'let it' be — permission to let things be as you choose.",
+    "confusableNote": "Do not confuse with 'longitude'; both are geographic terms, but latitude here means figurative freedom from constraints."
+  },
+  {
+    "id": "lax",
+    "pos": "adj",
+    "definition": "Not sufficiently strict, careful, or firm; negligent in enforcing standards.",
+    "example": "The school's lax attendance policy led to widespread truancy among students.",
+    "synonyms": ["negligent", "remiss", "slack", "lenient"],
+    "mnemonic": "LAX airport is relaxed — bags slip through security without strict checks.",
+    "confusableNote": ""
+  },
+  {
+    "id": "levity",
+    "pos": "n",
+    "definition": "Inappropriate lightness of manner or humor, especially in serious situations.",
+    "example": "His levity during the memorial service struck the mourners as deeply disrespectful.",
+    "synonyms": ["flippancy", "frivolity", "jocularity", "airiness"],
+    "mnemonic": "LEVity = LEVitate — treating heavy matters as if they float away weightlessly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "libertine",
+    "pos": "n",
+    "definition": "A person who freely indulges in sensual pleasures with no regard for moral restraint.",
+    "example": "The notorious libertine spent his fortune on dissolute pleasures and scandalous affairs.",
+    "synonyms": ["debauchee", "profligate", "reprobate", "rake"],
+    "mnemonic": "A libertine takes 'liberty' too far — freedom from all moral limits.",
+    "confusableNote": ""
+  },
+  {
+    "id": "macabre",
+    "pos": "adj",
+    "definition": "Disturbing in a way that is associated with death or gruesome horror.",
+    "example": "The artist's macabre paintings of skeletal figures unsettled gallery visitors.",
+    "synonyms": ["ghoulish", "grisly", "morbid", "gruesome"],
+    "mnemonic": "MAC + ABRE: imagine a macabre scene where a MAC (knife) opens a grave — dark, grim.",
+    "confusableNote": ""
+  },
+  {
+    "id": "makeshift",
+    "pos": "adj",
+    "definition": "Serving as a temporary substitute; hastily assembled from whatever is available.",
+    "example": "Survivors built a makeshift shelter from fallen branches and scraps of cloth.",
+    "synonyms": ["improvised", "provisional", "stopgap", "jerry-rigged"],
+    "mnemonic": "MAKE + SHIFT: you MAKE a SHIFT (change) quickly with whatever is on hand.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mimic",
+    "pos": "v",
+    "definition": "To copy or imitate closely, especially the appearance or actions of another.",
+    "example": "The comedian mimicked the president's distinctive vocal mannerisms to great effect.",
+    "synonyms": ["imitate", "ape", "emulate", "simulate"],
+    "mnemonic": "MIMIC sounds like 'me-me' — a copycat always says 'me too, me too.'",
+    "confusableNote": ""
+  },
+  {
+    "id": "misanthropic",
+    "pos": "adj",
+    "definition": "Characterized by a general hatred, distrust, or contempt for humankind.",
+    "example": "His misanthropic worldview made genuine friendship nearly impossible to sustain.",
+    "synonyms": ["cynical", "antisocial", "reclusive", "pessimistic"],
+    "mnemonic": "MIS-ANTHROPIC: 'mis' (hate) + 'anthropo' (human) — hating all of humanity.",
+    "confusableNote": "Do not confuse with 'misogynistic' (hatred of women specifically) or 'misogamistic' (hatred of marriage); misanthropic targets all people."
+  },
+  {
+    "id": "miscreant",
+    "pos": "n",
+    "definition": "A person who behaves badly or commits crimes; a villain or wrongdoer.",
+    "example": "The sheriff rounded up the miscreants who had vandalized the town square.",
+    "synonyms": ["villain", "reprobate", "wrongdoer", "malefactor"],
+    "mnemonic": "MIS-CREANT: mis (wrong) + creant (believer) — someone who believes in doing wrong.",
+    "confusableNote": ""
+  },
+  {
+    "id": "myopic",
+    "pos": "adj",
+    "definition": "Lacking foresight or intellectual breadth; focused narrowly on immediate concerns.",
+    "example": "The committee's myopic focus on short-term profits ignored long-term environmental risks.",
+    "synonyms": ["shortsighted", "narrow-minded", "parochial", "blinkered"],
+    "mnemonic": "MY-OPIC: 'my optic' only sees what's right in front of MY face.",
+    "confusableNote": "Literally means nearsighted (vision), but the GRE tests its figurative meaning of narrow-minded thinking."
+  },
+  {
+    "id": "nadir",
+    "pos": "n",
+    "definition": "The lowest point of fortune, hope, or achievement; the point of greatest adversity.",
+    "example": "Losing both his job and his home in the same week marked the nadir of his life.",
+    "synonyms": ["rock bottom", "low point", "trough", "depths"],
+    "mnemonic": "NADIR sounds like 'no dear' — 'no, dear, it can't get any lower than this.'",
+    "confusableNote": "Opposite of 'zenith' (the highest point); nadir is the absolute bottom."
+  },
+  {
+    "id": "negligent",
+    "pos": "adj",
+    "definition": "Failing to take proper care or fulfilling a duty; carelessly inattentive.",
+    "example": "The negligent contractor left exposed wiring that later caused a fire.",
+    "synonyms": ["careless", "remiss", "lax", "derelict"],
+    "mnemonic": "NEGLIGENT = NEGLEcted + IGNore + ENT: one who neglects and ignores duties.",
+    "confusableNote": ""
+  },
+  {
+    "id": "nominal",
+    "pos": "adj",
+    "definition": "Existing in name only; so small as to be insignificant or merely token.",
+    "example": "The fee was nominal — just one dollar to cover administrative paperwork.",
+    "synonyms": ["token", "titular", "superficial", "trifling"],
+    "mnemonic": "NOMINAL = name-only: the title (name) exists but the substance does not.",
+    "confusableNote": "In everyday speech 'nominal' can mean standard/normal, but the GRE sense means existing in name only or negligibly small."
+  },
+  {
+    "id": "oblivious",
+    "pos": "adj",
+    "definition": "Completely unaware of or inattentive to what is happening around one.",
+    "example": "She was so absorbed in her book that she remained oblivious to the commotion outside.",
+    "synonyms": ["unaware", "heedless", "inattentive", "unmindful"],
+    "mnemonic": "OBLIVIOUS = OBLIVION: your mind has gone to oblivion, forgetting everything around you.",
+    "confusableNote": ""
+  },
+  {
+    "id": "omniscient",
+    "pos": "adj",
+    "definition": "Having total, unlimited knowledge of all things.",
+    "example": "The novel's omniscient narrator revealed every character's innermost thoughts.",
+    "synonyms": ["all-knowing", "infinitely wise", "encyclopedic", "all-seeing"],
+    "mnemonic": "OMNI (all) + SCIENT (knowing): an omniscient being knows everything everywhere.",
+    "confusableNote": "Do not confuse with 'omnipotent' (all-powerful) or 'omnipresent' (everywhere at once)."
+  },
+  {
+    "id": "onerous",
+    "pos": "adj",
+    "definition": "Involving an oppressive or overwhelming amount of effort or difficulty; burdensome.",
+    "example": "The onerous reporting requirements consumed hours of the nonprofit's already limited time.",
+    "synonyms": ["burdensome", "arduous", "oppressive", "taxing"],
+    "mnemonic": "ONEROUS = ONE-erous: ONE task so heavy it feels like bearing the weight of everyone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ossify",
+    "pos": "v",
+    "definition": "To become rigid, inflexible, or set in one's ways; to stop changing or developing.",
+    "example": "Years of unchallenged authority had ossified the administration's thinking.",
+    "synonyms": ["calcify", "harden", "petrify", "stagnate"],
+    "mnemonic": "OSS = BONE: to ossify is to turn to bone — hard, fixed, immovable.",
+    "confusableNote": ""
+  },
+  {
+    "id": "outlandish",
+    "pos": "adj",
+    "definition": "Bizarre, strikingly unusual, or grotesquely strange in appearance or behavior.",
+    "example": "The designer's outlandish hat — a meter-tall tower of fake fruit — drew gasps.",
+    "synonyms": ["bizarre", "eccentric", "preposterous", "peculiar"],
+    "mnemonic": "OUT-LAND-ish: behavior so foreign it seems to come from outside the known land.",
+    "confusableNote": ""
+  },
+  {
+    "id": "panacea",
+    "pos": "n",
+    "definition": "A supposed remedy or solution for all difficulties or diseases.",
+    "example": "Politicians often tout tax cuts as a panacea for all economic problems.",
+    "synonyms": ["cure-all", "elixir", "universal remedy", "nostrum"],
+    "mnemonic": "PAN (all) + ACEA (cure): from the Greek goddess Panacea who could heal everything.",
+    "confusableNote": ""
+  },
+  {
+    "id": "paradoxical",
+    "pos": "adj",
+    "definition": "Seemingly self-contradictory yet possibly true; involving a statement that defies intuition.",
+    "example": "It is paradoxical that the busiest people often seem to have the most free time.",
+    "synonyms": ["contradictory", "incongruous", "ironic", "anomalous"],
+    "mnemonic": "PARA (beyond) + DOXA (belief): a paradox goes beyond ordinary belief — two truths that clash.",
+    "confusableNote": ""
+  },
+  {
+    "id": "passable",
+    "pos": "adj",
+    "definition": "Adequate but not outstanding; good enough to be acceptable for a given purpose.",
+    "example": "Her Italian was passable enough to order a meal and ask for directions.",
+    "synonyms": ["adequate", "tolerable", "acceptable", "serviceable"],
+    "mnemonic": "PASSABLE: just enough to PASS — not great, but it passes the minimum bar.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pastiche",
+    "pos": "n",
+    "definition": "A work that imitates the style of another artist or era, often blending multiple sources.",
+    "example": "The film was a pastiche of 1940s noir, complete with shadows, fedoras, and femmes fatales.",
+    "synonyms": ["imitation", "pastiche", "hodgepodge", "collage"],
+    "mnemonic": "PASTE-iche: paste pieces of other works together into a new composition.",
+    "confusableNote": "Do not confuse with 'parody' (which mocks the original) or 'plagiarism'; pastiche imitates admiringly."
+  },
+  {
+    "id": "peccadillo",
+    "pos": "n",
+    "definition": "A minor fault, sin, or offense that is regarded as relatively harmless or trivial.",
+    "example": "Forgetting to RSVP is a social peccadillo, not a serious breach of etiquette.",
+    "synonyms": ["minor offense", "indiscretion", "trifle", "foible"],
+    "mnemonic": "PECCA-DILLO: 'pecca' (sin in Latin) + small — an armadillo-sized sin, tiny and harmless.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pedantic",
+    "pos": "adj",
+    "definition": "Excessively concerned with minor details or rules, especially in academic matters.",
+    "example": "His pedantic insistence on comma placement exhausted everyone in the writing workshop.",
+    "synonyms": ["fussy", "finicky", "doctrinaire", "didactic"],
+    "mnemonic": "PEDANTIC = PED (teacher) + ANTIC: a teacher who acts antic over every tiny rule.",
+    "confusableNote": "Do not confuse with 'erudite' (impressively learned); pedantic implies annoying obsession with trivia."
+  },
+  {
+    "id": "pensive",
+    "pos": "adj",
+    "definition": "Engaged in deep, often melancholy thought; reflective with a tinge of sadness.",
+    "example": "She sat by the window in a pensive mood, thinking of the friend she had lost.",
+    "synonyms": ["contemplative", "wistful", "brooding", "reflective"],
+    "mnemonic": "PENSIVE: 'pens' write sad things — one who ponders tends toward sorrowful thoughts.",
+    "confusableNote": ""
+  },
+  {
+    "id": "perfunctory",
+    "pos": "adj",
+    "definition": "Carried out with minimal effort and little attention; done merely as routine duty.",
+    "example": "The supervisor gave only a perfunctory glance at the report before signing it.",
+    "synonyms": ["cursory", "superficial", "mechanical", "desultory"],
+    "mnemonic": "PER-FUNCTION-ory: done purely as a function — going through the motions without care.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ponderous",
+    "pos": "adj",
+    "definition": "Slow and laborious because of great weight or unwieldiness; dull and labored in style.",
+    "example": "The professor's ponderous lecture style made even exciting topics feel exhausting.",
+    "synonyms": ["cumbersome", "laborious", "lumbering", "tedious"],
+    "mnemonic": "PONDER-ous: so heavy it takes time to PONDER each slow, labored step.",
+    "confusableNote": ""
+  },
+  {
+    "id": "potent",
+    "pos": "adj",
+    "definition": "Having great power, influence, or effect; capable of producing strong results.",
+    "example": "The potent painkiller required a prescription and careful dosage monitoring.",
+    "synonyms": ["powerful", "forceful", "compelling", "efficacious"],
+    "mnemonic": "POTENT = POTential ENTire: full potential entirely unleashed — maximally powerful.",
+    "confusableNote": ""
+  },
+  {
+    "id": "precipitous",
+    "pos": "adj",
+    "definition": "Dangerously steep or sudden; done with reckless haste and without deliberation.",
+    "example": "The precipitous decline in stock prices wiped out billions in investor wealth overnight.",
+    "synonyms": ["abrupt", "sheer", "hasty", "headlong"],
+    "mnemonic": "PRECIPICE + ous: standing at a precipice — steep, sudden, dangerous.",
+    "confusableNote": "Often confused with 'precipitate' (adj., meaning hasty); precipitous focuses on steepness or dangerous speed."
+  },
+  {
+    "id": "precocious",
+    "pos": "adj",
+    "definition": "Showing abilities or maturity unusually early for one's age.",
+    "example": "The precocious child was reading novels at age five.",
+    "synonyms": ["advanced", "gifted", "prodigious", "forward"],
+    "mnemonic": "PRE-COCIOUS: ripened (cooked) before its time — fruit that matures too early.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prescribe",
+    "pos": "v",
+    "definition": "To authoritatively lay down a rule or course of action to be followed.",
+    "example": "The constitution prescribes specific procedures for amending any of its articles.",
+    "synonyms": ["mandate", "dictate", "stipulate", "enjoin"],
+    "mnemonic": "PRE-SCRIBE: written down BEFORE — a rule written in advance for others to follow.",
+    "confusableNote": "Do not confuse with 'proscribe' (to forbid or ban); prescribe means to order or authorize."
+  },
+  {
+    "id": "pristine",
+    "pos": "adj",
+    "definition": "In its original, unspoiled condition; perfectly clean and free from any impurity.",
+    "example": "The nature reserve's pristine forests had never been touched by logging or development.",
+    "synonyms": ["immaculate", "unsullied", "virgin", "unblemished"],
+    "mnemonic": "PRISTINE = PRIST (pure priest) + INE: pure as an untouched altar cloth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "provincial",
+    "pos": "adj",
+    "definition": "Narrow in perspective due to limited experience; unsophisticated and parochial.",
+    "example": "Her provincial attitudes made her dismissive of any cuisine not from her home region.",
+    "synonyms": ["parochial", "insular", "narrow-minded", "unsophisticated"],
+    "mnemonic": "PROVINCE + ial: stuck in the province — limited worldview, never left home.",
+    "confusableNote": ""
+  },
+  {
+    "id": "provocative",
+    "pos": "adj",
+    "definition": "Deliberately designed to cause anger, debate, or strong reaction.",
+    "example": "The artist's provocative installation sparked furious debate in the press.",
+    "synonyms": ["incendiary", "inflammatory", "contentious", "stimulating"],
+    "mnemonic": "PROVOKE + ative: always provoking — poking others until they react.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prurient",
+    "pos": "adj",
+    "definition": "Having or encouraging an excessive, unhealthy interest in sexual matters.",
+    "example": "The tabloid catered to prurient curiosity with lurid celebrity gossip.",
+    "synonyms": ["lascivious", "salacious", "lewd", "licentious"],
+    "mnemonic": "PRURIENT = PRURI (itch) + ENT: an itching, burning obsession with the indecent.",
+    "confusableNote": ""
+  },
+  {
+    "id": "quibble",
+    "pos": "v",
+    "definition": "To argue or raise objections about trivial or minor points rather than the main issue.",
+    "example": "Instead of addressing the core problem, she quibbled over the wording of a single clause.",
+    "synonyms": ["cavil", "nitpick", "carp", "equivocate"],
+    "mnemonic": "QUIBBLE = QUIBBle: like quivering lips muttering tiny complaints, barely audible.",
+    "confusableNote": ""
+  },
+  {
+    "id": "quixotic",
+    "pos": "adj",
+    "definition": "Idealistic and visionary but impractically romantic and unrealistic.",
+    "example": "His quixotic plan to end world hunger with a single app charmed but convinced no one.",
+    "synonyms": ["idealistic", "utopian", "chimerical", "impractical"],
+    "mnemonic": "From Don Quixote, the knight who charged windmills — grand dreams, hopeless odds.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ramification",
+    "pos": "n",
+    "definition": "A consequence or outcome, especially one that is complex or unwelcome.",
+    "example": "The CEO failed to foresee the legal ramifications of altering the safety data.",
+    "synonyms": ["consequence", "repercussion", "implication", "fallout"],
+    "mnemonic": "RAMI (branch) + FICATION: one decision branches into many downstream consequences.",
+    "confusableNote": ""
+  },
+  {
+    "id": "recant",
+    "pos": "v",
+    "definition": "To formally withdraw or disavow a previously held statement or belief.",
+    "example": "Under intense pressure, the scientist recanted his controversial findings.",
+    "synonyms": ["retract", "renounce", "disavow", "abjure"],
+    "mnemonic": "RE-CANT: you CAN'T stand by what you said — you take it back.",
+    "confusableNote": "Do not confuse with 'recant' and 'recuse' (to remove oneself from a case); recant is about withdrawing statements."
+  },
+  {
+    "id": "refine",
+    "pos": "v",
+    "definition": "To improve something by making small adjustments; to make more polished or precise.",
+    "example": "The engineer refined the prototype over six months until it met all performance standards.",
+    "synonyms": ["polish", "hone", "perfect", "cultivate"],
+    "mnemonic": "RE-FINE: do it again (RE) until it is FINE — polished to a better state.",
+    "confusableNote": ""
+  },
+  {
+    "id": "regress",
+    "pos": "v",
+    "definition": "To return to a former, less developed, or worse state.",
+    "example": "Without continued therapy, patients often regress to their earlier harmful behaviors.",
+    "synonyms": ["backslide", "deteriorate", "revert", "retrogress"],
+    "mnemonic": "RE-GRESS: GRESS = step; to step backward (RE) to a previous state.",
+    "confusableNote": "Opposite of 'progress'; regress means moving backward, not forward."
+  },
+  {
+    "id": "reiterate",
+    "pos": "v",
+    "definition": "To say or do something again, or repeatedly, for emphasis or clarity.",
+    "example": "The instructor reiterated the safety rules before every lab session.",
+    "synonyms": ["repeat", "restate", "emphasize", "underscore"],
+    "mnemonic": "RE-ITERATE: ITERATE means to go through steps; RE-iterate = loop through them again.",
+    "confusableNote": ""
+  },
+  {
+    "id": "relegate",
+    "pos": "v",
+    "definition": "To assign someone or something to a lower rank, position, or status.",
+    "example": "After the merger, the veteran executive was relegated to a minor advisory role.",
+    "synonyms": ["demote", "downgrade", "consign", "banish"],
+    "mnemonic": "RE-LEGATE: a legate is an envoy; to relegate is to send someone away to a lesser post.",
+    "confusableNote": ""
+  },
+  {
+    "id": "remedial",
+    "pos": "adj",
+    "definition": "Intended to correct a deficiency or improve a faulty situation; corrective.",
+    "example": "Students who struggled with algebra were enrolled in remedial math courses.",
+    "synonyms": ["corrective", "restorative", "therapeutic", "ameliorative"],
+    "mnemonic": "REMEDY + ial: relating to a REMEDY — fixing what is broken or lacking.",
+    "confusableNote": ""
+  }
+]

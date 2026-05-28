@@ -1,0 +1,398 @@
+[
+  {
+    "id": "peripheral",
+    "pos": "adj",
+    "definition": "Of minor importance; relating to the edges or margins rather than the core.",
+    "example": "The committee dismissed his concerns as peripheral to the main debate.",
+    "synonyms": ["marginal", "tangential", "incidental", "secondary"],
+    "mnemonic": "Peri- means 'around the edge' — peripheral issues circle the center but never reach it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "scant",
+    "pos": "adj",
+    "definition": "Barely sufficient in amount; meager or severely limited.",
+    "example": "The expedition survived on scant rations for three weeks.",
+    "synonyms": ["meager", "sparse", "paltry", "insufficient"],
+    "mnemonic": "Scant sounds like 'scan't' — you can't scan much because there's so little.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sparse",
+    "pos": "adj",
+    "definition": "Thinly distributed or scattered; present in small or insufficient quantities.",
+    "example": "Vegetation is sparse in the high-altitude regions of the Andes.",
+    "synonyms": ["scanty", "meager", "scant", "thin"],
+    "mnemonic": "Sparse = 'space between' — lots of empty space, few things filling it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tangential",
+    "pos": "adj",
+    "definition": "Only slightly connected to the main subject; diverging from the central point.",
+    "example": "Her tangential remarks about the weather distracted from the policy discussion.",
+    "synonyms": ["peripheral", "digressive", "incidental", "marginal"],
+    "mnemonic": "A tangent in geometry just touches a circle — tangential ideas barely touch the topic.",
+    "confusableNote": ""
+  },
+  {
+    "id": "trifling",
+    "pos": "adj",
+    "definition": "Of little value or importance; trivially small or insignificant.",
+    "example": "He dismissed the budget shortfall as a trifling matter not worth the board's time.",
+    "synonyms": ["trivial", "negligible", "paltry", "inconsequential"],
+    "mnemonic": "Trifling = trifle (a tiny dessert) — something small enough to trifle with.",
+    "confusableNote": ""
+  },
+  {
+    "id": "trivial",
+    "pos": "adj",
+    "definition": "Of little significance or importance; too minor to deserve serious attention.",
+    "example": "Critics argued that the film focused on trivial details while ignoring deeper themes.",
+    "synonyms": ["trifling", "negligible", "inconsequential", "petty"],
+    "mnemonic": "Tri-via: three roads (trivium) where gossip was exchanged — common, unimportant talk.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ubiquitous",
+    "pos": "adj",
+    "definition": "Present, appearing, or found everywhere simultaneously; omnipresent.",
+    "example": "Smartphones have become so ubiquitous that life without one feels impossible.",
+    "synonyms": ["omnipresent", "pervasive", "prevalent", "universal"],
+    "mnemonic": "Ubiquitous has 'ubi' (Latin 'where') — wherever you ask 'where?', it's already there.",
+    "confusableNote": ""
+  },
+  {
+    "id": "universal",
+    "pos": "adj",
+    "definition": "Applicable to or shared by all cases, individuals, or groups without exception.",
+    "example": "The desire for fairness appears to be a universal human value across cultures.",
+    "synonyms": ["ubiquitous", "pervasive", "all-encompassing", "catholic"],
+    "mnemonic": "Uni- (one) + versal (turn) — one thing that turns toward everyone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "utterly",
+    "pos": "adv",
+    "definition": "Completely and without qualification; to the absolute fullest degree.",
+    "example": "The scientist was utterly convinced that her hypothesis was correct.",
+    "synonyms": ["completely", "wholly", "thoroughly", "absolutely"],
+    "mnemonic": "Utterly = 'utter' (total) + -ly — totally and completely so.",
+    "confusableNote": ""
+  },
+  {
+    "id": "esoteric",
+    "pos": "adj",
+    "definition": "Intended for or understood by only a small group with specialized or secret knowledge.",
+    "example": "The professor's lecture on esoteric medieval alchemy drew only a handful of specialists.",
+    "synonyms": ["arcane", "recondite", "abstruse", "cryptic"],
+    "mnemonic": "Esoteric = 'inner circle' (Greek esōterikos) — kept within, not for outsiders.",
+    "confusableNote": "Do not confuse with exoteric, which means suitable for the general public."
+  },
+  {
+    "id": "numinous",
+    "pos": "adj",
+    "definition": "Having a strong sense of the divine or supernatural; evoking awe and spiritual power.",
+    "example": "Visitors often describe the ancient cathedral as a numinous space unlike any other.",
+    "synonyms": ["sacred", "sublime", "transcendent", "mystical"],
+    "mnemonic": "Numinous comes from 'numen' (divine spirit) — filled with a god's presence.",
+    "confusableNote": "Do not confuse with luminous (emitting light); numinous is spiritual, not literal light."
+  },
+  {
+    "id": "occult",
+    "pos": "adj",
+    "definition": "Involving supernatural, mystical, or magical powers and knowledge hidden from ordinary understanding.",
+    "example": "The manuscript contained occult symbols that scholars struggled to decipher.",
+    "synonyms": ["esoteric", "arcane", "mystical", "cryptic"],
+    "mnemonic": "Occult = 'occult-ed' (hidden) — the curtain is pulled over secret knowledge.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sacrosanct",
+    "pos": "adj",
+    "definition": "Regarded as too important or holy to be questioned, altered, or violated.",
+    "example": "In the organization, the founding charter was treated as sacrosanct and beyond revision.",
+    "synonyms": ["inviolable", "hallowed", "sacred", "untouchable"],
+    "mnemonic": "Sacro- (sacred) + sanct (holy) — doubly holy, absolutely untouchable.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aberrant",
+    "pos": "adj",
+    "definition": "Departing markedly from the normal or expected type; deviant.",
+    "example": "The scientist flagged the aberrant data point as likely the result of instrument error.",
+    "synonyms": ["anomalous", "deviant", "irregular", "atypical"],
+    "mnemonic": "Ab- (away) + errare (to wander) — wandering away from the correct path.",
+    "confusableNote": "Do not confuse with abhorrent (inspiring disgust); aberrant means abnormal, not repulsive."
+  },
+  {
+    "id": "amalgamate",
+    "pos": "v",
+    "definition": "To combine or unite two or more things into a single unified whole.",
+    "example": "The two rival firms decided to amalgamate their operations to reduce costs.",
+    "synonyms": ["merge", "consolidate", "integrate", "fuse"],
+    "mnemonic": "Amalgam (a metal alloy blend) — amalgamate means blending things like metals together.",
+    "confusableNote": ""
+  },
+  {
+    "id": "analogous",
+    "pos": "adj",
+    "definition": "Comparable in certain respects; having a parallel function or position.",
+    "example": "The human eye is analogous to a camera in how it focuses and captures images.",
+    "synonyms": ["comparable", "parallel", "corresponding", "equivalent"],
+    "mnemonic": "Analogous shares a root with 'analogy' — if you can draw an analogy, they're analogous.",
+    "confusableNote": "Do not confuse with homologous (similar in origin); analogous means similar in function."
+  },
+  {
+    "id": "anomalous",
+    "pos": "adj",
+    "definition": "Deviating from what is standard, normal, or expected; irregular.",
+    "example": "The anomalous warm temperatures in January alarmed climate researchers.",
+    "synonyms": ["aberrant", "irregular", "atypical", "deviant"],
+    "mnemonic": "An- (not) + homalos (even) — not even or regular; bumpy and unexpected.",
+    "confusableNote": ""
+  },
+  {
+    "id": "antithesis",
+    "pos": "n",
+    "definition": "The direct or exact opposite of something; a sharp contrast.",
+    "example": "His reckless behavior was the antithesis of the caution his mentor had preached.",
+    "synonyms": ["opposite", "contrary", "converse", "antipode"],
+    "mnemonic": "Anti- (against) + thesis (proposition) — the proposition set directly against another.",
+    "confusableNote": ""
+  },
+  {
+    "id": "apposite",
+    "pos": "adj",
+    "definition": "Strikingly appropriate and relevant to the context or situation at hand.",
+    "example": "The judge's apposite quotation from the statute settled the argument immediately.",
+    "synonyms": ["apt", "pertinent", "germane", "apropos"],
+    "mnemonic": "Apposite = 'appose' (place next to) — the word fits so well it can sit right beside the idea.",
+    "confusableNote": "Do not confuse with opposite (contrary); apposite means fitting, not contrasting."
+  },
+  {
+    "id": "apropos",
+    "pos": "adj",
+    "definition": "Fitting or appropriate to the occasion; relevant and to the point.",
+    "example": "His anecdote about failure was quite apropos given that the team had just lost the contract.",
+    "synonyms": ["pertinent", "apposite", "germane", "apt"],
+    "mnemonic": "Apropos = French 'to the purpose' — right on target for the purpose at hand.",
+    "confusableNote": ""
+  },
+  {
+    "id": "archetype",
+    "pos": "n",
+    "definition": "An original model or the most typical example of a category from which others are derived.",
+    "example": "Odysseus is often cited as the archetype of the clever, resourceful hero.",
+    "synonyms": ["prototype", "exemplar", "paradigm", "quintessence"],
+    "mnemonic": "Arche- (original, first) + type — the first type from which all others are copied.",
+    "confusableNote": ""
+  },
+  {
+    "id": "benchmark",
+    "pos": "n",
+    "definition": "A standard or point of reference against which performance or quality is measured.",
+    "example": "The new study set the benchmark for future research on climate modeling accuracy.",
+    "synonyms": ["standard", "criterion", "yardstick", "touchstone"],
+    "mnemonic": "Surveyor's bench mark — a fixed point chiseled in stone used to measure all elevations from.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cluster",
+    "pos": "n",
+    "definition": "A group of similar things or people positioned or occurring closely together.",
+    "example": "Researchers identified a cluster of symptoms that consistently appeared together in patients.",
+    "synonyms": ["grouping", "aggregation", "constellation", "cohort"],
+    "mnemonic": "Cluster = clump-like — think of a cluster of grapes all bunched together.",
+    "confusableNote": ""
+  },
+  {
+    "id": "coalesce",
+    "pos": "v",
+    "definition": "To come together and form one mass or whole by merging.",
+    "example": "The disparate factions eventually coalesced around a single candidate.",
+    "synonyms": ["merge", "converge", "amalgamate", "consolidate"],
+    "mnemonic": "Co- (together) + alescere (to grow) — growing together into one unified body.",
+    "confusableNote": ""
+  },
+  {
+    "id": "collude",
+    "pos": "v",
+    "definition": "To cooperate secretly or illegally to deceive or defraud others.",
+    "example": "The executives were found to have colluded to fix prices and eliminate competition.",
+    "synonyms": ["conspire", "scheme", "connive", "plot"],
+    "mnemonic": "Col- (together) + ludere (to play) — playing a secret game together against others.",
+    "confusableNote": ""
+  },
+  {
+    "id": "commensurate",
+    "pos": "adj",
+    "definition": "Corresponding in size, degree, or extent; proportionate.",
+    "example": "Her salary was commensurate with her level of experience and expertise.",
+    "synonyms": ["proportionate", "equivalent", "corresponding", "commensurate"],
+    "mnemonic": "Com- (together) + mensura (measure) — measured together; the same measure.",
+    "confusableNote": ""
+  },
+  {
+    "id": "complementary",
+    "pos": "adj",
+    "definition": "Combining in a way that enhances or completes the qualities of the other.",
+    "example": "Their complementary skills — his creativity and her analytical rigor — made them an effective team.",
+    "synonyms": ["compatible", "harmonious", "reciprocal", "correlative"],
+    "mnemonic": "Complement = complete — complementary things complete each other.",
+    "confusableNote": "Do not confuse with complimentary (expressing praise or given free); complementary means mutually completing."
+  },
+  {
+    "id": "compound",
+    "pos": "v",
+    "definition": "To make something worse or more serious by adding to or combining with it.",
+    "example": "His late arrival compounded the already chaotic situation in the emergency room.",
+    "synonyms": ["exacerbate", "aggravate", "intensify", "augment"],
+    "mnemonic": "Com- (together) + ponere (to put) — put more on top, making the pile worse.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conspire",
+    "pos": "v",
+    "definition": "To plan secretly with others to do something harmful or illegal; or for events to combine toward a result.",
+    "example": "Several factors conspired to make the launch the worst in the company's history.",
+    "synonyms": ["collude", "scheme", "plot", "connive"],
+    "mnemonic": "Con- (together) + spirare (to breathe) — whispering together in secret.",
+    "confusableNote": ""
+  },
+  {
+    "id": "correlate",
+    "pos": "v",
+    "definition": "To have a mutual relationship or connection; to show a consistent pattern between two variables.",
+    "example": "Studies consistently correlate higher education levels with increased lifetime earnings.",
+    "synonyms": ["correspond", "associate", "relate", "connect"],
+    "mnemonic": "Co- (together) + relate — two things that relate together, moving in tandem.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dichotomy",
+    "pos": "n",
+    "definition": "A division into two contrasting or mutually exclusive categories.",
+    "example": "The philosopher challenged the false dichotomy between reason and emotion.",
+    "synonyms": ["division", "bifurcation", "polarity", "antithesis"],
+    "mnemonic": "Dicho- (two) + tomy (cut) — cut cleanly into exactly two opposing parts.",
+    "confusableNote": ""
+  },
+  {
+    "id": "discrepancy",
+    "pos": "n",
+    "definition": "A lack of agreement or consistency between facts, figures, or statements.",
+    "example": "Auditors discovered a discrepancy between the reported revenue and the bank records.",
+    "synonyms": ["inconsistency", "disparity", "divergence", "incongruity"],
+    "mnemonic": "Dis- (apart) + crepare (to rattle) — a rattling gap between two things that don't match.",
+    "confusableNote": ""
+  },
+  {
+    "id": "disparate",
+    "pos": "adj",
+    "definition": "Essentially different in kind; composed of elements that are markedly unlike.",
+    "example": "The coalition brought together disparate groups united only by their opposition to the policy.",
+    "synonyms": ["divergent", "heterogeneous", "incongruous", "dissimilar"],
+    "mnemonic": "Dis- (apart) + parare (to prepare) — prepared apart, not from the same cloth.",
+    "confusableNote": "Do not confuse with desperate (frantic with despair); disparate means fundamentally different."
+  },
+  {
+    "id": "divergent",
+    "pos": "adj",
+    "definition": "Tending to develop in different directions; differing from the norm or from each other.",
+    "example": "The two scientists reached divergent conclusions from the same dataset.",
+    "synonyms": ["differing", "disparate", "discrepant", "variant"],
+    "mnemonic": "Di- (apart) + vergere (to turn) — turning away in opposite directions.",
+    "confusableNote": ""
+  },
+  {
+    "id": "echelon",
+    "pos": "n",
+    "definition": "A level or rank within an organization or system; a tier of a hierarchy.",
+    "example": "She had risen through every echelon of the firm before becoming CEO.",
+    "synonyms": ["tier", "rank", "stratum", "level"],
+    "mnemonic": "Echelon = a step (French échelle: ladder) — each rung is a different level of rank.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fungible",
+    "pos": "adj",
+    "definition": "Interchangeable with other individual items of the same kind; mutually substitutable.",
+    "example": "Money is fungible — one dollar bill is perfectly substitutable for any other.",
+    "synonyms": ["interchangeable", "substitutable", "equivalent", "exchangeable"],
+    "mnemonic": "Fungi- from Latin fungi (to perform) — each unit performs identically, so swap freely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "germane",
+    "pos": "adj",
+    "definition": "Relevant and appropriate to the matter at hand; pertinent.",
+    "example": "The attorney objected that the witness's personal history was not germane to the case.",
+    "synonyms": ["pertinent", "relevant", "apposite", "apropos"],
+    "mnemonic": "Germane = 'of the same germ' (Latin germanus: related) — closely related to the topic.",
+    "confusableNote": ""
+  },
+  {
+    "id": "incongruous",
+    "pos": "adj",
+    "definition": "Not fitting together harmoniously; out of place or inconsistent with the surroundings.",
+    "example": "The ultramodern skyscraper looked incongruous amid the historic cobblestone district.",
+    "synonyms": ["discordant", "incompatible", "anomalous", "jarring"],
+    "mnemonic": "In- (not) + congruere (to agree) — things that simply don't agree or fit together.",
+    "confusableNote": ""
+  },
+  {
+    "id": "interchangeable",
+    "pos": "adj",
+    "definition": "Able to be used in place of each other without any difference in function or effect.",
+    "example": "The two technical terms are interchangeable in most scientific literature.",
+    "synonyms": ["fungible", "equivalent", "substitutable", "synonymous"],
+    "mnemonic": "Inter- (between) + change — you can change them between each other freely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "intertwined",
+    "pos": "adj",
+    "definition": "Twisted or woven closely together; closely connected and difficult to separate.",
+    "example": "The fates of the two nations were so intertwined that neither could act independently.",
+    "synonyms": ["interlaced", "entwined", "interwoven", "entangled"],
+    "mnemonic": "Inter- (between) + twined — threads twisted between each other, inseparable.",
+    "confusableNote": ""
+  },
+  {
+    "id": "paradigmatic",
+    "pos": "adj",
+    "definition": "Serving as a typical example or pattern of a class or category; exemplary of a model.",
+    "example": "Darwin's finches are paradigmatic cases in the study of natural selection.",
+    "synonyms": ["archetypal", "exemplary", "prototypical", "quintessential"],
+    "mnemonic": "Paradigm + -atic — if something is paradigmatic, it IS the paradigm others follow.",
+    "confusableNote": ""
+  },
+  {
+    "id": "peculiar",
+    "pos": "adj",
+    "definition": "Strange or unusual; different from what is expected or normal.",
+    "example": "The researcher noted a peculiar pattern in the data that defied standard explanation.",
+    "synonyms": ["eccentric", "anomalous", "singular", "idiosyncratic"],
+    "mnemonic": "Peculiar from pecus (cattle) — like an animal that strays from the herd; oddly different.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pertinent",
+    "pos": "adj",
+    "definition": "Relevant or applicable to a particular matter; having a direct bearing on the subject.",
+    "example": "Please limit your comments to information that is pertinent to the agenda.",
+    "synonyms": ["relevant", "germane", "apposite", "apropos"],
+    "mnemonic": "Pertinent = per- (thoroughly) + tenere (to hold) — holding thoroughly to the topic.",
+    "confusableNote": ""
+  },
+  {
+    "id": "quirky",
+    "pos": "adj",
+    "definition": "Having or characterized by unusual, unexpected, or idiosyncratic traits.",
+    "example": "Her quirky sense of humor made her lectures memorable even when the material was dry.",
+    "synonyms": ["eccentric", "idiosyncratic", "whimsical", "singular"],
+    "mnemonic": "Quirky = full of quirks — unexpected twists that make something stand out oddly.",
+    "confusableNote": ""
+  }
+]

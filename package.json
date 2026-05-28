@@ -1,0 +1,21 @@
+{
+  "name": "gre-semantic-study",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A semantic, cluster-based study app for GregMat GRE vocabulary",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "parse": "node scripts/parse-guide.mjs",
+    "enrich:merge": "node scripts/merge-enriched.mjs"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "svelte": "^5.19.0",
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8"
+  }
+}

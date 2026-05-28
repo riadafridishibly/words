@@ -1,0 +1,398 @@
+[
+  {
+    "id": "abreast",
+    "pos": "adv",
+    "definition": "Up to date with the latest information or developments on a subject.",
+    "example": "The manager held weekly briefings to keep the team abreast of regulatory changes.",
+    "synonyms": ["informed", "current", "updated", "au courant"],
+    "mnemonic": "Stay ABREAST = keep your chest forward, facing the latest news.",
+    "confusableNote": ""
+  },
+  {
+    "id": "abscond",
+    "pos": "v",
+    "definition": "To flee secretly, especially to escape legal consequences or detection.",
+    "example": "The embezzler absconded with the funds before auditors could freeze the accounts.",
+    "synonyms": ["flee", "bolt", "decamp", "escape"],
+    "mnemonic": "AB (away) + SCOND (hide) — disappear into hiding, away from the scene.",
+    "confusableNote": ""
+  },
+  {
+    "id": "accentuate",
+    "pos": "v",
+    "definition": "To make a feature or quality more pronounced or noticeable; to emphasize.",
+    "example": "The lighting in the gallery was designed to accentuate the texture of each sculpture.",
+    "synonyms": ["emphasize", "highlight", "underscore", "foreground"],
+    "mnemonic": "ACCENT + uate — put the accent mark on what matters most.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ad-hoc",
+    "pos": "adj",
+    "definition": "Formed or devised for a particular purpose or situation, without prior planning.",
+    "example": "The committee formed an ad hoc subgroup to address the unexpected budget shortfall.",
+    "synonyms": ["improvised", "provisional", "makeshift", "situational"],
+    "mnemonic": "Latin 'for this' — invented ON THE SPOT for THIS one situation.",
+    "confusableNote": ""
+  },
+  {
+    "id": "adhere",
+    "pos": "v",
+    "definition": "To follow or observe a rule, agreement, or obligation consistently and loyally.",
+    "example": "All participants must adhere to the terms of the non-disclosure agreement.",
+    "synonyms": ["comply", "conform", "abide", "observe"],
+    "mnemonic": "ADHERE = AD (to) + HERE — stick to it, stay right here with the rule.",
+    "confusableNote": "Do not confuse with 'cohere' (to form a logical whole); adhere implies commitment to an external standard."
+  },
+  {
+    "id": "amenable",
+    "pos": "adj",
+    "definition": "Willing to cooperate or comply; open to suggestion or persuasion.",
+    "example": "The director was amenable to revising the timeline after hearing the team's concerns.",
+    "synonyms": ["receptive", "compliant", "agreeable", "acquiescent"],
+    "mnemonic": "AMENABLE sounds like 'able to say Amen' — ready to agree and go along.",
+    "confusableNote": "Do not confuse with 'amiable' (friendly in manner); amenable stresses willingness to comply, not general warmth."
+  },
+  {
+    "id": "animosity",
+    "pos": "n",
+    "definition": "Strong hostility or active ill will directed toward another person or group.",
+    "example": "Years of border disputes had bred deep animosity between the two neighboring nations.",
+    "synonyms": ["enmity", "hostility", "antipathy", "rancor"],
+    "mnemonic": "ANIMAL + osity — raw, animal-like hatred boiling inside.",
+    "confusableNote": ""
+  },
+  {
+    "id": "animus",
+    "pos": "n",
+    "definition": "Hostile intent or deep-seated ill will; an antagonistic attitude toward someone.",
+    "example": "The judge noted that the plaintiff's lawsuit was motivated by personal animus rather than genuine legal grievance.",
+    "synonyms": ["hostility", "malice", "antagonism", "enmity"],
+    "mnemonic": "ANIMUS — the Latin root for 'spirit' gone dark: a spirit of hatred.",
+    "confusableNote": "Do not confuse with 'anima' (soul/inner self in Jungian psychology); animus specifically denotes hostile intent."
+  },
+  {
+    "id": "apologist",
+    "pos": "n",
+    "definition": "One who argues in defense or justification of a doctrine, policy, or person.",
+    "example": "The historian was branded an apologist for the regime because he downplayed its atrocities.",
+    "synonyms": ["advocate", "defender", "proponent", "vindicator"],
+    "mnemonic": "APOLOGIST ≠ apologizer — this person DEFENDS, not regrets.",
+    "confusableNote": "Do not confuse with 'apology' (expression of regret); an apologist offers intellectual defense, not personal remorse."
+  },
+  {
+    "id": "apprise",
+    "pos": "v",
+    "definition": "To formally notify or inform someone of relevant facts or developments.",
+    "example": "The embassy apprised its citizens of the travel restrictions before the summit began.",
+    "synonyms": ["inform", "notify", "advise", "brief"],
+    "mnemonic": "APPRISE = bring a PRIZE of information to someone who needs it.",
+    "confusableNote": "Do not confuse with 'appraise' (to assess value); apprise means to inform, not evaluate."
+  },
+  {
+    "id": "appropriate",
+    "pos": "adj",
+    "definition": "Suitable or fitting for a particular purpose, context, or occasion.",
+    "example": "Formal attire is appropriate for the board's annual dinner.",
+    "synonyms": ["fitting", "apt", "suitable", "proper"],
+    "mnemonic": "APPRO- (approved) + PRIATE — what has been approved as right for the moment.",
+    "confusableNote": "Do not confuse with the verb 'appropriate' (to take for one's own use), which carries a different and sometimes negative meaning."
+  },
+  {
+    "id": "apt",
+    "pos": "adj",
+    "definition": "Exactly right or suitable for a given situation; well-chosen and fitting.",
+    "example": "Her apt analogy made the complex economic theory immediately understandable.",
+    "synonyms": ["fitting", "felicitous", "apropos", "pertinent"],
+    "mnemonic": "APT is short and sharp — a short, sharp word for the perfectly short and sharp choice.",
+    "confusableNote": ""
+  },
+  {
+    "id": "arduous",
+    "pos": "adj",
+    "definition": "Requiring great effort and endurance; extremely demanding and difficult.",
+    "example": "The researchers completed an arduous two-year fieldwork campaign in the polar region.",
+    "synonyms": ["grueling", "laborious", "strenuous", "onerous"],
+    "mnemonic": "ARDUOUS sounds like 'hard you us' — hard for all of us to get through.",
+    "confusableNote": ""
+  },
+  {
+    "id": "artless",
+    "pos": "adj",
+    "definition": "Without guile or artifice; naturally simple, sincere, and free from pretense.",
+    "example": "Her artless confession disarmed the cynical negotiators who had expected clever maneuvering.",
+    "synonyms": ["ingenuous", "guileless", "unpretentious", "naive"],
+    "mnemonic": "ART-LESS — lacking the art of deception; what you see is genuinely what you get.",
+    "confusableNote": "Do not confuse with 'artless' meaning 'lacking artistic skill'; the GRE sense is 'free from cunning or affectation.'"
+  },
+  {
+    "id": "astringent",
+    "pos": "adj",
+    "definition": "Harshly severe or sharply critical in effect; causing a tightening or constricting reaction.",
+    "example": "The critic's astringent review stripped the novel of every unearned claim to greatness.",
+    "synonyms": ["caustic", "acerbic", "mordant", "stringent"],
+    "mnemonic": "ASTRINGENT tightens and stings — its words contract and bite like a harsh tonic.",
+    "confusableNote": ""
+  },
+  {
+    "id": "attenuate",
+    "pos": "v",
+    "definition": "To weaken or reduce in force, density, or severity; to make thin or slender.",
+    "example": "The medication attenuated the severity of the patient's symptoms without eliminating them entirely.",
+    "synonyms": ["weaken", "diminish", "dilute", "mitigate"],
+    "mnemonic": "ATTENUATE — think 'thin it out': at-THIN-uate the signal until it fades.",
+    "confusableNote": "Do not confuse with 'extenuate' (to lessen the seriousness of an offense); attenuate focuses on physically or quantitatively weakening something."
+  },
+  {
+    "id": "auxiliary",
+    "pos": "adj",
+    "definition": "Providing supplementary or additional support to a primary effort or organization.",
+    "example": "The hospital's auxiliary staff volunteers helped maintain operations during the nursing shortage.",
+    "synonyms": ["supplementary", "ancillary", "subsidiary", "adjunct"],
+    "mnemonic": "AUX (extra) + ILIARY — the auxiliary cable is the EXTRA plug when the main one fails.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aver",
+    "pos": "v",
+    "definition": "To assert or affirm something confidently and with conviction as true.",
+    "example": "The witness averred that she had seen the defendant at the scene at midnight.",
+    "synonyms": ["assert", "affirm", "declare", "avow"],
+    "mnemonic": "AVER = A + VER (truth) — to speak truth with certainty.",
+    "confusableNote": "Do not confuse with 'avert' (to turn away or prevent); aver is purely a speech act of affirmation."
+  },
+  {
+    "id": "avert",
+    "pos": "v",
+    "definition": "To prevent an undesirable event from occurring; to turn away or ward off.",
+    "example": "Swift diplomatic negotiations averted what might have become a full-scale military conflict.",
+    "synonyms": ["prevent", "forestall", "preclude", "ward off"],
+    "mnemonic": "AVERT = A + VERT (turn) — turn danger away before it arrives.",
+    "confusableNote": "Do not confuse with 'averse' (having a strong dislike); avert is an action of prevention, not a feeling."
+  },
+  {
+    "id": "beholden",
+    "pos": "adj",
+    "definition": "Owing a debt of gratitude or obligation to someone for a favor or benefit received.",
+    "example": "Having accepted the grant, the researcher felt beholden to publish results favorable to the sponsor.",
+    "synonyms": ["indebted", "obligated", "duty-bound", "obliged"],
+    "mnemonic": "BEHOLDEN — be HELD by obligation, as if someone's hand holds you in place.",
+    "confusableNote": ""
+  },
+  {
+    "id": "belie",
+    "pos": "v",
+    "definition": "To give a false impression of something; to contradict or misrepresent.",
+    "example": "Her calm expression belied the intense anxiety she felt before the performance.",
+    "synonyms": ["contradict", "misrepresent", "falsify", "gainsay"],
+    "mnemonic": "BE + LIE — to belie is to make something BE a LIE by contradicting the truth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "belittle",
+    "pos": "v",
+    "definition": "To dismiss or disparage someone or something as unimportant or inferior.",
+    "example": "The senior engineer belittled the intern's proposal without even reading it thoroughly.",
+    "synonyms": ["disparage", "denigrate", "deprecate", "minimize"],
+    "mnemonic": "BE + LITTLE — to make someone feel small and insignificant.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bereft",
+    "pos": "adj",
+    "definition": "Lacking something needed or valued; desolately deprived of or grieving a loss.",
+    "example": "Bereft of funding, the research program was quietly discontinued after a decade of progress.",
+    "synonyms": ["deprived", "devoid", "destitute", "stripped"],
+    "mnemonic": "BEREFT sounds like 'bereaved left' — left behind, robbed of what you had.",
+    "confusableNote": ""
+  },
+  {
+    "id": "blithe",
+    "pos": "adj",
+    "definition": "Showing a casual, unconcerned indifference to the consequences of one's actions.",
+    "example": "His blithe disregard for deadlines exasperated colleagues who had to cover for him.",
+    "synonyms": ["nonchalant", "heedless", "casual", "carefree"],
+    "mnemonic": "BLITHE — sounds like 'blythe' — breezy and light, blissfully untroubled by reality.",
+    "confusableNote": "Note that 'blithe' in the GRE context often carries a negative connotation of careless indifference, not innocent happiness."
+  },
+  {
+    "id": "boisterous",
+    "pos": "adj",
+    "definition": "Noisily energetic and rowdy; unruly and turbulent in a way that provokes or disrupts.",
+    "example": "The boisterous crowd outside the stadium made it impossible to hear the opening announcement.",
+    "synonyms": ["rowdy", "raucous", "tumultuous", "unruly"],
+    "mnemonic": "BOISTEROUS — BOILing + STIR = the pot is boiling and stirring up chaos.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cajole",
+    "pos": "v",
+    "definition": "To persuade someone by flattery, coaxing, or gentle persistent urging.",
+    "example": "She cajoled her reluctant colleague into presenting at the conference with lavish compliments.",
+    "synonyms": ["coax", "wheedle", "inveigle", "blandish"],
+    "mnemonic": "CA-JOLE — jolly someone along with sweet words until they give in.",
+    "confusableNote": ""
+  },
+  {
+    "id": "capitulate",
+    "pos": "v",
+    "definition": "To cease resistance and surrender, especially under agreed conditions.",
+    "example": "After months of negotiations, the company capitulated to the union's demands for higher wages.",
+    "synonyms": ["yield", "acquiesce", "submit", "succumb"],
+    "mnemonic": "CAPITULATE — think 'capital falls': when the capital surrenders, the war is over.",
+    "confusableNote": "Do not confuse with 'recapitulate' (to summarize); capitulate means to give up resistance entirely."
+  },
+  {
+    "id": "captious",
+    "pos": "adj",
+    "definition": "Excessively critical of trivial faults; inclined to find fault unreasonably.",
+    "example": "The captious editor rejected the manuscript over minor punctuation inconsistencies.",
+    "synonyms": ["carping", "censorious", "hypercritical", "quibbling"],
+    "mnemonic": "CAPTIOUS — trying to CAPTURE you in a fault; always hunting for something to criticize.",
+    "confusableNote": "Do not confuse with 'capricious' (impulsively unpredictable); captious specifically means fault-finding and critical."
+  },
+  {
+    "id": "censor",
+    "pos": "v",
+    "definition": "To officially examine and suppress or remove material deemed objectionable or inappropriate.",
+    "example": "The government censored news reports that contradicted the official account of the incident.",
+    "synonyms": ["suppress", "expurgate", "bowdlerize", "redact"],
+    "mnemonic": "CENSOR — a sensor that detects and cuts out what authority doesn't want you to see.",
+    "confusableNote": "Do not confuse with 'censure' (to formally criticize or condemn); censor involves removal or suppression of content."
+  },
+  {
+    "id": "cloying",
+    "pos": "adj",
+    "definition": "Excessively sweet, sentimental, or flattering to the point of causing disgust or revulsion.",
+    "example": "The film's cloying sentimentality made it difficult to watch past the first act.",
+    "synonyms": ["saccharine", "mawkish", "overwrought", "fulsome"],
+    "mnemonic": "CLOYING — too much CLOY (sweetness) CLOGS your senses until you feel sick.",
+    "confusableNote": ""
+  },
+  {
+    "id": "coddle",
+    "pos": "v",
+    "definition": "To treat with excessive care and indulgence; to pamper or overprotect.",
+    "example": "Critics argued that the policy coddled underperforming divisions instead of holding them accountable.",
+    "synonyms": ["pamper", "mollycoddle", "indulge", "cosset"],
+    "mnemonic": "CODDLE — like coddled eggs, kept in warm gentle water, never exposed to the full heat.",
+    "confusableNote": ""
+  },
+  {
+    "id": "commiserate",
+    "pos": "v",
+    "definition": "To express or feel sympathy and sorrow for another's misfortune; to sympathize.",
+    "example": "After the team's loss, the coach commiserated with the players rather than criticizing their effort.",
+    "synonyms": ["sympathize", "empathize", "condole", "console"],
+    "mnemonic": "COM (together) + MISERATE (misery) — share in misery together.",
+    "confusableNote": ""
+  },
+  {
+    "id": "compelling",
+    "pos": "adj",
+    "definition": "Powerfully persuasive; evoking strong interest or conviction that demands attention.",
+    "example": "The prosecutor presented compelling evidence that left the jury little room for reasonable doubt.",
+    "synonyms": ["convincing", "cogent", "forceful", "persuasive"],
+    "mnemonic": "COMPELLING — COMPELS you forward; you can't look away or disagree.",
+    "confusableNote": ""
+  },
+  {
+    "id": "complacent",
+    "pos": "adj",
+    "definition": "Smugly self-satisfied and uncritically content, often unaware of potential risks.",
+    "example": "The market leader grew complacent and failed to anticipate the disruptive startup's rise.",
+    "synonyms": ["self-satisfied", "smug", "unconcerned", "sanguine"],
+    "mnemonic": "COM + PLACENT (pleased) — pleased with the status quo and blind to its dangers.",
+    "confusableNote": "Do not confuse with 'complaisant' (eager to please others); complacent means pleased with oneself."
+  },
+  {
+    "id": "condone",
+    "pos": "v",
+    "definition": "To accept or allow behavior considered wrong; to overlook or implicitly approve an offense.",
+    "example": "The school board was accused of condoning bullying by failing to enforce its own policies.",
+    "synonyms": ["overlook", "excuse", "tolerate", "pardon"],
+    "mnemonic": "CONDONE — CONDOnE sounds like 'condone done' — let the wrong deed pass as done and forgiven.",
+    "confusableNote": ""
+  },
+  {
+    "id": "consensus",
+    "pos": "n",
+    "definition": "General agreement reached among all members of a group after deliberation.",
+    "example": "After lengthy debate, the panel reached a consensus on the proposed safety standards.",
+    "synonyms": ["accord", "unanimity", "concurrence", "agreement"],
+    "mnemonic": "CON (together) + SENSUS (feeling) — everyone feeling the same way together.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conspicuous",
+    "pos": "adj",
+    "definition": "Standing out strikingly so as to attract notice; clearly visible or prominent.",
+    "example": "The artist's conspicuous talent was evident from her very first public exhibition.",
+    "synonyms": ["prominent", "salient", "noticeable", "manifest"],
+    "mnemonic": "CON-SPIC-UOUS — your eyes CONSPIRE to SPEC (spy) something so obvious it can't be missed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "contend",
+    "pos": "v",
+    "definition": "To assert or maintain a position in argument; to compete or struggle against opposition.",
+    "example": "The defense attorney contended that the evidence had been mishandled and should be excluded.",
+    "synonyms": ["assert", "argue", "maintain", "dispute"],
+    "mnemonic": "CONTEND — CONTest + TEND to your argument; keep tending the debate.",
+    "confusableNote": ""
+  },
+  {
+    "id": "contravene",
+    "pos": "v",
+    "definition": "To act in violation of a law, rule, or prohibition; to conflict with or infringe.",
+    "example": "The new executive order appeared to contravene several provisions of the existing statute.",
+    "synonyms": ["violate", "infringe", "transgress", "breach"],
+    "mnemonic": "CONTRA (against) + VENE (come) — come against the rule and break it.",
+    "confusableNote": "Do not confuse with 'contradict' (to assert the opposite verbally); contravene implies active violation of a law or rule."
+  },
+  {
+    "id": "contrite",
+    "pos": "adj",
+    "definition": "Feeling deep remorse or regret for one's wrongdoing; sincerely penitent.",
+    "example": "The contrite executive publicly apologized and donated his bonus to the affected employees.",
+    "synonyms": ["penitent", "remorseful", "regretful", "repentant"],
+    "mnemonic": "CONTRITE — CONT + RITE — going through the RITE of penitence to atone for wrong.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conundrum",
+    "pos": "n",
+    "definition": "A confusing or difficult problem or question that is hard to solve or understand.",
+    "example": "The paradox of economic growth causing environmental harm presented a conundrum for policymakers.",
+    "synonyms": ["enigma", "quandary", "puzzle", "dilemma"],
+    "mnemonic": "CONUNDRUM — sounds like CONUNDR-UM… the 'um' at the end is you stumped, uncertain what to say.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conventional",
+    "pos": "adj",
+    "definition": "Based on or conforming to accepted standards or common practice; typical and expected.",
+    "example": "The startup rejected the conventional business model in favor of a subscription-based approach.",
+    "synonyms": ["traditional", "orthodox", "standard", "customary"],
+    "mnemonic": "CONVENTION + AL — following what is done at conventions, the established norm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "conviction",
+    "pos": "n",
+    "definition": "A firmly held belief or opinion argued with great certainty and persuasive force.",
+    "example": "She spoke with such conviction that even her skeptical audience reconsidered their position.",
+    "synonyms": ["certitude", "assurance", "persuasion", "firmness"],
+    "mnemonic": "CONVICT + ION — like a court verdict, a conviction makes the belief legally settled in your mind.",
+    "confusableNote": "Note the dual meaning: in the GRE persuasion sense, conviction is the force of belief; the legal sense (being found guilty) is distinct."
+  },
+  {
+    "id": "cumbersome",
+    "pos": "adj",
+    "definition": "Large, heavy, or unwieldy; so complicated or burdensome as to be difficult to use.",
+    "example": "The cumbersome approval process delayed the project by nearly three months.",
+    "synonyms": ["unwieldy", "burdensome", "ponderous", "onerous"],
+    "mnemonic": "CUMBER + SOME — a CUCUMBER that's somehow SOME-thing you have to lug around: heavy and awkward.",
+    "confusableNote": ""
+  }
+]

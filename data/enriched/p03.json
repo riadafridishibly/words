@@ -1,0 +1,398 @@
+[
+  {
+    "id": "flagrant",
+    "pos": "adj",
+    "definition": "Conspicuously and shockingly obvious in a bad or harmful way; glaringly offensive.",
+    "example": "The referee's flagrant disregard for the rules drew outrage from both teams.",
+    "synonyms": ["egregious", "glaring", "blatant", "brazen"],
+    "mnemonic": "FLAMEgrant — it burns so obviously everyone can see it.",
+    "confusableNote": "Do not confuse with 'fragrant' (having a pleasant smell); 'flagrant' signals moral offensiveness, not aroma."
+  },
+  {
+    "id": "flout",
+    "pos": "v",
+    "definition": "To openly and contemptuously disregard or violate a rule, law, or convention.",
+    "example": "The corporation flouted environmental regulations for decades before being fined.",
+    "synonyms": ["defy", "scoff at", "spurn", "transgress"],
+    "mnemonic": "Flout rhymes with 'out' — you throw the rules OUT with contempt.",
+    "confusableNote": "Do not confuse with 'flaunt' (to display ostentatiously); flouting breaks rules, flaunting shows off."
+  },
+  {
+    "id": "foil",
+    "pos": "v",
+    "definition": "To prevent someone from succeeding or to thwart a plan or attempt.",
+    "example": "The detective foiled the smuggler's plan before the contraband crossed the border.",
+    "synonyms": ["thwart", "frustrate", "balk", "stymie"],
+    "mnemonic": "Tin FOIL wraps things up and stops them — it foils your plans.",
+    "confusableNote": ""
+  },
+  {
+    "id": "forbear",
+    "pos": "v",
+    "definition": "To restrain oneself from acting on an impulse; to show patient self-control or tolerance.",
+    "example": "She forbore from criticizing her colleague's work, choosing diplomacy over candor.",
+    "synonyms": ["abstain", "refrain", "desist", "restrain"],
+    "mnemonic": "FOR-BEAR: bear it (endure) for now — hold back and be patient.",
+    "confusableNote": "Do not confuse with 'forebear' (an ancestor); 'forbear' (verb) means to hold back."
+  },
+  {
+    "id": "fortitude",
+    "pos": "n",
+    "definition": "Courage and mental strength to endure pain, adversity, or danger without complaint.",
+    "example": "The survivors demonstrated remarkable fortitude during months of harsh conditions in the wilderness.",
+    "synonyms": ["resilience", "mettle", "tenacity", "grit"],
+    "mnemonic": "FORT — a strong fortress inside you that withstands any attack.",
+    "confusableNote": ""
+  },
+  {
+    "id": "frenetic",
+    "pos": "adj",
+    "definition": "Wildly excited or uncontrolled; characterized by rapid, disordered, frantic activity.",
+    "example": "The trading floor was frenetic in the final minutes before the market closed.",
+    "synonyms": ["frantic", "frenzied", "hectic", "turbulent"],
+    "mnemonic": "FRENETIC sounds like 'frenzy-tic' — twitching with uncontrollable energy.",
+    "confusableNote": ""
+  },
+  {
+    "id": "frivolous",
+    "pos": "adj",
+    "definition": "Lacking seriousness or importance; trivially weak or without merit.",
+    "example": "The judge dismissed the frivolous lawsuit, noting it had no factual basis whatsoever.",
+    "synonyms": ["trivial", "petty", "superficial", "inconsequential"],
+    "mnemonic": "FRIVolous — full of friv(ol)ity, light as bubbles, nothing weighty inside.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fulcrum",
+    "pos": "n",
+    "definition": "The central support point of a lever; figuratively, the key pivot or crucial element enabling change.",
+    "example": "Access to capital was the fulcrum on which the entire startup's success balanced.",
+    "synonyms": ["pivot", "linchpin", "nexus", "crux"],
+    "mnemonic": "Full-CRUM: the crumb at the full center — the one point holding everything up.",
+    "confusableNote": ""
+  },
+  {
+    "id": "gaffe",
+    "pos": "n",
+    "definition": "An embarrassing social blunder or tactless remark made in a public or formal setting.",
+    "example": "The ambassador's gaffe at the dinner — confusing the two countries' names — made headlines.",
+    "synonyms": ["blunder", "faux pas", "solecism", "indiscretion"],
+    "mnemonic": "GAFFE sounds like 'goof' — you goofed in front of everyone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "galvanize",
+    "pos": "v",
+    "definition": "To shock or excite someone into taking action; to stimulate or invigorate into sudden activity.",
+    "example": "The coach's halftime speech galvanized the team into a stunning second-half comeback.",
+    "synonyms": ["invigorate", "electrify", "spur", "animate"],
+    "mnemonic": "GALVANI (the scientist) shocked frog legs to life — galvanize = shock into action.",
+    "confusableNote": ""
+  },
+  {
+    "id": "glib",
+    "pos": "adj",
+    "definition": "Fluent and persuasive but insincere or superficial; too smooth to be trustworthy.",
+    "example": "His glib answers during the debate masked a shallow grasp of the policy issues.",
+    "synonyms": ["facile", "slick", "pat", "disingenuous"],
+    "mnemonic": "GLIB — slippery like lip gloss; smooth talk that slides right past the truth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "gloat",
+    "pos": "v",
+    "definition": "To dwell on one's own success or another's misfortune with smug, self-satisfied pleasure.",
+    "example": "After winning the championship, the team captain was tempted to gloat over their rivals.",
+    "synonyms": ["exult", "crow", "revel", "triumph"],
+    "mnemonic": "GLOAT: glow + float — you glow with smug pride and float above others.",
+    "confusableNote": ""
+  },
+  {
+    "id": "goad",
+    "pos": "v",
+    "definition": "To provoke or irritate someone persistently into a reaction, often using taunts or annoyances.",
+    "example": "The bully goaded his classmate with constant taunts until the classmate finally snapped.",
+    "synonyms": ["provoke", "incite", "prod", "nettle"],
+    "mnemonic": "A GOAD is a sharp stick used to prod animals — goad = jab until they move.",
+    "confusableNote": ""
+  },
+  {
+    "id": "grumble",
+    "pos": "v",
+    "definition": "To complain in a low, discontented voice; to mutter resentfully or with irritation.",
+    "example": "The workers grumbled about the new overtime policy but did not formally protest.",
+    "synonyms": ["grouse", "gripe", "mutter", "kvetch"],
+    "mnemonic": "GRUMBLE sounds like a stomach rumbling with discontent — low and ongoing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "heady",
+    "pos": "adj",
+    "definition": "Producing a powerful, exhilarating, or intoxicating effect on the emotions or senses.",
+    "example": "The heady rush of her first solo performance left the young violinist trembling with excitement.",
+    "synonyms": ["exhilarating", "intoxicating", "thrilling", "euphoric"],
+    "mnemonic": "HEADY — goes straight to your HEAD and makes you dizzy with intense feeling.",
+    "confusableNote": ""
+  },
+  {
+    "id": "heed",
+    "pos": "v",
+    "definition": "To pay careful attention to advice or a warning; to take notice and act accordingly.",
+    "example": "Had he heeded the weather report, he would never have set out on the voyage.",
+    "synonyms": ["attend to", "observe", "regard", "mind"],
+    "mnemonic": "HEED sounds like 'head' — use your head, listen up, and pay attention.",
+    "confusableNote": ""
+  },
+  {
+    "id": "heterodox",
+    "pos": "adj",
+    "definition": "Departing from accepted or established doctrines or beliefs; unorthodox in opinion.",
+    "example": "Her heterodox interpretation of classical texts unsettled the traditionalists in the department.",
+    "synonyms": ["unorthodox", "heretical", "nonconformist", "dissenting"],
+    "mnemonic": "HETERO (different) + DOX (belief) — holding a different belief from the mainstream.",
+    "confusableNote": "Contrast with 'orthodox' (conforming to established doctrine); 'heterodox' is its opposite."
+  },
+  {
+    "id": "hidebound",
+    "pos": "adj",
+    "definition": "Excessively narrow-minded and resistant to change due to rigid adherence to tradition.",
+    "example": "The hidebound trustees refused to modernize the museum's collection policies.",
+    "synonyms": ["parochial", "insular", "reactionary", "blinkered"],
+    "mnemonic": "A hide-bound animal is starved and stiff — hidebound thinkers are rigid and stuck.",
+    "confusableNote": ""
+  },
+  {
+    "id": "hodgepodge",
+    "pos": "n",
+    "definition": "A confused, disorganized mixture of diverse and unrelated elements; a jumble.",
+    "example": "The curriculum was a hodgepodge of outdated textbooks, online modules, and borrowed worksheets.",
+    "synonyms": ["mishmash", "medley", "farrago", "jumble"],
+    "mnemonic": "HODGE-PODGE — toss everything into one pot and stir; you get a messy mix.",
+    "confusableNote": ""
+  },
+  {
+    "id": "hyperbole",
+    "pos": "n",
+    "definition": "Deliberate and obvious exaggeration used for emphasis or rhetorical effect, not meant literally.",
+    "example": "Saying 'I've told you a million times' is a classic hyperbole, not a literal count.",
+    "synonyms": ["exaggeration", "overstatement", "amplification", "embellishment"],
+    "mnemonic": "HYPER-BOLE — hyper means over the top; hyperbole goes way over the top.",
+    "confusableNote": "Do not confuse with 'hyperbola' (a mathematical curve); hyperbole is a figure of speech."
+  },
+  {
+    "id": "hypocrite",
+    "pos": "n",
+    "definition": "A person who claims moral virtues or beliefs they do not actually hold or practice.",
+    "example": "The senator was exposed as a hypocrite when his private behavior contradicted his public crusade.",
+    "synonyms": ["dissembler", "charlatan", "pretender", "deceiver"],
+    "mnemonic": "HYPO (under) + CRITE (critic) — secretly beneath the moral standard they publicly judge others by.",
+    "confusableNote": ""
+  },
+  {
+    "id": "hysterical",
+    "pos": "adj",
+    "definition": "Marked by uncontrollable, overwhelming emotion; wildly unrestrained in feeling or behavior.",
+    "example": "The audience became hysterical when the fire alarm sounded mid-performance, causing a stampede.",
+    "synonyms": ["frenzied", "overwrought", "distraught", "uncontrollable"],
+    "mnemonic": "HYSTERIA — like 'history' of emotional explosions; your emotions go off the charts.",
+    "confusableNote": ""
+  },
+  {
+    "id": "iconoclastic",
+    "pos": "adj",
+    "definition": "Characterized by attacking or rejecting cherished beliefs, institutions, or conventional ideas.",
+    "example": "His iconoclastic approach to economics challenged assumptions that had stood for over a century.",
+    "synonyms": ["subversive", "unorthodox", "radical", "contrarian"],
+    "mnemonic": "ICON (sacred image) + CLAST (breaker) — an iconoclast smashes sacred idols and conventions.",
+    "confusableNote": ""
+  },
+  {
+    "id": "idiosyncratic",
+    "pos": "adj",
+    "definition": "Peculiar or distinctive to an individual; characteristic in a quirky or unusual personal way.",
+    "example": "Her idiosyncratic habit of underlining every third word made her notes puzzling to others.",
+    "synonyms": ["eccentric", "peculiar", "quirky", "singular"],
+    "mnemonic": "IDIO (personal/own) — idiosyncratic traits are your own uniquely odd private patterns.",
+    "confusableNote": ""
+  },
+  {
+    "id": "immure",
+    "pos": "v",
+    "definition": "To enclose or imprison within walls; to confine or restrict so as to isolate.",
+    "example": "The political dissident was immured in a remote prison for years without trial.",
+    "synonyms": ["incarcerate", "confine", "intern", "sequester"],
+    "mnemonic": "IM + MURE (wall) — immure = put in behind a wall (mural = wall painting).",
+    "confusableNote": ""
+  },
+  {
+    "id": "immutable",
+    "pos": "adj",
+    "definition": "Not subject to change; fixed, permanent, and unalterable in nature or character.",
+    "example": "The laws of thermodynamics are immutable; no experiment has ever violated them.",
+    "synonyms": ["invariable", "fixed", "inalterable", "permanent"],
+    "mnemonic": "IM (not) + MUTABLE (changeable) — immutable = cannot be mutated or changed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "impervious",
+    "pos": "adj",
+    "definition": "Not penetrable or affected by something; wholly unresponsive to influence or harm.",
+    "example": "Raised in a stoic household, she seemed impervious to criticism, no matter how harsh.",
+    "synonyms": ["impenetrable", "immune", "unaffected", "resistant"],
+    "mnemonic": "IM (not) + PERVIOUS (allowing passage) — nothing passes through; completely sealed off.",
+    "confusableNote": "Do not confuse with 'imperious' (arrogantly domineering); 'impervious' means unaffected, not bossy."
+  },
+  {
+    "id": "impetuous",
+    "pos": "adj",
+    "definition": "Acting suddenly with great force or without careful thought; rashly hasty and unpredictable.",
+    "example": "His impetuous decision to quit his job without a backup plan shocked his family.",
+    "synonyms": ["rash", "impulsive", "precipitate", "headlong"],
+    "mnemonic": "IMPETUOUS: im-PET-uous — like a pet who bolts out the door the moment it opens.",
+    "confusableNote": ""
+  },
+  {
+    "id": "implicit",
+    "pos": "adj",
+    "definition": "Implied or understood without being directly stated; not explicitly expressed.",
+    "example": "There was an implicit agreement among the partners that no one would speak to the press.",
+    "synonyms": ["implied", "tacit", "inferred", "unspoken"],
+    "mnemonic": "IM-PLICIT: 'plicit' like 'explicit' — implicit is the hidden layer beneath what is explicit.",
+    "confusableNote": "Do not confuse with 'explicit' (clearly stated); 'implicit' is the unstated, hidden meaning."
+  },
+  {
+    "id": "improvise",
+    "pos": "v",
+    "definition": "To create or perform something spontaneously without prior preparation, using available resources.",
+    "example": "When the projector failed, the lecturer improvised with hand-drawn diagrams on the chalkboard.",
+    "synonyms": ["extemporize", "ad-lib", "devise", "contrive"],
+    "mnemonic": "IM-PROVISE: without (im) prior vision — making it up on the spot without foresight.",
+    "confusableNote": ""
+  },
+  {
+    "id": "impulsive",
+    "pos": "adj",
+    "definition": "Acting on sudden urges or desires without deliberation; driven by impulse rather than reason.",
+    "example": "Her impulsive purchase of a boat made no sense given that she lived far from any water.",
+    "synonyms": ["rash", "spontaneous", "capricious", "unpremeditated"],
+    "mnemonic": "IMPULSE + ive — you follow every impulse that fires without pausing to think.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inborn",
+    "pos": "adj",
+    "definition": "Existing from birth; naturally inherent rather than acquired through experience or learning.",
+    "example": "Researchers debate whether mathematical intuition is inborn or developed through early education.",
+    "synonyms": ["innate", "congenital", "inherent", "native"],
+    "mnemonic": "IN + BORN — it was in you the moment you were born, no learning required.",
+    "confusableNote": ""
+  },
+  {
+    "id": "incendiary",
+    "pos": "adj",
+    "definition": "Tending to inflame passion, controversy, or hostility; deliberately provocative and inflammatory.",
+    "example": "The politician's incendiary remarks about immigrants sparked protests outside the convention hall.",
+    "synonyms": ["inflammatory", "provocative", "rabble-rousing", "seditious"],
+    "mnemonic": "INCENDIARY: incendio (fire in Spanish/Italian) — sets emotional fires wherever it goes.",
+    "confusableNote": ""
+  },
+  {
+    "id": "incredulous",
+    "pos": "adj",
+    "definition": "Unwilling or unable to believe something; showing disbelief or skepticism.",
+    "example": "The scientist was incredulous when she first heard the claim that the specimen had regenerated.",
+    "synonyms": ["disbelieving", "skeptical", "dubious", "unconvinced"],
+    "mnemonic": "IN (not) + CREDULOUS (believing) — not credulous at all; you can't swallow that story.",
+    "confusableNote": "Do not confuse with 'incredible' (unbelievable); 'incredulous' describes the doubter, not the claim."
+  },
+  {
+    "id": "indefinite",
+    "pos": "adj",
+    "definition": "Not clearly defined, fixed, or determined; vague, ambiguous, or without clear boundaries.",
+    "example": "The treaty contained several indefinite clauses that left both parties uncertain of their obligations.",
+    "synonyms": ["vague", "ambiguous", "indeterminate", "nebulous"],
+    "mnemonic": "IN (not) + DEFINITE — without a clear definition or boundary; fuzzy and unresolved.",
+    "confusableNote": ""
+  },
+  {
+    "id": "indolent",
+    "pos": "adj",
+    "definition": "Habitually lazy and averse to activity or exertion; showing a dislike of work.",
+    "example": "The indolent student waited until the night before the deadline to begin his research paper.",
+    "synonyms": ["slothful", "languid", "idle", "lethargic"],
+    "mnemonic": "INDOLENT: in-DOLE-nt — collecting the dole (welfare) rather than working; lazy by habit.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ineluctable",
+    "pos": "adj",
+    "definition": "Impossible to avoid, resist, or escape; inescapable by any means.",
+    "example": "Death is the one ineluctable fact that every philosophical tradition must ultimately confront.",
+    "synonyms": ["inevitable", "unavoidable", "inexorable", "inescapable"],
+    "mnemonic": "IN (not) + ELUCTABLE (able to wrestle free) — you cannot wrestle free from it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "infelicity",
+    "pos": "n",
+    "definition": "An inapt or clumsy expression; an inappropriate or unfortunate choice of words.",
+    "example": "The speech was marred by several infelicities that left the audience puzzled rather than moved.",
+    "synonyms": ["malapropism", "solecism", "gaucherie", "inaptness"],
+    "mnemonic": "IN-FELICITY: in (not) + felicity (happiness/aptness) — a word choice that just doesn't fit right.",
+    "confusableNote": "Contrast with 'felicity' (apt and pleasing expression); 'infelicity' is its clumsy opposite."
+  },
+  {
+    "id": "ingenuous",
+    "pos": "adj",
+    "definition": "Innocent, candid, and unsuspecting; naively trusting and free from guile or deceit.",
+    "example": "Her ingenuous belief that everyone told the truth made her an easy target for con artists.",
+    "synonyms": ["naive", "guileless", "artless", "candid"],
+    "mnemonic": "INGENUOUS vs. INGENIOUS — ingenuous is open and innocent; notice the u (un-guarded).",
+    "confusableNote": "Do not confuse with 'ingenious' (cleverly inventive); 'ingenuous' means innocent and naive."
+  },
+  {
+    "id": "innocuous",
+    "pos": "adj",
+    "definition": "Not harmful or offensive in any way; having no adverse effect whatsoever.",
+    "example": "What seemed like an innocuous remark about the weather somehow offended the entire table.",
+    "synonyms": ["harmless", "benign", "inoffensive", "safe"],
+    "mnemonic": "IN (not) + NOCUOUS (harmful from 'nocere') — nocuous = harmful, so innocuous = not harmful.",
+    "confusableNote": ""
+  },
+  {
+    "id": "insidious",
+    "pos": "adj",
+    "definition": "Gradually and subtly causing harm or danger while appearing harmless; treacherously deceptive.",
+    "example": "The insidious effects of misinformation spread quietly through the population before anyone noticed.",
+    "synonyms": ["pernicious", "stealthy", "treacherous", "surreptitious"],
+    "mnemonic": "INSIDIOUS: inside + devious — hidden inside, deviously spreading harm before you detect it.",
+    "confusableNote": "Contrast with 'flagrant' (openly harmful); insidious harm is hidden and gradual."
+  },
+  {
+    "id": "intrigue",
+    "pos": "n",
+    "definition": "A secret scheme or plot; also the fascination aroused by something mysterious or complex.",
+    "example": "The documentary's intrigue lay in the never-before-seen footage of the reclusive artist.",
+    "synonyms": ["conspiracy", "machination", "fascination", "mystique"],
+    "mnemonic": "INTRIGUE: in-TRIG-ue — a hidden trigger (trig) set to go off; secret and captivating.",
+    "confusableNote": ""
+  },
+  {
+    "id": "invasive",
+    "pos": "adj",
+    "definition": "Tending to intrude on or infringe upon something; spreading into or encroaching where unwelcome.",
+    "example": "The invasive species of vine overtook the garden beds within a single growing season.",
+    "synonyms": ["intrusive", "encroaching", "pervasive", "obtrusive"],
+    "mnemonic": "INVADE + ive — invasive things invade your space without permission.",
+    "confusableNote": ""
+  },
+  {
+    "id": "invidious",
+    "pos": "adj",
+    "definition": "Likely to arouse resentment or envy because of perceived unfairness or offensive discrimination.",
+    "example": "Making invidious comparisons between employees in a team meeting destroys morale.",
+    "synonyms": ["discriminatory", "odious", "resentment-provoking", "inequitable"],
+    "mnemonic": "INVIDIOUS: in-ENVY-ous — rooted in envy; it provokes envy and resentment in others.",
+    "confusableNote": "Do not confuse with 'insidious' (secretly harmful); invidious provokes unfair resentment openly."
+  }
+]

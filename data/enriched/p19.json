@@ -1,0 +1,398 @@
+[
+  {
+    "id": "falter",
+    "pos": "v",
+    "definition": "To lose strength, momentum, or confidence and begin to fail or hesitate.",
+    "example": "Her resolve faltered under the relentless pressure of the final examination.",
+    "synonyms": ["waver", "vacillate", "stumble", "flag"],
+    "mnemonic": "FALTER = FALL + hesitATER — you fall into hesitation.",
+    "confusableNote": ""
+  },
+  {
+    "id": "feeble",
+    "pos": "adj",
+    "definition": "Lacking physical strength, force, or effectiveness; ineffectually weak.",
+    "example": "The senator's feeble counterargument failed to sway even his own supporters.",
+    "synonyms": ["frail", "infirm", "enervated", "impotent"],
+    "mnemonic": "FEEBLE sounds like FEEBLE-minded: weak in body or argument.",
+    "confusableNote": ""
+  },
+  {
+    "id": "frailty",
+    "pos": "n",
+    "definition": "The condition of being weak and delicate in body or character; a moral or physical weakness.",
+    "example": "The philosopher argued that human frailty makes absolute virtue an unreachable ideal.",
+    "synonyms": ["infirmity", "debility", "fragility", "vulnerability"],
+    "mnemonic": "FRAILTY = FRAIL + -ty: the state of being easily broken like a frail twig.",
+    "confusableNote": ""
+  },
+  {
+    "id": "hapless",
+    "pos": "adj",
+    "definition": "Unfortunate and deserving of pity; persistently unlucky and ineffectual.",
+    "example": "The hapless candidate lost three elections despite running tireless campaigns.",
+    "synonyms": ["unfortunate", "luckless", "ill-fated", "wretched"],
+    "mnemonic": "HAP means luck; HAPless = without luck.",
+    "confusableNote": ""
+  },
+  {
+    "id": "headstrong",
+    "pos": "adj",
+    "definition": "Stubbornly determined to have one's own way; refusing to be controlled or directed.",
+    "example": "The headstrong general ignored his advisors and launched the ill-advised offensive alone.",
+    "synonyms": ["willful", "intractable", "recalcitrant", "obstinate"],
+    "mnemonic": "HEAD is STRONG — the head dominates, refusing any outside steering.",
+    "confusableNote": ""
+  },
+  {
+    "id": "implacable",
+    "pos": "adj",
+    "definition": "Impossible to appease, pacify, or persuade; relentlessly uncompromising.",
+    "example": "The implacable prosecutor refused every plea bargain, insisting on a full trial.",
+    "synonyms": ["inexorable", "unrelenting", "intransigent", "adamant"],
+    "mnemonic": "IM- (not) + PLACATE: cannot be placated — impossible to calm down.",
+    "confusableNote": "implacable vs. inexorable: both mean unyielding, but inexorable stresses inevitability; implacable stresses inability to be appeased."
+  },
+  {
+    "id": "indefatigable",
+    "pos": "adj",
+    "definition": "Incapable of being tired out; persisting tirelessly despite prolonged effort.",
+    "example": "The indefatigable researcher worked eighteen-hour days for a decade to complete her study.",
+    "synonyms": ["tireless", "unflagging", "inexhaustible", "sedulous"],
+    "mnemonic": "IN- (not) + DEFATIGABLE (tire out): cannot be fatigued, ever.",
+    "confusableNote": ""
+  },
+  {
+    "id": "industrious",
+    "pos": "adj",
+    "definition": "Habitually diligent and hardworking; characterized by steady, earnest effort.",
+    "example": "The industrious apprentice arrived first each morning and left long after her colleagues.",
+    "synonyms": ["diligent", "assiduous", "sedulous", "tireless"],
+    "mnemonic": "INDUSTRIAL — factories are always busy; an industrious person is a human factory.",
+    "confusableNote": ""
+  },
+  {
+    "id": "intransigent",
+    "pos": "adj",
+    "definition": "Refusing to compromise or abandon an extreme position; uncompromisingly stubborn.",
+    "example": "The intransigent negotiator torpedoed the peace talks by rejecting every proposed concession.",
+    "synonyms": ["inflexible", "obdurate", "implacable", "recalcitrant"],
+    "mnemonic": "IN- (not) + TRANSIGENT (from Latin transigere, to reach agreement): no deal possible.",
+    "confusableNote": ""
+  },
+  {
+    "id": "intrepid",
+    "pos": "adj",
+    "definition": "Fearless and adventurous; characterized by resolute courage in the face of danger.",
+    "example": "The intrepid journalist reported from the front lines despite constant artillery fire.",
+    "synonyms": ["dauntless", "valiant", "undaunted", "audacious"],
+    "mnemonic": "IN- (not) + TREPID (frightened): not trembling — bold as can be.",
+    "confusableNote": "intrepid vs. trepid: trepid means fearful; intrepid is its exact opposite."
+  },
+  {
+    "id": "inveterate",
+    "pos": "adj",
+    "definition": "Long-established in a habit or activity; deeply rooted and unlikely to change.",
+    "example": "An inveterate traveler, she had visited every continent before her fortieth birthday.",
+    "synonyms": ["confirmed", "habitual", "ingrained", "chronic"],
+    "mnemonic": "INVETERATE = IN + VETERAN: a veteran of a habit, deeply entrenched over years.",
+    "confusableNote": ""
+  },
+  {
+    "id": "languish",
+    "pos": "v",
+    "definition": "To grow weak or feeble; to exist in a state of prolonged suffering or neglect.",
+    "example": "The reform bill languished in committee for two years before anyone voted on it.",
+    "synonyms": ["wither", "decline", "waste away", "deteriorate"],
+    "mnemonic": "LANGUISH rhymes with ANGUISH — suffering and weakening over time.",
+    "confusableNote": ""
+  },
+  {
+    "id": "liability",
+    "pos": "n",
+    "definition": "A person or thing that is a disadvantage or handicap; a source of weakness.",
+    "example": "The candidate's controversial past became a liability that no spin doctor could neutralize.",
+    "synonyms": ["handicap", "burden", "drawback", "encumbrance"],
+    "mnemonic": "LIABLE = responsible for a problem; LIABILITY = being the problem itself.",
+    "confusableNote": "liability vs. asset: they are antonyms — a liability weakens while an asset strengthens."
+  },
+  {
+    "id": "mettlesome",
+    "pos": "adj",
+    "definition": "Full of spirit and courage; spiritedly brave and eager to face challenges.",
+    "example": "The mettlesome rookie firefighter rushed into the burning building without hesitation.",
+    "synonyms": ["spirited", "plucky", "valiant", "dauntless"],
+    "mnemonic": "METTLE = courage; METTLESOME = brimming with mettle, like a spirited racehorse.",
+    "confusableNote": "mettlesome vs. meddlesome: mettlesome means brave; meddlesome means intrusively interfering."
+  },
+  {
+    "id": "obdurate",
+    "pos": "adj",
+    "definition": "Stubbornly refusing to change one's opinion or course of action; hardened against persuasion.",
+    "example": "Despite the jury's sympathy, the obdurate judge refused to reduce the sentence.",
+    "synonyms": ["inflexible", "intractable", "intransigent", "inexorable"],
+    "mnemonic": "OB- (against) + DURE (hard): hard against all persuasion — like stone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "obstinate",
+    "pos": "adj",
+    "definition": "Stubbornly adhering to one's position and refusing to yield despite good arguments.",
+    "example": "The obstinate mule of a professor would not accept late papers under any circumstances.",
+    "synonyms": ["stubborn", "dogged", "pertinacious", "headstrong"],
+    "mnemonic": "OBSTINATE = OBSTacle + -ate: someone who is themselves an obstacle to compromise.",
+    "confusableNote": ""
+  },
+  {
+    "id": "passive",
+    "pos": "adj",
+    "definition": "Accepting what happens without active resistance or initiative; submissively inactive.",
+    "example": "Her passive response to the injustice frustrated allies who wanted her to fight back.",
+    "synonyms": ["acquiescent", "submissive", "inert", "supine"],
+    "mnemonic": "PASSIVE = PASS on acting — you just let things happen to you.",
+    "confusableNote": ""
+  },
+  {
+    "id": "perseverance",
+    "pos": "n",
+    "definition": "Continued, steady effort to achieve something despite difficulty or delay.",
+    "example": "Her perseverance through seventeen rejections ultimately led to a landmark scientific discovery.",
+    "synonyms": ["tenacity", "persistence", "doggedness", "resolution"],
+    "mnemonic": "PERSEVERE = PER (through) + SEVERE (hardship): pushing through severe obstacles.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pertinacious",
+    "pos": "adj",
+    "definition": "Holding stubbornly and persistently to a purpose, belief, or course of action.",
+    "example": "The pertinacious investigator pursued the cold case for a decade until it was solved.",
+    "synonyms": ["tenacious", "dogged", "resolute", "indefatigable"],
+    "mnemonic": "PERTINACIOUS sounds like PERTINENT + TENACIOUS: tenaciously sticking to what's relevant.",
+    "confusableNote": ""
+  },
+  {
+    "id": "plucky",
+    "pos": "adj",
+    "definition": "Having or showing determined courage in the face of difficulties; spiritedly brave.",
+    "example": "The plucky underdog team beat the reigning champions with sheer heart and determination.",
+    "synonyms": ["gutsy", "mettlesome", "dauntless", "intrepid"],
+    "mnemonic": "PLUCKY = PLUCK (guts/nerve) + -y: full of pluck, ready to face any challenge.",
+    "confusableNote": ""
+  },
+  {
+    "id": "resilient",
+    "pos": "adj",
+    "definition": "Able to recover quickly from setbacks, difficulties, or adversity; tough and adaptable.",
+    "example": "The resilient entrepreneur rebuilt her company after bankruptcy and eventually thrived.",
+    "synonyms": ["buoyant", "tenacious", "hardy", "adaptable"],
+    "mnemonic": "RESILIENT = RE- (back) + SILIRE (to spring): springs back like a rubber band.",
+    "confusableNote": ""
+  },
+  {
+    "id": "resolute",
+    "pos": "adj",
+    "definition": "Admirably purposeful and determined; unwavering in pursuit of a goal or opinion.",
+    "example": "The resolute activist refused to abandon her cause despite years of official opposition.",
+    "synonyms": ["determined", "steadfast", "purposeful", "tenacious"],
+    "mnemonic": "RESOLUTE = RE-SOLVED: the matter is firmly solved in one's mind — no rethinking.",
+    "confusableNote": "resolute vs. resolve: resolute is the adjective; resolve is the noun (firm determination) or verb."
+  },
+  {
+    "id": "resolve",
+    "pos": "n",
+    "definition": "Firm determination to do something; unwavering mental commitment to a course of action.",
+    "example": "Facing immense hardship, his resolve to finish the marathon never wavered.",
+    "synonyms": ["determination", "fortitude", "tenacity", "perseverance"],
+    "mnemonic": "RESOLVE = RE + SOLVE: you've solved the question of whether to quit — you won't.",
+    "confusableNote": "resolve (n) = determination; resolve (v) = to settle or find a solution — context distinguishes them."
+  },
+  {
+    "id": "sedulous",
+    "pos": "adj",
+    "definition": "Showing dedicated, careful, and persistent effort; diligently attentive to a task.",
+    "example": "The sedulous copyeditor checked every line three times before approving the manuscript.",
+    "synonyms": ["assiduous", "diligent", "industrious", "painstaking"],
+    "mnemonic": "SEDULOUS = SED (sit) + -ulous: sits and works without stopping — devoted to the task.",
+    "confusableNote": ""
+  },
+  {
+    "id": "stalwart",
+    "pos": "adj",
+    "definition": "Loyal, reliable, and hardworking; strongly and steadfastly committed to a cause or person.",
+    "example": "The stalwart supporters never abandoned the candidate even during her worst polling slumps.",
+    "synonyms": ["steadfast", "staunch", "resolute", "unflinching"],
+    "mnemonic": "STALWART = STALL (stand firm) + WART (rough toughness): stands firm, tough as can be.",
+    "confusableNote": ""
+  },
+  {
+    "id": "steadfast",
+    "pos": "adj",
+    "definition": "Resolutely firm and unwavering in loyalty, belief, or purpose over time.",
+    "example": "She remained steadfast in her commitment to civil rights through decades of opposition.",
+    "synonyms": ["resolute", "unwavering", "stalwart", "constant"],
+    "mnemonic": "STEADFAST = STEADY + FAST (fixed): fixed firmly in place, unmoved by any force.",
+    "confusableNote": ""
+  },
+  {
+    "id": "temerity",
+    "pos": "n",
+    "definition": "Reckless boldness or audacity that disregards danger or social propriety.",
+    "example": "She had the temerity to challenge the CEO's decision in front of the entire board.",
+    "synonyms": ["audacity", "effrontery", "rashness", "impudence"],
+    "mnemonic": "TEMERITY = TEMERE (Latin: rashly) — bold to the point of recklessness.",
+    "confusableNote": "temerity vs. timidity: they are near-antonyms — temerity is excess boldness; timidity is excess caution."
+  },
+  {
+    "id": "tenacious",
+    "pos": "adj",
+    "definition": "Holding firmly and persistently to a purpose, position, or principle; not easily dislodged.",
+    "example": "The tenacious litigator appealed the ruling four times before finally winning the case.",
+    "synonyms": ["persistent", "dogged", "pertinacious", "resolute"],
+    "mnemonic": "TENACIOUS = TENERE (Latin: to hold) + -acious: one who holds on and never lets go.",
+    "confusableNote": ""
+  },
+  {
+    "id": "valor",
+    "pos": "n",
+    "definition": "Great courage in the face of danger, especially in battle or a life-threatening situation.",
+    "example": "The soldier was awarded a medal for valor after rescuing three wounded comrades under fire.",
+    "synonyms": ["bravery", "gallantry", "intrepidity", "heroism"],
+    "mnemonic": "VALOR = VALUE + OR (gold): valorous acts are worth their weight in gold.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vigilant",
+    "pos": "adj",
+    "definition": "Keeping careful, steady watch for possible danger or difficulties; alert and watchful.",
+    "example": "The vigilant border agent noticed the forged passport that others had overlooked.",
+    "synonyms": ["watchful", "alert", "wary", "circumspect"],
+    "mnemonic": "VIGILANT = VIGIL (night watch) + -ant: always keeping a vigil, never letting guard down.",
+    "confusableNote": ""
+  },
+  {
+    "id": "willful",
+    "pos": "adj",
+    "definition": "Intentionally determined to have one's own way; stubbornly self-willed and unyielding.",
+    "example": "The willful child refused to follow any rule he had not personally agreed to.",
+    "synonyms": ["headstrong", "obstinate", "intractable", "perverse"],
+    "mnemonic": "WILLFUL = WILL + FULL: full of one's own will — no room for anyone else's wishes.",
+    "confusableNote": "willful vs. willingness: willful means stubbornly self-determined; willing means ready and cooperative."
+  },
+  {
+    "id": "yield",
+    "pos": "v",
+    "definition": "To produce or generate (a result or crop); or to give way to pressure or superior force.",
+    "example": "The new farmland yielded an abundant harvest, yet the farmer yielded no ground in the boundary dispute.",
+    "synonyms": ["produce", "generate", "concede", "capitulate"],
+    "mnemonic": "YIELD has two faces: crops YIELD grain (produce); drivers YIELD at signs (give way).",
+    "confusableNote": "yield vs. wield: yield means to produce or give way; wield means to handle or exercise power."
+  },
+  {
+    "id": "amorphous",
+    "pos": "adj",
+    "definition": "Without a clear shape, form, or structure; vague and ill-defined.",
+    "example": "The committee's amorphous mandate left members unsure what they were actually supposed to accomplish.",
+    "synonyms": ["formless", "shapeless", "nebulous", "vague"],
+    "mnemonic": "A- (without) + MORPH (shape) + -ous: without any definite shape or form.",
+    "confusableNote": ""
+  },
+  {
+    "id": "barren",
+    "pos": "adj",
+    "definition": "Too poor in quality to produce vegetation, offspring, or results; unproductive and empty.",
+    "example": "Decades of overfarming had left the once-fertile plains barren and cracked.",
+    "synonyms": ["infertile", "arid", "desolate", "sterile"],
+    "mnemonic": "BARREN = BARE + -en: bare of all life, stripped of fertility.",
+    "confusableNote": ""
+  },
+  {
+    "id": "blighted",
+    "pos": "adj",
+    "definition": "Adversely affected by disease, pollution, or neglect; ruined or spoiled.",
+    "example": "The blighted neighborhood was finally slated for urban renewal after years of decay.",
+    "synonyms": ["ruined", "devastated", "ravaged", "spoiled"],
+    "mnemonic": "BLIGHT = a disease that destroys crops; BLIGHTED = already destroyed by such a force.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bucolic",
+    "pos": "adj",
+    "definition": "Relating to the pleasant aspects of the countryside; charmingly rural and pastoral.",
+    "example": "The artist retreated to a bucolic village to paint landscapes far from city noise.",
+    "synonyms": ["pastoral", "rustic", "idyllic", "arcadian"],
+    "mnemonic": "BUCOLIC = BUCOLICUS (Latin for herdsman): picture a peaceful shepherd tending flocks in green hills.",
+    "confusableNote": ""
+  },
+  {
+    "id": "corporeal",
+    "pos": "adj",
+    "definition": "Having a physical, material body; relating to the tangible, bodily world as opposed to the spiritual.",
+    "example": "The philosopher questioned whether corporeal pleasures could ever satisfy deeper spiritual longings.",
+    "synonyms": ["physical", "tangible", "bodily", "material"],
+    "mnemonic": "CORPOREAL = CORPUS (body): anything corporeal has a body you can touch.",
+    "confusableNote": "corporeal vs. corporal: corporeal means having a physical body (philosophical sense); corporal means relating to the body in a practical sense (e.g., corporal punishment)."
+  },
+  {
+    "id": "dawdle",
+    "pos": "v",
+    "definition": "To move or act slowly and idly, wasting time; to linger without purpose.",
+    "example": "If you dawdle every morning, you will be late for every important meeting.",
+    "synonyms": ["loiter", "dally", "linger", "procrastinate"],
+    "mnemonic": "DAWDLE = DOODLE while walking: drawing time out with idle, aimless movement.",
+    "confusableNote": ""
+  },
+  {
+    "id": "erratic",
+    "pos": "adj",
+    "definition": "Inconsistent and unpredictable in movement, behavior, or quality; not following a regular pattern.",
+    "example": "The erratic driver swerved between lanes without signaling, alarming everyone nearby.",
+    "synonyms": ["unpredictable", "capricious", "irregular", "mercurial"],
+    "mnemonic": "ERRATIC = ERR + ATIC: constantly erring in direction — wandering off any stable path.",
+    "confusableNote": ""
+  },
+  {
+    "id": "infirm",
+    "pos": "adj",
+    "definition": "Physically weak or frail, especially as a result of old age or illness.",
+    "example": "The infirm patient required daily assistance with even basic household tasks.",
+    "synonyms": ["frail", "feeble", "debilitated", "ailing"],
+    "mnemonic": "IN- (not) + FIRM: not firm or strong in body — weakened and unsteady.",
+    "confusableNote": "infirm vs. infirmary: an infirmary is a place that treats the infirm (the physically weak)."
+  },
+  {
+    "id": "itinerant",
+    "pos": "adj",
+    "definition": "Traveling from place to place, typically for work; not settled in one location.",
+    "example": "The itinerant musician performed in a different city every week throughout the summer.",
+    "synonyms": ["nomadic", "peripatetic", "wandering", "migratory"],
+    "mnemonic": "ITINERANT = ITINERARY + -ant: someone who always has a new itinerary, never settling.",
+    "confusableNote": ""
+  },
+  {
+    "id": "malleable",
+    "pos": "adj",
+    "definition": "Easily shaped, influenced, or adapted; capable of being molded by external forces.",
+    "example": "Young minds are malleable, making early education critically important for character development.",
+    "synonyms": ["pliable", "ductile", "adaptable", "impressionable"],
+    "mnemonic": "MALLEABLE = MALLET + -able: can be shaped by a mallet — soft enough to be hammered into form.",
+    "confusableNote": ""
+  },
+  {
+    "id": "nimble",
+    "pos": "adj",
+    "definition": "Quick and light in movement or thought; agile and able to respond swiftly.",
+    "example": "The nimble gymnast executed a flawless routine that left the judges breathless.",
+    "synonyms": ["agile", "lithe", "spry", "dexterous"],
+    "mnemonic": "NIMBLE = sounds like THIMBLE on nimble fingers: quick and deft with hands and feet.",
+    "confusableNote": ""
+  },
+  {
+    "id": "plastic",
+    "pos": "adj",
+    "definition": "Capable of being shaped or molded; easily influenced or altered in form.",
+    "example": "The brain remains plastic throughout childhood, readily forming new neural connections.",
+    "synonyms": ["malleable", "pliable", "ductile", "adaptable"],
+    "mnemonic": "PLASTIC (adj) = like plastic material: formless until shaped by outside pressure.",
+    "confusableNote": "plastic (GRE sense) means moldable/shapeable — not the synthetic material; the adjective predates the noun by centuries."
+  }
+]

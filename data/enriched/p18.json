@@ -1,0 +1,398 @@
+[
+  {
+    "id": "token",
+    "pos": "adj",
+    "definition": "Done as a symbolic gesture only, with no real substance or effect; merely nominal.",
+    "example": "The company made a token effort to improve diversity by hiring one minority candidate.",
+    "synonyms": ["nominal", "perfunctory", "symbolic", "cursory"],
+    "mnemonic": "A token is a small coin — a token gesture is equally small and hollow.",
+    "confusableNote": ""
+  },
+  {
+    "id": "wanting",
+    "pos": "adj",
+    "definition": "Deficient or absent; falling short of a required or expected standard.",
+    "example": "The report was found wanting in both depth of analysis and factual accuracy.",
+    "synonyms": ["deficient", "lacking", "inadequate", "insufficient"],
+    "mnemonic": "'Wanting' = something is WANTED because it isn't there — it's missing.",
+    "confusableNote": "Do not confuse with the everyday sense 'desiring'; on the GRE, 'wanting' means lacking or deficient."
+  },
+  {
+    "id": "ascetic",
+    "pos": "adj",
+    "definition": "Practicing severe self-denial of physical pleasures for spiritual or moral discipline.",
+    "example": "The monk led an ascetic life, owning nothing and eating only once a day.",
+    "synonyms": ["austere", "abstemious", "spartan", "self-denying"],
+    "mnemonic": "ASCetic = AS-CETIC — think of an athletic 'aesthetic' stripped of all pleasure.",
+    "confusableNote": "Do not confuse with 'aesthetic' (relating to beauty); ascetic relates to self-denial."
+  },
+  {
+    "id": "austere",
+    "pos": "adj",
+    "definition": "Severely simple and plain in manner or style; stern and morally strict in behavior.",
+    "example": "The austere dormitory had bare walls, narrow beds, and no decorations of any kind.",
+    "synonyms": ["stark", "spartan", "severe", "ascetic"],
+    "mnemonic": "AUSTERE — sounds like 'a stern air,' the vibe of a strict headmaster.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bawdy",
+    "pos": "adj",
+    "definition": "Humorously or coarsely indecent; dealing with sexual matters in a crude, ribald way.",
+    "example": "The comedian's bawdy jokes made several audience members visibly uncomfortable.",
+    "synonyms": ["ribald", "lewd", "vulgar", "coarse"],
+    "mnemonic": "BAWDY rhymes with 'naughty' — bawdy humor is naughty humor.",
+    "confusableNote": ""
+  },
+  {
+    "id": "boorish",
+    "pos": "adj",
+    "definition": "Rough and bad-mannered; rudely unrefined in behavior toward others.",
+    "example": "His boorish habit of interrupting every speaker alienated him from the academic community.",
+    "synonyms": ["loutish", "churlish", "uncouth", "oafish"],
+    "mnemonic": "A BOOR is an unrefined peasant — boorish behavior is peasant-level rudeness.",
+    "confusableNote": ""
+  },
+  {
+    "id": "candid",
+    "pos": "adj",
+    "definition": "Truthfully straightforward and frank, even when the truth is uncomfortable.",
+    "example": "She gave a candid assessment of the manuscript's weaknesses, sparing neither feelings nor fact.",
+    "synonyms": ["forthright", "frank", "outspoken", "blunt"],
+    "mnemonic": "CANDid — CAN + DID: someone who says 'Yes, you CAN, and here's what you DID wrong.'",
+    "confusableNote": ""
+  },
+  {
+    "id": "churlish",
+    "pos": "adj",
+    "definition": "Rude, surly, or ungenerous in manner; lacking basic courtesy or graciousness.",
+    "example": "It would be churlish to refuse such a generous offer of assistance.",
+    "synonyms": ["boorish", "surly", "ungracious", "loutish"],
+    "mnemonic": "A CHURL was a medieval serf — churlish behavior is rough, rude, and unrefined.",
+    "confusableNote": ""
+  },
+  {
+    "id": "decorum",
+    "pos": "n",
+    "definition": "Behavior that conforms to accepted standards of propriety and good taste.",
+    "example": "The judge reminded spectators that decorum must be maintained throughout the proceedings.",
+    "synonyms": ["propriety", "decency", "protocol", "etiquette"],
+    "mnemonic": "DECORUM = DECOR + um — keeping the 'décor' of social behavior neat and proper.",
+    "confusableNote": ""
+  },
+  {
+    "id": "draconian",
+    "pos": "adj",
+    "definition": "Excessively harsh or severe, especially in laws, rules, or punishments.",
+    "example": "Critics called the new censorship law draconian, arguing it stifled all legitimate dissent.",
+    "synonyms": ["stringent", "severe", "oppressive", "tyrannical"],
+    "mnemonic": "From DRACO, the ancient Athenian lawgiver whose laws prescribed death for almost every offense.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exacting",
+    "pos": "adj",
+    "definition": "Demanding strict adherence to standards; requiring great care, effort, and precision.",
+    "example": "The exacting editor returned manuscripts with hundreds of margin notes and corrections.",
+    "synonyms": ["rigorous", "demanding", "meticulous", "stringent"],
+    "mnemonic": "EXACTING = EXACT + -ing — demanding everything be exactly right.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fastidious",
+    "pos": "adj",
+    "definition": "Excessively attentive to accuracy and detail; very hard to please due to high standards.",
+    "example": "A fastidious proofreader, she caught every misplaced comma in the hundred-page document.",
+    "synonyms": ["meticulous", "exacting", "punctilious", "finicky"],
+    "mnemonic": "FASTIDIOUS — if it's not FAULTLESS, a fastidious person is DISGUSTED.",
+    "confusableNote": ""
+  },
+  {
+    "id": "frank",
+    "pos": "adj",
+    "definition": "Open and direct in speech; not afraid to say what one thinks, even bluntly.",
+    "example": "To be frank, the research methodology has serious flaws that invalidate the conclusions.",
+    "synonyms": ["candid", "forthright", "blunt", "outspoken"],
+    "mnemonic": "FRANK: think of a friend named Frank who always tells you the honest truth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "gauche",
+    "pos": "adj",
+    "definition": "Lacking social grace or tact; awkward and unsophisticated in social situations.",
+    "example": "Asking about the host's salary was considered gauche even by the most lenient social standards.",
+    "synonyms": ["tactless", "uncouth", "inelegant", "maladroit"],
+    "mnemonic": "GAUCHE means 'left' in French — socially, being 'left-footed' is clumsy and awkward.",
+    "confusableNote": ""
+  },
+  {
+    "id": "immaculate",
+    "pos": "adj",
+    "definition": "Perfectly clean, flawless, or morally without any fault or blemish.",
+    "example": "Her immaculate record of public service made her an ideal candidate for the judiciary.",
+    "synonyms": ["impeccable", "spotless", "unblemished", "irreproachable"],
+    "mnemonic": "IM- (not) + MACULA (Latin: spot) = without a spot or stain.",
+    "confusableNote": ""
+  },
+  {
+    "id": "impertinent",
+    "pos": "adj",
+    "definition": "Not showing proper respect; rudely bold or presumptuous toward those of higher authority.",
+    "example": "The student's impertinent response to the professor's criticism shocked the entire class.",
+    "synonyms": ["insolent", "impudent", "presumptuous", "impolite"],
+    "mnemonic": "IM- (not) + PERTINENT: not sticking to what's pertinent — overstepping your place.",
+    "confusableNote": "Do not confuse with 'irrelevant' (not pertinent to a topic); impertinent means disrespectfully rude."
+  },
+  {
+    "id": "impolitic",
+    "pos": "adj",
+    "definition": "Unwise or tactless, especially in a way that is likely to cause offense or disadvantage.",
+    "example": "It was impolitic to criticize the donor's pet project during the fundraising dinner.",
+    "synonyms": ["injudicious", "imprudent", "tactless", "inadvisable"],
+    "mnemonic": "IM- (not) + POLITIC (shrewd/tactful) = not tactful or diplomatically wise.",
+    "confusableNote": "Do not confuse with 'impolite' (rude); impolitic means strategically unwise or ill-judged."
+  },
+  {
+    "id": "impudent",
+    "pos": "adj",
+    "definition": "Boldly disrespectful and shameless in manner or speech; brazenly insolent.",
+    "example": "The impudent clerk laughed openly at the manager's directive.",
+    "synonyms": ["insolent", "impertinent", "brazen", "cheeky"],
+    "mnemonic": "IM- (not) + PUDENT (from Latin pudere: to be ashamed) = shameless and disrespectful.",
+    "confusableNote": ""
+  },
+  {
+    "id": "indecorous",
+    "pos": "adj",
+    "definition": "Not in keeping with accepted standards of good taste or decency; improper in behavior.",
+    "example": "Laughing loudly at a funeral was considered indecorous by every guest present.",
+    "synonyms": ["unseemly", "improper", "unbecoming", "indecent"],
+    "mnemonic": "IN- + DECOROUS (proper) = not decorated with good manners.",
+    "confusableNote": ""
+  },
+  {
+    "id": "insolent",
+    "pos": "adj",
+    "definition": "Showing a rude and arrogant lack of respect toward authority or others.",
+    "example": "The insolent teenager rolled her eyes at every question the teacher asked.",
+    "synonyms": ["impudent", "impertinent", "brazen", "disrespectful"],
+    "mnemonic": "IN- + SOL (sun): someone so 'in the sun' of their own pride they disrespect everyone else.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inviolate",
+    "pos": "adj",
+    "definition": "Free from violation, injury, or desecration; kept sacred and intact.",
+    "example": "The ancient treaty was considered inviolate, and no ruler dared to break its terms.",
+    "synonyms": ["sacrosanct", "untouched", "unbroken", "intact"],
+    "mnemonic": "IN- (not) + VIOLATE = something that has not been and cannot be violated.",
+    "confusableNote": ""
+  },
+  {
+    "id": "irreverent",
+    "pos": "adj",
+    "definition": "Showing a lack of respect for people or things that are generally held in high regard.",
+    "example": "His irreverent comedy routines mocked religious ceremonies and political leaders alike.",
+    "synonyms": ["disrespectful", "impious", "flippant", "impertinent"],
+    "mnemonic": "IR- (not) + REVERENT (respectful) = not treating sacred things with reverence.",
+    "confusableNote": ""
+  },
+  {
+    "id": "meticulous",
+    "pos": "adj",
+    "definition": "Showing extreme care and precision in attention to detail; painstakingly accurate.",
+    "example": "The meticulous archaeologist brushed each artifact for hours before cataloguing it.",
+    "synonyms": ["painstaking", "fastidious", "scrupulous", "punctilious"],
+    "mnemonic": "From Latin METUS (fear) — originally fearful of making errors, now perfectly careful.",
+    "confusableNote": ""
+  },
+  {
+    "id": "painstaking",
+    "pos": "adj",
+    "definition": "Done with or employing great care and thoroughness; requiring diligent, laborious effort.",
+    "example": "The restoration was a painstaking process that took conservators three years to complete.",
+    "synonyms": ["meticulous", "diligent", "assiduous", "thorough"],
+    "mnemonic": "PAINSTAKING = taking pains (great care) — every task done as if it costs effort.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pious",
+    "pos": "adj",
+    "definition": "Devoutly religious, or making a hypocritical display of virtue and moral superiority.",
+    "example": "His pious pronouncements about charity rang hollow given his well-known greed.",
+    "synonyms": ["sanctimonious", "devout", "self-righteous", "godly"],
+    "mnemonic": "PIOUS — PI sounds like 'pie in the sky': lofty, self-congratulatory moral claims.",
+    "confusableNote": "The GRE sense often implies hypocritical or ostentatious piety, not sincere devotion."
+  },
+  {
+    "id": "probity",
+    "pos": "n",
+    "definition": "Strong moral uprightness; complete and confirmed integrity in character and action.",
+    "example": "The judge's probity was legendary — no party had ever successfully bribed or intimidated her.",
+    "synonyms": ["integrity", "rectitude", "uprightness", "honesty"],
+    "mnemonic": "PROBITY shares the root PROBE — a person of probity can be thoroughly probed and found clean.",
+    "confusableNote": ""
+  },
+  {
+    "id": "propriety",
+    "pos": "n",
+    "definition": "Conformity to conventionally accepted standards of behavior or morals; correctness of conduct.",
+    "example": "Victorian society judged all public behavior by strict standards of propriety.",
+    "synonyms": ["decorum", "decency", "correctness", "seemliness"],
+    "mnemonic": "PROPRIETY = PROPER + -ty — the state or quality of being proper.",
+    "confusableNote": "Do not confuse with 'property' (something owned); propriety is about proper conduct."
+  },
+  {
+    "id": "punctilious",
+    "pos": "adj",
+    "definition": "Showing great attention to detail and correct behavior in conduct or etiquette.",
+    "example": "A punctilious host, she ensured every guest was greeted by name and seated according to protocol.",
+    "synonyms": ["meticulous", "fastidious", "precise", "scrupulous"],
+    "mnemonic": "PUNCTILIOUS = PUNCTUAL + meticulous — obsessively correct about every point (punctum).",
+    "confusableNote": ""
+  },
+  {
+    "id": "puritanical",
+    "pos": "adj",
+    "definition": "Practicing or imposing extremely strict moral or religious standards, often with harsh disapproval of pleasure.",
+    "example": "Her puritanical upbringing left her unable to enjoy leisure activities without feeling guilty.",
+    "synonyms": ["austere", "prudish", "moralistic", "ascetic"],
+    "mnemonic": "Think of the PURITANS — the historical sect famous for strict, joyless moral codes.",
+    "confusableNote": ""
+  },
+  {
+    "id": "rigor",
+    "pos": "n",
+    "definition": "The quality of being extremely thorough, exhaustive, and demanding in standards or methods.",
+    "example": "The scientific community praised the rigor of the decade-long longitudinal study.",
+    "synonyms": ["strictness", "severity", "exactitude", "stringency"],
+    "mnemonic": "RIGOR = rigid — rigor keeps standards rigid and unyielding.",
+    "confusableNote": "Do not confuse with 'rigor mortis' (stiffness of death); in academic contexts, rigor means demanding thoroughness."
+  },
+  {
+    "id": "sanctimonious",
+    "pos": "adj",
+    "definition": "Making a hypocritical show of religious devotion or moral superiority; self-righteously pious.",
+    "example": "The sanctimonious politician lectured voters on family values while concealing his own scandals.",
+    "synonyms": ["self-righteous", "pious", "holier-than-thou", "pharisaical"],
+    "mnemonic": "SANCTIMONIOUS = SANCTI (holy) + MONEY + ous — faking holiness for personal gain.",
+    "confusableNote": ""
+  },
+  {
+    "id": "scrupulous",
+    "pos": "adj",
+    "definition": "Having or showing a strict regard for what is morally right; diligently careful and precise.",
+    "example": "A scrupulous accountant, she documented every penny and never rounded figures in her favor.",
+    "synonyms": ["principled", "meticulous", "conscientious", "upright"],
+    "mnemonic": "SCRUPLE = a tiny unit of weight — scrupulous people weigh every moral decision carefully.",
+    "confusableNote": ""
+  },
+  {
+    "id": "spartan",
+    "pos": "adj",
+    "definition": "Showing or characterized by austerity, self-discipline, and the absence of comfort or luxury.",
+    "example": "The athlete maintained a spartan lifestyle — no television, no alcohol, and lights out by nine.",
+    "synonyms": ["austere", "ascetic", "frugal", "severe"],
+    "mnemonic": "Think of ancient SPARTA — its warriors lived without luxury to build discipline and strength.",
+    "confusableNote": ""
+  },
+  {
+    "id": "stern",
+    "pos": "adj",
+    "definition": "Uncompromisingly strict, severe, or harsh in manner or expectations.",
+    "example": "The stern commander tolerated no deviation from procedure, no matter how minor.",
+    "synonyms": ["severe", "strict", "austere", "unyielding"],
+    "mnemonic": "STERN = the back of a ship — hard, rigid, and unyielding no matter what.",
+    "confusableNote": "Do not confuse with the noun 'stern' (rear of a ship); as an adjective, it means strict or severe."
+  },
+  {
+    "id": "stoic",
+    "pos": "adj",
+    "definition": "Enduring pain, hardship, or difficulty without complaint or outward display of emotion.",
+    "example": "She remained stoic through months of grueling treatment, never once expressing despair.",
+    "synonyms": ["impassive", "forbearing", "austere", "self-disciplined"],
+    "mnemonic": "The ancient STOICS taught that virtue and reason, not pleasure, should guide life — feel nothing, endure everything.",
+    "confusableNote": ""
+  },
+  {
+    "id": "stringent",
+    "pos": "adj",
+    "definition": "Strict, precise, and exacting in requirements or application of rules; leaving no room for deviation.",
+    "example": "The new stringent safety regulations required extensive documentation for every procedure.",
+    "synonyms": ["rigorous", "exacting", "strict", "severe"],
+    "mnemonic": "STRINGENT = STRING + ent — tight as a drawn string, leaving no slack for rule-breaking.",
+    "confusableNote": ""
+  },
+  {
+    "id": "thorough",
+    "pos": "adj",
+    "definition": "Carried out completely and carefully, with nothing overlooked or left incomplete.",
+    "example": "The inspector conducted a thorough examination of every room before approving the building.",
+    "synonyms": ["exhaustive", "meticulous", "comprehensive", "painstaking"],
+    "mnemonic": "THOROUGH = THROUGH + h — going all the way THROUGH something, leaving no part unexamined.",
+    "confusableNote": ""
+  },
+  {
+    "id": "unseemly",
+    "pos": "adj",
+    "definition": "Not in keeping with established standards of good taste or propriety; inappropriate or indecorous.",
+    "example": "Arguing loudly over an inheritance at the graveside struck everyone as unseemly.",
+    "synonyms": ["indecorous", "improper", "unbecoming", "inappropriate"],
+    "mnemonic": "UN- + SEEMLY (fitting to be seen) = behavior that should not be seen in polite company.",
+    "confusableNote": ""
+  },
+  {
+    "id": "abject",
+    "pos": "adj",
+    "definition": "Of the most miserable, degraded, or utterly hopeless kind; completely without self-respect or courage.",
+    "example": "His abject surrender surprised even his enemies, who expected at least token resistance.",
+    "synonyms": ["wretched", "craven", "servile", "degraded"],
+    "mnemonic": "AB- (away) + JECT (thrown) = thrown away, cast down to the lowest possible state.",
+    "confusableNote": "Do not confuse with 'object'; abject describes someone or something completely degraded or cast down."
+  },
+  {
+    "id": "adamant",
+    "pos": "adj",
+    "definition": "Refusing to be persuaded or to change one's mind; immovably firm in purpose or opinion.",
+    "example": "Despite mounting pressure from the board, the CEO was adamant that the merger would not proceed.",
+    "synonyms": ["resolute", "unyielding", "intransigent", "inexorable"],
+    "mnemonic": "ADAMANT comes from Greek for 'unbreakable diamond' — as hard and immovable as a gem.",
+    "confusableNote": ""
+  },
+  {
+    "id": "audacious",
+    "pos": "adj",
+    "definition": "Showing a willingness to take bold, daring risks; fearlessly adventurous.",
+    "example": "The audacious explorer crossed the uncharted jungle with minimal supplies and no backup team.",
+    "synonyms": ["daring", "bold", "intrepid", "venturesome"],
+    "mnemonic": "AUDACIOUS = AUDIO + cious — someone so bold they'll say out loud what others only think.",
+    "confusableNote": ""
+  },
+  {
+    "id": "brazen",
+    "pos": "adj",
+    "definition": "Shamelessly bold or daring; showing no remorse for behavior that others find shocking.",
+    "example": "In a brazen act of defiance, she published the classified documents under her own name.",
+    "synonyms": ["audacious", "impudent", "shameless", "insolent"],
+    "mnemonic": "BRAZEN = BRASS-en — as bold and brash as brass, with no shame.",
+    "confusableNote": ""
+  },
+  {
+    "id": "craven",
+    "pos": "adj",
+    "definition": "Contemptibly lacking in courage; shamefully cowardly.",
+    "example": "The general's craven retreat, abandoning his troops without warning, was deemed treasonous.",
+    "synonyms": ["cowardly", "pusillanimous", "abject", "spineless"],
+    "mnemonic": "CRAVEN — sounds like 'crave in fear': someone who craves only safety, fleeing all danger.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dogged",
+    "pos": "adj",
+    "definition": "Having or showing tenacious determination; persisting stubbornly in the face of difficulty.",
+    "example": "Her dogged pursuit of the truth kept her investigating the case long after others had given up.",
+    "synonyms": ["tenacious", "persistent", "resolute", "steadfast"],
+    "mnemonic": "DOGGED — like a dog that won't let go of a bone no matter how hard you pull.",
+    "confusableNote": ""
+  }
+]

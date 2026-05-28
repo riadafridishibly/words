@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mendacity",
+    "issue": "'perfidy' (treachery/betrayal) is not a synonym of mendacity (the practice of lying); it belongs to a different fault",
+    "synonyms": ["duplicity", "untruthfulness", "dishonesty", "deceitfulness"]
+  },
+  {
+    "id": "pastiche",
+    "issue": "synonyms list 'pastiche' as a synonym of itself",
+    "synonyms": ["imitation", "medley", "hodgepodge", "collage"]
+  },
+  {
+    "id": "penurious",
+    "issue": "'avaricious' (greedy for gain) is not a synonym of penurious (refusing to spend); they describe different money-related flaws",
+    "synonyms": ["parsimonious", "miserly", "niggardly", "stinting"]
+  }
+]

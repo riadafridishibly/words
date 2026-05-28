@@ -1,0 +1,398 @@
+[
+  {
+    "id": "convalescent",
+    "pos": "adj",
+    "definition": "Recovering gradually from illness or medical treatment; in a state of returning to health.",
+    "example": "The convalescent patient was encouraged to take short walks to rebuild his strength.",
+    "synonyms": ["recuperating", "recovering", "mending", "rehabilitating"],
+    "mnemonic": "CONVALescent — 'conval' from Latin 'convalescere' (to grow strong again).",
+    "confusableNote": ""
+  },
+  {
+    "id": "crescendo",
+    "pos": "n",
+    "definition": "A progressive increase in intensity, force, or volume reaching a peak.",
+    "example": "Public outrage built to a crescendo after the scandal was revealed.",
+    "synonyms": ["climax", "pinnacle", "surge", "peak"],
+    "mnemonic": "CRESC- means 'grow' in Italian; think of a music swell growing louder.",
+    "confusableNote": "Often misused to mean the peak itself; technically it is the buildup toward the peak."
+  },
+  {
+    "id": "desiccate",
+    "pos": "v",
+    "definition": "To dry out completely, removing all moisture; to deprive of vitality.",
+    "example": "The relentless desert heat desiccated the once-lush vegetation within days.",
+    "synonyms": ["dehydrate", "parch", "wither", "shrivel"],
+    "mnemonic": "DE-SICC-ate: 'sicc' from Latin siccus (dry) — de-dry something completely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dismantle",
+    "pos": "v",
+    "definition": "To take apart piece by piece or systematically destroy a structure or system.",
+    "example": "The new administration moved swiftly to dismantle the previous era's regulatory framework.",
+    "synonyms": ["demolish", "disassemble", "dismantle", "raze"],
+    "mnemonic": "DIS-MANTLE: remove the 'mantle' (covering/structure) piece by piece.",
+    "confusableNote": ""
+  },
+  {
+    "id": "distend",
+    "pos": "v",
+    "definition": "To swell or expand outward from internal pressure, especially beyond normal limits.",
+    "example": "Malnutrition caused the children's abdomens to distend painfully.",
+    "synonyms": ["bloat", "inflate", "dilate", "swell"],
+    "mnemonic": "DI-STEND: 'stend' from Latin tendere (to stretch) — stretch outward in all directions.",
+    "confusableNote": "distend vs. extend: distend implies abnormal swelling outward; extend simply means to lengthen."
+  },
+  {
+    "id": "dormant",
+    "pos": "adj",
+    "definition": "Temporarily inactive or in a suspended state, with potential for future activity.",
+    "example": "The volcano had been dormant for centuries before it suddenly erupted.",
+    "synonyms": ["latent", "quiescent", "inert", "inactive"],
+    "mnemonic": "DORM-ant: like sleeping in a dorm — 'dormir' means to sleep in Latin/French.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dwindling",
+    "pos": "adj",
+    "definition": "Gradually decreasing in size, number, or strength; steadily diminishing.",
+    "example": "The dwindling reserves of fresh water alarmed environmentalists worldwide.",
+    "synonyms": ["diminishing", "waning", "ebbing", "depleting"],
+    "mnemonic": "DWINDLE sounds like 'dwindle down' — shrinking toward nothing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "eclipse",
+    "pos": "v",
+    "definition": "To overshadow or cause to seem inferior; to surpass and render another obscure.",
+    "example": "Her later achievements eclipsed the early success that had first made her famous.",
+    "synonyms": ["overshadow", "surpass", "outshine", "obscure"],
+    "mnemonic": "Like a solar eclipse, one thing blocks and obscures another completely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "engender",
+    "pos": "v",
+    "definition": "To give rise to or bring about a feeling, situation, or condition.",
+    "example": "Years of broken promises engendered deep distrust between the two communities.",
+    "synonyms": ["generate", "produce", "foster", "precipitate"],
+    "mnemonic": "EN-GENDER: to 'give birth to' something — from Latin generare (to beget).",
+    "confusableNote": ""
+  },
+  {
+    "id": "ensue",
+    "pos": "v",
+    "definition": "To happen or occur afterward as a consequence or result.",
+    "example": "After the controversial verdict, heated protests ensued across the capital.",
+    "synonyms": ["follow", "result", "succeed", "emanate"],
+    "mnemonic": "EN-SUE: think 'in sequence' — it comes right after something else.",
+    "confusableNote": "ensue vs. issue: ensue means to follow as a consequence; issue can mean to emerge or a problem."
+  },
+  {
+    "id": "eradicate",
+    "pos": "v",
+    "definition": "To completely destroy or eliminate something, especially something harmful, so it no longer exists.",
+    "example": "Global health campaigns succeeded in eradicating smallpox by the late twentieth century.",
+    "synonyms": ["extirpate", "obliterate", "annihilate", "exterminate"],
+    "mnemonic": "E-RADIC-ate: 'radic' from Latin radix (root) — pull out by the roots entirely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "erstwhile",
+    "pos": "adj",
+    "definition": "Former; belonging to an earlier time; previously holding a certain status.",
+    "example": "The erstwhile rivals surprised everyone by announcing a joint business venture.",
+    "synonyms": ["former", "onetime", "quondam", "previous"],
+    "mnemonic": "ERST-while: 'erst' is an archaic word for 'formerly' — 'erstwhile' = 'at a former time.'",
+    "confusableNote": ""
+  },
+  {
+    "id": "escalate",
+    "pos": "v",
+    "definition": "To increase rapidly in intensity, magnitude, or scope.",
+    "example": "What began as a minor dispute quickly escalated into a full diplomatic crisis.",
+    "synonyms": ["intensify", "amplify", "mount", "surge"],
+    "mnemonic": "ESCAL-ate: like climbing an escalator — steadily rising higher.",
+    "confusableNote": ""
+  },
+  {
+    "id": "evanescent",
+    "pos": "adj",
+    "definition": "Quickly fading or disappearing; lasting only a brief time; transitory.",
+    "example": "The evanescent beauty of cherry blossoms makes their brief season all the more treasured.",
+    "synonyms": ["ephemeral", "fleeting", "transient", "fugitive"],
+    "mnemonic": "EVAN-escent: 'evan' from Latin evanescere (to vanish) — evaporating into nothing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "evoke",
+    "pos": "v",
+    "definition": "To call forth or bring to mind a feeling, memory, or image.",
+    "example": "The old photograph evoked a wave of nostalgia for his childhood summers.",
+    "synonyms": ["elicit", "conjure", "summon", "arouse"],
+    "mnemonic": "E-VOKE: 'voke' from Latin vocare (to call) — call something out from within.",
+    "confusableNote": "evoke vs. invoke: evoke means to call forth (a feeling/memory); invoke means to call upon (authority/law)."
+  },
+  {
+    "id": "exorcise",
+    "pos": "v",
+    "definition": "To expel or eliminate something troubling or malevolent; to rid oneself of a harmful influence.",
+    "example": "Writing her memoir helped her exorcise the demons of a difficult childhood.",
+    "synonyms": ["expel", "purge", "banish", "eradicate"],
+    "mnemonic": "EX-ORC-ise: 'ex' (out) + force the bad spirit out — casting out evil.",
+    "confusableNote": "exorcise vs. exercise: exorcise means to drive out evil/trouble; exercise means physical activity or to practice."
+  },
+  {
+    "id": "extant",
+    "pos": "adj",
+    "definition": "Still in existence; not destroyed, lost, or extinct.",
+    "example": "Only three extant manuscripts of the medieval poem have survived to the present day.",
+    "synonyms": ["surviving", "existing", "remaining", "extant"],
+    "mnemonic": "EX-TANT: 'ex' (out/standing) + 'tant' — still standing out there, not gone.",
+    "confusableNote": "extant vs. extent: extant means still existing; extent refers to the range or scope of something."
+  },
+  {
+    "id": "fallow",
+    "pos": "adj",
+    "definition": "Inactive, dormant, or uncultivated; (of land) left unplanted to recover fertility.",
+    "example": "After years of frantic productivity, she let her creative work lie fallow for a season.",
+    "synonyms": ["dormant", "idle", "uncultivated", "inactive"],
+    "mnemonic": "FALLOW field: farmers leave fields 'fellow-less' (without crops) to rest and recover.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fledgling",
+    "pos": "adj",
+    "definition": "New and inexperienced; just beginning to develop or emerge.",
+    "example": "The fledgling startup struggled to compete against established industry giants.",
+    "synonyms": ["nascent", "budding", "embryonic", "incipient"],
+    "mnemonic": "FLEDG-ling: a baby bird just growing feathers (fledge) — barely able to fly yet.",
+    "confusableNote": ""
+  },
+  {
+    "id": "foment",
+    "pos": "v",
+    "definition": "To instigate or stir up trouble, rebellion, or discord; to incite unrest.",
+    "example": "The demagogue used inflammatory rhetoric to foment resentment among the populace.",
+    "synonyms": ["instigate", "incite", "agitate", "provoke"],
+    "mnemonic": "FO-MENT: think 'ferment' — like fermenting trouble, making it bubble and brew.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inchoate",
+    "pos": "adj",
+    "definition": "Just begun and not fully developed or organized; rudimentary and incomplete.",
+    "example": "Her inchoate ideas about social reform had yet to coalesce into a coherent platform.",
+    "synonyms": ["embryonic", "nascent", "rudimentary", "formative"],
+    "mnemonic": "IN-CHO-ate: 'in' (not yet) + 'choate' (complete) — an inchoate plan is not yet whole.",
+    "confusableNote": ""
+  },
+  {
+    "id": "incite",
+    "pos": "v",
+    "definition": "To stir up or urge someone to act, especially in a violent or harmful way.",
+    "example": "The fiery speech was designed to incite the crowd to march on the government building.",
+    "synonyms": ["provoke", "instigate", "inflame", "galvanize"],
+    "mnemonic": "IN-CITE: 'cite' from Latin citare (to set in motion) — set someone in motion.",
+    "confusableNote": ""
+  },
+  {
+    "id": "induce",
+    "pos": "v",
+    "definition": "To bring about or cause something to happen; to persuade someone to do something.",
+    "example": "The promise of tax credits induced many companies to invest in renewable energy.",
+    "synonyms": ["prompt", "precipitate", "engender", "persuade"],
+    "mnemonic": "IN-DUCE: 'duce' from Latin ducere (to lead) — lead someone into doing something.",
+    "confusableNote": ""
+  },
+  {
+    "id": "instigate",
+    "pos": "v",
+    "definition": "To bring about or initiate an action or event, often something negative.",
+    "example": "Investigators determined that a single agitator had instigated the violent confrontation.",
+    "synonyms": ["provoke", "foment", "incite", "kindle"],
+    "mnemonic": "IN-STIG-ate: 'stig' from Latin instigare (to goad) — prod or poke someone into action.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inundate",
+    "pos": "v",
+    "definition": "To overwhelm with an excessive amount; to flood or submerge completely.",
+    "example": "After the product launch, the company was inundated with customer complaints.",
+    "synonyms": ["overwhelm", "deluge", "swamp", "engulf"],
+    "mnemonic": "IN-UND-ate: 'und' from Latin unda (wave) — waves crashing in, flooding everything.",
+    "confusableNote": ""
+  },
+  {
+    "id": "invigorate",
+    "pos": "v",
+    "definition": "To give strength, energy, or vitality to; to animate and stimulate.",
+    "example": "A brisk morning run invigorated her and sharpened her focus for the day ahead.",
+    "synonyms": ["energize", "revitalize", "animate", "fortify"],
+    "mnemonic": "IN-VIGOR-ate: put 'vigor' (strength/energy) into something.",
+    "confusableNote": ""
+  },
+  {
+    "id": "lull",
+    "pos": "n",
+    "definition": "A temporary pause or calm period in an otherwise active or turbulent situation.",
+    "example": "During the lull in fighting, aid workers rushed in supplies to the besieged city.",
+    "synonyms": ["respite", "pause", "hiatus", "abatement"],
+    "mnemonic": "LULL: sounds like a lullaby — quiet, calm, things have slowed to sleep.",
+    "confusableNote": ""
+  },
+  {
+    "id": "nascent",
+    "pos": "adj",
+    "definition": "Just coming into existence and beginning to develop; emerging in early stages.",
+    "example": "The nascent democracy faced enormous challenges in establishing stable institutions.",
+    "synonyms": ["emerging", "incipient", "budding", "fledgling"],
+    "mnemonic": "NASC-ent: from Latin nasci (to be born) — just being born, barely started.",
+    "confusableNote": ""
+  },
+  {
+    "id": "neophyte",
+    "pos": "n",
+    "definition": "A person who is new to a subject, skill, or belief; a beginner or novice.",
+    "example": "As a neophyte investor, she made several costly mistakes before learning market fundamentals.",
+    "synonyms": ["novice", "tyro", "apprentice", "fledgling"],
+    "mnemonic": "NEO-PHYTE: 'neo' (new) + 'phyte' (plant) — a newly planted seedling, just starting to grow.",
+    "confusableNote": ""
+  },
+  {
+    "id": "obsolete",
+    "pos": "adj",
+    "definition": "No longer in use or relevant; outdated and superseded by something newer.",
+    "example": "The rise of digital streaming rendered the video rental store obsolete almost overnight.",
+    "synonyms": ["antiquated", "archaic", "outmoded", "passé"],
+    "mnemonic": "OB-SOL-ete: 'solete' from Latin obsolescere — 'ob' (against) + solete (accustomed), no longer the norm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "onetime",
+    "pos": "adj",
+    "definition": "Having been something in the past but no longer so; former.",
+    "example": "The onetime champion now struggled to qualify for regional competitions.",
+    "synonyms": ["former", "erstwhile", "quondam", "ex-"],
+    "mnemonic": "ONE-TIME: it happened just once, in the past — not anymore.",
+    "confusableNote": ""
+  },
+  {
+    "id": "precipitate",
+    "pos": "v",
+    "definition": "To cause something, especially something undesirable, to happen suddenly or prematurely.",
+    "example": "The assassination precipitated a chain of events that led to the outbreak of war.",
+    "synonyms": ["trigger", "catalyze", "hasten", "provoke"],
+    "mnemonic": "PRE-CIPIT-ate: 'cipit' from Latin caput (head) — headlong rush, things fall forward fast.",
+    "confusableNote": "precipitate (v) vs. precipitous: precipitate means to cause hastily; precipitous means extremely steep or rash."
+  },
+  {
+    "id": "profuse",
+    "pos": "adj",
+    "definition": "Present in large amounts; produced or existing in great quantities; lavishly abundant.",
+    "example": "She offered profuse apologies after inadvertently offending her colleague.",
+    "synonyms": ["copious", "abundant", "prolific", "lavish"],
+    "mnemonic": "PRO-FUSE: 'fuse' from Latin fundere (to pour) — pouring forth in great quantity.",
+    "confusableNote": ""
+  },
+  {
+    "id": "proliferate",
+    "pos": "v",
+    "definition": "To increase rapidly in number or amount; to spread and multiply abundantly.",
+    "example": "Social media platforms have proliferated to the point of dominating daily communication.",
+    "synonyms": ["multiply", "burgeon", "propagate", "mushroom"],
+    "mnemonic": "PROLIF-erate: 'prolif' from Latin proles (offspring) + ferre (to bear) — bearing many offspring rapidly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "propagate",
+    "pos": "v",
+    "definition": "To spread or transmit widely; to reproduce and disseminate ideas, organisms, or signals.",
+    "example": "Misinformation propagates rapidly through social networks, often outpacing corrections.",
+    "synonyms": ["disseminate", "spread", "diffuse", "broadcast"],
+    "mnemonic": "PROPAG-ate: from Latin propagare (to extend by layering a plant) — making more and spreading out.",
+    "confusableNote": ""
+  },
+  {
+    "id": "rampant",
+    "pos": "adj",
+    "definition": "Spreading or increasing unchecked and unrestrained; flourishing excessively.",
+    "example": "Corruption was rampant in the agency, with bribes expected at every level.",
+    "synonyms": ["unchecked", "widespread", "unbridled", "pervasive"],
+    "mnemonic": "RAM-pant: like a ram charging without restraint — wild and uncontrolled.",
+    "confusableNote": ""
+  },
+  {
+    "id": "replenish",
+    "pos": "v",
+    "definition": "To restore to a full or sufficient supply; to fill up again what has been depleted.",
+    "example": "After the drought, autumn rains finally replenished the depleted reservoir.",
+    "synonyms": ["restore", "refill", "restock", "renew"],
+    "mnemonic": "RE-PLEN-ish: 'plen' from Latin plenus (full) — make full again.",
+    "confusableNote": ""
+  },
+  {
+    "id": "retrench",
+    "pos": "v",
+    "definition": "To reduce costs, expenditures, or staff; to cut back as a means of economizing.",
+    "example": "Facing falling revenues, the company retrenched by laying off a quarter of its workforce.",
+    "synonyms": ["curtail", "downsize", "retrench", "economize"],
+    "mnemonic": "RE-TRENCH: to dig back into your trench — retreat and reduce your exposure.",
+    "confusableNote": ""
+  },
+  {
+    "id": "salubrious",
+    "pos": "adj",
+    "definition": "Promoting health and well-being; conducive to a healthy or pleasant environment.",
+    "example": "Physicians recommended the salubrious mountain air as a remedy for her respiratory ailment.",
+    "synonyms": ["healthful", "wholesome", "salutary", "restorative"],
+    "mnemonic": "SALUBRI-ous: from Latin salus (health) — full of health benefits.",
+    "confusableNote": "salubrious vs. salutary: salubrious refers to physically healthy conditions; salutary means beneficial, often morally."
+  },
+  {
+    "id": "sever",
+    "pos": "v",
+    "definition": "To cut off or divide sharply; to put an end to a connection or relationship completely.",
+    "example": "The two nations severed diplomatic ties following the border incident.",
+    "synonyms": ["cleave", "rupture", "sunder", "disconnect"],
+    "mnemonic": "SEVER: sounds like 'severe' — a sharp, decisive, complete cut.",
+    "confusableNote": ""
+  },
+  {
+    "id": "surfeit",
+    "pos": "n",
+    "definition": "An excessive amount of something; an overabundant supply beyond what is needed.",
+    "example": "A surfeit of candidates applied for the single fellowship position.",
+    "synonyms": ["excess", "glut", "overabundance", "plethora"],
+    "mnemonic": "SUR-FEIT: 'sur' (over) + 'feit' from French faire (to do/make) — overdone, too much made.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vestigial",
+    "pos": "adj",
+    "definition": "Remaining as a trace or remnant of something that was once greater or more fully developed.",
+    "example": "The human appendix is considered a vestigial organ with no clear modern function.",
+    "synonyms": ["rudimentary", "residual", "remnant", "atrophied"],
+    "mnemonic": "VESTIG-ial: 'vestig' from Latin vestigium (footprint/trace) — just a faint trace left behind.",
+    "confusableNote": ""
+  },
+  {
+    "id": "wane",
+    "pos": "v",
+    "definition": "To decrease in strength, intensity, or extent; to diminish gradually.",
+    "example": "Public enthusiasm for the new policy waned as its costs became apparent.",
+    "synonyms": ["diminish", "ebb", "dwindle", "abate"],
+    "mnemonic": "WANE: opposite of wax — the moon wanes (shrinks) after it is full.",
+    "confusableNote": "wane vs. wax: wane means to decrease; wax means to increase or grow."
+  },
+  {
+    "id": "abrasive",
+    "pos": "adj",
+    "definition": "Harshly irritating in manner; tending to cause offense through bluntness or rudeness.",
+    "example": "His abrasive personality alienated colleagues who might otherwise have supported his proposals.",
+    "synonyms": ["caustic", "brusque", "acerbic", "grating"],
+    "mnemonic": "ABRAS-ive: like sandpaper that ABRADES (scrapes) — rough and irritating to others.",
+    "confusableNote": ""
+  }
+]

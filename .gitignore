@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vite
+
+# transient enrichment-pipeline artifacts (regenerable; final data lives in
+# src/lib/data/. skeleton.json, enriched/, and corrections/ are kept for reproducibility)
+data/parts/
+data/verify/
+data/missing.json

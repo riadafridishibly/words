@@ -1,0 +1,398 @@
+[
+  {
+    "id": "renege",
+    "pos": "v",
+    "definition": "To go back on a promise, agreement, or commitment previously made.",
+    "example": "After signing the contract, the contractor reneged on his promise to complete the work by March.",
+    "synonyms": ["default", "backtrack", "recant", "repudiate"],
+    "mnemonic": "RE + NEG: to 'negate' again what you already agreed to.",
+    "confusableNote": "renegade: a renegade abandons a cause entirely; to renege is specifically to break a promise or deal."
+  },
+  {
+    "id": "repercussion",
+    "pos": "n",
+    "definition": "An indirect, often unintended consequence that follows an action or event.",
+    "example": "The new trade tariffs had repercussions felt by consumers and small businesses across the country.",
+    "synonyms": ["ramification", "aftermath", "fallout", "consequence"],
+    "mnemonic": "Think 'percussion': you strike a drum, the vibrations ripple outward — repercussions are the ripple effects.",
+    "confusableNote": ""
+  },
+  {
+    "id": "residual",
+    "pos": "adj",
+    "definition": "Remaining after the greater part has gone or been removed; pertaining to a leftover effect.",
+    "example": "Years after the spill, residual toxins were still detectable in the river sediment.",
+    "synonyms": ["lingering", "remaining", "vestigial", "remnant"],
+    "mnemonic": "RESID-ual: what 'resides' behind after everything else has left.",
+    "confusableNote": ""
+  },
+  {
+    "id": "restive",
+    "pos": "adj",
+    "definition": "Restlessly impatient or difficult to control, especially under restriction or delay.",
+    "example": "The crowd grew restive as the speaker droned on past the allotted time.",
+    "synonyms": ["restless", "fidgety", "recalcitrant", "fractious"],
+    "mnemonic": "Sounds like 'rest' but means the OPPOSITE — too agitated to rest.",
+    "confusableNote": "restful: restful means calm and peaceful; restive means the opposite — uneasy and resistant."
+  },
+  {
+    "id": "scathing",
+    "pos": "adj",
+    "definition": "Severely and harshly critical; witheringly reproachful.",
+    "example": "The drama critic delivered a scathing review, calling the production an embarrassment to the stage.",
+    "synonyms": ["caustic", "scornful", "vitriolic", "trenchant"],
+    "mnemonic": "SCATHING: like 'scald' — burns the target with words.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sentimental",
+    "pos": "adj",
+    "definition": "Excessively or self-indulgently emotional, especially about the past; prone to sentimentality.",
+    "example": "The film was widely criticized for its sentimental ending, which many viewers found manipulative.",
+    "synonyms": ["maudlin", "lachrymose", "nostalgic", "cloying"],
+    "mnemonic": "SENTIMENT + AL: ruled by feelings, often to an excessive degree.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sophistry",
+    "pos": "n",
+    "definition": "Clever but deliberately deceptive or fallacious reasoning intended to mislead.",
+    "example": "The politician's defense rested on sophistry, using technically accurate statistics to construct a deeply misleading argument.",
+    "synonyms": ["casuistry", "chicanery", "specious reasoning", "fallacy"],
+    "mnemonic": "SOPHISTs were ancient Greek teachers who argued any side for pay — sophistry is their slippery art.",
+    "confusableNote": "sophistication: sophistication implies refinement and worldliness; sophistry specifically means deceptive, misleading argument."
+  },
+  {
+    "id": "stigmatize",
+    "pos": "v",
+    "definition": "To mark or label someone with disgrace or shame, often unjustly.",
+    "example": "Society has long stigmatized mental illness, discouraging many from seeking treatment.",
+    "synonyms": ["brand", "vilify", "disparage", "censure"],
+    "mnemonic": "STIGMA: a brand or mark of shame — to stigmatize is to stamp that mark on someone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "subsume",
+    "pos": "v",
+    "definition": "To include or absorb something within a larger category or group.",
+    "example": "All three minor complaints were subsumed under the broader charge of professional misconduct.",
+    "synonyms": ["encompass", "incorporate", "absorb", "classify under"],
+    "mnemonic": "SUB + SUME (consume): to consume something beneath a larger whole.",
+    "confusableNote": ""
+  },
+  {
+    "id": "subvert",
+    "pos": "v",
+    "definition": "To undermine or destabilize an established system, authority, or institution covertly.",
+    "example": "The spy ring was designed to subvert the government's intelligence operations from within.",
+    "synonyms": ["undermine", "sabotage", "corrupt", "destabilize"],
+    "mnemonic": "SUB (below) + VERT (turn): to turn something upside down from underneath.",
+    "confusableNote": ""
+  },
+  {
+    "id": "superficial",
+    "pos": "adj",
+    "definition": "Concerned only with surface appearances; lacking depth, thoroughness, or substance.",
+    "example": "Her analysis of the novel was superficial, touching only on plot without exploring theme or character.",
+    "synonyms": ["cursory", "shallow", "perfunctory", "facile"],
+    "mnemonic": "SUPER (above) + FACIES (face): only skimming the outer face of things.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tact",
+    "pos": "n",
+    "definition": "Skillful sensitivity in dealing with delicate or difficult situations without giving offense.",
+    "example": "He delivered the difficult news with such tact that the family felt supported rather than distressed.",
+    "synonyms": ["diplomacy", "discretion", "delicacy", "finesse"],
+    "mnemonic": "TACT = TOUCH: gently 'touching' a situation so as not to bruise anyone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tantalizing",
+    "pos": "adj",
+    "definition": "Exciting desire or interest while remaining frustratingly out of reach.",
+    "example": "The tantalizing aroma from the bakery made it impossible to walk past without stopping.",
+    "synonyms": ["alluring", "enticing", "teasing", "provocative"],
+    "mnemonic": "TANTALUS (Greek myth): condemned to stand beneath fruit that receded whenever he reached — forever tantalized.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tendentious",
+    "pos": "adj",
+    "definition": "Promoting a particular viewpoint or cause in a biased, partisan way, especially in writing or speech.",
+    "example": "The documentary was criticized as tendentious because it presented only evidence that supported the filmmaker's thesis.",
+    "synonyms": ["partisan", "biased", "slanted", "polemical"],
+    "mnemonic": "TENDENCY: a tendentious piece has a strong tendency toward one side.",
+    "confusableNote": "tendentious vs. contentious: tendentious means one-sidedly promoting a viewpoint; contentious means causing or involving heated disagreement."
+  },
+  {
+    "id": "tenuous",
+    "pos": "adj",
+    "definition": "Thin, weak, or insubstantial; lacking a firm or convincing basis.",
+    "example": "The connection between the two events was tenuous at best, based on coincidence rather than evidence.",
+    "synonyms": ["flimsy", "fragile", "insubstantial", "nebulous"],
+    "mnemonic": "TENUOUS = THIN: think 'tendon' stretched so thin it could snap.",
+    "confusableNote": "tenuous vs. tedious: tenuous means weak/insubstantial; tedious means boringly long or dull."
+  },
+  {
+    "id": "tepid",
+    "pos": "adj",
+    "definition": "Showing little enthusiasm or conviction; lukewarm in degree or feeling.",
+    "example": "The proposal received only tepid support from the committee, who approved it without any real enthusiasm.",
+    "synonyms": ["lukewarm", "halfhearted", "unenthusiastic", "indifferent"],
+    "mnemonic": "TEPID = temperature: lukewarm water — neither hot nor cold, just barely warm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tirade",
+    "pos": "n",
+    "definition": "A long, vehement speech of bitter criticism or angry denunciation.",
+    "example": "The coach launched into a tirade against the referee after the controversial call ended the game.",
+    "synonyms": ["harangue", "diatribe", "philippic", "polemic"],
+    "mnemonic": "TIRADE: sounds like 'tired' and 'raid' — an exhausting verbal raid on someone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tout",
+    "pos": "v",
+    "definition": "To promote, praise, or publicize enthusiastically and often boastfully.",
+    "example": "The company touted its new drug as a breakthrough, though clinical results were still preliminary.",
+    "synonyms": ["promote", "laud", "trumpet", "extol"],
+    "mnemonic": "TOUT: shout it out — to tout something is to shout its praises.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tractable",
+    "pos": "adj",
+    "definition": "Easily managed, controlled, or handled; responsive to guidance or instruction.",
+    "example": "The new software proved tractable enough that employees mastered it within a few days.",
+    "synonyms": ["manageable", "docile", "amenable", "compliant"],
+    "mnemonic": "TRACT (draw/pull): a tractable animal can be led or pulled along easily.",
+    "confusableNote": "tractable vs. intractable: intractable means stubbornly unmanageable — the opposite of tractable."
+  },
+  {
+    "id": "transgression",
+    "pos": "n",
+    "definition": "An act that violates a law, rule, or moral code; an offense or infraction.",
+    "example": "Even minor transgressions of the honor code were taken seriously by the academy's disciplinary board.",
+    "synonyms": ["violation", "infringement", "trespass", "misdeed"],
+    "mnemonic": "TRANS (across) + GRESS (step): to step across a boundary you were not supposed to cross.",
+    "confusableNote": ""
+  },
+  {
+    "id": "turbulent",
+    "pos": "adj",
+    "definition": "Characterized by conflict, disorder, or agitation; violently disturbed or unstable.",
+    "example": "The turbulent years following the revolution left the country politically and economically unstable.",
+    "synonyms": ["tumultuous", "volatile", "tempestuous", "chaotic"],
+    "mnemonic": "TURBULENT = TURBO: spinning wildly out of control, like a turbine in a storm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "unalloyed",
+    "pos": "adj",
+    "definition": "Pure and unmixed; complete and undiluted, especially of an emotion or quality.",
+    "example": "The team's victory brought the coach unalloyed joy — no reservations, no caveats.",
+    "synonyms": ["unadulterated", "unmitigated", "absolute", "sheer"],
+    "mnemonic": "UN + ALLOY: no alloy mixed in — pure gold, pure feeling.",
+    "confusableNote": ""
+  },
+  {
+    "id": "unprecedented",
+    "pos": "adj",
+    "definition": "Never having occurred or existed before; without any earlier parallel or example.",
+    "example": "The speed at which the vaccine was developed was unprecedented in the history of medicine.",
+    "synonyms": ["unparalleled", "novel", "singular", "unheard-of"],
+    "mnemonic": "UN + PRECEDENT: no precedent — nothing has come before it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "unravel",
+    "pos": "v",
+    "definition": "To disentangle or solve a mystery; or to begin to fall apart and fail.",
+    "example": "As investigators unraveled the financial scandal, it became clear that dozens of officials were implicated.",
+    "synonyms": ["disentangle", "untangle", "decode", "disintegrate"],
+    "mnemonic": "UN + RAVEL: un-weave the tangled threads to see the full picture — or watch them come undone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vacuous",
+    "pos": "adj",
+    "definition": "Empty of meaning, intelligence, or substance; devoid of serious thought or content.",
+    "example": "Critics dismissed the bestseller as vacuous entertainment, entertaining but utterly devoid of ideas.",
+    "synonyms": ["vapid", "inane", "hollow", "fatuous"],
+    "mnemonic": "VACUUM: a vacuum has nothing in it — vacuous thoughts are similarly empty.",
+    "confusableNote": ""
+  },
+  {
+    "id": "valedictory",
+    "pos": "adj",
+    "definition": "Relating to or constituting a farewell; serving as a formal leave-taking address.",
+    "example": "The ambassador's valedictory speech reflected warmly on thirty years of diplomatic service.",
+    "synonyms": ["farewell", "parting", "valete", "leave-taking"],
+    "mnemonic": "VALE (Latin: farewell) + DICT (speak): a speech that says goodbye.",
+    "confusableNote": "valedictory vs. salutatory: a salutatory address opens a ceremony; a valedictory address closes or bids farewell."
+  },
+  {
+    "id": "verve",
+    "pos": "n",
+    "definition": "Enthusiastic vigor and energy, especially in creative or artistic expression.",
+    "example": "The young conductor led the orchestra with such verve that the audience rose to its feet.",
+    "synonyms": ["vivacity", "élan", "gusto", "exuberance"],
+    "mnemonic": "VERVE sounds like 'vroom' — a revved-up engine of energy and enthusiasm.",
+    "confusableNote": ""
+  },
+  {
+    "id": "visionary",
+    "pos": "adj",
+    "definition": "Possessing exceptional foresight and imaginative insight about future possibilities.",
+    "example": "Her visionary leadership transformed a struggling startup into an industry-defining company.",
+    "synonyms": ["prescient", "farsighted", "prophetic", "pioneering"],
+    "mnemonic": "VISION: someone who sees far beyond what others can — a visionary.",
+    "confusableNote": "visionary vs. illusory: illusory refers to something that is a false or deceptive impression; visionary refers to forward-thinking perception."
+  },
+  {
+    "id": "withstand",
+    "pos": "v",
+    "definition": "To resist, endure, or remain firm against an opposing force or pressure.",
+    "example": "The reinforced levees were designed to withstand floodwaters exceeding historical records.",
+    "synonyms": ["resist", "endure", "weather", "brook"],
+    "mnemonic": "WITH (against) + STAND: to stand firmly against something pushing at you.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aesthetic",
+    "pos": "adj",
+    "definition": "Relating to the appreciation of beauty or good taste; concerned with artistic sensibility.",
+    "example": "The architect's aesthetic choices — clean lines and natural materials — gave the building a timeless elegance.",
+    "synonyms": ["artistic", "tasteful", "refined", "elegant"],
+    "mnemonic": "AESTHETICS = sense of beauty: rooted in the Greek word for perception through the senses.",
+    "confusableNote": ""
+  },
+  {
+    "id": "arresting",
+    "pos": "adj",
+    "definition": "Strikingly attractive or impressive; commanding immediate attention.",
+    "example": "The painting's arresting use of color stopped every visitor in their tracks.",
+    "synonyms": ["striking", "captivating", "stunning", "compelling"],
+    "mnemonic": "ARREST: it 'arrests' your gaze — stops you cold with its beauty.",
+    "confusableNote": ""
+  },
+  {
+    "id": "banal",
+    "pos": "adj",
+    "definition": "So commonplace as to be predictable or uninteresting; devoid of originality.",
+    "example": "The screenplay recycled banal plot devices that audiences had seen dozens of times before.",
+    "synonyms": ["trite", "hackneyed", "platitudinous", "pedestrian"],
+    "mnemonic": "BANAL sounds like 'ban all' creativity — utterly ordinary.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bromide",
+    "pos": "n",
+    "definition": "A trite, unoriginal remark or idea that is offered as though it were profound.",
+    "example": "The commencement speech was filled with bromides like 'follow your dreams' and 'make a difference.'",
+    "synonyms": ["platitude", "cliché", "truism", "banality"],
+    "mnemonic": "Bromide (the chemical) was a sedative — a verbal bromide sedates the mind with dull familiarity.",
+    "confusableNote": ""
+  },
+  {
+    "id": "contemporary",
+    "pos": "adj",
+    "definition": "Belonging to or characteristic of the present time; modern in style or design.",
+    "example": "The museum's new wing housed an impressive collection of contemporary art from the past decade.",
+    "synonyms": ["modern", "current", "present-day", "avant-garde"],
+    "mnemonic": "CONTEMP + ORARY: existing at the same 'tempo' as our time — right now.",
+    "confusableNote": "contemporary vs. contemporaneous: contemporaneous means existing at the same period as something else in the past; contemporary most often means of the present day."
+  },
+  {
+    "id": "dowdy",
+    "pos": "adj",
+    "definition": "Unfashionable and dull in appearance; lacking style or attractiveness.",
+    "example": "She traded her dowdy wardrobe for sleek, modern pieces that transformed her professional image.",
+    "synonyms": ["frumpy", "drab", "shabby", "unstylish"],
+    "mnemonic": "DOWDY: think 'down and dull' — a style that is worn-down and uninspiring.",
+    "confusableNote": ""
+  },
+  {
+    "id": "elementary",
+    "pos": "adj",
+    "definition": "Of or relating to the most basic level; rudimentary and requiring no advanced knowledge.",
+    "example": "The professor reminded students that elementary logic should prevent such obvious contradictions in their arguments.",
+    "synonyms": ["rudimentary", "basic", "fundamental", "introductory"],
+    "mnemonic": "ELEMENT: the elemental, first-level building blocks of a subject.",
+    "confusableNote": ""
+  },
+  {
+    "id": "felicitous",
+    "pos": "adj",
+    "definition": "Well-chosen and pleasingly apt; agreeably suited to the occasion or context.",
+    "example": "The poet's felicitous choice of imagery made the description feel effortlessly precise.",
+    "synonyms": ["apt", "judicious", "well-chosen", "graceful"],
+    "mnemonic": "FELICITY (happiness/aptness): a felicitous phrase 'fits' beautifully and brings satisfaction.",
+    "confusableNote": "felicitous vs. felicitious: 'felicitious' is not a word — only felicitous is correct."
+  },
+  {
+    "id": "gawky",
+    "pos": "adj",
+    "definition": "Awkward and ungainly in movement or appearance; lacking coordination or social grace.",
+    "example": "The gawky teenager knocked over a display while trying to navigate the crowded store.",
+    "synonyms": ["ungainly", "clumsy", "lumbering", "maladroit"],
+    "mnemonic": "GAWK (to stare stupidly) + Y: so awkward others gawk at you.",
+    "confusableNote": ""
+  },
+  {
+    "id": "hackneyed",
+    "pos": "adj",
+    "definition": "Made commonplace or stale through overuse; lacking freshness or originality.",
+    "example": "The hackneyed metaphors in her essay revealed a writer who had not yet developed her own voice.",
+    "synonyms": ["trite", "clichéd", "banal", "overworked"],
+    "mnemonic": "HACKNEY horses were overworked hired horses — hackneyed phrases are overworked and worn out.",
+    "confusableNote": ""
+  },
+  {
+    "id": "insipid",
+    "pos": "adj",
+    "definition": "Lacking vigor, interest, or distinctiveness; flat and flavorless in quality.",
+    "example": "The insipid dialogue made it impossible to care about any of the characters in the play.",
+    "synonyms": ["vapid", "bland", "jejune", "lackluster"],
+    "mnemonic": "IN + SAPID (tasty): without taste or interest — flavorless in every sense.",
+    "confusableNote": ""
+  },
+  {
+    "id": "modish",
+    "pos": "adj",
+    "definition": "Conforming to or following the current fashion; stylish and up-to-date.",
+    "example": "The designer's modish collection drew acclaim from critics who praised its fresh, contemporary silhouettes.",
+    "synonyms": ["fashionable", "chic", "voguish", "trendy"],
+    "mnemonic": "MODE (fashion) + ISH: in the mode, modish — stylishly in vogue.",
+    "confusableNote": ""
+  },
+  {
+    "id": "monotonous",
+    "pos": "adj",
+    "definition": "Tediously uniform and unvarying; lacking variation and therefore dull.",
+    "example": "The lecturer's monotonous delivery caused several students to drift off during the long seminar.",
+    "synonyms": ["tedious", "humdrum", "repetitive", "unvaried"],
+    "mnemonic": "MONO (one) + TONE: only one tone, never changing — boring by definition.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mundane",
+    "pos": "adj",
+    "definition": "Lacking interest or excitement; concerned with the dull, ordinary aspects of everyday life.",
+    "example": "After years of fieldwork, she struggled to readjust to the mundane routines of office life.",
+    "synonyms": ["prosaic", "humdrum", "quotidian", "pedestrian"],
+    "mnemonic": "MUNDANE = MONDE (world): the everyday world — worldly and thoroughly ordinary.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pedestrian",
+    "pos": "adj",
+    "definition": "Lacking originality or excitement; dull and commonplace.",
+    "example": "The critic found the novel pedestrian — competent but utterly without distinction or ambition.",
+    "synonyms": ["mediocre", "prosaic", "banal", "uninspired"],
+    "mnemonic": "PEDESTRIAN (on foot): nothing elevated — walking on the plain, flat ground of ordinariness.",
+    "confusableNote": "pedestrian (adj) vs. pedestrian (n): as a noun it means a person on foot; on the GRE it means dull and unremarkable."
+  }
+]

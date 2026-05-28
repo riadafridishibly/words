@@ -1,0 +1,398 @@
+[
+  {
+    "id": "curmudgeon",
+    "pos": "n",
+    "definition": "A bad-tempered, cantankerous person, especially one who is often grumpy and difficult to please.",
+    "example": "The old curmudgeon next door complained every time neighborhood children played near his fence.",
+    "synonyms": ["grouch", "misanthrope", "crank", "churl"],
+    "mnemonic": "CUR (bad dog) + MUDGEON — a cur in the mud, growling at everyone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cursory",
+    "pos": "adj",
+    "definition": "Done hastily and without attention to detail; superficial and careless.",
+    "example": "The inspector gave the building only a cursory glance before signing off, missing several structural flaws.",
+    "synonyms": ["perfunctory", "superficial", "hasty", "desultory"],
+    "mnemonic": "CURSOR skims across the screen — a cursory look just skims the surface.",
+    "confusableNote": ""
+  },
+  {
+    "id": "decadent",
+    "pos": "adj",
+    "definition": "Characterized by moral decay, self-indulgence, and the abandonment of ethical standards.",
+    "example": "The decadent aristocracy spent its wealth on lavish parties while the populace starved.",
+    "synonyms": ["dissolute", "debauched", "degenerate", "corrupt"],
+    "mnemonic": "DE-CADE: declining decade by decade into moral ruin.",
+    "confusableNote": ""
+  },
+  {
+    "id": "deflect",
+    "pos": "v",
+    "definition": "To turn aside, divert, or ward off something, especially criticism or an unwanted course of events.",
+    "example": "The politician skillfully deflected every accusation by changing the subject to economic growth.",
+    "synonyms": ["divert", "parry", "avert", "sidestep"],
+    "mnemonic": "DE + FLECT (bend) — bend it away so it doesn't hit you.",
+    "confusableNote": "Do not confuse with 'reflect' (to mirror back) or 'defect' (a flaw or to abandon a cause)."
+  },
+  {
+    "id": "delusion",
+    "pos": "n",
+    "definition": "A firmly held false belief that persists despite clear contradictory evidence.",
+    "example": "His delusion that he was a famous poet led him to recite verses at every social gathering, bewildering onlookers.",
+    "synonyms": ["illusion", "fallacy", "misconception", "chimera"],
+    "mnemonic": "DE + LUSION (play) — you're being played; reality is an illusion you can't see through.",
+    "confusableNote": "Do not confuse with 'illusion' (a perceptual misperception) — a delusion is a fixed false belief, not a sensory trick."
+  },
+  {
+    "id": "deportment",
+    "pos": "n",
+    "definition": "The way a person carries and conducts themselves; bearing, posture, and manners.",
+    "example": "The finishing school prized deportment above academic achievement, training students to walk with books balanced on their heads.",
+    "synonyms": ["bearing", "demeanor", "comportment", "carriage"],
+    "mnemonic": "DE-PORT-MENT: how you 'port' (carry) yourself through the world.",
+    "confusableNote": "Do not confuse with 'deportation' (forced removal from a country) — deportment concerns behavior, not expulsion."
+  },
+  {
+    "id": "derivative",
+    "pos": "adj",
+    "definition": "Lacking originality; imitated from or based on pre-existing sources rather than being independently created.",
+    "example": "Critics dismissed the novel as derivative, noting its plot borrowed heavily from earlier dystopian classics.",
+    "synonyms": ["imitative", "unoriginal", "copied", "secondhand"],
+    "mnemonic": "DERIVE — something derived, not born fresh; it flows from something else.",
+    "confusableNote": ""
+  },
+  {
+    "id": "deviate",
+    "pos": "v",
+    "definition": "To stray or depart from an established course, norm, or standard; to shift unpredictably.",
+    "example": "The scientist's results deviated so sharply from the expected model that the team suspected equipment error.",
+    "synonyms": ["diverge", "digress", "stray", "veer"],
+    "mnemonic": "DE + VIA (way) — to leave the way, going off the set path.",
+    "confusableNote": ""
+  },
+  {
+    "id": "devious",
+    "pos": "adj",
+    "definition": "Crafty and cunning in a dishonest way; willing to use deceit or underhanded methods to achieve goals.",
+    "example": "The devious scheme involved forging documents to divert company funds into a private account.",
+    "synonyms": ["scheming", "duplicitous", "cunning", "underhanded"],
+    "mnemonic": "DE + VIA (way) — going off the straight way, taking crooked paths to deceive.",
+    "confusableNote": "Do not confuse with 'devout' (deeply religious) or 'obvious' — devious implies deliberate dishonesty."
+  },
+  {
+    "id": "diatribe",
+    "pos": "n",
+    "definition": "A lengthy, bitter verbal or written attack expressing strong disapproval or anger.",
+    "example": "The senator launched into a diatribe against the proposed legislation, condemning it as an assault on civil liberties.",
+    "synonyms": ["tirade", "harangue", "polemic", "invective"],
+    "mnemonic": "DIA (through) + TRIBE — raging through an entire tribe, attacking without end.",
+    "confusableNote": ""
+  },
+  {
+    "id": "diffuse",
+    "pos": "adj",
+    "definition": "Spread out over a wide area; or (of writing/speech) wordy and lacking focus.",
+    "example": "The professor's lecture was so diffuse that students struggled to identify the central argument.",
+    "synonyms": ["verbose", "scattered", "rambling", "dispersed"],
+    "mnemonic": "DIF + FUSE — the fuse spreads out in all directions, losing its concentrated power.",
+    "confusableNote": "Do not confuse with 'defuse' (to remove danger from a tense situation) — diffuse means to spread widely."
+  },
+  {
+    "id": "digression",
+    "pos": "n",
+    "definition": "A temporary departure from the main subject in writing or speech, often undermining clarity.",
+    "example": "The lawyer's digression into ancient Roman law mystified the jury and derailed the proceedings.",
+    "synonyms": ["tangent", "deviation", "excursus", "detour"],
+    "mnemonic": "DI + GRESS (step) + ION — stepping away from the main path.",
+    "confusableNote": ""
+  },
+  {
+    "id": "discomfit",
+    "pos": "v",
+    "definition": "To cause someone to feel unsettled, embarrassed, or frustrated; to thwart or foil.",
+    "example": "The unexpected question visibly discomfited the witness, who shifted in his seat and avoided eye contact.",
+    "synonyms": ["disconcert", "unsettle", "fluster", "perturb"],
+    "mnemonic": "DIS + COMFORT — strip away comfort, leaving someone flustered and ill at ease.",
+    "confusableNote": "Do not confuse with 'discomfort' (a noun meaning unease) — discomfit is a verb meaning to actively unsettle someone."
+  },
+  {
+    "id": "disconcerting",
+    "pos": "adj",
+    "definition": "Causing feelings of unease, anxiety, or loss of composure; unsettling.",
+    "example": "It was disconcerting to find the usually locked laboratory door standing wide open at midnight.",
+    "synonyms": ["unsettling", "perturbing", "disturbing", "alarming"],
+    "mnemonic": "DIS + CONCERT — the concert of calm is broken, throwing everything off-key.",
+    "confusableNote": ""
+  },
+  {
+    "id": "disentangle",
+    "pos": "v",
+    "definition": "To free from entanglement or confusion; to separate out and clarify distinct elements.",
+    "example": "The biographer struggled to disentangle myth from fact in the legend of the reclusive artist.",
+    "synonyms": ["extricate", "untangle", "unravel", "separate"],
+    "mnemonic": "DIS + ENTANGLE — undo the tangle; pull the threads apart cleanly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "disperse",
+    "pos": "v",
+    "definition": "To scatter or cause to spread in different directions over a wide area.",
+    "example": "Police used loudspeakers to disperse the crowd that had gathered outside the embassy.",
+    "synonyms": ["scatter", "dissipate", "diffuse", "spread"],
+    "mnemonic": "DI + SPERSE (sprinkle) — sprinkle in all directions until nothing is concentrated.",
+    "confusableNote": "Do not confuse with 'disburse' (to pay out money) — disperse means to scatter physically or spatially."
+  },
+  {
+    "id": "disseminate",
+    "pos": "v",
+    "definition": "To spread or distribute information, ideas, or material widely to a broad audience.",
+    "example": "The organization used social media to disseminate public health guidelines during the outbreak.",
+    "synonyms": ["propagate", "circulate", "broadcast", "promulgate"],
+    "mnemonic": "DISSEMI(N) — like sowing seeds (semin), scattering ideas across the field of public knowledge.",
+    "confusableNote": ""
+  },
+  {
+    "id": "divulge",
+    "pos": "v",
+    "definition": "To make known or reveal information that was previously private or secret.",
+    "example": "The whistleblower agreed to divulge the company's internal records to the investigative journalists.",
+    "synonyms": ["disclose", "reveal", "impart", "expose"],
+    "mnemonic": "DI + VULGE (common, vulgar) — make something known to the common people; bring it into public view.",
+    "confusableNote": ""
+  },
+  {
+    "id": "doctrinaire",
+    "pos": "adj",
+    "definition": "Rigidly committed to a doctrine or theory without regard for practical considerations.",
+    "example": "The doctrinaire economist refused to adjust his free-market prescriptions even when evidence showed they were failing.",
+    "synonyms": ["dogmatic", "rigid", "inflexible", "ideological"],
+    "mnemonic": "DOCTRINE + AIRE — an 'air' of absolute devotion to doctrine, no flexibility allowed.",
+    "confusableNote": "Do not confuse with 'doctrinal' (simply relating to a doctrine) — doctrinaire carries the negative sense of blind, inflexible adherence."
+  },
+  {
+    "id": "dogmatic",
+    "pos": "adj",
+    "definition": "Asserting opinions, beliefs, or principles as unquestionably true, without tolerance for doubt or dissent.",
+    "example": "Her dogmatic insistence on a single methodology alienated colleagues who saw value in alternative approaches.",
+    "synonyms": ["doctrinaire", "authoritarian", "opinionated", "categorical"],
+    "mnemonic": "DOG — a stubborn dog refuses to budge; dogmatic thinkers refuse to budge from their beliefs.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dutiful",
+    "pos": "adj",
+    "definition": "Conscientiously fulfilling one's obligations and responsibilities out of a sense of duty.",
+    "example": "The dutiful assistant arrived early every morning and stayed late without being asked.",
+    "synonyms": ["conscientious", "obedient", "compliant", "diligent"],
+    "mnemonic": "DUTY + FUL — full of duty; carries every obligation to completion.",
+    "confusableNote": ""
+  },
+  {
+    "id": "eccentric",
+    "pos": "adj",
+    "definition": "Departing from conventional norms in behavior or outlook in an odd or whimsical way.",
+    "example": "The eccentric inventor wore a cape to every faculty meeting and kept a live parrot on his shoulder.",
+    "synonyms": ["quirky", "idiosyncratic", "unconventional", "outlandish"],
+    "mnemonic": "EC (out) + CENTER — off-center from the norm, spinning in a different orbit.",
+    "confusableNote": ""
+  },
+  {
+    "id": "edify",
+    "pos": "v",
+    "definition": "To instruct or improve someone morally, intellectually, or spiritually.",
+    "example": "The documentary was designed to edify viewers about the hidden causes of the financial crisis.",
+    "synonyms": ["enlighten", "instruct", "illuminate", "uplift"],
+    "mnemonic": "EDI + FY — like 'edifice' (building), you build up a person's mind and character.",
+    "confusableNote": "Do not confuse with 'edify' vs 'gratify' — edify means to morally/intellectually improve, not merely to please."
+  },
+  {
+    "id": "effrontery",
+    "pos": "n",
+    "definition": "Shameless boldness or brazen impudence; audacious disregard for propriety.",
+    "example": "He had the effrontery to demand a raise on the very day he was caught falsifying expense reports.",
+    "synonyms": ["audacity", "impudence", "insolence", "temerity"],
+    "mnemonic": "EF + FRONT — putting your worst 'front' forward shamelessly, with no blush of embarrassment.",
+    "confusableNote": ""
+  },
+  {
+    "id": "egregious",
+    "pos": "adj",
+    "definition": "Outstandingly bad or shocking; conspicuously and offensively extreme.",
+    "example": "The judge called the attorney's misconduct egregious and held him in contempt of court.",
+    "synonyms": ["flagrant", "glaring", "heinous", "gross"],
+    "mnemonic": "E + GREG (flock) — so bad it stands out from the entire flock, unmistakably conspicuous.",
+    "confusableNote": ""
+  },
+  {
+    "id": "elicit",
+    "pos": "v",
+    "definition": "To draw out or evoke a response, reaction, or information from someone or something.",
+    "example": "The therapist's careful questioning elicited memories the patient had suppressed for years.",
+    "synonyms": ["evoke", "extract", "draw out", "provoke"],
+    "mnemonic": "E + LICIT — to legally (licitly) pull something out into the open.",
+    "confusableNote": "Do not confuse with 'illicit' (illegal or forbidden) — elicit is a verb meaning to draw out; illicit is an adjective."
+  },
+  {
+    "id": "elusive",
+    "pos": "adj",
+    "definition": "Difficult to find, define, capture, or grasp; tending to evade pursuit or understanding.",
+    "example": "True happiness proved elusive for the philosopher who had devoted his life to studying it.",
+    "synonyms": ["evasive", "slippery", "intangible", "fugitive"],
+    "mnemonic": "E + LUSIVE (elude) — always eluding your grasp, slipping away just as you reach.",
+    "confusableNote": "Do not confuse with 'allusive' (making indirect references) or 'illusive' (based on illusion)."
+  },
+  {
+    "id": "emulate",
+    "pos": "v",
+    "definition": "To imitate or strive to match or surpass someone admired, typically by copying their methods.",
+    "example": "Young athletes around the world emulate the training regimen of the legendary sprinter.",
+    "synonyms": ["imitate", "mimic", "replicate", "model after"],
+    "mnemonic": "EMU — an emu can't fly but tries to emulate birds that can; striving to match the ideal.",
+    "confusableNote": "Do not confuse with 'simulate' (to replicate without necessarily aspiring to match) — emulate implies admiration and competitive aspiration."
+  },
+  {
+    "id": "encroach",
+    "pos": "v",
+    "definition": "To intrude gradually on another's territory, rights, or domain beyond acceptable limits.",
+    "example": "Urban development began to encroach on the protected wetlands despite environmental regulations.",
+    "synonyms": ["intrude", "infringe", "trespass", "impinge"],
+    "mnemonic": "EN + CROAK — creeping like a frog into territory that isn't yours.",
+    "confusableNote": ""
+  },
+  {
+    "id": "enervate",
+    "pos": "v",
+    "definition": "To drain of vitality, strength, or vigor; to weaken physically or mentally.",
+    "example": "The oppressive tropical heat enervated the expedition team, forcing them to rest during midday hours.",
+    "synonyms": ["debilitate", "sap", "enfeeble", "devitalize"],
+    "mnemonic": "E + NERVE — remove the nerve/energy from someone, leaving them limp and weak.",
+    "confusableNote": "Do not confuse with 'energize' (to invigorate) — enervate is the opposite, meaning to drain energy."
+  },
+  {
+    "id": "entreat",
+    "pos": "v",
+    "definition": "To ask someone earnestly and urgently; to plead or implore.",
+    "example": "The refugees entreated border officials to allow them safe passage to the neighboring country.",
+    "synonyms": ["implore", "beseech", "plead", "supplicate"],
+    "mnemonic": "EN + TREAT — treat someone to an earnest appeal, giving your emotions fully to the request.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exacerbate",
+    "pos": "v",
+    "definition": "To make a problem, condition, or situation worse or more severe.",
+    "example": "The drought exacerbated the famine, turning a food shortage into a humanitarian catastrophe.",
+    "synonyms": ["aggravate", "worsen", "intensify", "inflame"],
+    "mnemonic": "EXACER(B) — sounds like 'exasperate'; both make bad things worse.",
+    "confusableNote": "Do not confuse with 'exasperate' (to irritate greatly) — exacerbate means to worsen a situation or condition, not just to annoy."
+  },
+  {
+    "id": "exculpate",
+    "pos": "v",
+    "definition": "To clear someone from blame or fault; to officially absolve of wrongdoing.",
+    "example": "New DNA evidence exculpated the prisoner who had spent twelve years behind bars for a crime he did not commit.",
+    "synonyms": ["absolve", "vindicate", "acquit", "exonerate"],
+    "mnemonic": "EX + CULPA (Latin: fault) — remove the fault, declare the person free of blame.",
+    "confusableNote": "Do not confuse with 'exonerate' — they are near-synonyms, but exculpate specifically removes culpability; exonerate also lifts a burden of obligation."
+  },
+  {
+    "id": "exhort",
+    "pos": "v",
+    "definition": "To strongly urge or encourage someone to take a particular action through earnest appeals.",
+    "example": "The coach exhorted his players to give their best effort in the final minutes of the championship game.",
+    "synonyms": ["urge", "implore", "press", "adjure"],
+    "mnemonic": "EX + HORT (garden) — cultivate action in others, pushing growth through persuasion.",
+    "confusableNote": "Do not confuse with 'extort' (to obtain by threats) — exhort relies on moral persuasion, not coercion."
+  },
+  {
+    "id": "exigent",
+    "pos": "adj",
+    "definition": "Requiring immediate attention or action due to pressing urgency; demanding and critical.",
+    "example": "The exigent circumstances of the flood left officials no time to convene a formal committee.",
+    "synonyms": ["urgent", "pressing", "critical", "compelling"],
+    "mnemonic": "EXIT + GENT — the urgency demands an exit right now; no time to wait.",
+    "confusableNote": "Do not confuse with 'exigent' vs 'stringent' (strict/demanding) — exigent stresses urgency; stringent stresses severity of standards."
+  },
+  {
+    "id": "exonerate",
+    "pos": "v",
+    "definition": "To officially free someone from blame, guilt, or a burdensome obligation.",
+    "example": "The court's ruling exonerated the company from any liability in the accident.",
+    "synonyms": ["absolve", "acquit", "vindicate", "exculpate"],
+    "mnemonic": "EX + ONUS (burden) — remove the burden/onus of blame from the accused.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exotic",
+    "pos": "adj",
+    "definition": "Strikingly unusual or strange because it originates from a distant or foreign place; unfamiliar and intriguing.",
+    "example": "The market was filled with exotic spices that locals had never seen before the trade routes opened.",
+    "synonyms": ["outlandish", "unfamiliar", "foreign", "peculiar"],
+    "mnemonic": "EXO (outside) — coming from outside the known world, strange and alluring.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exploitative",
+    "pos": "adj",
+    "definition": "Making use of a situation or person in an unfair, selfish, or immoral way for one's own gain.",
+    "example": "Labor advocates condemned the factory's exploitative practices, including unpaid overtime and unsafe conditions.",
+    "synonyms": ["predatory", "manipulative", "unscrupulous", "parasitic"],
+    "mnemonic": "EXPLOIT + ATIVE — turning people into resources purely for your own benefit.",
+    "confusableNote": ""
+  },
+  {
+    "id": "extemporize",
+    "pos": "v",
+    "definition": "To compose or perform something without preparation; to improvise on the spot.",
+    "example": "When the keynote speaker canceled, the host extemporized a forty-minute talk from memory.",
+    "synonyms": ["improvise", "ad-lib", "wing it", "extemporate"],
+    "mnemonic": "EX + TEMPORE (Latin: out of the moment) — speaking straight out of the present moment, no preparation.",
+    "confusableNote": ""
+  },
+  {
+    "id": "extenuating",
+    "pos": "adj",
+    "definition": "Making a wrongful act or offense seem less serious by providing partial justification or mitigating context.",
+    "example": "The judge considered the defendant's abusive childhood as an extenuating circumstance in sentencing.",
+    "synonyms": ["mitigating", "exculpatory", "palliating", "justifying"],
+    "mnemonic": "EXTENUAT(E) — extend mercy by thinning (attenuating) the severity of the fault.",
+    "confusableNote": "Do not confuse with 'exacerbating' (worsening) — extenuating circumstances lessen blame, not increase it."
+  },
+  {
+    "id": "fanciful",
+    "pos": "adj",
+    "definition": "Imaginative and inventive in an unrestrained, creative, or whimsical way; not based on reality.",
+    "example": "The architect's fanciful design featured towers shaped like giant seashells spiraling toward the sky.",
+    "synonyms": ["whimsical", "imaginative", "fantastical", "inventive"],
+    "mnemonic": "FANCY + FUL — full of fancy; the imagination runs freely without constraint.",
+    "confusableNote": "Do not confuse with 'fanciful' (creatively imaginative) and 'derivative' (imitative) — they are near-opposites in the originality sense."
+  },
+  {
+    "id": "fester",
+    "pos": "v",
+    "definition": "To become worse or more intense, especially through neglect; to cause continuing bitterness or resentment.",
+    "example": "The unresolved grievance festered for years until it finally erupted in a bitter public dispute.",
+    "synonyms": ["rankle", "smolder", "putrefy", "worsen"],
+    "mnemonic": "FESTER — a wound left unattended festers; hidden problems rot from within.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fickle",
+    "pos": "adj",
+    "definition": "Changing frequently and unpredictably in loyalty, affection, or opinion; not steadfast.",
+    "example": "The fickle voters who supported the reform movement in March had largely abandoned it by autumn.",
+    "synonyms": ["capricious", "inconstant", "mercurial", "vacillating"],
+    "mnemonic": "FICKLE rhymes with PICKLE — stuck in a changing brine, shifting flavor all the time.",
+    "confusableNote": ""
+  },
+  {
+    "id": "finicky",
+    "pos": "adj",
+    "definition": "Excessively particular about minor details; difficult to please due to excessive fussiness.",
+    "example": "The finicky editor returned the manuscript three times, each time finding new errors too trivial to mention.",
+    "synonyms": ["fastidious", "fussy", "meticulous", "persnickety"],
+    "mnemonic": "FINICKY — like a picky fin(ger), poking at every tiny flaw in search of perfection.",
+    "confusableNote": ""
+  }
+]

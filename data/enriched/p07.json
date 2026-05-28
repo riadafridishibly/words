@@ -1,0 +1,398 @@
+[
+  {
+    "id": "robust",
+    "pos": "adj",
+    "definition": "Strong, vigorous, and full of vitality; representing excellence or peak condition.",
+    "example": "The robust economy of the 1990s was the high point of post-war prosperity.",
+    "synonyms": ["vigorous", "stalwart", "sturdy", "flourishing"],
+    "mnemonic": "ROBUST = rooted like an OAK — strong, upright, at its peak.",
+    "confusableNote": ""
+  },
+  {
+    "id": "salutary",
+    "pos": "adj",
+    "definition": "Producing a beneficial or wholesome effect; promoting noble improvement.",
+    "example": "The mentor's salutary influence helped the young student develop admirable discipline and character.",
+    "synonyms": ["wholesome", "edifying", "beneficial", "curative"],
+    "mnemonic": "SALUTARY sounds like SALUTE — you salute something noble and good for you.",
+    "confusableNote": "Do not confuse with 'salutatory,' which means serving as a greeting, as in a salutatorian's speech."
+  },
+  {
+    "id": "venerate",
+    "pos": "v",
+    "definition": "To regard with deep respect and reverent admiration, especially due to age or virtue.",
+    "example": "Communities across the world venerate elders whose wisdom and integrity command genuine admiration.",
+    "synonyms": ["revere", "esteem", "adulate", "honor"],
+    "mnemonic": "VENERATE = VENERATe — think Venus, goddess admired above all others.",
+    "confusableNote": ""
+  },
+  {
+    "id": "zenith",
+    "pos": "n",
+    "definition": "The highest point of achievement, power, or excellence; the peak or pinnacle.",
+    "example": "At the zenith of her career, the scientist had published over two hundred groundbreaking papers.",
+    "synonyms": ["apex", "pinnacle", "acme", "culmination"],
+    "mnemonic": "ZENITH = Z is the last letter, the TOP of the alphabet — the highest point.",
+    "confusableNote": "Do not confuse with 'nadir,' its direct opposite meaning the lowest point."
+  },
+  {
+    "id": "abstruse",
+    "pos": "adj",
+    "definition": "Difficult to understand because of being obscure, complex, or highly technical.",
+    "example": "The philosopher's abstruse treatise baffled even the most seasoned scholars in the field.",
+    "synonyms": ["recondite", "esoteric", "cryptic", "arcane"],
+    "mnemonic": "ABSTRUSE — AB(normal) + TRUSE(d) — too obscure to be trusted as clear.",
+    "confusableNote": "Do not confuse with 'obtuse,' which means blunt or slow to understand."
+  },
+  {
+    "id": "accessible",
+    "pos": "adj",
+    "definition": "Easy to approach, comprehend, or use; clear and understandable to a broad audience.",
+    "example": "The professor's accessible writing style made quantum physics understandable to non-specialists.",
+    "synonyms": ["comprehensible", "lucid", "approachable", "intelligible"],
+    "mnemonic": "ACCESSIBLE = you can ACCESS it easily — the path to understanding is open.",
+    "confusableNote": ""
+  },
+  {
+    "id": "arcane",
+    "pos": "adj",
+    "definition": "Known or understood by only a few; mysterious and obscure to ordinary people.",
+    "example": "The alchemist's arcane formulas remained indecipherable to all but a handful of initiates.",
+    "synonyms": ["esoteric", "abstruse", "recondite", "cryptic"],
+    "mnemonic": "ARCANE = hidden in an ARC(hive) — sealed away, known only to a secret few.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ascertain",
+    "pos": "v",
+    "definition": "To find out or confirm something definitely through investigation or inquiry.",
+    "example": "The detective worked tirelessly to ascertain the true identity of the anonymous witness.",
+    "synonyms": ["determine", "verify", "establish", "confirm"],
+    "mnemonic": "ASCERTAIN = make it CERTAIN — you dig until you're sure.",
+    "confusableNote": ""
+  },
+  {
+    "id": "assertive",
+    "pos": "adj",
+    "definition": "Confidently and forcefully stating a position or claim; declaring with conviction.",
+    "example": "Her assertive testimony confirmed the suspect's alibi and settled the matter definitively.",
+    "synonyms": ["confident", "emphatic", "declarative", "affirmative"],
+    "mnemonic": "ASSERTIVE = ASSERTing a claim boldly — not shy, not quiet, CERTAIN.",
+    "confusableNote": "Do not confuse with 'aggressive,' which implies hostility rather than confident clarity."
+  },
+  {
+    "id": "astute",
+    "pos": "adj",
+    "definition": "Having sharp judgment and keen insight; perceptive and shrewd in practical matters.",
+    "example": "The astute analyst spotted the flaw in the financial model that her colleagues had overlooked.",
+    "synonyms": ["shrewd", "perspicacious", "sagacious", "discerning"],
+    "mnemonic": "ASTUTE — think 'A SLEUTH' — sharp enough to detect what others miss.",
+    "confusableNote": ""
+  },
+  {
+    "id": "befuddled",
+    "pos": "adj",
+    "definition": "Completely confused and unable to think clearly; bewildered and disoriented.",
+    "example": "The student sat befuddled after reading the dense legal jargon for the third time.",
+    "synonyms": ["perplexed", "muddled", "baffled", "confounded"],
+    "mnemonic": "BEFUDDLED = BE + FUDDLED (like fuddled/muddled) — your mind is all muddled up.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bogus",
+    "pos": "adj",
+    "definition": "Not genuine; false, counterfeit, or fraudulently misrepresented.",
+    "example": "The investigator exposed the bogus charity that had collected millions under false pretenses.",
+    "synonyms": ["spurious", "counterfeit", "fraudulent", "specious"],
+    "mnemonic": "BOGUS = BOG you down with lies — it sinks you like a swamp of falsehood.",
+    "confusableNote": ""
+  },
+  {
+    "id": "byzantine",
+    "pos": "adj",
+    "definition": "Excessively intricate and labyrinthine in design; needlessly complicated and hard to follow.",
+    "example": "The byzantine tax code confused even experienced accountants who tried to navigate its provisions.",
+    "synonyms": ["labyrinthine", "convoluted", "tortuous", "intricate"],
+    "mnemonic": "BYZANTINE Empire = famously complex politics and intrigue — impossibly tangled.",
+    "confusableNote": ""
+  },
+  {
+    "id": "canny",
+    "pos": "adj",
+    "definition": "Shrewd and astute, especially in practical or financial matters; showing good judgment.",
+    "example": "The canny investor recognized that the market correction was an opportunity rather than a crisis.",
+    "synonyms": ["shrewd", "astute", "judicious", "sagacious"],
+    "mnemonic": "CANNY = CAN see what others can't — wise, sharp, and street-smart.",
+    "confusableNote": "Do not confuse with 'uncanny,' which means strange or mysterious."
+  },
+  {
+    "id": "cerebral",
+    "pos": "adj",
+    "definition": "Appealing to or involving the intellect rather than emotion; intellectually oriented.",
+    "example": "Her cerebral approach to problem-solving prioritized logical analysis over gut instinct.",
+    "synonyms": ["intellectual", "rational", "analytical", "logical"],
+    "mnemonic": "CEREBRAL = CEREBRUM (brain) — it's all happening in the thinking organ.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cogent",
+    "pos": "adj",
+    "definition": "Clear, logical, and convincing in argument; compelling in force of reasoning.",
+    "example": "The lawyer presented a cogent argument that swayed even the most skeptical members of the jury.",
+    "synonyms": ["compelling", "persuasive", "lucid", "incisive"],
+    "mnemonic": "COGENT = CO(herent) + AGENT — reasoning that acts on your mind forcefully.",
+    "confusableNote": ""
+  },
+  {
+    "id": "coherent",
+    "pos": "adj",
+    "definition": "Logically consistent and clearly articulated so that parts form a unified, intelligible whole.",
+    "example": "Despite the complexity of the data, the researcher presented a coherent and well-structured theory.",
+    "synonyms": ["consistent", "logical", "rational", "intelligible"],
+    "mnemonic": "COHERENT = CO (together) + HERE — all the parts stick together right here.",
+    "confusableNote": "Do not confuse with 'cohesive,' which emphasizes unity, while 'coherent' emphasizes logical clarity."
+  },
+  {
+    "id": "conclusive",
+    "pos": "adj",
+    "definition": "Providing definitive proof that settles a question or dispute beyond reasonable doubt.",
+    "example": "The DNA evidence was conclusive, leaving no room for the defense to challenge the verdict.",
+    "synonyms": ["definitive", "decisive", "incontrovertible", "irrefutable"],
+    "mnemonic": "CONCLUSIVE = brings you to a CONCLUSION — the argument is closed, done, settled.",
+    "confusableNote": ""
+  },
+  {
+    "id": "confound",
+    "pos": "v",
+    "definition": "To cause confusion or bewilderment; to perplex someone by being difficult to understand.",
+    "example": "The unexpected experimental results confounded the scientists, who could find no ready explanation.",
+    "synonyms": ["perplex", "baffle", "bewilder", "flummox"],
+    "mnemonic": "CONFOUND = CON (against) + FOUND — your understanding can't be found.",
+    "confusableNote": "Do not confuse with 'confute,' which means to disprove an argument definitively."
+  },
+  {
+    "id": "convoluted",
+    "pos": "adj",
+    "definition": "Extremely complex and difficult to follow; intricately twisted or entangled in reasoning.",
+    "example": "The novel's convoluted plot made it nearly impossible to track which character held each secret.",
+    "synonyms": ["byzantine", "labyrinthine", "tortuous", "abstruse"],
+    "mnemonic": "CONVOLUTED = CONVOLuted — like a COIL wound so many times you can't find the end.",
+    "confusableNote": ""
+  },
+  {
+    "id": "corroborate",
+    "pos": "v",
+    "definition": "To confirm or support a statement, theory, or finding with additional evidence.",
+    "example": "Three independent witnesses corroborated the defendant's account of where he had been that evening.",
+    "synonyms": ["substantiate", "validate", "authenticate", "verify"],
+    "mnemonic": "CORROBORATE = ROBUST evidence added (COR-ROBUST-ate) — making the claim stronger.",
+    "confusableNote": ""
+  },
+  {
+    "id": "counterfeit",
+    "pos": "adj",
+    "definition": "Made in fraudulent imitation of something genuine; not authentic or real.",
+    "example": "Customs agents seized thousands of counterfeit handbags bearing forged designer labels.",
+    "synonyms": ["spurious", "bogus", "fraudulent", "ersatz"],
+    "mnemonic": "COUNTERFEIT = COUNTER + FAIT (done) — a counter-done copy, a fake substitute.",
+    "confusableNote": ""
+  },
+  {
+    "id": "credible",
+    "pos": "adj",
+    "definition": "Capable of being believed or trusted; convincingly realistic and worthy of confidence.",
+    "example": "The witness's calm, consistent testimony made her account the most credible in the trial.",
+    "synonyms": ["plausible", "reliable", "trustworthy", "convincing"],
+    "mnemonic": "CREDIBLE = CRED — something with credibility you can bank on.",
+    "confusableNote": "Do not confuse with 'credulous,' which means too ready to believe things."
+  },
+  {
+    "id": "debunk",
+    "pos": "v",
+    "definition": "To expose the falseness or exaggerated claims of a myth, belief, or idea.",
+    "example": "The documentary effectively debunked the widespread myth that humans use only ten percent of their brains.",
+    "synonyms": ["refute", "disprove", "expose", "invalidate"],
+    "mnemonic": "DEBUNK = remove the BUNK (nonsense) — clear out the false claims.",
+    "confusableNote": ""
+  },
+  {
+    "id": "decipher",
+    "pos": "v",
+    "definition": "To succeed in understanding or interpreting something that was obscure or encoded.",
+    "example": "Scholars spent decades trying to decipher the ancient script found on the cave walls.",
+    "synonyms": ["decode", "interpret", "unravel", "elucidate"],
+    "mnemonic": "DECIPHER = DE (undo) + CIPHER (code) — crack open the coded mystery.",
+    "confusableNote": ""
+  },
+  {
+    "id": "discernible",
+    "pos": "adj",
+    "definition": "Able to be recognized or understood; perceptible to the senses or intellect.",
+    "example": "After months of tutoring, a discernible improvement in the student's reasoning was finally evident.",
+    "synonyms": ["perceptible", "detectable", "apparent", "intelligible"],
+    "mnemonic": "DISCERNIBLE = DISCERN + IBLE — if you can discern it, it's clear enough to notice.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dubious",
+    "pos": "adj",
+    "definition": "Hesitantly doubtful; of questionable truth, quality, or legitimacy.",
+    "example": "The researcher raised dubious objections that his colleagues immediately recognized as unfounded.",
+    "synonyms": ["questionable", "suspect", "spurious", "equivocal"],
+    "mnemonic": "DUBIOUS = DUBiOUS — two (duo) minds about whether it's true.",
+    "confusableNote": "Do not confuse with 'dubitable,' a rarer synonym; 'indubitable' is its opposite, meaning unquestionable."
+  },
+  {
+    "id": "elucidate",
+    "pos": "v",
+    "definition": "To make something clear or easy to understand by explaining or illustrating it.",
+    "example": "The professor used vivid diagrams to elucidate the otherwise abstract principles of thermodynamics.",
+    "synonyms": ["clarify", "illuminate", "explicate", "expound"],
+    "mnemonic": "ELUCIDATE = e-LUCID-ate — bring LUCIDITY (clarity) to something murky.",
+    "confusableNote": ""
+  },
+  {
+    "id": "enigmatic",
+    "pos": "adj",
+    "definition": "Difficult to interpret or understand; mysterious and puzzling in character or appearance.",
+    "example": "The Mona Lisa's enigmatic smile has inspired centuries of speculation about its true meaning.",
+    "synonyms": ["cryptic", "inscrutable", "mysterious", "abstruse"],
+    "mnemonic": "ENIGMATIC = ENIGMA + TIC — puzzles keep ticking away without a solution.",
+    "confusableNote": ""
+  },
+  {
+    "id": "explicable",
+    "pos": "adj",
+    "definition": "Capable of being accounted for or explained in understandable terms.",
+    "example": "The scientist argued that all seemingly supernatural events were ultimately explicable through natural laws.",
+    "synonyms": ["interpretable", "comprehensible", "accountable", "intelligible"],
+    "mnemonic": "EXPLICABLE = EXPLAIN + ABLE — it CAN be explained, made plain.",
+    "confusableNote": "Do not confuse with 'inexplicable,' its opposite, meaning impossible to explain."
+  },
+  {
+    "id": "fallacious",
+    "pos": "adj",
+    "definition": "Based on a mistaken belief or unsound reasoning; logically misleading or deceptive.",
+    "example": "The senator's fallacious claim that crime had risen was quickly disproved by official statistics.",
+    "synonyms": ["erroneous", "specious", "spurious", "sophistic"],
+    "mnemonic": "FALLACIOUS = FALLACY + OUS — full of logical falls and stumbles.",
+    "confusableNote": "Do not confuse with 'fallible,' which means capable of error, not necessarily deceptive."
+  },
+  {
+    "id": "fallible",
+    "pos": "adj",
+    "definition": "Capable of making errors or being wrong; not perfectly reliable or infallible.",
+    "example": "Even the most experienced judges are fallible, which is why appellate courts exist.",
+    "synonyms": ["errant", "imperfect", "unreliable", "flawed"],
+    "mnemonic": "FALLIBLE = prone to FALL — can stumble and make mistakes.",
+    "confusableNote": "Do not confuse with 'fallacious,' which means based on false reasoning rather than merely prone to error."
+  },
+  {
+    "id": "fathom",
+    "pos": "v",
+    "definition": "To grasp the full meaning or depth of something difficult or complex.",
+    "example": "Many students struggle to fathom the implications of Gödel's incompleteness theorems.",
+    "synonyms": ["comprehend", "grasp", "penetrate", "plumb"],
+    "mnemonic": "FATHOM = measure the DEPTH (a fathom is 6 feet deep) — get to the bottom of it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "flummoxed",
+    "pos": "adj",
+    "definition": "Completely bewildered and at a loss; utterly perplexed and unable to proceed.",
+    "example": "The engineer was flummoxed when the prototype failed despite every calculation being correct.",
+    "synonyms": ["baffled", "confounded", "perplexed", "befuddled"],
+    "mnemonic": "FLUMMOXED = sounds like FLUM(ped) + FOXED — tricked and knocked down flat.",
+    "confusableNote": ""
+  },
+  {
+    "id": "gainsay",
+    "pos": "v",
+    "definition": "To deny or contradict; to speak against or oppose a claim.",
+    "example": "No one could gainsay the evidence presented by the prosecution — it was overwhelming.",
+    "synonyms": ["contradict", "deny", "refute", "dispute"],
+    "mnemonic": "GAINSAY = GAIN + SAY — you SAY something AGAINST a claim to gain the upper hand.",
+    "confusableNote": ""
+  },
+  {
+    "id": "illusory",
+    "pos": "adj",
+    "definition": "Based on illusion; not real but deceptively appearing to be true or valid.",
+    "example": "The economic boom proved illusory, collapsing within months under the weight of debt.",
+    "synonyms": ["deceptive", "chimerical", "specious", "spurious"],
+    "mnemonic": "ILLUSORY = ILLUSION + ORY — full of illusions, nothing solid underneath.",
+    "confusableNote": "Do not confuse with 'illusionary,' a synonym, or 'illusive,' which is slightly narrower in meaning."
+  },
+  {
+    "id": "impenetrable",
+    "pos": "adj",
+    "definition": "Impossible to understand or comprehend; too dense or obscure to penetrate mentally.",
+    "example": "The legal contract was so impenetrable that even lawyers required hours to interpret its clauses.",
+    "synonyms": ["inscrutable", "incomprehensible", "opaque", "abstruse"],
+    "mnemonic": "IMPENETRABLE = IM (not) + PENETRATE — your mind simply cannot get through.",
+    "confusableNote": ""
+  },
+  {
+    "id": "impugn",
+    "pos": "v",
+    "definition": "To dispute the truth, validity, or honesty of something; to call into question.",
+    "example": "Defense counsel sought to impugn the credibility of the star witness through cross-examination.",
+    "synonyms": ["challenge", "gainsay", "refute", "dispute"],
+    "mnemonic": "IMPUGN = IM-PUGN — like punching (pugnacious) a claim to knock it down.",
+    "confusableNote": ""
+  },
+  {
+    "id": "incontrovertible",
+    "pos": "adj",
+    "definition": "Not able to be denied or disputed; indisputably true and beyond challenge.",
+    "example": "The fingerprints provided incontrovertible proof that the defendant had been at the crime scene.",
+    "synonyms": ["irrefutable", "indisputable", "undeniable", "conclusive"],
+    "mnemonic": "INCONTROVERTIBLE = IN (not) + CONTROVERT (dispute) — impossible to argue against.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inscrutable",
+    "pos": "adj",
+    "definition": "Impossible to understand or interpret; giving no clues to one's thoughts or meaning.",
+    "example": "The judge's inscrutable expression gave the attorneys no hint of how she would rule.",
+    "synonyms": ["enigmatic", "impenetrable", "cryptic", "unfathomable"],
+    "mnemonic": "INSCRUTABLE = IN (not) + SCRUTE (scrutinize) — can't examine or read it at all.",
+    "confusableNote": ""
+  },
+  {
+    "id": "intelligible",
+    "pos": "adj",
+    "definition": "Able to be understood; expressed clearly enough to be comprehended.",
+    "example": "The translator's goal was to produce an intelligible version of the ancient text for modern readers.",
+    "synonyms": ["comprehensible", "lucid", "coherent", "discernible"],
+    "mnemonic": "INTELLIGIBLE = INTELLECT + IBLE — readable by the intellect, clear to the mind.",
+    "confusableNote": "Do not confuse with 'intelligent,' which describes mental capacity rather than clarity of expression."
+  },
+  {
+    "id": "ironclad",
+    "pos": "adj",
+    "definition": "So strong or certain as to be impossible to weaken, dispute, or break.",
+    "example": "The prosecution presented an ironclad alibi that completely cleared the suspect of any wrongdoing.",
+    "synonyms": ["airtight", "incontrovertible", "unassailable", "conclusive"],
+    "mnemonic": "IRONCLAD = clad in IRON armor — impervious to any attack or challenge.",
+    "confusableNote": ""
+  },
+  {
+    "id": "judicious",
+    "pos": "adj",
+    "definition": "Having or showing sound judgment and wisdom, especially in practical affairs.",
+    "example": "A judicious allocation of resources allowed the nonprofit to serve three times as many clients.",
+    "synonyms": ["prudent", "sagacious", "astute", "discerning"],
+    "mnemonic": "JUDICIOUS = JUDGE + ICIOUS — like a fair, wise judge making the right call.",
+    "confusableNote": "Do not confuse with 'judicial,' which pertains to courts of law, not personal wisdom."
+  },
+  {
+    "id": "limpid",
+    "pos": "adj",
+    "definition": "Completely clear and easy to understand; transparent and unclouded in expression.",
+    "example": "Her limpid prose made even the most difficult philosophical concepts seem effortlessly clear.",
+    "synonyms": ["lucid", "pellucid", "transparent", "perspicuous"],
+    "mnemonic": "LIMPID = like a LIMPING stream — slow, clear, and transparent all the way to the bottom.",
+    "confusableNote": "Do not confuse with 'limp,' meaning weak or flaccid; 'limpid' means crystal-clear."
+  }
+]

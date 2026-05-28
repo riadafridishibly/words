@@ -1,0 +1,398 @@
+[
+  {
+    "id": "woeful",
+    "pos": "adj",
+    "definition": "Marked by deep sorrow, misery, or wretchedness.",
+    "example": "The refugees' woeful expressions revealed the hardships they had endured during their long journey.",
+    "synonyms": ["doleful", "plaintive", "lugubrious", "disconsolate"],
+    "mnemonic": "WOE + ful — full of woe, full of grief.",
+    "confusableNote": ""
+  },
+  {
+    "id": "zealous",
+    "pos": "adj",
+    "definition": "Filled with intense enthusiasm and eagerness in pursuit of a cause or goal.",
+    "example": "The zealous activist spent every weekend canvassing neighborhoods for her environmental campaign.",
+    "synonyms": ["fervent", "ardent", "impassioned", "avid"],
+    "mnemonic": "ZEAL + ous — a person bursting with zeal, like a flame.",
+    "confusableNote": "zealous vs. jealous — zealous means fervent/enthusiastic; jealous means envious or protective."
+  },
+  {
+    "id": "acquisitive",
+    "pos": "adj",
+    "definition": "Excessively eager to acquire and possess material things or wealth.",
+    "example": "The acquisitive billionaire continued buying companies long after he could ever spend his fortune.",
+    "synonyms": ["avaricious", "covetous", "grasping", "rapacious"],
+    "mnemonic": "ACQUIRE + itive — always driven to acquire more and more.",
+    "confusableNote": ""
+  },
+  {
+    "id": "affluent",
+    "pos": "adj",
+    "definition": "Having an abundance of wealth, property, or other material goods; prosperous.",
+    "example": "The affluent suburb boasted private schools, country clubs, and manicured estates.",
+    "synonyms": ["prosperous", "opulent", "wealthy", "moneyed"],
+    "mnemonic": "AFFLUENT sounds like 'a-flowing' — wealth flowing freely.",
+    "confusableNote": "affluent vs. effluent — affluent means wealthy; effluent means waste flowing out (sewage)."
+  },
+  {
+    "id": "avaricious",
+    "pos": "adj",
+    "definition": "Driven by an extreme and insatiable craving for wealth or gain.",
+    "example": "The avaricious landlord raised rents every year despite the tenants' pleas.",
+    "synonyms": ["acquisitive", "covetous", "mercenary", "grasping"],
+    "mnemonic": "AVAR — think 'avid for revenue'; insatiable hunger for money.",
+    "confusableNote": ""
+  },
+  {
+    "id": "boon",
+    "pos": "n",
+    "definition": "A highly beneficial gift, blessing, or advantage that provides great benefit.",
+    "example": "The new irrigation system proved a boon to farmers in the drought-stricken region.",
+    "synonyms": ["windfall", "godsend", "benefaction", "bounty"],
+    "mnemonic": "BOON rhymes with 'moon' — a lucky gift shining down on you.",
+    "confusableNote": ""
+  },
+  {
+    "id": "covet",
+    "pos": "v",
+    "definition": "To yearn to possess something belonging to another, especially with envy.",
+    "example": "He openly coveted his colleague's corner office and prestigious client list.",
+    "synonyms": ["crave", "begrudge", "envy", "desire"],
+    "mnemonic": "COVET — hidden in 'cover'; you want to cover what is theirs with your own hands.",
+    "confusableNote": ""
+  },
+  {
+    "id": "largesse",
+    "pos": "n",
+    "definition": "Generous and liberal giving of money or gifts, often by someone of wealth or power.",
+    "example": "The philanthropist's largesse funded new wings at both the hospital and the art museum.",
+    "synonyms": ["munificence", "beneficence", "bounty", "generosity"],
+    "mnemonic": "LARGE + sse — large-scale giving, grand in size and spirit.",
+    "confusableNote": ""
+  },
+  {
+    "id": "lucrative",
+    "pos": "adj",
+    "definition": "Producing a great deal of profit or financial gain.",
+    "example": "She turned her hobby into a lucrative business, earning six figures within two years.",
+    "synonyms": ["profitable", "remunerative", "gainful", "productive"],
+    "mnemonic": "LUCR — from Latin 'lucrum' (gain); think 'lucre' = money.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mercenary",
+    "pos": "adj",
+    "definition": "Primarily motivated by personal financial gain rather than ethics or loyalty.",
+    "example": "Critics accused the consultant of giving mercenary advice designed to maximize his fees, not the client's welfare.",
+    "synonyms": ["venal", "acquisitive", "avaricious", "self-serving"],
+    "mnemonic": "MERCENARY — a soldier-for-hire; works only for money, not loyalty.",
+    "confusableNote": ""
+  },
+  {
+    "id": "miserly",
+    "pos": "adj",
+    "definition": "Reluctant to spend money; extremely stingy and unwilling to part with possessions.",
+    "example": "The miserly executive refused to turn on the office heat even during the coldest winter months.",
+    "synonyms": ["parsimonious", "penurious", "niggardly", "stinting"],
+    "mnemonic": "MISER + ly — like a miser, hoarding every coin in a dark room.",
+    "confusableNote": ""
+  },
+  {
+    "id": "opportunistic",
+    "pos": "adj",
+    "definition": "Exploiting circumstances for personal gain with little regard for principles or others.",
+    "example": "The opportunistic investor swooped in to buy distressed properties the moment the market crashed.",
+    "synonyms": ["self-serving", "expedient", "exploitative", "calculating"],
+    "mnemonic": "OPPORTUNITY + istic — always hunting for the next opportunity to grab advantage.",
+    "confusableNote": ""
+  },
+  {
+    "id": "parsimonious",
+    "pos": "adj",
+    "definition": "Excessively reluctant to spend money or use resources; extremely frugal to a fault.",
+    "example": "His parsimonious nature led him to reuse tea bags and mend worn-out socks rather than buy new ones.",
+    "synonyms": ["miserly", "penurious", "niggardly", "stinting"],
+    "mnemonic": "PARSIMONY — parse every penny; spend as little as possible.",
+    "confusableNote": ""
+  },
+  {
+    "id": "penurious",
+    "pos": "adj",
+    "definition": "Extremely unwilling to spend; excessively tight-fisted and miserly.",
+    "example": "The penurious landlord refused to repair leaking pipes, citing the cost as too great.",
+    "synonyms": ["parsimonious", "miserly", "niggardly", "avaricious"],
+    "mnemonic": "PENURY = extreme poverty/stinginess; penurious = acting as if always in penury.",
+    "confusableNote": "penurious vs. penury — penurious is the adjective; penury (the noun) means extreme poverty."
+  },
+  {
+    "id": "prodigal",
+    "pos": "adj",
+    "definition": "Recklessly extravagant; wastefully spending money or resources.",
+    "example": "The prodigal heir burned through his inheritance in a single decade of lavish parties and luxury travel.",
+    "synonyms": ["profligate", "spendthrift", "extravagant", "improvident"],
+    "mnemonic": "PRODIGAL — the Prodigal Son squandered his father's fortune on wild living.",
+    "confusableNote": ""
+  },
+  {
+    "id": "profligate",
+    "pos": "adj",
+    "definition": "Recklessly wasteful of money or resources, often combined with moral dissoluteness.",
+    "example": "The profligate celebrity squandered millions on mansions and parties before declaring bankruptcy.",
+    "synonyms": ["prodigal", "dissolute", "extravagant", "spendthrift"],
+    "mnemonic": "PRO + FLIGATE — 'flagrantly' wasting; profligately flagrant spending.",
+    "confusableNote": ""
+  },
+  {
+    "id": "rapacious",
+    "pos": "adj",
+    "definition": "Aggressively greedy; fiercely seizing wealth or resources at the expense of others.",
+    "example": "Rapacious logging companies stripped the forest bare, ignoring environmental regulations.",
+    "synonyms": ["predatory", "voracious", "avaricious", "grasping"],
+    "mnemonic": "RAPACIOUS — like a raptor; swoops down and snatches with predatory greed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "remuneration",
+    "pos": "n",
+    "definition": "Payment or compensation received for work or services rendered.",
+    "example": "The board approved a generous remuneration package including salary, bonuses, and stock options.",
+    "synonyms": ["compensation", "recompense", "emolument", "stipend"],
+    "mnemonic": "RE + MUNER — 'munus' (Latin: gift/payment) + ation; the repayment for labor.",
+    "confusableNote": "remuneration vs. renumeration — 'renumeration' is a common misspelling; the correct word is remuneration."
+  },
+  {
+    "id": "self-indulgent",
+    "pos": "adj",
+    "definition": "Allowing oneself excessive pleasure or gratification without restraint.",
+    "example": "His self-indulgent lifestyle—spa days, fine dining, and shopping sprees—left him perpetually in debt.",
+    "synonyms": ["sybaritic", "hedonistic", "intemperate", "profligate"],
+    "mnemonic": "SELF + INDULGE — surrendering entirely to every personal whim.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sinecure",
+    "pos": "n",
+    "definition": "A paid position requiring little or no actual work or responsibility.",
+    "example": "The ambassador's nephew was given a sinecure at the embassy, drawing a full salary for minimal duties.",
+    "synonyms": ["cushy post", "no-show job", "soft berth", "plum position"],
+    "mnemonic": "SINE CURE — Latin 'sine cura' = without care/responsibility; a job with no worry.",
+    "confusableNote": ""
+  },
+  {
+    "id": "spendthrift",
+    "pos": "n",
+    "definition": "A person who spends money recklessly and wastefully.",
+    "example": "Known as a spendthrift, she had maxed out four credit cards before reaching thirty.",
+    "synonyms": ["profligate", "squanderer", "wastrel", "prodigal"],
+    "mnemonic": "SPEND + THRIFT — the opposite of thrift; spending with no thriftiness at all.",
+    "confusableNote": ""
+  },
+  {
+    "id": "squander",
+    "pos": "v",
+    "definition": "To waste money, time, or resources in a reckless or foolish manner.",
+    "example": "He squandered his scholarship by skipping classes and failing to submit assignments.",
+    "synonyms": ["dissipate", "fritter", "waste", "lavish"],
+    "mnemonic": "SQUANDER — sounds like 'scatter and wander'; resources scattered and lost.",
+    "confusableNote": ""
+  },
+  {
+    "id": "stinting",
+    "pos": "adj",
+    "definition": "Giving or spending very sparingly; unwilling to be generous.",
+    "example": "The stinting host served tiny portions and watered-down drinks at the dinner party.",
+    "synonyms": ["niggardly", "parsimonious", "miserly", "grudging"],
+    "mnemonic": "STINT — to limit severely; stinting = always limiting what one gives.",
+    "confusableNote": ""
+  },
+  {
+    "id": "acumen",
+    "pos": "n",
+    "definition": "Keen practical insight and sharp judgment, especially in a particular field.",
+    "example": "Her financial acumen allowed the startup to turn a profit within its first year.",
+    "synonyms": ["astuteness", "shrewdness", "perspicacity", "discernment"],
+    "mnemonic": "ACUMEN — 'acute' + men; acutely sharp mental faculties.",
+    "confusableNote": ""
+  },
+  {
+    "id": "adept",
+    "pos": "adj",
+    "definition": "Highly skilled or proficient at a particular activity.",
+    "example": "She is adept at negotiating contracts, often securing terms no one else could achieve.",
+    "synonyms": ["proficient", "skilled", "dexterous", "accomplished"],
+    "mnemonic": "ADEPT — 'a depth' of skill; deeply capable.",
+    "confusableNote": "adept vs. apt — adept implies developed expertise; apt means naturally suited or appropriate."
+  },
+  {
+    "id": "adroit",
+    "pos": "adj",
+    "definition": "Clever and skillful in handling difficult situations or tasks, physically or mentally.",
+    "example": "The adroit diplomat defused the tense standoff with carefully chosen words and precise timing.",
+    "synonyms": ["dexterous", "deft", "nimble", "ingenious"],
+    "mnemonic": "ADROIT — from French 'droit' (right/skillful); to use one's right hand with skill.",
+    "confusableNote": ""
+  },
+  {
+    "id": "callow",
+    "pos": "adj",
+    "definition": "Inexperienced and immature; lacking the sophistication that comes with age and practice.",
+    "example": "The callow intern made bold pronouncements about strategy without understanding the industry's complexities.",
+    "synonyms": ["naive", "jejune", "fledgling", "unseasoned"],
+    "mnemonic": "CALLOW — like a chick with no feathers yet; unformed and immature.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cogitate",
+    "pos": "v",
+    "definition": "To think deeply and carefully about something; to meditate or ponder.",
+    "example": "The philosopher would cogitate for hours before committing a single idea to paper.",
+    "synonyms": ["ruminate", "deliberate", "muse", "ponder"],
+    "mnemonic": "COGITATE — COGITO (Latin: I think); to engage in deep thought.",
+    "confusableNote": ""
+  },
+  {
+    "id": "competent",
+    "pos": "adj",
+    "definition": "Having sufficient skill or knowledge to perform a task adequately.",
+    "example": "The team needed at least a competent programmer who could ship reliable code on deadline.",
+    "synonyms": ["capable", "proficient", "adept", "qualified"],
+    "mnemonic": "COMPETE + nt — able to compete; possessing what it takes.",
+    "confusableNote": ""
+  },
+  {
+    "id": "connoisseur",
+    "pos": "n",
+    "definition": "An expert with refined taste and deep knowledge, especially in art, food, or wine.",
+    "example": "A connoisseur of Renaissance painting, she immediately spotted the forgery by its anachronistic pigment.",
+    "synonyms": ["authority", "maven", "cognoscente", "virtuoso"],
+    "mnemonic": "CONNOISSEUR — 'connaître' (French: to know); one who truly knows their subject.",
+    "confusableNote": ""
+  },
+  {
+    "id": "contemplate",
+    "pos": "v",
+    "definition": "To think carefully and at length about something; to consider thoughtfully.",
+    "example": "She sat on the cliff's edge, contemplating the difficult choice that lay ahead of her.",
+    "synonyms": ["ponder", "deliberate", "muse", "ruminate"],
+    "mnemonic": "CON + TEMPLE — anciently, priests went to the temple to contemplate the divine.",
+    "confusableNote": ""
+  },
+  {
+    "id": "deft",
+    "pos": "adj",
+    "definition": "Neatly skillful and quick in movement or action; nimble and adroit.",
+    "example": "With deft fingers, the surgeon tied sutures so fine they were nearly invisible.",
+    "synonyms": ["nimble", "adroit", "dexterous", "proficient"],
+    "mnemonic": "DEFT — sounds like 'swift and soft'; quick and light-handed.",
+    "confusableNote": "deft vs. daft — deft means skillful; daft means silly or foolish."
+  },
+  {
+    "id": "dexterous",
+    "pos": "adj",
+    "definition": "Showing skill and ease especially in the use of one's hands; mentally agile.",
+    "example": "The dexterous craftsman carved intricate patterns into the wood with effortless precision.",
+    "synonyms": ["adroit", "deft", "nimble", "skillful"],
+    "mnemonic": "DEXTER — Latin for 'right hand'; the dexterous person uses their skills like a right hand.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dilettante",
+    "pos": "n",
+    "definition": "A person who dabbles in a subject superficially without serious study or commitment.",
+    "example": "Critics dismissed him as a dilettante who painted for compliments but never mastered the fundamentals.",
+    "synonyms": ["amateur", "dabbler", "trifler", "novice"],
+    "mnemonic": "DILETTANTE — 'delights in' many things; delight without depth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "efficacious",
+    "pos": "adj",
+    "definition": "Successful in producing the intended or desired result; effective.",
+    "example": "The new vaccine proved efficacious in trials, reducing infection rates by over ninety percent.",
+    "synonyms": ["effectual", "potent", "productive", "operative"],
+    "mnemonic": "EFFICACIOUS — EFFICACY + ous; full of efficacy, fully effective.",
+    "confusableNote": "efficacious vs. efficient — efficacious means it works (produces the result); efficient means it works without wasting resources."
+  },
+  {
+    "id": "encyclopedic",
+    "pos": "adj",
+    "definition": "Covering or exhibiting a wide range of information; comprehensive in knowledge.",
+    "example": "Her encyclopedic knowledge of botany allowed her to identify every plant in the forest by genus.",
+    "synonyms": ["comprehensive", "all-encompassing", "erudite", "polymath"],
+    "mnemonic": "ENCYCLOPEDIA — like a walking encyclopedia; knows something about everything.",
+    "confusableNote": ""
+  },
+  {
+    "id": "erudite",
+    "pos": "adj",
+    "definition": "Having or showing great knowledge acquired through extensive reading and study.",
+    "example": "The erudite professor peppered her lectures with references ranging from Aristotle to Zhuangzi.",
+    "synonyms": ["learned", "scholarly", "lettered", "encyclopedic"],
+    "mnemonic": "ERUDITE — 'e-rude' reversed; un-rough; polished by learning.",
+    "confusableNote": ""
+  },
+  {
+    "id": "facility",
+    "pos": "n",
+    "definition": "An exceptional natural ability to do something with ease and fluency.",
+    "example": "She had a remarkable facility for languages, becoming conversational in Japanese within six months.",
+    "synonyms": ["aptitude", "fluency", "dexterity", "proficiency"],
+    "mnemonic": "FACILE + ity — facile means easy; facility = natural ease in doing something.",
+    "confusableNote": "facility (ability sense) vs. facility (building sense) — on the GRE, facility often means ease/skill, not a physical building."
+  },
+  {
+    "id": "feckless",
+    "pos": "adj",
+    "definition": "Lacking initiative, drive, or responsibility; ineffective and irresponsible.",
+    "example": "The feckless committee member never completed assignments and missed half of the scheduled meetings.",
+    "synonyms": ["ineffectual", "incompetent", "irresponsible", "shiftless"],
+    "mnemonic": "FECK (effect) + LESS — without effect; producing nothing of value.",
+    "confusableNote": ""
+  },
+  {
+    "id": "foolhardy",
+    "pos": "adj",
+    "definition": "Recklessly bold or rash; taking unnecessary risks without good judgment.",
+    "example": "It was foolhardy to attempt the mountain climb in a snowstorm without proper equipment.",
+    "synonyms": ["reckless", "rash", "impetuous", "audacious"],
+    "mnemonic": "FOOL + HARDY — only a fool would be hardy (bold) in that situation.",
+    "confusableNote": "foolhardy vs. bold — bold implies courage with judgment; foolhardy implies bravery without sense."
+  },
+  {
+    "id": "gullible",
+    "pos": "adj",
+    "definition": "Easily deceived or cheated due to excessive trust and naivety.",
+    "example": "The gullible investor handed over his savings after a single phone call from the fraudster.",
+    "synonyms": ["credulous", "naive", "unsuspecting", "ingenuous"],
+    "mnemonic": "GULL — a seabird easily lured; to 'gull' someone means to trick them.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inept",
+    "pos": "adj",
+    "definition": "Having or showing no skill; incompetent and clumsy in action.",
+    "example": "The inept carpenter's crooked shelves collapsed under the weight of a few books.",
+    "synonyms": ["incompetent", "maladroit", "bungling", "unskilled"],
+    "mnemonic": "IN + APT — not apt (not fit); entirely unsuited to the task.",
+    "confusableNote": "inept vs. inapt — inept stresses incompetence; inapt simply means not appropriate or suitable."
+  },
+  {
+    "id": "ingenious",
+    "pos": "adj",
+    "definition": "Remarkably clever, original, and inventive in design or solution.",
+    "example": "The engineer devised an ingenious pulley system that allowed one person to lift enormous loads.",
+    "synonyms": ["inventive", "clever", "resourceful", "cunning"],
+    "mnemonic": "INGENIOUS — like a genius; born of ingenuity and creative intelligence.",
+    "confusableNote": "ingenious vs. ingenuous — ingenious means cleverly inventive; ingenuous means innocent and candid."
+  },
+  {
+    "id": "inquisitive",
+    "pos": "adj",
+    "definition": "Eager to learn and know things; having a strong desire to investigate and inquire.",
+    "example": "The inquisitive child peppered the museum guide with questions about every exhibit they passed.",
+    "synonyms": ["curious", "inquiring", "probing", "searching"],
+    "mnemonic": "INQUIRE + itive — always inquiring, always asking 'why?'",
+    "confusableNote": "inquisitive vs. nosy — inquisitive implies genuine intellectual curiosity; nosy implies intrusive prying into others' affairs."
+  }
+]

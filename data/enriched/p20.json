@@ -1,0 +1,398 @@
+[
+  {
+    "id": "pliant",
+    "pos": "adj",
+    "definition": "Easily bent or shaped; flexible and yielding without breaking.",
+    "example": "The pliant willow branches bent gracefully under the weight of snow without snapping.",
+    "synonyms": ["supple", "pliable", "malleable", "flexible"],
+    "mnemonic": "PLIANT = PLIABLE + ANT — ants bend around obstacles, never rigid.",
+    "confusableNote": "pliable: nearly synonymous, but pliant more often implies willingness to yield; pliable emphasizes physical flexibility."
+  },
+  {
+    "id": "plodding",
+    "pos": "adj",
+    "definition": "Moving or progressing slowly and laboriously; tediously slow and unimaginative.",
+    "example": "The plodding pace of the investigation frustrated reporters eager for results.",
+    "synonyms": ["lumbering", "trudging", "sluggish", "laborious"],
+    "mnemonic": "PLOD sounds heavy — imagine heavy boots thudding slowly through mud.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sinuous",
+    "pos": "adj",
+    "definition": "Having many curves and turns; moving in a smooth, winding manner.",
+    "example": "The sinuous river wound through the valley, doubling back on itself repeatedly.",
+    "synonyms": ["serpentine", "winding", "undulating", "meandering"],
+    "mnemonic": "SINUOUS contains SINUS — a sinus cavity is full of winding curves.",
+    "confusableNote": ""
+  },
+  {
+    "id": "supple",
+    "pos": "adj",
+    "definition": "Bending and moving easily and gracefully; lithe and flexible.",
+    "example": "Years of yoga kept her joints supple well into old age.",
+    "synonyms": ["lithe", "pliant", "lissome", "flexible"],
+    "mnemonic": "SUPPLE — think of a supple whip that bends without breaking.",
+    "confusableNote": "pliant: pliant can imply yielding to others' will; supple focuses more on physical elasticity."
+  },
+  {
+    "id": "wayward",
+    "pos": "adj",
+    "definition": "Moving or developing in an irregular, uncontrolled, or unpredictable direction; difficult to guide.",
+    "example": "The wayward kite darted erratically across the sky, defying the child's efforts to control it.",
+    "synonyms": ["errant", "capricious", "unruly", "erratic"],
+    "mnemonic": "WAYWARD = going its own WAY, regardless of direction given.",
+    "confusableNote": ""
+  },
+  {
+    "id": "abate",
+    "pos": "v",
+    "definition": "To diminish in intensity, amount, or degree; to subside or lessen.",
+    "example": "The storm finally began to abate around midnight, allowing rescue teams to venture out.",
+    "synonyms": ["subside", "wane", "diminish", "ebb"],
+    "mnemonic": "ABATE — think of a fish taking the BAIT, then the excitement fades away.",
+    "confusableNote": "mitigate: mitigate means to make less severe by action; abate suggests a natural lessening or dying down."
+  },
+  {
+    "id": "abjure",
+    "pos": "v",
+    "definition": "To solemnly renounce or reject a belief, claim, or course of action under oath.",
+    "example": "Facing exile, he was forced to abjure his political beliefs before the court.",
+    "synonyms": ["renounce", "recant", "forswear", "repudiate"],
+    "mnemonic": "AB (away) + JURE (swear) — to swear away your beliefs.",
+    "confusableNote": "adjure: adjure means to earnestly urge or command; abjure means to renounce — opposite directions."
+  },
+  {
+    "id": "abrogate",
+    "pos": "v",
+    "definition": "To formally repeal or abolish a law, treaty, or agreement by authority.",
+    "example": "The new government moved quickly to abrogate the treaty signed by its predecessor.",
+    "synonyms": ["annul", "rescind", "repeal", "nullify"],
+    "mnemonic": "AB (away) + ROGATE (ask/decree) — to decree away a law's existence.",
+    "confusableNote": "arrogate: arrogate means to claim or seize without right; abrogate means to abolish."
+  },
+  {
+    "id": "annul",
+    "pos": "v",
+    "definition": "To declare legally invalid and void; to cancel or make of no effect.",
+    "example": "The judge decided to annul the contract because it had been signed under duress.",
+    "synonyms": ["nullify", "invalidate", "void", "rescind"],
+    "mnemonic": "ANNUL = to NULL — make something null and void.",
+    "confusableNote": ""
+  },
+  {
+    "id": "anoint",
+    "pos": "v",
+    "definition": "To ceremonially designate or choose someone for a role or office, often as a successor.",
+    "example": "The retiring CEO anointed her deputy as the next leader of the company.",
+    "synonyms": ["consecrate", "designate", "ordain", "appoint"],
+    "mnemonic": "Kings were ANOINTED with oil to mark their divine selection for power.",
+    "confusableNote": ""
+  },
+  {
+    "id": "banish",
+    "pos": "v",
+    "definition": "To expel or exile someone from a place, or to drive away a thought or feeling.",
+    "example": "The king banished the disloyal nobles from the kingdom under penalty of death.",
+    "synonyms": ["exile", "expel", "ostracize", "oust"],
+    "mnemonic": "BANISH — BAN someone and make them vanish.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bridle",
+    "pos": "v",
+    "definition": "To keep under control; to restrain or curb an impulse, emotion, or action.",
+    "example": "She had to bridle her temper during the contentious negotiation.",
+    "synonyms": ["curb", "restrain", "check", "rein in"],
+    "mnemonic": "A BRIDLE on a horse controls it — bridle your emotions just the same.",
+    "confusableNote": "bridle (bristle): to bridle also means to show indignation; context determines which sense applies."
+  },
+  {
+    "id": "canonize",
+    "pos": "v",
+    "definition": "To officially declare as a saint or to treat as authoritative and beyond question.",
+    "example": "Over time, critics canonized the novelist's early work as the definitive text of the movement.",
+    "synonyms": ["sanctify", "glorify", "consecrate", "enshrine"],
+    "mnemonic": "CANON (authoritative rule) + IZE — to make something part of the sacred canon.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cease",
+    "pos": "v",
+    "definition": "To bring to an end; to stop occurring or being done.",
+    "example": "The factory agreed to cease all emissions that violated environmental regulations.",
+    "synonyms": ["halt", "desist", "terminate", "discontinue"],
+    "mnemonic": "CEASE-FIRE — both sides stop shooting; cease = stop completely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "check",
+    "pos": "v",
+    "definition": "To stop or restrain something from continuing or progressing.",
+    "example": "The new policy was designed to check the rapid spread of misinformation online.",
+    "synonyms": ["curb", "restrain", "arrest", "inhibit"],
+    "mnemonic": "A CHECK in chess stops the opponent's king — check = halt movement.",
+    "confusableNote": "check (verify): on the GRE, check means to stop/restrain, not to verify or inspect — a common trap."
+  },
+  {
+    "id": "circumscribe",
+    "pos": "v",
+    "definition": "To restrict or confine within narrow limits; to define the boundaries of.",
+    "example": "The constitution circumscribes the power of the executive branch to prevent overreach.",
+    "synonyms": ["restrict", "delimit", "confine", "bound"],
+    "mnemonic": "CIRCUM (around) + SCRIBE (draw) — to draw a circle around, limiting space.",
+    "confusableNote": ""
+  },
+  {
+    "id": "coercion",
+    "pos": "n",
+    "definition": "The use of force, threats, or intimidation to compel someone to act against their will.",
+    "example": "The confession was thrown out because the court found evidence of coercion by investigators.",
+    "synonyms": ["compulsion", "duress", "intimidation", "constraint"],
+    "mnemonic": "COERCE + ION — to coerce is to force; coercion is the act of forcing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "curb",
+    "pos": "v",
+    "definition": "To keep under control or within limits; to restrain or moderate.",
+    "example": "The central bank raised interest rates to curb runaway inflation.",
+    "synonyms": ["restrain", "check", "bridle", "temper"],
+    "mnemonic": "A CURB on a street keeps cars from going too far — curb = keep in bounds.",
+    "confusableNote": ""
+  },
+  {
+    "id": "curtail",
+    "pos": "v",
+    "definition": "To reduce in extent or quantity; to impose a restriction that cuts something short.",
+    "example": "Budget cuts forced the university to curtail its study-abroad program significantly.",
+    "synonyms": ["truncate", "abridge", "diminish", "reduce"],
+    "mnemonic": "CURTAIL = cut the TAIL off — shorten or cut back.",
+    "confusableNote": ""
+  },
+  {
+    "id": "depose",
+    "pos": "v",
+    "definition": "To remove from power or office, especially by force or legal means.",
+    "example": "The military deposed the elected president in an early-morning coup.",
+    "synonyms": ["oust", "dethrone", "overthrow", "unseat"],
+    "mnemonic": "DE (down) + POSE (position) — to bring someone down from their position.",
+    "confusableNote": "depose (legal): in law, depose also means to give sworn testimony — context clarifies the sense."
+  },
+  {
+    "id": "despotic",
+    "pos": "adj",
+    "definition": "Exercising absolute, tyrannical power with no regard for others' rights or freedoms.",
+    "example": "The despotic ruler imprisoned journalists who dared to criticize his regime.",
+    "synonyms": ["tyrannical", "autocratic", "authoritarian", "imperious"],
+    "mnemonic": "DESPOT = a tyrant; DESPOTIC describes how a despot rules.",
+    "confusableNote": ""
+  },
+  {
+    "id": "deter",
+    "pos": "v",
+    "definition": "To discourage or prevent someone from taking action through fear or doubt.",
+    "example": "Harsh penalties were introduced to deter would-be offenders from committing fraud.",
+    "synonyms": ["dissuade", "discourage", "inhibit", "forestall"],
+    "mnemonic": "DETER = DE-TERROR — make something terrifying enough to stop action.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dictate",
+    "pos": "v",
+    "definition": "To issue authoritative commands or lay down terms that must be followed.",
+    "example": "The stronger party was able to dictate the terms of the peace agreement.",
+    "synonyms": ["mandate", "decree", "prescribe", "ordain"],
+    "mnemonic": "DICTATE = DICTATOR behavior — issue commands others must obey.",
+    "confusableNote": ""
+  },
+  {
+    "id": "forestall",
+    "pos": "v",
+    "definition": "To prevent or obstruct something by taking advance action before it can occur.",
+    "example": "She made a preemptive announcement to forestall any damaging rumors from spreading.",
+    "synonyms": ["preempt", "preclude", "avert", "thwart"],
+    "mnemonic": "FORE (before) + STALL — stall something before it even starts moving.",
+    "confusableNote": ""
+  },
+  {
+    "id": "forgo",
+    "pos": "v",
+    "definition": "To abstain from or give up something desirable voluntarily.",
+    "example": "He chose to forgo the bonus in order to maintain his ethical standards.",
+    "synonyms": ["relinquish", "waive", "abstain", "renounce"],
+    "mnemonic": "FORGO = FOR + GO — let it go, don't take it.",
+    "confusableNote": "forego: forego means to precede or go before; forgo means to do without — easily confused."
+  },
+  {
+    "id": "forsake",
+    "pos": "v",
+    "definition": "To abandon or renounce someone or something once held dear.",
+    "example": "He forsook his comfortable career to pursue a life of humanitarian service.",
+    "synonyms": ["abandon", "desert", "relinquish", "renounce"],
+    "mnemonic": "FOR + SAKE — 'for whose sake do you leave?' — you leave it behind.",
+    "confusableNote": ""
+  },
+  {
+    "id": "hamper",
+    "pos": "v",
+    "definition": "To hinder or obstruct the movement or progress of someone or something.",
+    "example": "Heavy fog hampered the rescue operation for most of the morning.",
+    "synonyms": ["hinder", "impede", "obstruct", "encumber"],
+    "mnemonic": "A HAMPER is a basket that traps laundry — hamper = trap and slow things down.",
+    "confusableNote": "hamper (noun): on the GRE, hamper as a verb means to hinder, not a laundry basket — a common trap."
+  },
+  {
+    "id": "hinder",
+    "pos": "v",
+    "definition": "To make it difficult for someone to do something or for something to happen.",
+    "example": "Lack of funding continues to hinder scientific progress in the region.",
+    "synonyms": ["impede", "obstruct", "hamper", "inhibit"],
+    "mnemonic": "HINDER = put something BEHIND you as an obstacle — block progress.",
+    "confusableNote": ""
+  },
+  {
+    "id": "impede",
+    "pos": "v",
+    "definition": "To delay or obstruct progress by interfering with someone's movement or actions.",
+    "example": "Bureaucratic red tape impeded the delivery of emergency aid to the affected region.",
+    "synonyms": ["obstruct", "hinder", "hamper", "thwart"],
+    "mnemonic": "IM + PEDE (foot) — put a foot in the way to block movement.",
+    "confusableNote": ""
+  },
+  {
+    "id": "impediment",
+    "pos": "n",
+    "definition": "A circumstance or obstacle that makes progress or achievement difficult.",
+    "example": "A lack of transportation remained the greatest impediment to accessing healthcare in rural areas.",
+    "synonyms": ["obstacle", "hindrance", "obstruction", "barrier"],
+    "mnemonic": "IMPEDIMENT = the noun form of IMPEDE — the thing that blocks your feet.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inhibit",
+    "pos": "v",
+    "definition": "To restrain, hinder, or suppress an action, process, or impulse.",
+    "example": "Fear of failure often inhibits people from attempting creative endeavors.",
+    "synonyms": ["suppress", "restrain", "curb", "impede"],
+    "mnemonic": "IN + HIBIT (have) — to hold back from having or doing something.",
+    "confusableNote": "prohibit: prohibit means to formally forbid by rule; inhibit means to restrain or hold back, often internally."
+  },
+  {
+    "id": "jettison",
+    "pos": "v",
+    "definition": "To discard or abandon something no longer wanted or useful.",
+    "example": "The company jettisoned its unprofitable divisions to focus on core operations.",
+    "synonyms": ["discard", "abandon", "shed", "scrap"],
+    "mnemonic": "JET + TISON — jets throw cargo overboard in emergencies; jettison = throw out.",
+    "confusableNote": ""
+  },
+  {
+    "id": "magisterial",
+    "pos": "adj",
+    "definition": "Having or showing the authority or dignity of a master or magistrate; commanding and authoritative.",
+    "example": "The professor delivered a magisterial lecture that left the audience in awe of her command of the subject.",
+    "synonyms": ["authoritative", "commanding", "imperious", "lordly"],
+    "mnemonic": "MAGISTER (Latin: master/teacher) + IAL — possessing the manner of a grand master.",
+    "confusableNote": ""
+  },
+  {
+    "id": "manacle",
+    "pos": "v",
+    "definition": "To restrain or confine with or as if with handcuffs; to shackle or fetter.",
+    "example": "Rigid regulations manacled innovation, preventing the industry from adapting to new realities.",
+    "synonyms": ["shackle", "fetter", "restrain", "bind"],
+    "mnemonic": "MANACLE = MAN +ACLE — a shackle that encircles the hand of a man.",
+    "confusableNote": ""
+  },
+  {
+    "id": "martinet",
+    "pos": "n",
+    "definition": "A strict disciplinarian who insists on exact conformity to rules and orders.",
+    "example": "The new principal was a martinet who enforced every regulation to the letter.",
+    "synonyms": ["disciplinarian", "autocrat", "taskmaster", "tyrant"],
+    "mnemonic": "MARTINET — from General Martinet, a famously rigid French drill master.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mitigate",
+    "pos": "v",
+    "definition": "To make less severe, serious, or painful; to lessen the harmful effects of something.",
+    "example": "The defendant's remorse was cited as a factor that could mitigate the severity of the sentence.",
+    "synonyms": ["alleviate", "palliate", "temper", "assuage"],
+    "mnemonic": "MITI (gentle) + GATE — open a gentle gate to reduce severity.",
+    "confusableNote": "militate: militate means to have a strong effect against something; mitigate means to lessen — easily confused."
+  },
+  {
+    "id": "nullify",
+    "pos": "v",
+    "definition": "To make legally void and of no effect; to cancel out or neutralize.",
+    "example": "The appeals court decided to nullify the lower court's ruling on procedural grounds.",
+    "synonyms": ["annul", "void", "invalidate", "abrogate"],
+    "mnemonic": "NULLIFY = make NULL — reduce to null, nothing, zero.",
+    "confusableNote": ""
+  },
+  {
+    "id": "obviate",
+    "pos": "v",
+    "definition": "To remove a difficulty or need before it arises; to prevent by anticipatory action.",
+    "example": "Installing better drainage systems would obviate the need for costly flood relief each year.",
+    "synonyms": ["preclude", "forestall", "avert", "preempt"],
+    "mnemonic": "OB (in the way) + VIA (road) — clear the road of obstacles before you reach them.",
+    "confusableNote": "obviate vs. mitigate: obviate removes the problem entirely; mitigate merely lessens it."
+  },
+  {
+    "id": "occlude",
+    "pos": "v",
+    "definition": "To block or obstruct a passage, opening, or line of sight.",
+    "example": "A blood clot occluded the artery, cutting off blood flow to the heart.",
+    "synonyms": ["obstruct", "block", "constrict", "impede"],
+    "mnemonic": "OC + CLUDE (close) — to close off completely, as in occluded artery.",
+    "confusableNote": ""
+  },
+  {
+    "id": "omit",
+    "pos": "v",
+    "definition": "To leave out or exclude something, either deliberately or through oversight.",
+    "example": "The editor chose to omit the most inflammatory passages from the published version.",
+    "synonyms": ["exclude", "delete", "elide", "expunge"],
+    "mnemonic": "OMIT — O MIT: something MIssed ouT — left out entirely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "oust",
+    "pos": "v",
+    "definition": "To drive out or expel someone from a position of power or place of belonging.",
+    "example": "Board members voted to oust the CEO following the financial scandal.",
+    "synonyms": ["depose", "expel", "unseat", "dislodge"],
+    "mnemonic": "OUST sounds like OUT — to push someone OUT of their position.",
+    "confusableNote": ""
+  },
+  {
+    "id": "outstrip",
+    "pos": "v",
+    "definition": "To exceed, surpass, or leave far behind in growth, performance, or achievement.",
+    "example": "Demand for electric vehicles has begun to outstrip the supply of charging infrastructure.",
+    "synonyms": ["surpass", "exceed", "eclipse", "transcend"],
+    "mnemonic": "OUT + STRIP — strip past everyone else and go OUT ahead.",
+    "confusableNote": ""
+  },
+  {
+    "id": "preclude",
+    "pos": "v",
+    "definition": "To make something impossible in advance; to prevent from happening by prior action.",
+    "example": "His prior criminal record precluded him from applying for the government position.",
+    "synonyms": ["prevent", "forestall", "obviate", "prohibit"],
+    "mnemonic": "PRE (before) + CLUDE (close) — close the door before someone can enter.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prevail",
+    "pos": "v",
+    "definition": "To prove more powerful or widespread; to triumph over opposition or to be the dominant force.",
+    "example": "Despite setbacks, the reformers' vision ultimately prevailed over decades of resistance.",
+    "synonyms": ["triumph", "predominate", "surmount", "overcome"],
+    "mnemonic": "PRE + VAIL (be strong) — to be strongest and gain the upper hand.",
+    "confusableNote": ""
+  }
+]

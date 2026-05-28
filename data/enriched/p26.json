@@ -1,0 +1,326 @@
+[
+  {
+    "id": "terse",
+    "pos": "adj",
+    "definition": "Expressed in few words; brief and abrupt in speech or writing.",
+    "example": "The CEO's terse reply — 'No.' — left the board in stunned silence.",
+    "synonyms": ["laconic", "succinct", "curt", "pithy"],
+    "mnemonic": "TERSE sounds like 'tersely trimmed' — trim every extra word away.",
+    "confusableNote": "terse vs. concise: both are brief, but terse often implies brusqueness or even rudeness, whereas concise simply means efficient."
+  },
+  {
+    "id": "treatise",
+    "pos": "n",
+    "definition": "A formal, systematic written work that examines a subject thoroughly.",
+    "example": "Darwin's treatise on natural selection transformed the field of biology.",
+    "synonyms": ["dissertation", "monograph", "discourse", "tract"],
+    "mnemonic": "A TREATISE is a 'treatment' of a topic — thorough and formal.",
+    "confusableNote": ""
+  },
+  {
+    "id": "trenchant",
+    "pos": "adj",
+    "definition": "Vigorous, incisive, and sharply effective in expression or argument.",
+    "example": "The critic offered a trenchant analysis that exposed every flaw in the policy.",
+    "synonyms": ["incisive", "penetrating", "keen", "mordant"],
+    "mnemonic": "TRENCH + ANT — a sharp trench cuts deep, just like trenchant criticism.",
+    "confusableNote": ""
+  },
+  {
+    "id": "verbose",
+    "pos": "adj",
+    "definition": "Using far more words than necessary; excessively wordy.",
+    "example": "The verbose professor took forty minutes to explain what could have been said in five.",
+    "synonyms": ["prolix", "loquacious", "long-winded", "garrulous"],
+    "mnemonic": "VERB + OSE — so full of words (verbs/nouns) that it overflows.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vociferous",
+    "pos": "adj",
+    "definition": "Expressing opinions loudly and forcefully; clamorous and insistent.",
+    "example": "Vociferous protesters outside the courthouse drowned out traffic noise for blocks.",
+    "synonyms": ["clamorous", "strident", "boisterous", "vehement"],
+    "mnemonic": "VOCI (voice) + FEROUS (bearing) — loudly carrying one's voice everywhere.",
+    "confusableNote": "vociferous vs. verbose: vociferous stresses loudness/forcefulness; verbose stresses excessive wordiness."
+  },
+  {
+    "id": "voluble",
+    "pos": "adj",
+    "definition": "Talking fluently and at great length; marked by a ready flow of speech.",
+    "example": "The voluble tour guide narrated the entire history of Rome without pausing once.",
+    "synonyms": ["garrulous", "loquacious", "talkative", "glib"],
+    "mnemonic": "VOLUBLE sounds like 'volume' — always turned up to high volume.",
+    "confusableNote": ""
+  },
+  {
+    "id": "endemic",
+    "pos": "adj",
+    "definition": "Regularly found and persistently established within a particular area or group.",
+    "example": "Corruption had become endemic to the region's political institutions over decades.",
+    "synonyms": ["prevalent", "entrenched", "ingrained", "pervasive"],
+    "mnemonic": "EN + DEMOS (people) — native to and constant among a specific people or place.",
+    "confusableNote": "endemic vs. epidemic: endemic means consistently present in a region; epidemic means suddenly spreading widely."
+  },
+  {
+    "id": "entrenched",
+    "pos": "adj",
+    "definition": "Firmly established and difficult to change, as if dug into defensive positions.",
+    "example": "Entrenched attitudes about gender roles proved stubbornly resistant to reform.",
+    "synonyms": ["ingrained", "deep-seated", "rooted", "fixed"],
+    "mnemonic": "Like soldiers in a TRENCH — deeply dug in and hard to dislodge.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ephemeral",
+    "pos": "adj",
+    "definition": "Lasting only a very short time; transitory.",
+    "example": "Social media fame is often ephemeral, fading within days of a viral moment.",
+    "synonyms": ["fleeting", "transient", "evanescent", "momentary"],
+    "mnemonic": "EPHEMERA = things lasting only a day (Greek hemera = day); think mayfly, living one day.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fitful",
+    "pos": "adj",
+    "definition": "Occurring in irregular bursts; not steady or continuous.",
+    "example": "She managed only fitful sleep, waking every hour through the stormy night.",
+    "synonyms": ["intermittent", "sporadic", "irregular", "spasmodic"],
+    "mnemonic": "FIT + FUL — coming in fits and starts, not smoothly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "forebode",
+    "pos": "v",
+    "definition": "To be an advance warning or sign of something bad; to predict evil.",
+    "example": "Dark clouds on the horizon seemed to forebode a disastrous voyage ahead.",
+    "synonyms": ["portend", "presage", "augur", "foreshadow"],
+    "mnemonic": "FORE (before) + BODE (omen) — boding something bad before it happens.",
+    "confusableNote": ""
+  },
+  {
+    "id": "foreseeable",
+    "pos": "adj",
+    "definition": "Able to be anticipated or predicted within a reasonable future horizon.",
+    "example": "Climate scientists warn that sea levels will continue rising for the foreseeable future.",
+    "synonyms": ["predictable", "anticipated", "expected", "prospective"],
+    "mnemonic": "FORE (ahead) + SEE — what you can see coming ahead of time.",
+    "confusableNote": ""
+  },
+  {
+    "id": "harbinger",
+    "pos": "n",
+    "definition": "A person or thing that signals or foreshadows what is to come.",
+    "example": "The first robin of spring is a beloved harbinger of warmer weather.",
+    "synonyms": ["herald", "precursor", "forerunner", "omen"],
+    "mnemonic": "A HARBINGER finds the HARBOR first — a scout announcing what arrives next.",
+    "confusableNote": ""
+  },
+  {
+    "id": "imminent",
+    "pos": "adj",
+    "definition": "About to happen very soon; impending.",
+    "example": "With the hurricane imminent, residents were ordered to evacuate the coast.",
+    "synonyms": ["impending", "forthcoming", "approaching", "looming"],
+    "mnemonic": "IMMINENT — think 'I'm in it soon'; it's right on top of you.",
+    "confusableNote": "imminent vs. eminent: imminent = about to happen; eminent = distinguished or prominent."
+  },
+  {
+    "id": "incessant",
+    "pos": "adj",
+    "definition": "Continuing without interruption; never ceasing.",
+    "example": "The incessant noise from the construction site made concentration impossible.",
+    "synonyms": ["unrelenting", "ceaseless", "perpetual", "unremitting"],
+    "mnemonic": "IN + CESSANT (cease) — in-capable of ceasing; never stops.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ingrained",
+    "pos": "adj",
+    "definition": "Deeply embedded in one's nature or habits; firmly established over time.",
+    "example": "His ingrained distrust of authority made him question every rule he encountered.",
+    "synonyms": ["entrenched", "deep-seated", "inveterate", "indelible"],
+    "mnemonic": "IN the GRAIN of wood — a pattern running so deep it can't be sanded away.",
+    "confusableNote": ""
+  },
+  {
+    "id": "interminable",
+    "pos": "adj",
+    "definition": "Seemingly endless; tediously long without any apparent end.",
+    "example": "The interminable board meeting stretched past midnight with no resolution in sight.",
+    "synonyms": ["endless", "incessant", "protracted", "unending"],
+    "mnemonic": "IN + TERMINAL — no terminal (ending) in sight; goes on forever.",
+    "confusableNote": ""
+  },
+  {
+    "id": "intermittent",
+    "pos": "adj",
+    "definition": "Occurring at irregular intervals; not continuous or steady.",
+    "example": "Intermittent rain showers forced the outdoor concert to pause several times.",
+    "synonyms": ["sporadic", "fitful", "periodic", "irregular"],
+    "mnemonic": "INTER (between) + MITTENT (sending) — sending signals between gaps, not constantly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "momentary",
+    "pos": "adj",
+    "definition": "Lasting only a very brief moment; extremely short-lived.",
+    "example": "A momentary lapse in concentration cost the chess grandmaster the match.",
+    "synonyms": ["fleeting", "brief", "transient", "ephemeral"],
+    "mnemonic": "MOMENT + ARY — lasting only a single moment.",
+    "confusableNote": "momentary vs. momentous: momentary = very brief; momentous = of great importance."
+  },
+  {
+    "id": "ominous",
+    "pos": "adj",
+    "definition": "Giving the impression that something bad or unpleasant is about to happen.",
+    "example": "An ominous silence fell over the crowd just before the verdict was read.",
+    "synonyms": ["foreboding", "menacing", "sinister", "portentous"],
+    "mnemonic": "OMEN + OUS — full of bad omens; the omen is baked right into the word.",
+    "confusableNote": ""
+  },
+  {
+    "id": "perennial",
+    "pos": "adj",
+    "definition": "Lasting or recurring through many years; enduring and perpetual.",
+    "example": "Budget shortfalls are a perennial problem for underfunded school districts.",
+    "synonyms": ["enduring", "perpetual", "persistent", "recurring"],
+    "mnemonic": "PER (through) + ANNUAL — going through year after year without stopping.",
+    "confusableNote": ""
+  },
+  {
+    "id": "perpetuate",
+    "pos": "v",
+    "definition": "To cause something to continue or prevail indefinitely.",
+    "example": "Stereotypes perpetuate inequality by shaping how people are judged before they speak.",
+    "synonyms": ["sustain", "preserve", "prolong", "maintain"],
+    "mnemonic": "PERPETU(AL) + ATE — making something perpetual by acting to keep it going.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pervasive",
+    "pos": "adj",
+    "definition": "Spreading through and present throughout every part of something.",
+    "example": "A pervasive sense of distrust made cooperation between the departments impossible.",
+    "synonyms": ["ubiquitous", "omnipresent", "prevalent", "rife"],
+    "mnemonic": "PER (through) + VASIVE (invade) — invading through every corner.",
+    "confusableNote": ""
+  },
+  {
+    "id": "portend",
+    "pos": "v",
+    "definition": "To be a sign or warning of something, especially something momentous or calamitous.",
+    "example": "Economists argued that the market volatility portended a severe recession.",
+    "synonyms": ["presage", "forebode", "augur", "foreshadow"],
+    "mnemonic": "PORT (carry forward) + END — carrying a sign of an ending or event ahead.",
+    "confusableNote": "portend vs. portent: portend is the verb; portent is the noun (a sign or omen)."
+  },
+  {
+    "id": "prefigure",
+    "pos": "v",
+    "definition": "To be an early indicator or symbolic representation of something that will come later.",
+    "example": "Many scholars argue that Hamlet's soliloquies prefigure modern psychological introspection.",
+    "synonyms": ["foreshadow", "presage", "herald", "anticipate"],
+    "mnemonic": "PRE (before) + FIGURE — sketching out the figure of what comes before it arrives.",
+    "confusableNote": ""
+  },
+  {
+    "id": "premeditate",
+    "pos": "v",
+    "definition": "To plan or think out an action, especially a crime, beforehand.",
+    "example": "The prosecution argued that the defendant had premeditated the attack weeks in advance.",
+    "synonyms": ["plan", "deliberate", "scheme", "contrive"],
+    "mnemonic": "PRE (before) + MEDITATE — meditating on your plan before you carry it out.",
+    "confusableNote": ""
+  },
+  {
+    "id": "presage",
+    "pos": "v",
+    "definition": "To be a sign or omen of a future event; to predict.",
+    "example": "The sudden withdrawal of ambassadors presaged the outbreak of war.",
+    "synonyms": ["portend", "forebode", "augur", "foreshadow"],
+    "mnemonic": "PRE (before) + SAGE (wise prophet) — a wise sign coming before the event.",
+    "confusableNote": "presage can be both a verb and a noun; as a noun it means an omen or warning sign."
+  },
+  {
+    "id": "prescient",
+    "pos": "adj",
+    "definition": "Having or showing accurate knowledge of events before they occur.",
+    "example": "Her prescient warnings about the housing bubble went unheeded until the crash.",
+    "synonyms": ["prophetic", "clairvoyant", "farsighted", "visionary"],
+    "mnemonic": "PRE (before) + SCIENT (knowing, as in science) — knowing things before others do.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prophetic",
+    "pos": "adj",
+    "definition": "Accurately predicting or foreshadowing future events.",
+    "example": "In hindsight, the author's prophetic novel described the rise of surveillance states with eerie precision.",
+    "synonyms": ["prescient", "oracular", "visionary", "sibylline"],
+    "mnemonic": "PROPHET + IC — having the quality of a prophet who sees the future.",
+    "confusableNote": ""
+  },
+  {
+    "id": "recrudescent",
+    "pos": "adj",
+    "definition": "Breaking out again after a period of dormancy; experiencing renewed activity or virulence.",
+    "example": "A recrudescent outbreak of the disease alarmed health officials who had declared it eradicated.",
+    "synonyms": ["resurgent", "recurring", "reemergent", "revived"],
+    "mnemonic": "RE (again) + CRUDE (raw, unhealed) — a raw wound breaking open again.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sporadic",
+    "pos": "adj",
+    "definition": "Occurring at irregular and infrequent intervals; scattered.",
+    "example": "Sporadic gunfire was heard throughout the city but never sustained long enough to indicate a battle.",
+    "synonyms": ["intermittent", "occasional", "fitful", "irregular"],
+    "mnemonic": "SPORADIC — like spores scattered randomly; no pattern, no regularity.",
+    "confusableNote": ""
+  },
+  {
+    "id": "temporal",
+    "pos": "adj",
+    "definition": "Relating to worldly time rather than eternity; not permanent.",
+    "example": "The monk renounced temporal pleasures to devote himself entirely to spiritual pursuits.",
+    "synonyms": ["transient", "secular", "fleeting", "worldly"],
+    "mnemonic": "TEMPO (time) + RAL — of or relating to time; thus subject to passing away.",
+    "confusableNote": "temporal vs. temporary: temporal relates to time or worldly existence; temporary simply means not lasting long."
+  },
+  {
+    "id": "transient",
+    "pos": "adj",
+    "definition": "Lasting only for a short time; passing through without staying permanently.",
+    "example": "The city's transient population made it difficult to establish stable community organizations.",
+    "synonyms": ["ephemeral", "fleeting", "momentary", "evanescent"],
+    "mnemonic": "TRANSIT + ENT — always in transit, never staying; just passing through.",
+    "confusableNote": ""
+  },
+  {
+    "id": "transitory",
+    "pos": "adj",
+    "definition": "Not lasting; existing only briefly before passing away.",
+    "example": "The politician's popularity proved transitory, collapsing within months of the scandal.",
+    "synonyms": ["fleeting", "ephemeral", "transient", "impermanent"],
+    "mnemonic": "TRANSITORY — everything is in TRANSITION; nothing stays fixed.",
+    "confusableNote": "transitory vs. transient: both mean short-lived, but transient often emphasizes physical movement through a place; transitory emphasizes the brevity of duration."
+  },
+  {
+    "id": "obscure",
+    "pos": "adj",
+    "definition": "Not well known, discovered, or clearly expressed; hard to perceive or understand.",
+    "example": "The professor's lecture drew on obscure medieval texts that few students had ever encountered.",
+    "synonyms": ["abstruse", "recondite", "esoteric", "arcane"],
+    "mnemonic": "OB (over) + SCURE (dark) — darkness cast over it, making it hard to see or find.",
+    "confusableNote": ""
+  },
+  {
+    "id": "swindle",
+    "pos": "v",
+    "definition": "To use deception to deprive someone of money or possessions; to cheat.",
+    "example": "The con artist swindled elderly investors out of their retirement savings.",
+    "synonyms": ["defraud", "dupe", "fleece", "bilk"],
+    "mnemonic": "SWINDLE sounds like 'spin a lie' — spin a web of lies to steal.",
+    "confusableNote": ""
+  }
+]

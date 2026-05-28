@@ -1,0 +1,398 @@
+[
+  {
+    "id": "lucid",
+    "pos": "adj",
+    "definition": "Expressed or presented in a clear, easily understood manner.",
+    "example": "The professor's lucid explanation of quantum mechanics helped even beginners grasp the concept.",
+    "synonyms": ["pellucid", "perspicuous", "intelligible", "limpid"],
+    "mnemonic": "LUCid = LUCE (Latin: light) — shining light on ideas, making them clear.",
+    "confusableNote": ""
+  },
+  {
+    "id": "mendacity",
+    "pos": "n",
+    "definition": "The habit or practice of telling lies; untruthfulness.",
+    "example": "The senator's mendacity was exposed when reporters uncovered documents contradicting his sworn testimony.",
+    "synonyms": ["duplicity", "perfidy", "dishonesty", "deceitfulness"],
+    "mnemonic": "MENDacity — a liar MENDS the truth to suit their needs.",
+    "confusableNote": "Do not confuse with 'mendicancy,' which means the practice of begging."
+  },
+  {
+    "id": "obfuscate",
+    "pos": "v",
+    "definition": "To make something deliberately unclear or difficult to understand; to confuse or bewilder.",
+    "example": "The contract's dense legal jargon seemed designed to obfuscate the punishing fee structure.",
+    "synonyms": ["muddle", "obscure", "becloud", "perplex"],
+    "mnemonic": "OBFUSCate = ob + fuscus (Latin: dark) — to darken and cloud meaning.",
+    "confusableNote": ""
+  },
+  {
+    "id": "opaque",
+    "pos": "adj",
+    "definition": "Not transparent in meaning; hard to understand or interpret.",
+    "example": "The philosopher's opaque prose frustrated readers who could not extract a clear argument.",
+    "synonyms": ["abstruse", "obscure", "impenetrable", "recondite"],
+    "mnemonic": "OPAQUE blocks light — just as frosted glass blocks sight, opaque writing blocks meaning.",
+    "confusableNote": "Do not confuse with 'transparent,' its antonym, or 'translucent,' which allows partial light through."
+  },
+  {
+    "id": "palpable",
+    "pos": "adj",
+    "definition": "So obvious or intense as to be plainly felt or perceived; readily evident.",
+    "example": "The tension in the negotiating room was palpable the moment the rival CEOs walked in.",
+    "synonyms": ["manifest", "tangible", "conspicuous", "patent"],
+    "mnemonic": "PALP = to feel — palpable is something you can almost reach out and touch.",
+    "confusableNote": ""
+  },
+  {
+    "id": "patent",
+    "pos": "adj",
+    "definition": "Plainly and unmistakably evident; obvious.",
+    "example": "His patent disregard for safety regulations put the entire crew at risk.",
+    "synonyms": ["manifest", "blatant", "palpable", "conspicuous"],
+    "mnemonic": "A PATENT is publicly registered — patent (adj) means openly, publicly obvious.",
+    "confusableNote": "On the GRE, 'patent' as an adjective means obvious, NOT the legal document protecting inventions."
+  },
+  {
+    "id": "pellucid",
+    "pos": "adj",
+    "definition": "Translucently clear in style or expression; easily understood.",
+    "example": "Her pellucid writing style made the dense scientific research accessible to a general audience.",
+    "synonyms": ["lucid", "limpid", "perspicuous", "crystalline"],
+    "mnemonic": "PELLUCid shares roots with TRANSLUCENT — pel + lucid — clear light shining through.",
+    "confusableNote": ""
+  },
+  {
+    "id": "perspicacious",
+    "pos": "adj",
+    "definition": "Having a ready insight into things; shrewdly perceptive and discerning.",
+    "example": "The perspicacious investor recognized the company's hidden value long before the market did.",
+    "synonyms": ["astute", "sagacious", "discerning", "shrewd"],
+    "mnemonic": "PERSPICACIOUS = perspicere (Latin: to see clearly) — someone who sees through to the truth.",
+    "confusableNote": "Do not confuse with 'perspicuous,' which means clearly expressed (of writing), not of a person's mind."
+  },
+  {
+    "id": "phony",
+    "pos": "adj",
+    "definition": "Not genuine; fraudulent or insincere.",
+    "example": "The art dealer was arrested for selling phony Picasso sketches to unsuspecting collectors.",
+    "synonyms": ["spurious", "counterfeit", "bogus", "fraudulent"],
+    "mnemonic": "PHONY — think of a PHONE call pretending to be someone you trust; fake all along.",
+    "confusableNote": ""
+  },
+  {
+    "id": "plausible",
+    "pos": "adj",
+    "definition": "Seeming reasonable or probable on the surface, though not necessarily true.",
+    "example": "The alibi sounded plausible at first, but forensic evidence eventually dismantled it.",
+    "synonyms": ["specious", "credible", "ostensible", "tenable"],
+    "mnemonic": "PLAUSIBLE = applause-worthy story — sounds convincing enough to earn applause, but may be false.",
+    "confusableNote": "In the GRE deception cluster, plausible highlights something that seems true but may not be — contrast with 'specious,' which stresses the deceptive appearance more strongly."
+  },
+  {
+    "id": "prevaricate",
+    "pos": "v",
+    "definition": "To speak or act evasively so as to avoid the truth; to equivocate or lie.",
+    "example": "When asked about the missing funds, the treasurer began to prevaricate, giving vague and contradictory answers.",
+    "synonyms": ["equivocate", "dissemble", "hedge", "palter"],
+    "mnemonic": "PRE-VARI-CATE — vary the truth before telling it; to vary = to deviate from the straight path.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prudent",
+    "pos": "adj",
+    "definition": "Acting with careful good judgment and foresight to avoid risk or error.",
+    "example": "It was prudent of her to diversify her investments before the market downturn.",
+    "synonyms": ["judicious", "circumspect", "sagacious", "discreet"],
+    "mnemonic": "PRUDENT = PRUDE + NT — a careful, cautious person who thinks before acting.",
+    "confusableNote": ""
+  },
+  {
+    "id": "rational",
+    "pos": "adj",
+    "definition": "Based on or in accordance with reason or logic; sensible and sound.",
+    "example": "Despite the emotional circumstances, she remained rational and assessed the situation objectively.",
+    "synonyms": ["logical", "reasoned", "judicious", "coherent"],
+    "mnemonic": "RATIONAL shares RATIO — keeping things in proportion, balanced by reason.",
+    "confusableNote": "Do not confuse with 'rationalize,' which means to justify poor reasoning; 'rational' itself is positive."
+  },
+  {
+    "id": "recondite",
+    "pos": "adj",
+    "definition": "Not known by many; dealing with obscure subject matter that is difficult to comprehend.",
+    "example": "The scholar's recondite knowledge of medieval alchemy fascinated but baffled her colleagues.",
+    "synonyms": ["abstruse", "esoteric", "arcane", "opaque"],
+    "mnemonic": "RECONDITE = re + condere (Latin: to hide away) — hidden knowledge, stored away from ordinary minds.",
+    "confusableNote": ""
+  },
+  {
+    "id": "refute",
+    "pos": "v",
+    "definition": "To prove a statement or argument to be wrong or false by means of evidence or argument.",
+    "example": "The scientist refuted the hypothesis with three independent experimental results.",
+    "synonyms": ["rebut", "confute", "debunk", "disprove"],
+    "mnemonic": "REFUTE = RE + FUTE — think 'shoot it down again'; to shoot down a claim with proof.",
+    "confusableNote": "Do not confuse with 'rebuke' (to criticize sharply) or 'repudiate' (to reject/disown); refute specifically means to disprove with evidence."
+  },
+  {
+    "id": "sagacious",
+    "pos": "adj",
+    "definition": "Having or showing keen mental discernment and sound practical judgment; wise.",
+    "example": "The sagacious elder foresaw the political crisis and urged the council to act preemptively.",
+    "synonyms": ["perspicacious", "astute", "prudent", "discerning"],
+    "mnemonic": "SAGACIOUS = SAGE + acious — full of sage wisdom, like a wise elder.",
+    "confusableNote": ""
+  },
+  {
+    "id": "shrewd",
+    "pos": "adj",
+    "definition": "Having sharp powers of judgment; astute in practical matters, especially in business.",
+    "example": "The shrewd negotiator spotted the loophole that saved the firm millions of dollars.",
+    "synonyms": ["astute", "canny", "perspicacious", "sagacious"],
+    "mnemonic": "SHREWD rhymes with CLUED — a shrewd person is always clued in to what's really happening.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sound",
+    "pos": "adj",
+    "definition": "Reliable and based on valid reasoning; also, in good health or condition.",
+    "example": "The auditors confirmed that the company's financial practices were sound and fully compliant.",
+    "synonyms": ["reliable", "valid", "cogent", "robust"],
+    "mnemonic": "SOUND reasoning stands firm — like a sound structure that doesn't crack under pressure.",
+    "confusableNote": "On the GRE, 'sound' as an adjective means reliable or healthy — NOT noise; do not default to the everyday meaning."
+  },
+  {
+    "id": "specious",
+    "pos": "adj",
+    "definition": "Superficially plausible but actually wrong or misleading; deceptively attractive.",
+    "example": "The defense lawyer's specious argument impressed the jury but fell apart under cross-examination.",
+    "synonyms": ["sophistic", "spurious", "fallacious", "plausible"],
+    "mnemonic": "SPECIOUS = SPECIES of argument that looks good but is actually a fake — beautiful on the outside, rotten within.",
+    "confusableNote": "Often confused with 'plausible' — specious emphasizes the deceptive, misleading quality, while plausible simply means believable."
+  },
+  {
+    "id": "spurious",
+    "pos": "adj",
+    "definition": "Not genuine, authentic, or true; based on false reasoning or a mistaken claim.",
+    "example": "The historian dismissed the document as spurious after carbon dating revealed it was a modern forgery.",
+    "synonyms": ["bogus", "counterfeit", "specious", "fraudulent"],
+    "mnemonic": "SPURIOUS = SPURT of fakery — a spurious claim shoots out as if real but is counterfeit.",
+    "confusableNote": ""
+  },
+  {
+    "id": "substantiate",
+    "pos": "v",
+    "definition": "To provide evidence to support or prove the truth of a claim or statement.",
+    "example": "The journalist could not substantiate her allegations, so the editor refused to publish the story.",
+    "synonyms": ["corroborate", "validate", "verify", "confirm"],
+    "mnemonic": "SUBSTANTIATE = SUBSTANCE + iate — to give substance (solid proof) to a claim.",
+    "confusableNote": ""
+  },
+  {
+    "id": "suspect",
+    "pos": "adj",
+    "definition": "Regarded as possibly false, unreliable, or of questionable validity.",
+    "example": "The report's methodology was suspect, relying on a sample of only twelve participants.",
+    "synonyms": ["dubious", "questionable", "spurious", "unreliable"],
+    "mnemonic": "SUSPECT = to look at from below (sub + spicere) — something you must look at with suspicion.",
+    "confusableNote": "On the GRE, 'suspect' as an adjective means doubtful or unreliable — NOT a noun meaning a person under investigation."
+  },
+  {
+    "id": "tangible",
+    "pos": "adj",
+    "definition": "Clear and definite; real and concrete rather than vague or abstract.",
+    "example": "After months of negotiation, the committee finally produced tangible results in the form of a signed agreement.",
+    "synonyms": ["palpable", "concrete", "manifest", "perceptible"],
+    "mnemonic": "TANGIBLE = TANGERE (Latin: to touch) — something real enough to touch.",
+    "confusableNote": ""
+  },
+  {
+    "id": "tenable",
+    "pos": "adj",
+    "definition": "Capable of being maintained or defended against attack or objection; defensible.",
+    "example": "Given the new evidence, her original position was no longer tenable and she revised her thesis.",
+    "synonyms": ["defensible", "justifiable", "plausible", "maintainable"],
+    "mnemonic": "TENABLE = TENERE (Latin: to hold) — a tenable position is one you can still hold onto.",
+    "confusableNote": "Do not confuse with 'tenacious' (stubbornly persistent) — tenable describes a position's logical defensibility."
+  },
+  {
+    "id": "tortuous",
+    "pos": "adj",
+    "definition": "Full of twists and turns; excessively complex and difficult to follow.",
+    "example": "The committee sat through hours of tortuous debate before arriving at a simple conclusion.",
+    "synonyms": ["convoluted", "circuitous", "labyrinthine", "sinuous"],
+    "mnemonic": "TORTUOUS = TORTURE — a tortuous argument twists and tortures the mind trying to follow it.",
+    "confusableNote": "Frequently confused with 'torturous' (causing torture or great pain) — tortuous means winding/convoluted; torturous means painful."
+  },
+  {
+    "id": "turbid",
+    "pos": "adj",
+    "definition": "Muddy or cloudy in appearance or meaning; not clear or transparent.",
+    "example": "The analyst's turbid prose made the financial projections nearly impossible to interpret.",
+    "synonyms": ["murky", "opaque", "muddy", "obscure"],
+    "mnemonic": "TURBID = TURBULENT + muddy — turbid water churns with murk just like turbid prose churns with confusion.",
+    "confusableNote": "Do not confuse with 'turgid,' which means pompously inflated or swollen in style; turbid means murky or unclear."
+  },
+  {
+    "id": "veracity",
+    "pos": "n",
+    "definition": "Habitual observance of truth; truthfulness and accuracy.",
+    "example": "The witness's veracity was unquestioned — her account matched every piece of physical evidence.",
+    "synonyms": ["truthfulness", "candor", "probity", "accuracy"],
+    "mnemonic": "VERACITY = VERA (Latin: true) + city — a city where truth lives; think 'verity.'",
+    "confusableNote": ""
+  },
+  {
+    "id": "verisimilitude",
+    "pos": "n",
+    "definition": "The appearance or quality of being true or real; convincing likeness to truth.",
+    "example": "The historical novel achieved remarkable verisimilitude by incorporating authentic period letters and diaries.",
+    "synonyms": ["plausibility", "authenticity", "credibility", "realism"],
+    "mnemonic": "VERISIMILITUDE = VERI (true) + SIMIL (like) — the quality of being like the truth.",
+    "confusableNote": ""
+  },
+  {
+    "id": "veritable",
+    "pos": "adj",
+    "definition": "Used for emphasis to confirm that something is genuinely or truly what it is described as.",
+    "example": "The library's rare manuscript collection was a veritable treasure trove for medieval scholars.",
+    "synonyms": ["authentic", "genuine", "bona fide", "true"],
+    "mnemonic": "VERITABLE = VERITE (French: truth) — veritably, truly so; not exaggerated.",
+    "confusableNote": ""
+  },
+  {
+    "id": "warranted",
+    "pos": "adj",
+    "definition": "Justified or authorized by the circumstances; supported by sufficient evidence or reason.",
+    "example": "Given the pattern of negligence, the inspector's severe sanctions were entirely warranted.",
+    "synonyms": ["justified", "defensible", "substantiated", "merited"],
+    "mnemonic": "WARRANTED = backed by a WARRANT — authorized, officially supported by evidence.",
+    "confusableNote": ""
+  },
+  {
+    "id": "abound",
+    "pos": "v",
+    "definition": "To exist or be available in large quantities; to be plentiful.",
+    "example": "Opportunities abound for those willing to embrace new technologies in the digital economy.",
+    "synonyms": ["proliferate", "teem", "flourish", "overflow"],
+    "mnemonic": "ABOUND = ABUNDANT — drop the 'ant' and you get abound; both signal plenty.",
+    "confusableNote": ""
+  },
+  {
+    "id": "aggrandize",
+    "pos": "v",
+    "definition": "To increase the power, wealth, or importance of someone, often by exaggeration.",
+    "example": "The general used his battlefield victories to aggrandize his political standing at home.",
+    "synonyms": ["magnify", "inflate", "exalt", "amplify"],
+    "mnemonic": "AGGRANDIZE = GRAND + ize — to make oneself grander, larger, more important.",
+    "confusableNote": ""
+  },
+  {
+    "id": "alleviate",
+    "pos": "v",
+    "definition": "To make suffering, pain, or a problem less severe; to provide partial relief.",
+    "example": "The new pain medication significantly alleviated the patient's chronic discomfort.",
+    "synonyms": ["mitigate", "assuage", "palliate", "ameliorate"],
+    "mnemonic": "ALLEVIATE = LEVY lifted — to lighten a heavy burden, like lifting a tax.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ameliorate",
+    "pos": "v",
+    "definition": "To make a bad or unsatisfactory situation better; to improve conditions.",
+    "example": "The nonprofit worked to ameliorate conditions in the city's most impoverished neighborhoods.",
+    "synonyms": ["alleviate", "mitigate", "remedy", "improve"],
+    "mnemonic": "AMELIORATE = AMELIO (from Latin 'melior': better) — to make things better.",
+    "confusableNote": ""
+  },
+  {
+    "id": "amend",
+    "pos": "v",
+    "definition": "To make minor corrections or improvements to a law, document, or statement.",
+    "example": "The legislature voted to amend the statute to close an unintended loophole.",
+    "synonyms": ["revise", "rectify", "emend", "modify"],
+    "mnemonic": "AMEND = to MEND — to fix or mend something that was broken or flawed.",
+    "confusableNote": "Do not confuse with 'emend,' which specifically means to correct errors in a written text; 'amend' is broader."
+  },
+  {
+    "id": "amplify",
+    "pos": "v",
+    "definition": "To enlarge or increase in scope, effect, or intensity; to make greater.",
+    "example": "Social media can amplify misinformation at a speed impossible before the digital age.",
+    "synonyms": ["augment", "magnify", "expand", "intensify"],
+    "mnemonic": "AMPLIFY = AMPLE + fy — to make ample, to make more abundant.",
+    "confusableNote": ""
+  },
+  {
+    "id": "anachronistic",
+    "pos": "adj",
+    "definition": "Belonging or appropriate to a period other than the present; out of its proper historical time.",
+    "example": "A knight in full armor would look anachronistic at a modern diplomatic summit.",
+    "synonyms": ["archaic", "antiquated", "outmoded", "obsolete"],
+    "mnemonic": "ANACHRONISTIC = ANA + CHRONOS (Greek: time) — against the right time, placed in the wrong era.",
+    "confusableNote": ""
+  },
+  {
+    "id": "antedate",
+    "pos": "v",
+    "definition": "To precede in time; to assign a date earlier than the actual date.",
+    "example": "Scholars discovered that the cave paintings antedate the earliest known written language by thousands of years.",
+    "synonyms": ["predate", "precede", "antecede", "forerun"],
+    "mnemonic": "ANTEDATE = ANTE (before) + DATE — to assign or precede with an earlier date.",
+    "confusableNote": "Do not confuse with 'postdate,' its opposite, meaning to occur or assign a later date."
+  },
+  {
+    "id": "archaic",
+    "pos": "adj",
+    "definition": "Very old or from an earlier period; no longer in ordinary use or current practice.",
+    "example": "The judge dismissed the archaic statute as incompatible with modern civil rights standards.",
+    "synonyms": ["antiquated", "anachronistic", "obsolete", "antediluvian"],
+    "mnemonic": "ARCHAIC = ARCH (ancient, as in archaeology) — dig up the really old stuff.",
+    "confusableNote": ""
+  },
+  {
+    "id": "augment",
+    "pos": "v",
+    "definition": "To make something greater by adding to it; to increase in size, scope, or degree.",
+    "example": "The university augmented its research budget after receiving a significant endowment.",
+    "synonyms": ["amplify", "enlarge", "expand", "supplement"],
+    "mnemonic": "AUGMENT = AUGERE (Latin: to increase) — same root as 'auction,' where value increases with each bid.",
+    "confusableNote": ""
+  },
+  {
+    "id": "burgeon",
+    "pos": "v",
+    "definition": "To grow or develop rapidly; to begin to flourish or expand.",
+    "example": "The city's tech sector began to burgeon after three major companies relocated their headquarters there.",
+    "synonyms": ["proliferate", "flourish", "mushroom", "expand"],
+    "mnemonic": "BURGEON = BUDDING — think of flower buds bursting into bloom, rapidly growing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "burnish",
+    "pos": "v",
+    "definition": "To polish or make something shiny by rubbing; figuratively, to enhance or refine one's reputation or image.",
+    "example": "The candidate used the televised debate to burnish her credentials as a fiscal reformer.",
+    "synonyms": ["polish", "refine", "enhance", "buff"],
+    "mnemonic": "BURNISH = BURN + ish — rub until it shines like something burnished by fire.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cathartic",
+    "pos": "adj",
+    "definition": "Providing psychological relief through the release of strong or repressed emotions.",
+    "example": "Writing in a journal proved cathartic for survivors processing their grief after the disaster.",
+    "synonyms": ["purifying", "cleansing", "therapeutic", "relieving"],
+    "mnemonic": "CATHARTIC = CATHARSIS — releasing emotional tension, like draining a pressure valve.",
+    "confusableNote": ""
+  },
+  {
+    "id": "commence",
+    "pos": "v",
+    "definition": "To begin or start something, especially in a formal or official context.",
+    "example": "The arbitration proceedings will commence at nine o'clock on Monday morning.",
+    "synonyms": ["initiate", "inaugurate", "embark", "institute"],
+    "mnemonic": "COMMENCE = COM (together) + MENCE (begin) — everyone together, begin now.",
+    "confusableNote": ""
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "florid",
+    "pos": "adj",
+    "definition": "Excessively elaborate or showy in style, language, or appearance.",
+    "example": "The senator's florid rhetoric impressed some listeners but struck others as overwrought and hollow.",
+    "synonyms": ["ornate", "flowery", "baroque", "grandiloquent"],
+    "mnemonic": "FLORID = full of floral excess — too many flowers on the page.",
+    "confusableNote": ""
+  },
+  {
+    "id": "haughty",
+    "pos": "adj",
+    "definition": "Arrogantly superior and disdainful of others, as if looking down from great height.",
+    "example": "The haughty duchess refused to acknowledge the servants when she swept through the hall.",
+    "synonyms": ["supercilious", "imperious", "disdainful", "condescending"],
+    "mnemonic": "HAUGHTY sounds like 'haute' (high French fashion) — someone who thinks they're above everyone.",
+    "confusableNote": ""
+  },
+  {
+    "id": "histrionic",
+    "pos": "adj",
+    "definition": "Overly theatrical or melodramatic in behavior or expression; designed for effect rather than sincerity.",
+    "example": "Her histrionic outburst at the meeting was so exaggerated that no one took her grievances seriously.",
+    "synonyms": ["melodramatic", "theatrical", "overwrought", "affected"],
+    "mnemonic": "HISTRIONIC shares 'histrio' (Latin actor) — drama queen on stage.",
+    "confusableNote": "Do not confuse with 'historical'; histrionic relates to acting, not history."
+  },
+  {
+    "id": "imperious",
+    "pos": "adj",
+    "definition": "Assuming power or authority without justification; arrogantly domineering and commanding.",
+    "example": "The imperious manager barked orders without explanation, expecting instant obedience from the staff.",
+    "synonyms": ["domineering", "overbearing", "haughty", "autocratic"],
+    "mnemonic": "IMPERIOUS = like an emperor — commanding everyone as if by imperial decree.",
+    "confusableNote": "Do not confuse with 'imperial' (of an empire); imperious describes arrogant behavior, not political authority."
+  },
+  {
+    "id": "lavish",
+    "pos": "adj",
+    "definition": "Sumptuously rich, elaborate, or extravagant, often to an excessive degree.",
+    "example": "The lavish banquet featured gold-plated tableware and a ten-course meal for three hundred guests.",
+    "synonyms": ["extravagant", "opulent", "profuse", "sumptuous"],
+    "mnemonic": "LAVISH sounds like 'lav-ish' — washing in wealth, pouring it on.",
+    "confusableNote": ""
+  },
+  {
+    "id": "modest",
+    "pos": "adj",
+    "definition": "Restrained in style, size, or ambition; not showy or excessive.",
+    "example": "The architect's modest design relied on clean lines rather than decorative flourishes.",
+    "synonyms": ["unassuming", "understated", "unpretentious", "temperate"],
+    "mnemonic": "MODEST = moderate + est — the least flashy option.",
+    "confusableNote": ""
+  },
+  {
+    "id": "narcissism",
+    "pos": "n",
+    "definition": "Excessive self-admiration and self-centeredness, often accompanied by a lack of empathy for others.",
+    "example": "His narcissism was evident in the way he steered every conversation back to his own achievements.",
+    "synonyms": ["vanity", "egotism", "self-absorption", "conceit"],
+    "mnemonic": "NARCISSISM: Narcissus fell in love with his own reflection — total self-obsession.",
+    "confusableNote": ""
+  },
+  {
+    "id": "officious",
+    "pos": "adj",
+    "definition": "Asserting authority or offering unsolicited advice in an annoyingly intrusive, self-important manner.",
+    "example": "The officious clerk insisted on inspecting every document twice, slowing the line to a crawl.",
+    "synonyms": ["meddlesome", "overbearing", "intrusive", "presumptuous"],
+    "mnemonic": "OFFICIOUS: too eager to be the 'official' — poking into everyone's business.",
+    "confusableNote": "Do not confuse with 'official'; officious means overbearingly helpful, not holding an office."
+  },
+  {
+    "id": "ornate",
+    "pos": "adj",
+    "definition": "Elaborately decorated or adorned, often to a point of excess.",
+    "example": "The ornate ceiling of the baroque chapel was covered with gilded reliefs and painted cherubs.",
+    "synonyms": ["florid", "elaborate", "baroque", "rococo"],
+    "mnemonic": "ORNATE = ORNAmented to the extreme — more decoration than needed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "ostentatious",
+    "pos": "adj",
+    "definition": "Conspicuously displaying wealth or luxury to impress others rather than for genuine pleasure.",
+    "example": "His ostentatious collection of sports cars seemed designed to provoke envy rather than reflect genuine passion.",
+    "synonyms": ["showy", "flamboyant", "pretentious", "grandiose"],
+    "mnemonic": "OSTENTATIOUS: 'ostent' means to show off — a lavish show put on for spectators.",
+    "confusableNote": ""
+  },
+  {
+    "id": "panache",
+    "pos": "n",
+    "definition": "Flamboyant confidence and stylish verve in manner or performance.",
+    "example": "She accepted the award with such panache that the audience erupted into spontaneous applause.",
+    "synonyms": ["flair", "flamboyance", "verve", "élan"],
+    "mnemonic": "PANACHE: a plume (panache in French) on a helmet — worn boldly to show off.",
+    "confusableNote": ""
+  },
+  {
+    "id": "pomposity",
+    "pos": "n",
+    "definition": "The quality of being excessively self-important or grand in speech and manner.",
+    "example": "The critic's pomposity alienated younger writers who found his pronouncements insufferably self-congratulatory.",
+    "synonyms": ["pretension", "grandiosity", "bombast", "arrogance"],
+    "mnemonic": "POMPOSITY: a pompous person acts like royalty in a pompous procession.",
+    "confusableNote": ""
+  },
+  {
+    "id": "posturing",
+    "pos": "n",
+    "definition": "Behavior adopted for effect or to impress others, with little sincerity behind it.",
+    "example": "The politician's tough talk on crime was pure posturing ahead of the election, not genuine policy.",
+    "synonyms": ["affectation", "pretense", "grandstanding", "showboating"],
+    "mnemonic": "POSTURING: striking a pose — like a peacock spreading its feathers for show.",
+    "confusableNote": ""
+  },
+  {
+    "id": "presumptuous",
+    "pos": "adj",
+    "definition": "Overstepping proper bounds of behavior through excessive boldness or unwarranted assumption of privilege.",
+    "example": "It was presumptuous of the intern to rewrite the senior partner's brief without being asked.",
+    "synonyms": ["audacious", "impertinent", "forward", "overconfident"],
+    "mnemonic": "PRESUMPTUOUS: PRE-assumes too much — takes liberties before being given permission.",
+    "confusableNote": "Do not confuse with 'presumptive'; presumptuous means overly bold, while presumptive means based on reasonable assumption."
+  },
+  {
+    "id": "pretentious",
+    "pos": "adj",
+    "definition": "Claiming or implying importance, merit, or culture greater than is actually possessed.",
+    "example": "The pretentious restaurant described its simple pasta dish in three paragraphs of florid prose.",
+    "synonyms": ["affected", "pompous", "ostentatious", "grandiose"],
+    "mnemonic": "PRETENTIOUS: full of PRETENSE — pretending to be more impressive than you are.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sensational",
+    "pos": "adj",
+    "definition": "Deliberately exaggerated or shocking to provoke public interest or excitement rather than inform.",
+    "example": "The tabloid's sensational headlines distorted minor incidents into lurid scandals.",
+    "synonyms": ["melodramatic", "lurid", "inflammatory", "overwrought"],
+    "mnemonic": "SENSATIONAL: manufactured to create a SENSATION — drama cranked to maximum.",
+    "confusableNote": "Note the GRE sense (exaggerated/shocking) differs from the colloquial sense (wonderful/excellent)."
+  },
+  {
+    "id": "staid",
+    "pos": "adj",
+    "definition": "Settled, sedate, and respectable in character; restrained to the point of dullness.",
+    "example": "The staid accountancy firm frowned upon any unconventional dress or behavior among its partners.",
+    "synonyms": ["sedate", "sober", "decorous", "conservative"],
+    "mnemonic": "STAID: stayed still — so settled in old ways that nothing ever changes.",
+    "confusableNote": "Do not confuse with 'stayed' (past tense of stay); staid is an adjective meaning overly conservative."
+  },
+  {
+    "id": "subdued",
+    "pos": "adj",
+    "definition": "Quiet and restrained in tone or intensity; lacking vividness or forcefulness.",
+    "example": "The decorator chose a subdued palette of grays and ivories to give the room a calm, understated feel.",
+    "synonyms": ["muted", "restrained", "tempered", "low-key"],
+    "mnemonic": "SUBDUED: brought under (sub) — toned down, kept beneath full intensity.",
+    "confusableNote": ""
+  },
+  {
+    "id": "supercilious",
+    "pos": "adj",
+    "definition": "Behaving as if one is superior to others; having an air of contemptuous indifference.",
+    "example": "The professor's supercilious glance at the student's question made the entire class uncomfortable.",
+    "synonyms": ["haughty", "disdainful", "condescending", "imperious"],
+    "mnemonic": "SUPERCILIOUS: 'supercilium' is Latin for eyebrow — raising one eyebrow in contemptuous scorn.",
+    "confusableNote": ""
+  },
+  {
+    "id": "turgid",
+    "pos": "adj",
+    "definition": "Inflated and pompous in style; excessively ornate in language to the point of obscurity.",
+    "example": "The philosopher's turgid prose buried a modest insight under layers of unnecessary abstraction.",
+    "synonyms": ["bombastic", "grandiloquent", "florid", "pompous"],
+    "mnemonic": "TURGID = swollen up — language puffed up beyond what the content deserves.",
+    "confusableNote": "Do not confuse with 'turbid' (murky, unclear liquid); turgid means pompously swollen in style."
+  },
+  {
+    "id": "unadorned",
+    "pos": "adj",
+    "definition": "Plain and simple, without any decoration or embellishment.",
+    "example": "The minimalist gallery displayed sculpture on unadorned white pedestals with no labels or commentary.",
+    "synonyms": ["plain", "stark", "austere", "unembellished"],
+    "mnemonic": "UNADORNED: UN- + adorn — stripped of all adornment, bare as can be.",
+    "confusableNote": ""
+  },
+  {
+    "id": "understated",
+    "pos": "adj",
+    "definition": "Expressed or presented with deliberate restraint, avoiding exaggeration or showiness.",
+    "example": "Her understated elegance — a simple black dress and single strand of pearls — outshone every elaborate gown in the room.",
+    "synonyms": ["restrained", "subtle", "low-key", "muted"],
+    "mnemonic": "UNDERSTATED: stated UNDER the full level — less than what could be said, by design.",
+    "confusableNote": ""
+  },
+  {
+    "id": "all-encompassing",
+    "pos": "adj",
+    "definition": "Covering or including everything without exception; total in scope or extent.",
+    "example": "The treaty imposed an all-encompassing trade embargo that affected every sector of the country's economy.",
+    "synonyms": ["comprehensive", "sweeping", "exhaustive", "universal"],
+    "mnemonic": "ALL-ENCOMPASSING: wraps its arms around ALL things — nothing left outside.",
+    "confusableNote": ""
+  },
+  {
+    "id": "copious",
+    "pos": "adj",
+    "definition": "Present in large amounts; abundant and plentiful.",
+    "example": "She took copious notes during the lecture, filling three notebooks with detailed observations.",
+    "synonyms": ["abundant", "plentiful", "profuse", "ample"],
+    "mnemonic": "COPIOUS: Latin 'copia' = plenty — think a cornucopia overflowing with food.",
+    "confusableNote": ""
+  },
+  {
+    "id": "cosmopolitan",
+    "pos": "adj",
+    "definition": "Familiar with and at ease in many different cultures and countries; broadly inclusive of diverse elements.",
+    "example": "New York's cosmopolitan population brings together communities from virtually every nation on earth.",
+    "synonyms": ["worldly", "multicultural", "eclectic", "broad-minded"],
+    "mnemonic": "COSMOPOLITAN: 'cosmos' (world) + 'polis' (city) — a citizen of the whole world.",
+    "confusableNote": ""
+  },
+  {
+    "id": "dearth",
+    "pos": "n",
+    "definition": "A scarcity or inadequate supply of something; a notable lack.",
+    "example": "The dearth of qualified candidates forced the committee to extend the application deadline by two months.",
+    "synonyms": ["scarcity", "paucity", "shortage", "deficiency"],
+    "mnemonic": "DEARTH: sounds like 'death' — when something is so scarce it has nearly died out.",
+    "confusableNote": ""
+  },
+  {
+    "id": "diminutive",
+    "pos": "adj",
+    "definition": "Extremely small in size; tiny.",
+    "example": "The diminutive sparrow perched on the windowsill, barely large enough to be visible from across the room.",
+    "synonyms": ["minuscule", "petite", "tiny", "miniature"],
+    "mnemonic": "DIMINUTIVE: DIMINished to the smallest size — diminished all the way.",
+    "confusableNote": ""
+  },
+  {
+    "id": "eclectic",
+    "pos": "adj",
+    "definition": "Deriving ideas or styles from a broad and diverse range of sources rather than one tradition.",
+    "example": "Her eclectic taste in music ranged from Renaissance madrigals to modern electronic compositions.",
+    "synonyms": ["diverse", "wide-ranging", "varied", "heterogeneous"],
+    "mnemonic": "ECLECTIC: 'ek-legein' (Greek: pick out) — selecting the best from many different sources.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exhaustive",
+    "pos": "adj",
+    "definition": "Thorough and complete to the fullest extent; leaving nothing out.",
+    "example": "The commission conducted an exhaustive review of every document before reaching its verdict.",
+    "synonyms": ["comprehensive", "thorough", "all-encompassing", "meticulous"],
+    "mnemonic": "EXHAUSTIVE: EXHAUSTs every possibility — covers everything until nothing remains.",
+    "confusableNote": "Do not confuse with 'exhausted' (tired); exhaustive means thorough and complete, not fatigued."
+  },
+  {
+    "id": "extraneous",
+    "pos": "adj",
+    "definition": "Irrelevant or unrelated to the subject at hand; not essential.",
+    "example": "The editor cut all extraneous details from the report, leaving only data directly relevant to the findings.",
+    "synonyms": ["irrelevant", "superfluous", "tangential", "peripheral"],
+    "mnemonic": "EXTRANEOUS: EXTRA things that don't belong — tossed in from outside the subject.",
+    "confusableNote": "Do not confuse with 'extrinsic' (coming from outside); extraneous specifically means irrelevant or unnecessary."
+  },
+  {
+    "id": "fecund",
+    "pos": "adj",
+    "definition": "Highly productive or fertile, whether in generating offspring, ideas, or creative output.",
+    "example": "The fecund novelist published seven books in a single decade, each exploring a different literary form.",
+    "synonyms": ["prolific", "fertile", "fruitful", "generative"],
+    "mnemonic": "FECUND: sounds like 'fecundity' — the rich soil of fertility producing abundantly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fringe",
+    "pos": "n",
+    "definition": "The outer or less important margin of a group, activity, or subject; a peripheral or extreme position.",
+    "example": "The theory remained on the fringe of academic debate, rejected by most mainstream scholars.",
+    "synonyms": ["periphery", "margin", "edge", "outskirt"],
+    "mnemonic": "FRINGE: the decorative edge of a rug — far from the center, easily overlooked.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fruitful",
+    "pos": "adj",
+    "definition": "Producing good or abundant results; highly productive or beneficial.",
+    "example": "The partnership proved fruitful, yielding three joint publications in the first year alone.",
+    "synonyms": ["productive", "prolific", "rewarding", "fecund"],
+    "mnemonic": "FRUITFUL: a tree that bears much FRUIT — effort that yields rich results.",
+    "confusableNote": ""
+  },
+  {
+    "id": "heterogeneous",
+    "pos": "adj",
+    "definition": "Composed of elements of different kinds; diverse and varied in composition.",
+    "example": "The city's heterogeneous population made it a rich cultural mosaic of languages and traditions.",
+    "synonyms": ["diverse", "varied", "eclectic", "miscellaneous"],
+    "mnemonic": "HETEROGENEOUS: 'hetero' (different) + 'genus' (kind) — many different kinds mixed together.",
+    "confusableNote": "Directly contrasts with 'homogeneous' (all the same kind)."
+  },
+  {
+    "id": "homogeneous",
+    "pos": "adj",
+    "definition": "Of the same kind throughout; uniform in composition or character.",
+    "example": "The homogeneous community had shared the same customs and language for generations without outside influence.",
+    "synonyms": ["uniform", "consistent", "identical", "undifferentiated"],
+    "mnemonic": "HOMOGENEOUS: 'homo' (same) + 'genus' (kind) — all one kind, like homogenized milk.",
+    "confusableNote": "Directly contrasts with 'heterogeneous' (mixed, diverse kinds)."
+  },
+  {
+    "id": "incidental",
+    "pos": "adj",
+    "definition": "Occurring as a minor accompaniment to something else; not of primary importance.",
+    "example": "The cost savings were incidental benefits of the policy, not its primary motivation.",
+    "synonyms": ["peripheral", "secondary", "tangential", "minor"],
+    "mnemonic": "INCIDENTAL: an INCIDENT on the side — happens alongside the main event, not central to it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "inordinate",
+    "pos": "adj",
+    "definition": "Exceeding reasonable limits; disproportionately large or excessive.",
+    "example": "He spent an inordinate amount of time on the introduction, leaving little for the body of the argument.",
+    "synonyms": ["excessive", "disproportionate", "exorbitant", "undue"],
+    "mnemonic": "INORDINATE: IN- + ordinate (ordered) — out of order, way beyond what's appropriate.",
+    "confusableNote": ""
+  },
+  {
+    "id": "marginalize",
+    "pos": "v",
+    "definition": "To treat a person or group as insignificant or peripheral, relegating them to powerless status.",
+    "example": "The policy effectively marginalized rural communities by concentrating all funding in urban centers.",
+    "synonyms": ["sideline", "disenfranchise", "exclude", "diminish"],
+    "mnemonic": "MARGINALIZE: push to the MARGIN — written off to the side where no one reads.",
+    "confusableNote": ""
+  },
+  {
+    "id": "meager",
+    "pos": "adj",
+    "definition": "Lacking in quantity or quality; deficient and inadequate.",
+    "example": "The refugees survived on meager rations of rice and water for weeks before aid arrived.",
+    "synonyms": ["scanty", "paltry", "sparse", "inadequate"],
+    "mnemonic": "MEAGER: sounds like 'meager meal' — barely enough to sustain you.",
+    "confusableNote": ""
+  },
+  {
+    "id": "minute",
+    "pos": "adj",
+    "definition": "Extremely small in size or amount; tiny.",
+    "example": "The forensic analyst found minute traces of the substance invisible to the naked eye.",
+    "synonyms": ["minuscule", "microscopic", "infinitesimal", "negligible"],
+    "mnemonic": "MINUTE (adj): pronounced my-NEWT — shrunk down to a newt's scale, almost nothing.",
+    "confusableNote": "As an adjective (my-NOOT), minute means tiny — distinct from the noun 'minute' (60 seconds)."
+  },
+  {
+    "id": "multifaceted",
+    "pos": "adj",
+    "definition": "Having many different aspects, features, or sides; complex and many-dimensional.",
+    "example": "The multifaceted crisis required coordinated responses from economists, public health officials, and diplomats.",
+    "synonyms": ["complex", "versatile", "diverse", "manifold"],
+    "mnemonic": "MULTIFACETED: MULTI- + FACETS — like a gemstone with many cut faces shining in different directions.",
+    "confusableNote": ""
+  },
+  {
+    "id": "omnipresent",
+    "pos": "adj",
+    "definition": "Present everywhere or in all places at the same time; ubiquitous.",
+    "example": "Social media has become omnipresent, shaping public discourse in nearly every corner of the world.",
+    "synonyms": ["ubiquitous", "pervasive", "universal", "all-pervading"],
+    "mnemonic": "OMNIPRESENT: OMNI (all) + PRESENT — showing up everywhere, all the time.",
+    "confusableNote": ""
+  },
+  {
+    "id": "paltry",
+    "pos": "adj",
+    "definition": "Miserably small or inadequate in amount; contemptibly trivial.",
+    "example": "Workers protested the paltry raise of two cents per hour as an insult given the company's record profits.",
+    "synonyms": ["meager", "trifling", "negligible", "pitiful"],
+    "mnemonic": "PALTRY: PALtry — pale and thin, so small it barely exists.",
+    "confusableNote": ""
+  },
+  {
+    "id": "partial",
+    "pos": "adj",
+    "definition": "Constituting only a part; incomplete or not total.",
+    "example": "The committee reached only a partial agreement, leaving several contentious issues unresolved.",
+    "synonyms": ["incomplete", "limited", "fractional", "fragmentary"],
+    "mnemonic": "PARTIAL: only PART of the whole — the rest is still missing.",
+    "confusableNote": "Note 'partial' also means biased (favoring one side), so context determines which sense applies on the GRE."
+  }
+]

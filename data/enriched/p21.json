@@ -1,0 +1,398 @@
+[
+  {
+    "id": "quell",
+    "pos": "v",
+    "definition": "To suppress or put an end to a rebellion, feeling, or disturbance by force.",
+    "example": "The governor called in the National Guard to quell the riots that had broken out across the city.",
+    "synonyms": ["suppress", "subdue", "quash", "squelch"],
+    "mnemonic": "QUELL sounds like 'kill' — kill the chaos, silence it completely.",
+    "confusableNote": ""
+  },
+  {
+    "id": "quiescent",
+    "pos": "adj",
+    "definition": "In a state of inactivity or dormancy; temporarily quiet and still.",
+    "example": "The volcano had been quiescent for two centuries before scientists detected renewed seismic activity.",
+    "synonyms": ["dormant", "latent", "inert", "placid"],
+    "mnemonic": "QUIET + -escent = becoming quiet; quiescent things have gone quiet.",
+    "confusableNote": ""
+  },
+  {
+    "id": "relinquish",
+    "pos": "v",
+    "definition": "To voluntarily give up or surrender a claim, right, possession, or responsibility.",
+    "example": "The retiring CEO agreed to relinquish all executive authority to her successor on the first of the month.",
+    "synonyms": ["abdicate", "renounce", "cede", "forgo"],
+    "mnemonic": "RE + LINQUISH — 'linquish' echoes 'relinquere' (Latin: to leave behind); you leave it behind for good.",
+    "confusableNote": ""
+  },
+  {
+    "id": "renounce",
+    "pos": "v",
+    "definition": "To formally declare one's abandonment of a claim, belief, or course of action.",
+    "example": "She renounced her citizenship and relocated abroad to protest the authoritarian regime.",
+    "synonyms": ["relinquish", "disavow", "repudiate", "abjure"],
+    "mnemonic": "RE + NOUNCE — 'announce' your rejection; you publicly announce you're done with it.",
+    "confusableNote": "Do not confuse with 'pronounce' (to declare or articulate); renounce means to formally give up or reject."
+  },
+  {
+    "id": "repudiate",
+    "pos": "v",
+    "definition": "To reject or deny the validity of something, or refuse to acknowledge a debt or obligation.",
+    "example": "The senator repudiated the extremist statements attributed to him, calling them fabricated.",
+    "synonyms": ["disavow", "denounce", "renounce", "abjure"],
+    "mnemonic": "RE + PUDIATE — think 'repute' reversed; you destroy the reputation of something by rejecting it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "spurn",
+    "pos": "v",
+    "definition": "To reject with contempt or disdain, especially a person's advances or an offered gift.",
+    "example": "He spurned every offer of reconciliation, refusing to acknowledge that his former partner had any goodwill.",
+    "synonyms": ["rebuff", "repudiate", "scorn", "disdain"],
+    "mnemonic": "SPURN sounds like 'spur' — you kick something away with a spur, sending it off contemptuously.",
+    "confusableNote": ""
+  },
+  {
+    "id": "stanch",
+    "pos": "v",
+    "definition": "To stop or restrict the flow of something, especially blood or a damaging outflow.",
+    "example": "Emergency measures were taken to stanch the flow of capital leaving the country during the financial crisis.",
+    "synonyms": ["stem", "halt", "arrest", "check"],
+    "mnemonic": "STANCH = STANCE — you take a firm stance to block the flow.",
+    "confusableNote": "Often confused with 'staunch' (adjective meaning loyal/firm); 'stanch' as a verb means to stop a flow."
+  },
+  {
+    "id": "subside",
+    "pos": "v",
+    "definition": "To become less intense, violent, or severe; to gradually diminish or sink to a lower level.",
+    "example": "Once the antihistamine took effect, the swelling began to subside and the pain eased considerably.",
+    "synonyms": ["abate", "wane", "diminish", "ebb"],
+    "mnemonic": "SUB + SIDE — it slides 'sub' (under), sinking below the surface, disappearing.",
+    "confusableNote": ""
+  },
+  {
+    "id": "supersede",
+    "pos": "v",
+    "definition": "To take the place of something previously in authority or use; to render obsolete.",
+    "example": "Digital streaming has largely superseded physical media as the dominant format for music consumption.",
+    "synonyms": ["supplant", "displace", "replace", "override"],
+    "mnemonic": "SUPER + SEDE (Latin: sit) — the new thing sits on top, above the old one.",
+    "confusableNote": "Often misspelled 'supercede'; the correct spelling is supersede (from Latin 'sedere,' to sit)."
+  },
+  {
+    "id": "supplant",
+    "pos": "v",
+    "definition": "To take the place of another, especially by force, scheming, or superior capability.",
+    "example": "Cheaper synthetic materials have supplanted natural rubber in most industrial applications.",
+    "synonyms": ["displace", "supersede", "oust", "usurp"],
+    "mnemonic": "SUP + PLANT — like uprooting a plant and putting yourself in its spot.",
+    "confusableNote": "Supplant implies a more forceful or cunning displacement than 'replace,' which is neutral."
+  },
+  {
+    "id": "surmount",
+    "pos": "v",
+    "definition": "To overcome a difficulty or obstacle; to climb over or be placed on top of something.",
+    "example": "With remarkable perseverance, she surmounted every bureaucratic obstacle to obtain her medical license abroad.",
+    "synonyms": ["overcome", "conquer", "transcend", "prevail over"],
+    "mnemonic": "SUR (over) + MOUNT — you mount over the top of the obstacle.",
+    "confusableNote": ""
+  },
+  {
+    "id": "transcend",
+    "pos": "v",
+    "definition": "To go beyond the limits of something, surpassing ordinary constraints or categories.",
+    "example": "The composer's final symphony transcended genre boundaries, blending classical structure with jazz improvisation.",
+    "synonyms": ["surpass", "exceed", "eclipse", "surmount"],
+    "mnemonic": "TRANS (across) + SCEND (climb) — you climb across to the other side, beyond all limits.",
+    "confusableNote": ""
+  },
+  {
+    "id": "adverse",
+    "pos": "adj",
+    "definition": "Harmful, unfavorable, or acting against one's interests; presenting a serious obstacle.",
+    "example": "The clinical trial was halted after participants experienced adverse reactions to the experimental drug.",
+    "synonyms": ["detrimental", "unfavorable", "deleterious", "inimical"],
+    "mnemonic": "ADVERSE = AVERSE with a 'd' — something you'd want to be averse to because it's against you.",
+    "confusableNote": "Confused with 'averse' (reluctant/opposed to); adverse describes conditions, averse describes feelings."
+  },
+  {
+    "id": "auspicious",
+    "pos": "adj",
+    "definition": "Giving a favorable indication of future success; promising or fortunate.",
+    "example": "Winning the regional championship in her freshman year was an auspicious start to her athletic career.",
+    "synonyms": ["propitious", "favorable", "fortuitous", "promising"],
+    "mnemonic": "AUSPICIOUS — ancient Romans read bird (avis) signs (auspices) to predict good fortune.",
+    "confusableNote": ""
+  },
+  {
+    "id": "buoyant",
+    "pos": "adj",
+    "definition": "Cheerfully optimistic; able to stay afloat or maintain a positive tendency despite difficulties.",
+    "example": "Despite the recent market downturn, investor sentiment remained surprisingly buoyant throughout the quarter.",
+    "synonyms": ["sanguine", "optimistic", "resilient", "upbeat"],
+    "mnemonic": "BUOY + ANT — a buoy bobs up on water; buoyant spirits keep rising back up.",
+    "confusableNote": ""
+  },
+  {
+    "id": "expedient",
+    "pos": "adj",
+    "definition": "Convenient and practical for a particular purpose, often with an implication of self-interest over principle.",
+    "example": "The politician's sudden change of stance was clearly expedient rather than driven by genuine conviction.",
+    "synonyms": ["pragmatic", "utilitarian", "politic", "advantageous"],
+    "mnemonic": "EXPEDIENT = EXPEDIENTly practical — it 'expedites' a goal, chosen for speed over ethics.",
+    "confusableNote": "Expedient often implies moral compromise; 'practical' is neutral. Expedient = practical but possibly unprincipled."
+  },
+  {
+    "id": "feasible",
+    "pos": "adj",
+    "definition": "Capable of being done or carried out successfully; practically possible.",
+    "example": "Engineers determined that constructing a bridge across the strait was technically feasible within the budget.",
+    "synonyms": ["viable", "practicable", "workable", "attainable"],
+    "mnemonic": "FEASIBLE = CAN be DONE — think 'fais' (French: do); if it's feasible, you can do it.",
+    "confusableNote": ""
+  },
+  {
+    "id": "fortuitous",
+    "pos": "adj",
+    "definition": "Happening by a lucky chance; occurring accidentally but with a fortunate outcome.",
+    "example": "Their fortuitous meeting at the conference led to a collaboration that revolutionized the field.",
+    "synonyms": ["serendipitous", "providential", "auspicious", "accidental"],
+    "mnemonic": "FORTUITOUS contains FORTUNE — a fortunate accident, luck's gift without planning.",
+    "confusableNote": "Fortuitous strictly means 'by chance,' not necessarily 'lucky,' though GRE usage favors the fortunate sense."
+  },
+  {
+    "id": "fraught",
+    "pos": "adj",
+    "definition": "Filled with or causing anxiety, distress, or risk; laden with something undesirable.",
+    "example": "The negotiations were fraught with tension, as neither side was willing to make the first concession.",
+    "synonyms": ["perilous", "precarious", "charged", "laden"],
+    "mnemonic": "FRAUGHT = FREIGHT — heavy freight weighs you down; fraught situations weigh on you with danger.",
+    "confusableNote": ""
+  },
+  {
+    "id": "futile",
+    "pos": "adj",
+    "definition": "Incapable of producing any useful result; utterly pointless or ineffective.",
+    "example": "It proved futile to argue with the committee once they had already reached a unanimous decision.",
+    "synonyms": ["fruitless", "vain", "ineffectual", "abortive"],
+    "mnemonic": "FUTILE = FEW + TILE — so few tiles you can't build anything; the effort leads nowhere.",
+    "confusableNote": ""
+  },
+  {
+    "id": "gratuitous",
+    "pos": "adj",
+    "definition": "Uncalled for; lacking any good reason; done without necessity or justification.",
+    "example": "Critics objected to the gratuitous violence in the film, arguing it served no narrative purpose.",
+    "synonyms": ["unwarranted", "superfluous", "unjustified", "wanton"],
+    "mnemonic": "GRATUITOUS = GRATUITY (tip) given for no work — something given or done with no good reason.",
+    "confusableNote": "Gratuitous can also mean 'free of charge' in older usage; on the GRE it means 'unjustified/unnecessary.'"
+  },
+  {
+    "id": "imperative",
+    "pos": "adj",
+    "definition": "Absolutely necessary or urgently required; admitting of no delay or avoidance.",
+    "example": "It is imperative that all personnel evacuate the building immediately when the alarm sounds.",
+    "synonyms": ["essential", "indispensable", "mandatory", "crucial"],
+    "mnemonic": "IMPERATIVE = EMPEROR's order — an emperor's command that cannot be refused.",
+    "confusableNote": ""
+  },
+  {
+    "id": "indispensable",
+    "pos": "adj",
+    "definition": "Absolutely necessary; impossible to do without.",
+    "example": "Clean water is indispensable to all known forms of life on Earth.",
+    "synonyms": ["essential", "imperative", "vital", "requisite"],
+    "mnemonic": "IN + DISPENSABLE — cannot be dispensed with, cannot be set aside.",
+    "confusableNote": ""
+  },
+  {
+    "id": "intrinsic",
+    "pos": "adj",
+    "definition": "Belonging naturally and essentially to something; inherent rather than external or acquired.",
+    "example": "Philosophers debate whether moral value is intrinsic to human beings or assigned by social convention.",
+    "synonyms": ["inherent", "innate", "essential", "integral"],
+    "mnemonic": "INTRINSIC = INSIDE + TRINKET — the value is inside, built in, not added on.",
+    "confusableNote": "Contrasts with 'extrinsic' (originating from outside); intrinsic value is internal and independent of circumstance."
+  },
+  {
+    "id": "perilous",
+    "pos": "adj",
+    "definition": "Full of grave danger or risk; extremely hazardous.",
+    "example": "The mountaineers faced a perilous ascent through whiteout conditions with visibility near zero.",
+    "synonyms": ["hazardous", "precarious", "fraught", "treacherous"],
+    "mnemonic": "PERILOUS has PERIL right in it — full of peril, dangerously risky.",
+    "confusableNote": ""
+  },
+  {
+    "id": "precarious",
+    "pos": "adj",
+    "definition": "Dangerously insecure or unstable; dependent on uncertain circumstances.",
+    "example": "The fragile ceasefire left the region in a precarious peace that could collapse at any moment.",
+    "synonyms": ["unstable", "hazardous", "perilous", "tenuous"],
+    "mnemonic": "PRECARIOUS = PRE-CARE-ious — requires great care before acting, because the footing is shaky.",
+    "confusableNote": ""
+  },
+  {
+    "id": "propitious",
+    "pos": "adj",
+    "definition": "Giving or indicating a good chance of success; presenting favorable conditions.",
+    "example": "Spring brought propitious conditions for the harvest, with steady rains and mild temperatures.",
+    "synonyms": ["auspicious", "favorable", "opportune", "felicitous"],
+    "mnemonic": "PROPITIOUS = PRO + PITIOUS — everything is 'pro' (in favor), conditions are rooting for you.",
+    "confusableNote": ""
+  },
+  {
+    "id": "redundant",
+    "pos": "adj",
+    "definition": "No longer needed or useful; saying or doing more than is necessary.",
+    "example": "The editor cut several redundant paragraphs that repeated points already made earlier in the essay.",
+    "synonyms": ["superfluous", "unnecessary", "repetitious", "tautological"],
+    "mnemonic": "REDUNDANT = RE-DUN-DANT — done and done again; saying the same thing twice over.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sanguine",
+    "pos": "adj",
+    "definition": "Optimistic, especially in a difficult situation; confidently hopeful about future outcomes.",
+    "example": "Despite the setbacks, the team remained sanguine about their chances of meeting the deadline.",
+    "synonyms": ["optimistic", "buoyant", "hopeful", "confident"],
+    "mnemonic": "SANGUINE = SANG (past tense of sing) — you're so hopeful you feel like singing.",
+    "confusableNote": "In medieval medicine sanguine referred to a blood-dominant temperament; on the GRE it means optimistic."
+  },
+  {
+    "id": "serendipitous",
+    "pos": "adj",
+    "definition": "Occurring by a fortunate and unexpected coincidence; pleasantly surprising by chance.",
+    "example": "Her serendipitous discovery of an old letter in the attic led to uncovering her family's hidden history.",
+    "synonyms": ["fortuitous", "providential", "accidental", "lucky"],
+    "mnemonic": "SERENDIPITY — coined from the fairy tale 'The Three Princes of Serendip,' who made lucky finds.",
+    "confusableNote": ""
+  },
+  {
+    "id": "superfluous",
+    "pos": "adj",
+    "definition": "Exceeding what is necessary or sufficient; more than enough, therefore unnecessary.",
+    "example": "The lengthy disclaimer at the end of the report was superfluous, as all its points had been addressed earlier.",
+    "synonyms": ["redundant", "gratuitous", "excessive", "extraneous"],
+    "mnemonic": "SUPER + FLUOU(S) — it 'flows' over the top (super); an overflow of excess.",
+    "confusableNote": ""
+  },
+  {
+    "id": "utilitarian",
+    "pos": "adj",
+    "definition": "Designed to be useful or practical rather than attractive or luxurious; prioritizing function over form.",
+    "example": "The office furniture was strictly utilitarian — durable, functional, and entirely without aesthetic appeal.",
+    "synonyms": ["pragmatic", "functional", "expedient", "practical"],
+    "mnemonic": "UTILITARIAN = UTILITY — built purely for utility, stripped of all ornament.",
+    "confusableNote": "Also a philosophical doctrine (greatest good for greatest number); on the GRE the adj sense is practical/functional."
+  },
+  {
+    "id": "viable",
+    "pos": "adj",
+    "definition": "Capable of working successfully; having a reasonable chance of achieving its aim.",
+    "example": "The startup's business plan was financially viable only if it secured a second round of investment.",
+    "synonyms": ["feasible", "workable", "practicable", "sustainable"],
+    "mnemonic": "VIABLE = VIA (way) + ABLE — there is a way forward; it's able to find a path.",
+    "confusableNote": ""
+  },
+  {
+    "id": "vitality",
+    "pos": "n",
+    "definition": "The state of being strong, active, and resilient; the energy and vigor essential to life or a system.",
+    "example": "The economic vitality of the region depended almost entirely on the success of its agricultural exports.",
+    "synonyms": ["vigor", "energy", "dynamism", "liveliness"],
+    "mnemonic": "VITALITY = VITA (Latin: life) — the force of life itself, the energy of living things.",
+    "confusableNote": ""
+  },
+  {
+    "id": "baroque",
+    "pos": "adj",
+    "definition": "Elaborately ornate and extravagant in style, often to an excessive or grotesque degree.",
+    "example": "The novelist's baroque prose, laden with nested clauses and florid metaphors, exhausted even devoted readers.",
+    "synonyms": ["ornate", "florid", "flamboyant", "extravagant"],
+    "mnemonic": "BAROQUE = BAR + OAK — a heavily carved oak bar dripping with excessive ornamentation.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bombastic",
+    "pos": "adj",
+    "definition": "High-sounding language with little substance; pompous and inflated in speech or writing.",
+    "example": "The senator's bombastic speeches impressed his base but struck independent voters as hollow and self-aggrandizing.",
+    "synonyms": ["grandiose", "pompous", "turgid", "inflated"],
+    "mnemonic": "BOMB + ASTIC — like a bomb of hot air, loud and impressive but producing nothing solid.",
+    "confusableNote": ""
+  },
+  {
+    "id": "bravado",
+    "pos": "n",
+    "definition": "A bold, swaggering display of courage that is often pretended rather than genuine.",
+    "example": "His bravado at the negotiating table masked a deep anxiety about the outcome of the talks.",
+    "synonyms": ["bluster", "swagger", "braggadocio", "posturing"],
+    "mnemonic": "BRAVADO = BRAVE + ADO — making a great 'ado' about being brave, often without the substance.",
+    "confusableNote": "Bravado implies false or performed courage; 'bravery' denotes genuine courage under threat."
+  },
+  {
+    "id": "cavalier",
+    "pos": "adj",
+    "definition": "Showing a dismissive lack of proper concern; treating serious matters with arrogant indifference.",
+    "example": "Her cavalier attitude toward workplace safety regulations put her entire team at risk.",
+    "synonyms": ["dismissive", "haughty", "disdainful", "offhand"],
+    "mnemonic": "CAVALIER = CAVALRY — a horseman looking down from a height, dismissing those below.",
+    "confusableNote": ""
+  },
+  {
+    "id": "chauvinistic",
+    "pos": "adj",
+    "definition": "Exhibiting aggressive, prejudiced belief in the superiority of one's own group, cause, or sex.",
+    "example": "His chauvinistic assumption that women were unsuited for leadership roles drew immediate criticism from colleagues.",
+    "synonyms": ["jingoistic", "supremacist", "biased", "parochial"],
+    "mnemonic": "Named after Nicolas Chauvin, a fanatically loyal soldier whose blind patriotism became a byword.",
+    "confusableNote": ""
+  },
+  {
+    "id": "elitist",
+    "pos": "adj",
+    "definition": "Believing that a select group of people with superior attributes deserves privilege and control.",
+    "example": "Critics argued the admissions policy was elitist, favoring applicants from wealthy, well-connected families.",
+    "synonyms": ["snobbish", "patrician", "exclusive", "condescending"],
+    "mnemonic": "ELITIST = ELITE + IST — one who worships the elite and scorns those outside that circle.",
+    "confusableNote": ""
+  },
+  {
+    "id": "embellish",
+    "pos": "v",
+    "definition": "To make something more attractive or interesting by adding decorative details, often exaggerating the truth.",
+    "example": "The travel writer embellished her account of the journey with vivid but invented episodes of adventure.",
+    "synonyms": ["adorn", "ornament", "exaggerate", "elaborate"],
+    "mnemonic": "EMBELLISH = EM + BELL — hang bells on something to make it look festive and fancy.",
+    "confusableNote": ""
+  },
+  {
+    "id": "exorbitant",
+    "pos": "adj",
+    "definition": "Unreasonably high or excessive, far beyond what is considered normal or fair.",
+    "example": "Tenants protested the exorbitant rent increases that priced working families out of the neighborhood.",
+    "synonyms": ["extravagant", "excessive", "inordinate", "unconscionable"],
+    "mnemonic": "EXORBITANT = EX + ORBIT — so far out it's gone out of orbit, beyond all reasonable bounds.",
+    "confusableNote": ""
+  },
+  {
+    "id": "extravagant",
+    "pos": "adj",
+    "definition": "Spending much more than necessary or proper; exceeding the bounds of reason in style or scale.",
+    "example": "The CEO's extravagant lifestyle — private jets and a fleet of luxury cars — alienated shareholders during hard times.",
+    "synonyms": ["lavish", "profligate", "exorbitant", "flamboyant"],
+    "mnemonic": "EXTRA + VAGANT (wander) — wandering far beyond the bounds of what is reasonable or needed.",
+    "confusableNote": ""
+  },
+  {
+    "id": "flamboyant",
+    "pos": "adj",
+    "definition": "Strikingly bold, showy, or colorful in a way that attracts attention; ostentatiously elaborate.",
+    "example": "The designer's flamboyant runway collection drew gasps — sequined capes and ten-inch platform heels.",
+    "synonyms": ["ostentatious", "extravagant", "gaudy", "theatrical"],
+    "mnemonic": "FLAMBOYANT = FLAME + BUOYANT — like a flame, bright and dancing, impossible to ignore.",
+    "confusableNote": ""
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "picturesque",
+    "pos": "adj",
+    "definition": "Visually charming or striking in a way that resembles a beautifully composed picture.",
+    "example": "The picturesque village nestled in the Alps drew painters from across Europe.",
+    "synonyms": ["scenic", "quaint", "idyllic", "charming"],
+    "mnemonic": "Picture + esque: looks like a perfect picture.",
+    "confusableNote": ""
+  },
+  {
+    "id": "piquant",
+    "pos": "adj",
+    "definition": "Pleasantly stimulating or intriguing to the mind; agreeably lively and provocative in style.",
+    "example": "Her piquant wit made every dinner conversation an event worth attending.",
+    "synonyms": ["intriguing", "stimulating", "lively", "zestful"],
+    "mnemonic": "Piquant rhymes with 'keen aunt' — a keen, sharp-minded relative.",
+    "confusableNote": "Do not confuse with 'pungent,' which describes an overpowering, often unpleasant smell."
+  },
+  {
+    "id": "platitude",
+    "pos": "n",
+    "definition": "A flat, overused remark or statement that has lost its meaning through excessive repetition.",
+    "example": "The graduation speech was full of platitudes about following your dreams.",
+    "synonyms": ["cliché", "truism", "banality", "bromide"],
+    "mnemonic": "Platitude = flat (plat-) attitude — a flat, stale idea.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prosaic",
+    "pos": "adj",
+    "definition": "Lacking imagination or originality; dull and uninteresting in an everyday, matter-of-fact way.",
+    "example": "The critic dismissed the novel as prosaic, offering nothing beyond a plain recitation of events.",
+    "synonyms": ["mundane", "pedestrian", "banal", "humdrum"],
+    "mnemonic": "Prose (vs. poetry) is plain writing — prosaic means plain and dull.",
+    "confusableNote": ""
+  },
+  {
+    "id": "rudimentary",
+    "pos": "adj",
+    "definition": "Involving or limited to the most basic, undeveloped, or elementary principles or skills.",
+    "example": "The refugee had only a rudimentary knowledge of English when she arrived.",
+    "synonyms": ["elementary", "basic", "primitive", "nascent"],
+    "mnemonic": "Rudiment = root; rudimentary = just the root-level basics.",
+    "confusableNote": ""
+  },
+  {
+    "id": "scintillating",
+    "pos": "adj",
+    "definition": "Brilliantly clever, lively, or dazzling in a way that sparks keen interest and admiration.",
+    "example": "The professor delivered a scintillating lecture that kept students on the edge of their seats.",
+    "synonyms": ["dazzling", "sparkling", "brilliant", "effervescent"],
+    "mnemonic": "Scintilla = spark; scintillating = throwing off sparks of brilliance.",
+    "confusableNote": ""
+  },
+  {
+    "id": "slovenly",
+    "pos": "adj",
+    "definition": "Habitually untidy, careless, or dirty in personal appearance or work habits.",
+    "example": "The inspector noted the slovenly state of the kitchen and ordered an immediate health review.",
+    "synonyms": ["unkempt", "slatternly", "slipshod", "disheveled"],
+    "mnemonic": "Slovenly sounds like 'sloven' — a sloppy, messy person.",
+    "confusableNote": ""
+  },
+  {
+    "id": "sophisticated",
+    "pos": "adj",
+    "definition": "Highly developed in taste, culture, or knowledge; polished and refined in manner and awareness.",
+    "example": "Her sophisticated palate could distinguish a fine Burgundy from a mere table wine.",
+    "synonyms": ["refined", "cultivated", "worldly", "cosmopolitan"],
+    "mnemonic": "Sophia (wisdom) + sophisticated: wisdom-seasoned, worldly-wise.",
+    "confusableNote": ""
+  },
+  {
+    "id": "trite",
+    "pos": "adj",
+    "definition": "Overused to the point of losing its freshness, depth, or sincerity; hackneyed.",
+    "example": "The screenwriter's trite dialogue made the romantic subplot feel painfully predictable.",
+    "synonyms": ["hackneyed", "clichéd", "banal", "stale"],
+    "mnemonic": "Trite = 'tried' too many times — worn out from overuse.",
+    "confusableNote": "Do not confuse with 'trite' (legal: small/trivial) in everyday speech vs. the GRE sense of hackneyed."
+  },
+  {
+    "id": "urbane",
+    "pos": "adj",
+    "definition": "Suavely polished and sophisticated in manner; courteous and refined in social behavior.",
+    "example": "The ambassador's urbane charm put every foreign dignitary immediately at ease.",
+    "synonyms": ["suave", "debonair", "polished", "cosmopolitan"],
+    "mnemonic": "Urban + urbane: city (urban) people are smooth and worldly.",
+    "confusableNote": "Do not confuse with 'urban' (relating to a city); 'urbane' specifically means suave and sophisticated."
+  },
+  {
+    "id": "acclaim",
+    "pos": "n",
+    "definition": "Enthusiastic public praise and approval given to a person or achievement.",
+    "example": "The debut novelist received widespread acclaim for her unflinching portrayal of immigrant life.",
+    "synonyms": ["praise", "plaudits", "kudos", "accolade"],
+    "mnemonic": "Acclaim = 'a claim' that someone is great — publicly shouting approval.",
+    "confusableNote": ""
+  },
+  {
+    "id": "altruistic",
+    "pos": "adj",
+    "definition": "Showing selfless concern for the welfare of others, placing their needs above one's own.",
+    "example": "Her altruistic decision to donate her entire inheritance shocked even her closest friends.",
+    "synonyms": ["selfless", "philanthropic", "benevolent", "magnanimous"],
+    "mnemonic": "Altruistic: 'alter' (Latin: other) — focused on the other person, not yourself.",
+    "confusableNote": ""
+  },
+  {
+    "id": "apogee",
+    "pos": "n",
+    "definition": "The highest point of development, power, or achievement; the culmination of excellence.",
+    "example": "The Renaissance represented the apogee of humanist art and intellectual inquiry.",
+    "synonyms": ["pinnacle", "zenith", "acme", "apex"],
+    "mnemonic": "Apogee: 'apo' (away from) + 'gee' (earth) — farthest point from earth, i.e., the peak.",
+    "confusableNote": "Do not confuse with 'perigee,' which is the lowest point of an orbit."
+  },
+  {
+    "id": "approbation",
+    "pos": "n",
+    "definition": "Formal or official approval and praise; sanction expressed with admiration.",
+    "example": "The board gave its approbation to the new curriculum after months of review.",
+    "synonyms": ["approval", "commendation", "endorsement", "acclaim"],
+    "mnemonic": "Approbation sounds like 'approval' — approve + -ation.",
+    "confusableNote": "Do not confuse with 'opprobrium,' which means harsh public disgrace or censure — the opposite."
+  },
+  {
+    "id": "august",
+    "pos": "adj",
+    "definition": "Inspiring reverence and admiration due to dignity, grandeur, or distinguished importance.",
+    "example": "The august assembly of Nobel laureates debated the ethical limits of genetic engineering.",
+    "synonyms": ["venerable", "majestic", "distinguished", "illustrious"],
+    "mnemonic": "Augustus Caesar was the greatest emperor — august = great and majestic.",
+    "confusableNote": "Do not confuse with 'August' (the month); the adjective 'august' means imposingly grand."
+  },
+  {
+    "id": "beneficent",
+    "pos": "adj",
+    "definition": "Actively doing good or producing beneficial results for others; generously kind.",
+    "example": "The beneficent donor funded clinics throughout the region, asking nothing in return.",
+    "synonyms": ["charitable", "benevolent", "philanthropic", "munificent"],
+    "mnemonic": "Beneficent: bene (good) + fic (make) — one who makes good happen.",
+    "confusableNote": "Do not confuse with 'beneficial' (producing benefit); 'beneficent' stresses the active, generous character of the doer."
+  },
+  {
+    "id": "benevolent",
+    "pos": "adj",
+    "definition": "Warmly well-wishing and generous toward others; marked by goodwill and kindly intent.",
+    "example": "The benevolent teacher stayed after school each day to help struggling students.",
+    "synonyms": ["charitable", "altruistic", "magnanimous", "kindly"],
+    "mnemonic": "Bene (good) + volent (wishing) — wishing good for others.",
+    "confusableNote": "Do not confuse with 'benign,' which more broadly means harmless or mild."
+  },
+  {
+    "id": "benign",
+    "pos": "adj",
+    "definition": "Gentle and kind in disposition; not harmful or threatening in nature or effect.",
+    "example": "His benign smile reassured the anxious child waiting outside the principal's office.",
+    "synonyms": ["kindly", "harmless", "gentle", "mild"],
+    "mnemonic": "Benign: bene (good) + gn (born) — born good, naturally harmless.",
+    "confusableNote": "In medicine, 'benign' means non-cancerous; in character, it means gentle and non-threatening."
+  },
+  {
+    "id": "cherish",
+    "pos": "v",
+    "definition": "To hold dear with deep affection and esteem; to nurture and protect something valued.",
+    "example": "She cherished the letters her grandmother had sent during the war.",
+    "synonyms": ["treasure", "revere", "prize", "esteem"],
+    "mnemonic": "Cherish sounds like 'care-ish' — to care deeply for something.",
+    "confusableNote": ""
+  },
+  {
+    "id": "chivalrous",
+    "pos": "adj",
+    "definition": "Displaying the courteous, honorable, and gallant qualities traditionally associated with knighthood.",
+    "example": "His chivalrous offer to carry her luggage up four flights of stairs impressed her deeply.",
+    "synonyms": ["gallant", "courteous", "honorable", "noble"],
+    "mnemonic": "Chivalrous: from 'cheval' (horse/knight) — knightly, gallant behavior.",
+    "confusableNote": ""
+  },
+  {
+    "id": "commend",
+    "pos": "v",
+    "definition": "To praise formally and recommend as worthy of approval or trust.",
+    "example": "The mayor commended the firefighters for their heroism during the blaze.",
+    "synonyms": ["praise", "extol", "laud", "endorse"],
+    "mnemonic": "Commend = recommend with praise — 'com' (together) + 'mend' (entrust).",
+    "confusableNote": ""
+  },
+  {
+    "id": "deify",
+    "pos": "v",
+    "definition": "To worship or regard someone as a god; to exalt to a divine or supreme status.",
+    "example": "Fans deified the rock star to such a degree that every word he spoke was treated as gospel.",
+    "synonyms": ["idolize", "exalt", "venerate", "lionize"],
+    "mnemonic": "Dei (god) + fy (make) — to make someone into a god.",
+    "confusableNote": ""
+  },
+  {
+    "id": "empathetic",
+    "pos": "adj",
+    "definition": "Showing the ability to understand and share the feelings and experiences of another person.",
+    "example": "An empathetic counselor listens without judgment and validates the client's emotions.",
+    "synonyms": ["compassionate", "understanding", "sensitive", "sympathetic"],
+    "mnemonic": "Empathy = feeling 'in' (em-) another's 'pathos' (feelings).",
+    "confusableNote": "Do not confuse with 'sympathetic,' which implies feeling sorry for someone rather than truly sharing their experience."
+  },
+  {
+    "id": "equitable",
+    "pos": "adj",
+    "definition": "Fair and impartial; treating all parties justly and without favoritism.",
+    "example": "The mediator proposed an equitable division of assets that satisfied both sides.",
+    "synonyms": ["fair", "just", "impartial", "even-handed"],
+    "mnemonic": "Equity = fairness; equitable = characterized by equity.",
+    "confusableNote": "Do not confuse with 'equal'; 'equitable' means fair/just, not necessarily identical treatment."
+  },
+  {
+    "id": "esteem",
+    "pos": "n",
+    "definition": "High regard and respectful admiration held for a person or thing.",
+    "example": "She was held in high esteem by colleagues who admired her integrity and expertise.",
+    "synonyms": ["respect", "admiration", "regard", "veneration"],
+    "mnemonic": "Esteem = 'estimate' someone's worth highly.",
+    "confusableNote": ""
+  },
+  {
+    "id": "estimable",
+    "pos": "adj",
+    "definition": "Worthy of great respect and admiration; deserving esteem.",
+    "example": "Her estimable contributions to public health were honored with a lifetime achievement award.",
+    "synonyms": ["admirable", "commendable", "laudable", "meritorious"],
+    "mnemonic": "Estimable = 'estimate' as highly valuable — worthy of high estimation.",
+    "confusableNote": "Do not confuse with 'estimatable' (able to be estimated numerically); 'estimable' means worthy of admiration."
+  },
+  {
+    "id": "exalt",
+    "pos": "v",
+    "definition": "To praise or honor highly; to elevate in rank, character, or esteem.",
+    "example": "The biography exalted the scientist as one of the greatest minds of the twentieth century.",
+    "synonyms": ["glorify", "extol", "laud", "elevate"],
+    "mnemonic": "Exalt = ex (up) + alt (high) — to lift someone up high in praise.",
+    "confusableNote": "Do not confuse with 'exult,' which means to feel triumphant joy."
+  },
+  {
+    "id": "extol",
+    "pos": "v",
+    "definition": "To praise enthusiastically and at length; to speak in the highest terms of.",
+    "example": "Health advocates extol the virtues of a Mediterranean diet at every opportunity.",
+    "synonyms": ["laud", "exalt", "glorify", "acclaim"],
+    "mnemonic": "Extol = 'extra toll of praise' — going above and beyond in praising.",
+    "confusableNote": ""
+  },
+  {
+    "id": "gratify",
+    "pos": "v",
+    "definition": "To give pleasure or satisfaction to; to please or indulge someone's desires or expectations.",
+    "example": "It gratified the author to learn that her book had changed a reader's life.",
+    "synonyms": ["please", "satisfy", "delight", "indulge"],
+    "mnemonic": "Gratify = grat (grateful/pleasing) — to make someone feel pleased.",
+    "confusableNote": ""
+  },
+  {
+    "id": "laudable",
+    "pos": "adj",
+    "definition": "Deserving high praise and commendation; praiseworthy in purpose or execution.",
+    "example": "The charity's laudable mission attracted volunteers from every corner of the city.",
+    "synonyms": ["praiseworthy", "commendable", "admirable", "meritorious"],
+    "mnemonic": "Laud = praise; laudable = worthy of being lauded.",
+    "confusableNote": ""
+  },
+  {
+    "id": "lionize",
+    "pos": "v",
+    "definition": "To treat someone as a celebrity or object of great admiration and public interest.",
+    "example": "After winning the championship, the athlete was lionized by the entire city.",
+    "synonyms": ["idolize", "glorify", "deify", "celebrate"],
+    "mnemonic": "Lion = the king of beasts; to lionize = to treat someone like royalty.",
+    "confusableNote": ""
+  },
+  {
+    "id": "magnanimous",
+    "pos": "adj",
+    "definition": "Generous and forgiving, especially toward a rival or enemy; nobly free from pettiness.",
+    "example": "The champion was magnanimous in victory, praising his opponent's skill and effort.",
+    "synonyms": ["generous", "noble", "big-hearted", "forgiving"],
+    "mnemonic": "Magna (great) + animus (spirit) — a great spirit that rises above pettiness.",
+    "confusableNote": ""
+  },
+  {
+    "id": "meritorious",
+    "pos": "adj",
+    "definition": "Deserving of praise, reward, or commendation on account of outstanding merit or service.",
+    "example": "The soldier received a medal for meritorious conduct under extreme battlefield conditions.",
+    "synonyms": ["praiseworthy", "laudable", "commendable", "exemplary"],
+    "mnemonic": "Merit + orious — bursting with merit, worthy of a reward.",
+    "confusableNote": ""
+  },
+  {
+    "id": "munificent",
+    "pos": "adj",
+    "definition": "Remarkably generous in giving; characterized by lavish, noble liberality.",
+    "example": "The munificent patron endowed the university with enough funds to build three new research centers.",
+    "synonyms": ["lavishly generous", "bountiful", "philanthropic", "beneficent"],
+    "mnemonic": "Munificent: 'muni' (gift, like municipality giving services) + ficent (making) — making great gifts.",
+    "confusableNote": "Do not confuse with 'magnificent' (splendid); 'munificent' specifically means extremely generous."
+  },
+  {
+    "id": "noble",
+    "pos": "adj",
+    "definition": "Having or showing fine personal qualities such as courage, honesty, and generosity of spirit.",
+    "example": "It was a noble gesture to return the wallet with all its contents intact.",
+    "synonyms": ["honorable", "virtuous", "magnanimous", "upright"],
+    "mnemonic": "Noble: 'no-ble' — no base motive, only high ideals.",
+    "confusableNote": ""
+  },
+  {
+    "id": "paragon",
+    "pos": "n",
+    "definition": "A person or thing regarded as a perfect example of a particular quality or excellence.",
+    "example": "She was considered a paragon of academic integrity throughout her long career.",
+    "synonyms": ["exemplar", "model", "ideal", "archetype"],
+    "mnemonic": "Paragon: 'para' (beyond) + 'gon' (angle) — a shape beyond all others, the perfect model.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prime",
+    "pos": "adj",
+    "definition": "Of the highest quality, importance, or value; being at the peak of excellence.",
+    "example": "The athlete was in prime condition when he broke the world record.",
+    "synonyms": ["superior", "paramount", "foremost", "premier"],
+    "mnemonic": "Prime = first in Latin; prime quality = first-rate, the best.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prodigious",
+    "pos": "adj",
+    "definition": "Remarkably great in extent, size, or degree; impressively extraordinary in scale or ability.",
+    "example": "Mozart's prodigious musical talent was evident before he reached the age of five.",
+    "synonyms": ["extraordinary", "phenomenal", "stupendous", "monumental"],
+    "mnemonic": "Prodigious = prodigy-ous — like a prodigy, astonishingly great.",
+    "confusableNote": ""
+  },
+  {
+    "id": "profound",
+    "pos": "adj",
+    "definition": "Having great depth of insight, knowledge, or feeling; intellectually deep and penetrating.",
+    "example": "Her profound understanding of human psychology shaped an entire generation of therapists.",
+    "synonyms": ["deep", "penetrating", "weighty", "sagacious"],
+    "mnemonic": "Pro (forward) + found (bottom) — reaching all the way to the bottom, deeply insightful.",
+    "confusableNote": ""
+  },
+  {
+    "id": "profundity",
+    "pos": "n",
+    "definition": "Great depth of knowledge, thought, or feeling; an idea or statement of deep insight.",
+    "example": "The philosopher's lecture was filled with a profundity that left the audience in reflective silence.",
+    "synonyms": ["depth", "sagacity", "weightiness", "insight"],
+    "mnemonic": "Profundity = the noun of profound — a vessel of deep meaning.",
+    "confusableNote": ""
+  },
+  {
+    "id": "providential",
+    "pos": "adj",
+    "definition": "Occurring as if by divine care or intervention; fortunately timely in a way that seems foreseen.",
+    "example": "Their providential escape from the collapsing building seemed almost miraculous.",
+    "synonyms": ["fortuitous", "auspicious", "heaven-sent", "timely"],
+    "mnemonic": "Providence = divine guidance; providential = guided by a caring force.",
+    "confusableNote": ""
+  },
+  {
+    "id": "prowess",
+    "pos": "n",
+    "definition": "Superior skill, expertise, or outstanding ability in a particular field or activity.",
+    "example": "Her prowess on the chess board earned her an international grandmaster title at fifteen.",
+    "synonyms": ["mastery", "expertise", "skill", "virtuosity"],
+    "mnemonic": "Prowess = 'pro' level — the skill of a true professional.",
+    "confusableNote": ""
+  },
+  {
+    "id": "redoubtable",
+    "pos": "adj",
+    "definition": "Formidably impressive and deserving great respect or fear; powerful and commanding.",
+    "example": "The redoubtable general had never lost a battle in thirty years of military service.",
+    "synonyms": ["formidable", "awe-inspiring", "commanding", "fearsome"],
+    "mnemonic": "Redoubtable: 're-doubt' — makes you doubt twice before challenging them.",
+    "confusableNote": ""
+  },
+  {
+    "id": "remarkable",
+    "pos": "adj",
+    "definition": "Worthy of attention and admiration because of being unusual or exceptional.",
+    "example": "The restoration team did a remarkable job returning the cathedral to its original splendor.",
+    "synonyms": ["extraordinary", "noteworthy", "exceptional", "singular"],
+    "mnemonic": "Remarkable = worthy of being re-marked (noted) again and again.",
+    "confusableNote": ""
+  }
+]

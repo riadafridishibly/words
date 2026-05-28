@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dismantle",
+    "issue": "Synonym list contains the word itself ('dismantle') as one of the four synonyms.",
+    "synonyms": ["demolish", "disassemble", "tear down", "raze"]
+  },
+  {
+    "id": "dissemble",
+    "issue": "Synonym list contains the word itself ('dissemble') as one of the four synonyms.",
+    "synonyms": ["dissimulate", "feign", "cloak", "mask"]
+  },
+  {
+    "id": "empirical",
+    "issue": "primaryGroup 'Abstract / theoretical' contradicts the definition: empirical means based on observation/experiment, i.e., the opposite of theoretical. The definition is correct; the group placement misrepresents the word's meaning for a learner relying on that label.",
+    "definition": "Based on observation and experiment rather than theory or pure logic alone."
+  },
+  {
+    "id": "ensue",
+    "issue": "primaryGroup 'Start / create / cause' is wrong for a word meaning 'to follow or result afterward.' Ensue denotes consequence, not origination.",
+    "definition": "To happen or occur afterward as a consequence or result."
+  },
+  {
+    "id": "estranged",
+    "issue": "Synonym list contains the word itself ('estranged') as one of the four synonyms.",
+    "synonyms": ["alienated", "distanced", "severed", "divided"]
+  },
+  {
+    "id": "extant",
+    "issue": "Synonym list contains the word itself ('extant') as one of the four synonyms.",
+    "synonyms": ["surviving", "existing", "remaining", "preserved"]
+  },
+  {
+    "id": "flustered",
+    "issue": "Synonym list contains the word itself ('flustered') as the first of the four synonyms.",
+    "synonyms": ["agitated", "rattled", "disconcerted", "ruffled"]
+  },
+  {
+    "id": "harangue",
+    "issue": "The word is listed as a verb (pos: 'v'), but the synonym 'tirade' is a noun, making it an incorrect synonym for the verb sense. A verb synonym should replace it.",
+    "synonyms": ["berate", "lecture", "lambaste", "upbraid"]
+  }
+]
