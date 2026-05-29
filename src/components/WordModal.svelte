@@ -61,7 +61,8 @@
   .sheet {
     width: 100%;
     max-width: var(--maxw);
-    max-height: 88vh;
+    max-height: 88vh; /* fallback for browsers without dvh */
+    max-height: 88dvh;
     overflow-y: auto;
     border-radius: var(--radius) var(--radius) 0 0;
     box-shadow: var(--shadow-lg);
@@ -107,7 +108,8 @@
     }
     .sheet {
       border-radius: var(--radius);
-      max-height: 84vh;
+      max-height: 84vh; /* fallback for browsers without dvh */
+      max-height: 84dvh;
     }
   }
 </style>

@@ -3,6 +3,7 @@
   import { progress } from '../lib/stores/progress.js';
   import { statusOf } from '../lib/srs.js';
   import { openWord } from '../lib/stores/ui.js';
+  import Icon from './Icon.svelte';
 
   let q = $state('');
   let results = $derived(searchWords(q));
@@ -14,7 +15,7 @@
 
 <div class="search">
   <div class="search-box">
-    <span class="mag">⌕</span>
+    <span class="mag"><Icon name="search" size={20} /></span>
     <input
       use:focus
       type="search"

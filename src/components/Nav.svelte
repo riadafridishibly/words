@@ -1,10 +1,11 @@
 <script>
   import { route, navigate } from '../lib/stores/route.js';
+  import Icon from './Icon.svelte';
 
   const items = [
-    { name: 'home', label: 'Home', icon: '◆', go: () => navigate() },
-    { name: 'review', label: 'Review', icon: '↻', go: () => navigate('review') },
-    { name: 'search', label: 'Search', icon: '⌕', go: () => navigate('search') }
+    { name: 'home', label: 'Home', icon: 'home', go: () => navigate() },
+    { name: 'review', label: 'Review', icon: 'review', go: () => navigate('review') },
+    { name: 'search', label: 'Search', icon: 'search', go: () => navigate('search') }
   ];
 
   let active = $derived($route.name);
@@ -13,7 +14,7 @@
 <nav class="nav">
   {#each items as it}
     <button class="nav-item" class:active={active === it.name} onclick={it.go}>
-      <span class="icon">{it.icon}</span>
+      <span class="icon"><Icon name={it.icon} size={22} /></span>
       <span class="lbl">{it.label}</span>
     </button>
   {/each}

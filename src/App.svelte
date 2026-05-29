@@ -11,6 +11,7 @@
   import Settings from './components/Settings.svelte';
   import WordModal from './components/WordModal.svelte';
   import Nav from './components/Nav.svelte';
+  import Icon from './components/Icon.svelte';
 
   let r = $derived($route);
 </script>
@@ -21,11 +22,15 @@
       <span class="logo">▦</span> Word Clusters
     </button>
     <div class="top-actions">
-      <button class="icon-btn" onclick={() => navigate('search')} aria-label="Search">⌕</button>
-      <button class="icon-btn" onclick={() => settings.toggleTheme()} aria-label="Toggle theme">
-        {$settings.theme === 'dark' ? '☀' : '☾'}
+      <button class="icon-btn" onclick={() => navigate('search')} aria-label="Search">
+        <Icon name="search" size={19} />
       </button>
-      <button class="icon-btn" onclick={() => navigate('settings')} aria-label="Settings">⚙</button>
+      <button class="icon-btn" onclick={() => settings.toggleTheme()} aria-label="Toggle theme">
+        <Icon name={$settings.theme === 'dark' ? 'sun' : 'moon'} size={19} />
+      </button>
+      <button class="icon-btn" onclick={() => navigate('settings')} aria-label="Settings">
+        <Icon name="settings" size={19} />
+      </button>
     </div>
   </div>
 </header>
