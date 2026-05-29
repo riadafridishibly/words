@@ -1,7 +1,9 @@
 <script>
   import { getWord } from '../lib/words.js';
   import { progress } from '../lib/stores/progress.js';
+  import { speak } from '../lib/speak.js';
   import WordCard from './WordCard.svelte';
+  import SpeakButton from './SpeakButton.svelte';
 
   // ids: word ids to study. title/subtitle: header. onexit: leave the deck.
   let { ids, title = 'Study', subtitle = '', onexit } = $props();
@@ -67,6 +69,8 @@
       prev();
     } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
       if (!flipped) flip();
+    } else if (e.key === 's' || e.key === 'S') {
+      if (current) speak(current.word);
     } else if (flipped && (e.key === '1' || e.key === 'j')) grade('again');
     else if (flipped && (e.key === '2' || e.key === 'k')) grade('hard');
     else if (flipped && (e.key === '3' || e.key === 'l')) grade('good');
@@ -135,7 +139,8 @@
               {#if current.greTrap}<span class="pill trap">⚑ GRE trap</span>{/if}
               {#if current.primaryGroup}<span class="hint">{current.primaryGroup}</span>{/if}
               <h1 class="big-word">{current.word}</h1>
-              <span class="tap-hint muted">tap or press space to reveal</span>
+              <SpeakButton text={current.word} size="lg" />
+              <span class="tap-hint muted">tap or press space to reveal · S to hear</span>
             </div>
           {:else}
             <div class="back">

@@ -1,4 +1,6 @@
 <script>
+  import SpeakButton from './SpeakButton.svelte';
+
   // The rich detail body for a word. Reused as the flashcard "back" and inside
   // the modal. `compact` trims spacing for the flashcard.
   let { word, compact = false } = $props();
@@ -7,6 +9,7 @@
 <div class="detail" class:compact>
   <div class="head">
     <h2 class="word">{word.word}</h2>
+    <SpeakButton text={word.word} />
     {#if word.pos}<span class="pos">{word.pos}</span>{/if}
     {#if word.greTrap}<span class="pill trap">⚑ GRE trap</span>{/if}
   </div>
