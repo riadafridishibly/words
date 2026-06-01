@@ -9,6 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
+    "deploy": "bash scripts/deploy.sh",
     "parse": "node scripts/parse-guide.mjs",
     "enrich:merge": "node scripts/merge-enriched.mjs"
   },
