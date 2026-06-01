@@ -39,7 +39,7 @@
   {#if r.name === 'home'}
     <Home />
   {:else if r.name === 'category'}
-    <CategoryView id={r.params[0]} />
+    <CategoryView id={r.params[0]} target={r.params[1]} />
   {:else if r.name === 'study'}
     <StudyView scope={r.params[0]} id={r.params[1]} />
   {:else if r.name === 'review'}

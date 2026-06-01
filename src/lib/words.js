@@ -11,6 +11,14 @@ export const plan = categoriesData.plan;
 export const wordById = new Map(words.map((w) => [w.id, w]));
 export const categoryById = new Map(categories.map((c) => [c.id, c]));
 
+// Lookup by the human word (lowercased) so synonyms can be linked to their own
+// entry when the synonym is itself a word in the set.
+export const wordByName = new Map(words.map((w) => [w.word.toLowerCase(), w]));
+
+export function getWordByName(name) {
+  return wordByName.get((name || '').trim().toLowerCase());
+}
+
 export const subgroupById = new Map();
 for (const c of categories) {
   for (const sg of c.subgroups) {

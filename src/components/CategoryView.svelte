@@ -7,9 +7,26 @@
   import ProgressRing from './ProgressRing.svelte';
   import WordChip from './WordChip.svelte';
 
-  let { id } = $props();
+  let { id, target } = $props();
   let cat = $derived(categoryById.get(id));
   let catCount = $derived(cat ? wordsForCategory(cat.id).length : 0);
+
+  // When arrived here via a group/synonym link (#/category/<id>/<subgroupId>),
+  // scroll the target subgroup into view and pulse it so the eye lands on it.
+  let flashId = $state(null);
+  $effect(() => {
+    const t = target;
+    if (!t || !cat) return;
+    requestAnimationFrame(() => {
+      const el = document.getElementById('sg-' + t);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    flashId = t;
+    const timer = setTimeout(() => {
+      if (flashId === t) flashId = null;
+    }, 1600);
+    return () => clearTimeout(timer);
+  });
 </script>
 
 {#if !cat}
@@ -27,7 +44,7 @@
     {#each cat.subgroups as sg}
       {@const sgWords = wordsForSubgroup(sg.id)}
       {@const counts = tally(sgWords.map((w) => w.id), $progress)}
-      <section class="group card fade-in">
+      <section id="sg-{sg.id}" class="group card fade-in" class:flash={sg.id === flashId}>
         <div class="group-head">
           <ProgressRing {counts} size={44} stroke={6} center="pct" />
           <div class="group-titles">
@@ -81,6 +98,20 @@
   }
   .group {
     padding: 16px;
+    scroll-margin-top: 72px; /* clear the sticky topbar when scrolled to */
+  }
+  .group.flash {
+    animation: group-flash 1.6s ease;
+  }
+  @keyframes group-flash {
+    0%,
+    18% {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 45%, transparent);
+    }
+    100% {
+      box-shadow: var(--shadow);
+    }
   }
   .group-head {
     display: flex;
