@@ -5,6 +5,7 @@
   import CategoryView from './components/CategoryView.svelte';
   import StudyView from './components/StudyView.svelte';
   import Search from './components/Search.svelte';
+  import Bookmarks from './components/Bookmarks.svelte';
   import PairsDrill from './components/PairsDrill.svelte';
   import ChainsView from './components/ChainsView.svelte';
   import PlanView from './components/PlanView.svelte';
@@ -46,6 +47,8 @@
     <StudyView scope="due" />
   {:else if r.name === 'search'}
     <Search />
+  {:else if r.name === 'bookmarks'}
+    <Bookmarks />
   {:else if r.name === 'pairs'}
     <PairsDrill />
   {:else if r.name === 'chains'}

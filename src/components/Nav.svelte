@@ -5,6 +5,7 @@
   const items = [
     { name: 'home', label: 'Home', icon: 'home', go: () => navigate() },
     { name: 'review', label: 'Review', icon: 'review', go: () => navigate('review') },
+    { name: 'bookmarks', label: 'Saved', icon: 'bookmark', go: () => navigate('bookmarks') },
     { name: 'search', label: 'Search', icon: 'search', go: () => navigate('search') }
   ];
 
@@ -43,7 +44,9 @@
     flex-direction: column;
     align-items: center;
     gap: 2px;
-    padding: 4px 22px;
+    flex: 1 1 0;
+    max-width: 96px;
+    padding: 4px 12px;
     border-radius: var(--radius-sm);
     font-size: 0.7rem;
     font-weight: 600;

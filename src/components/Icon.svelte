@@ -1,14 +1,15 @@
 <script>
   // Lightweight inline icon set (Lucide-style strokes). Inline SVG renders
   // identically across platforms, unlike the Unicode glyphs we used before.
-  let { name, size = 22, stroke = 2 } = $props();
+  // `fill` lets an icon render solid (e.g. an active bookmark).
+  let { name, size = 22, stroke = 2, fill = 'none' } = $props();
 </script>
 
 <svg
   width={size}
   height={size}
   viewBox="0 0 24 24"
-  fill="none"
+  {fill}
   stroke="currentColor"
   stroke-width={stroke}
   stroke-linecap="round"
@@ -33,6 +34,8 @@
   {:else if name === 'review'}
     <path d="M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8" />
     <path d="M21 3v5h-5" />
+  {:else if name === 'bookmark'}
+    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
   {/if}
 </svg>
 
